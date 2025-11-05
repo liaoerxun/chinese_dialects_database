@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+BJ,Beijing,1,太阳,太阳,,tˈai iɑŋ,tˈai51 iɑŋ1,tˈai iɑŋ,tˈai51 iɑŋ1
+BJ,Beijing,2,月亮,月亮,,yɛ liɑŋ,yɛ51 liɑŋ1,yɛ liɑŋ,yɛ51 liɑŋ1
+BJ,Beijing,3,星星,星星,,ɕiŋ ɕiŋ,ɕiŋ55 ɕiŋ2,ɕiŋ ɕiŋ,ɕiŋ55 ɕiŋ2
+BJ,Beijing,4,打雷,打雷,,ta lei,ta214-21 lei35,ta lei,ta214-21 lei35
+BJ,Beijing,5,闪电,闪电,,ʂan tian,ʂan214-21 tian51,ʂan tian,ʂan214-21 tian51
+BJ,Beijing,6,下雨,下雨,,ɕia y,ɕia51 y214,ɕia y,ɕia51 y214
+BJ,Beijing,7,下雪,下雪,,ɕia ɕyɛ,ɕia51 ɕyɛ214,ɕia ɕyɛ,ɕia51 ɕyɛ214
+BJ,Beijing,8,冰雹,雹子,,pɑu tsɿ,pɑu35 tsɿ3,pɑu tsɹ̩,pɑu35 tsɹ̩3
+BJ,Beijing,9,结冰,结冰,,tɕiɛ piŋ,tɕiɛ55 piŋ55,tɕiɛ piŋ,tɕiɛ55 piŋ55
+BJ,Beijing,10,刮风,刮风,,kua fəŋ,kua55 fəŋ55,kua fəŋ,kua55 fəŋ55
+BJ,Beijing,11,虹,虹,,xuŋ,xuŋ35,xuŋ,xuŋ35
+BJ,Beijing,12,端午节,五月节,,u yɛ tɕiɛ,u214-21 yɛ51 tɕiɛ35,u yɛ tɕiɛ,u214-21 yɛ51 tɕiɛ35
+BJ,Beijing,13,中秋节,八月节,,pa yɛ tɕiɛ,pa55-35 yɛ51 tɕiɛ35,pa yɛ tɕiɛ,pa55-35 yɛ51 tɕiɛ35
+BJ,Beijing,14,除夕,三十儿,,san ʂər,san55 ʂər35,san ʂər,san55 ʂər35
+BJ,Beijing,15,今年,今年,,tɕin nian,tɕin55 nian35,tɕin nian,tɕin55 nian35
+BJ,Beijing,16,明年,明年,,miŋ nian,miŋ35 nian35,miŋ nian,miŋ35 nian35
+BJ,Beijing,17,去年,去年,,tɕˈy nian,tɕˈy51 nian35,tɕˈy nian,tɕˈy51 nian35
+BJ,Beijing,18,明天,明儿,,miə̃r,miə̃r35,miə̃r,miə̃r35
+BJ,Beijing,19,昨天,昨儿,,tsuor,tsuor35,tsuor,tsuor35
+BJ,Beijing,20,今天,今儿,,tɕiər,tɕiər55,tɕiər,tɕiər55
+BJ,Beijing,21,星期天,礼拜天,,li pai tˈian,li214-21 pai51 tˈian55,li pai tˈian,li214-21 pai51 tˈian55
+BJ,Beijing,22,麦子,麦子,,mai tsɿ,mai51 tsɿ1,mai tsɹ̩,mai51 tsɹ̩1
+BJ,Beijing,23,大米,大米,,ta mi,ta51 mi214,ta mi,ta51 mi214
+BJ,Beijing,24,蚕豆,蚕豆,,tsˈan tou,tsˈan35 tou51,tsˈan tou,tsˈan35 tou51
+BJ,Beijing,25,向日葵,向日葵,,ɕiaŋ ʐʅ kˈuei,ɕiaŋ51 ʐʅ1 kˈuei35,ɕiaŋ ʐɻ̩ kˈuei,ɕiaŋ51 ʐɻ̩1 kˈuei35
+BJ,Beijing,26,菠菜,菠菜,,po tsˈai,po35 tsˈai51,po tsˈai,po35 tsˈai51
+BJ,Beijing,27,卷心菜,洋白菜,,iɑŋ pai tsˈai,iɑŋ35 pai35 tsˈai51,iɑŋ pai tsˈai,iɑŋ35 pai35 tsˈai51
+BJ,Beijing,28,西红柿,西红柿,,ɕi xuŋ ʂʅ,ɕi55 xuŋ35 ʂʅ51,ɕi xuŋ ʂɻ̩,ɕi55 xuŋ35 ʂɻ̩51
+BJ,Beijing,29,茄子,茄子,,tɕˈiɛ tsɿ,tɕˈiɛ35 tsɿ3,tɕˈiɛ tsɹ̩,tɕˈiɛ35 tsɹ̩3
+BJ,Beijing,30,白薯,白薯,,pai ʂu,pai35 ʂu214,pai ʂu,pai35 ʂu214
+BJ,Beijing,31,马铃薯,土豆儿,,tˈu tour,tˈu214-21 tour51,tˈu tour,tˈu214-21 tour51
+BJ,Beijing,32,南瓜,南瓜,,nan kuə,nan35 kuə3,nan kuə,nan35 kuə3
+BJ,Beijing,33,猪,猪,,tʂu,tʂu55,tʂu,tʂu55
+BJ,Beijing,34,公猪,公猪,,kuŋ tʂu,kuŋ55 tʂu55,kuŋ tʂu,kuŋ55 tʂu55
+BJ,Beijing,35,母猪,母猪,,mu tʂu,mu214-21 tʂu55,mu tʂu,mu214-21 tʂu55
+BJ,Beijing,36,公鸡,公鸡,,kuŋ tɕi,kuŋ55 tɕi55,kuŋ tɕi,kuŋ55 tɕi55
+BJ,Beijing,37,母鸡,母鸡,,mu tɕi,mu214-21 tɕi55,mu tɕi,mu214-21 tɕi55
+BJ,Beijing,38,麻雀,家雀儿,,tɕia tɕˈiɑur,tɕia55 tɕˈiɑur214,tɕia tɕˈiɑur,tɕia55 tɕˈiɑur214
+BJ,Beijing,39,老鼠,耗子,,xɑu tsɿ,xɑu51 tsɿ1,xɑu tsɹ̩,xɑu51 tsɹ̩1
+BJ,Beijing,40,臭虫,臭虫,,tʂˈou tʂˈuŋ,tʂˈou51 tʂˈuŋ1,tʂˈou tʂˈuŋ,tʂˈou51 tʂˈuŋ1
+BJ,Beijing,41,房子(整),房子,,fɑŋ tsɿ,fɑŋ35 tsɿ2,fɑŋ tsɹ̩,fɑŋ35 tsɹ̩2
+BJ,Beijing,42,房子(单),屋子,,u tsɿ,u55 tsɿ2,u tsɹ̩,u55 tsɹ̩2
+BJ,Beijing,43,窗户,窗户,,tʂˈuɑŋ xu,tʂˈuɑŋ55 xu2,tʂˈuɑŋ xu,tʂˈuɑŋ55 xu2
+BJ,Beijing,44,门坎,门坎儿,,mən kˈar,mən35 kˈar214,mən kˈar,mən35 kˈar214
+BJ,Beijing,45,厕所,厕所,,tsˈɤ suo,tsˈɤ51 suo214,tsˈɤ suo,tsˈɤ51 suo214
+BJ,Beijing,46,厨房,厨房,,tʂˈu fɑŋ,tʂˈu35 fɑŋ35,tʂˈu fɑŋ,tʂˈu35 fɑŋ35
+BJ,Beijing,47,烟囱,烟筒,,ian tˈuŋ,ian55 tˈuŋ2,ian tˈuŋ,ian55 tˈuŋ2
+BJ,Beijing,48,桌子,桌子,,tʂuo tsɿ,tʂuo55 tsɿ2,tʂuo tsɹ̩,tʂuo55 tsɹ̩2
+BJ,Beijing,49,楼梯,楼梯,,lou tˈi,lou35 tˈi55,lou tˈi,lou35 tˈi55
+BJ,Beijing,50,头,脑袋,,nɑu tai,nɑu214-21 tai4,nɑu tai,nɑu214-21 tai4
+BJ,Beijing,51,额头,脑门儿,,nɑu mər,nɑu214-21 mər35,nɑu mər,nɑu214-21 mər35
+BJ,Beijing,52,脸,脸,,lian,lian214,lian,lian214
+BJ,Beijing,53,鼻子,鼻子,,pi tsɿ,pi35 tsɿ3,pi tsɹ̩,pi35 tsɹ̩3
+BJ,Beijing,54,脖子,脖颈儿,,po kə̃r,po35 kə̃r214,po kə̃r,po35 kə̃r214
+BJ,Beijing,55,左手,左手,,tsuo ʂou,tsuo214-35 ʂou214,tsuo ʂou,tsuo214-35 ʂou214
+BJ,Beijing,56,右手,右手,,iou ʂou,iou51 ʂou214,iou ʂou,iou51 ʂou214
+BJ,Beijing,57,拳头,拳头,,tɕˈyan tˈou,tɕˈyan35 tˈou3,tɕˈyan tˈou,tɕˈyan35 tˈou3
+BJ,Beijing,58,手指头,手指头,,ʂou tʂʅ tˈou,ʂou214-21 tʂʅ214-35 tˈou4,ʂou tʂɻ̩ tˈou,ʂou214-21 tʂɻ̩214-35 tˈou4
+BJ,Beijing,59,指甲,指甲,,tʂʅ tɕia,tʂʅ55 tɕia2,tʂɻ̩ tɕia,tʂɻ̩55 tɕia2
+BJ,Beijing,60,膝盖,波棱盖儿,,po ləŋ kar,po55 ləŋ2 kar51,po ləŋ kar,po55 ləŋ2 kar51
+BJ,Beijing,61,腿,腿,,tˈuei,tˈuei214,tˈuei,tˈuei214
+BJ,Beijing,62,父亲,爹,,tiɛ,tiɛ55,tiɛ,tiɛ55
+BJ,Beijing,63,母亲,娘,,niɑŋ,niɑŋ35,niɑŋ,niɑŋ35
+BJ,Beijing,64,祖父,爷爷,,iɛ iɛ,iɛ35 iɛ3,iɛ iɛ,iɛ35 iɛ3
+BJ,Beijing,65,祖母,奶奶,,nai nai,nai214-21 nai4,nai nai,nai214-21 nai4
+BJ,Beijing,66,伯父,大爷,,ta iɛ,ta51 iɛ1,ta iɛ,ta51 iɛ1
+BJ,Beijing,67,伯母,大妈,,ta ma,ta51 ma55,ta ma,ta51 ma55
+BJ,Beijing,68,叔父,叔儿,,ʂur,ʂur55,ʂur,ʂur55
+BJ,Beijing,69,叔母,婶儿,,ʂər,ʂər214,ʂər,ʂər214
+BJ,Beijing,70,外祖父,姥爷,,lɑu iɛ,lɑu214-21 iɛ4,lɑu iɛ,lɑu214-21 iɛ4
+BJ,Beijing,71,外祖母,姥姥,,lɑu lɑu,lɑu214-21 lɑu4,lɑu lɑu,lɑu214-21 lɑu4
+BJ,Beijing,72,舅舅,舅舅,,tɕiou tɕiou,tɕiou51 tɕiou1,tɕiou tɕiou,tɕiou51 tɕiou1
+BJ,Beijing,73,舅母,舅妈,,tɕiou ma,tɕiou51 ma55,tɕiou ma,tɕiou51 ma55
+BJ,Beijing,74,丈夫,男人,,nan ʐən,nan35 ʐən3,nan ʐən,nan35 ʐən3
+BJ,Beijing,75,妻子,媳妇儿,,ɕi fər,ɕi35 fər3,ɕi fər,ɕi35 fər3
+BJ,Beijing,76,儿子,儿子,,ər tsɿ,ər35 tsɿ3,ər tsɹ̩,ər35 tsɹ̩3
+BJ,Beijing,77,女儿,闺女,,kuei ny,kuei55 ny2,kuei ny,kuei55 ny2
+BJ,Beijing,78,早饭,早上饭,,tsɑu tʂˈɑŋ fan,tsɑu214-21 tʂˈɑŋ4 fan51,tsɑu tʂˈɑŋ fan,tsɑu214-21 tʂˈɑŋ4 fan51
+BJ,Beijing,79,午饭,晌午饭,,ʂɑŋ u fan,ʂɑŋ214-35 u2 fan51,ʂɑŋ u fan,ʂɑŋ214-35 u2 fan51
+BJ,Beijing,80,晚饭,晚饭,,uan fan,uan214-21 fan51,uan fan,uan214-21 fan51
+BJ,Beijing,81,面条,面条儿,,mian tˈiɑur,mian51 tˈiɑur35,mian tˈiɑur,mian51 tˈiɑur35
+BJ,Beijing,82,馒头,馒头,,man tˈou,man35 tˈou3,man tˈou,man35 tˈou3
+BJ,Beijing,83,包子,包子,,pɑu tsɿ,pɑu55 tsɿ2,pɑu tsɹ̩,pɑu55 tsɹ̩2
+BJ,Beijing,84,馄饨,馄饨,,xun tˈun,xun35 tˈun3,xun tˈun,xun35 tˈun3
+BJ,Beijing,85,醋,醋,,tsˈu,tsˈu51,tsˈu,tsˈu51
+BJ,Beijing,86,酱油,酱油,,tɕiɑŋ iou,tɕiɑŋ51 iou35,tɕiɑŋ iou,tɕiɑŋ51 iou35
+BJ,Beijing,87,盐,盐,,ian,ian35,ian,ian35
+BJ,Beijing,88,筷子,筷子,,kˈuai tsɿ,kˈuai51 tsɿ1,kˈuai tsɹ̩,kˈuai51 tsɹ̩1
+BJ,Beijing,89,勺儿,勺子,,ʂɑu tsɿ,ʂɑu35 tsɿ3,ʂɑu tsɹ̩,ʂɑu35 tsɹ̩3
+BJ,Beijing,90,男人,爷们儿,,iɛ mər,iɛ35 mər3,iɛ mər,iɛ35 mər3
+BJ,Beijing,91,女人,女人,,ny ʐən,ny214-21 ʐən35,ny ʐən,ny214-21 ʐən35
+BJ,Beijing,92,男孩子,男孩儿,,nan xar,nan35 xar35,nan xar,nan35 xar35
+BJ,Beijing,93,女孩子,女孩儿,,ny xar,ny214-21 xar35,ny xar,ny214-21 xar35
+BJ,Beijing,94,老头儿,老头儿,,lɑu tˈour,lɑu214-21 tˈour35,lɑu tˈour,lɑu214-21 tˈour35
+BJ,Beijing,95,医生,医生,,i ʂəŋ,i55 ʂəŋ2,i ʂəŋ,i55 ʂəŋ2
+BJ,Beijing,96,厨师,大师傅,,ta ʂʅ fu,ta51 ʂʅ1 fu1,ta ʂɻ̩ fu,ta51 ʂɻ̩1 fu1
+BJ,Beijing,97,乞丐,要饭的,,iɑu fan tə,iɑu51 fan51 tə1,iɑu fan tə,iɑu51 fan51 tə1
+BJ,Beijing,98,保姆,保姆,,pɑu mu,pɑu214-35 mu214,pɑu mu,pɑu214-35 mu214
+BJ,Beijing,99,病了,病了,,piŋ lə,piŋ51 lə1,piŋ lə,piŋ51 lə1
+BJ,Beijing,100,伤风,伤风,,ʂɑŋ fəŋ,ʂɑŋ55 fəŋ55,ʂɑŋ fəŋ,ʂɑŋ55 fəŋ55
+BJ,Beijing,101,泻肚,闹肚子,,nɑu tu tsɿ,nɑu51 tu51 tsɿ1,nɑu tu tsɹ̩,nɑu51 tu51 tsɹ̩1
+BJ,Beijing,102,瘸子,瘸子,,tɕˈyɛ tsɿ,tɕˈyɛ35 tsɿ2,tɕˈyɛ tsɹ̩,tɕˈyɛ35 tsɹ̩2
+BJ,Beijing,103,驼背,罗锅儿,,luo kuor,luo35 kuor55,luo kuor,luo35 kuor55
+BJ,Beijing,104,死了,嗝儿了,,kɤr lə,kɤr214-21 lə4,kɤr lə,kɤr214-21 lə4
+BJ,Beijing,105,看病,瞧病,,tɕˈiɑu piŋ,tɕˈiɑu35 piŋ51,tɕˈiɑu piŋ,tɕˈiɑu35 piŋ51
+BJ,Beijing,106,我,我,,uo,uo214,uo,uo214
+BJ,Beijing,107,你,你,,ni,ni214,ni,ni214
+BJ,Beijing,108,他,他,,tˈa,tˈa55,tˈa,tˈa55
+BJ,Beijing,109,我们,我们,,uom,uom214,uom,uom214
+BJ,Beijing,110,你们,你们,,nim,nim214,nim,nim214
+BJ,Beijing,111,他们,他们,,tˈam,tˈam55,tˈam,tˈam55
+BJ,Beijing,112,咱们,咱们,,tsam,tsam35,tsam,tsam35
+BJ,Beijing,113,自己,自个儿,,tsɿ kɤr,tsɿ51 kɤr214,tsɹ̩ kɤr,tsɹ̩51 kɤr214
+BJ,Beijing,114,谁,谁,,ʂei,ʂei35,ʂei,ʂei35
+BJ,Beijing,115,什么,什么,,ʂəm,ʂəm35,ʂəm,ʂəm35
+BJ,Beijing,116,这里,这儿,,tʂɤr,tʂɤr51,tʂɤr,tʂɤr51
+BJ,Beijing,117,那里,那儿,,nar,nar51,nar,nar51
+BJ,Beijing,118,哪里,哪儿,,nar,nar214,nar,nar214
+BJ,Beijing,119,这个,这个,,tʂɤ kə,tʂɤ51 kə1,tʂɤ kə,tʂɤ51 kə1
+BJ,Beijing,120,那个,那个,,na kə,na51 kə1,na kə,na51 kə1
+BJ,Beijing,121,哪一个,哪个,,na kə,na214-21 kə4,na kə,na214-21 kə4
+BJ,Beijing,122,怎么样,怎么样,,tsən mo iɑŋ,tsən214-21 mo4 iɑŋ51,tsən mo iɑŋ,tsən214-21 mo4 iɑŋ51
+BJ,Beijing,123,一位客人,位,,uei,uei51,uei,uei51
+BJ,Beijing,124,一双鞋,双,,ʂuaŋ,ʂuaŋ55,ʂuaŋ,ʂuaŋ55
+BJ,Beijing,125,一床被,床,,tʂˈuɑŋ,tʂˈuɑŋ35,tʂˈuɑŋ,tʂˈuɑŋ35
+BJ,Beijing,126,一辆车,辆,,liɑŋ,liɑŋ51,liɑŋ,liɑŋ51
+BJ,Beijing,127,一条牛,头,,tˈou,tˈou35,tˈou,tˈou35
+BJ,Beijing,128,一口猪,口,,kˈou,kˈou214,kˈou,kˈou214
+BJ,Beijing,129,听一会儿,一会儿,,i xuər,i55-51 xuər214,i xuər,i55-51 xuər214
+BJ,Beijing,130,打一下,一下儿,,i ɕiar,i55-35 ɕiar51,i ɕiar,i55-35 ɕiar51
+BJ,Beijing,131,上头,上头,,ʂɑŋ tˈou,ʂɑŋ51 tˈou1,ʂɑŋ tˈou,ʂɑŋ51 tˈou1
+BJ,Beijing,132,下头,下头,,ɕia tˈou,ɕia51 tˈou1,ɕia tˈou,ɕia51 tˈou1
+BJ,Beijing,133,左边,左边儿,,tsuo piar,tsuo214-21 piar4,tsuo piar,tsuo214-21 piar4
+BJ,Beijing,134,右边,右边儿,,iou piar,iou51 piar4,iou piar,iou51 piar4
+BJ,Beijing,135,当中,当间儿,,tɑŋ tɕiar,tɑŋ55 tɕiar51,tɑŋ tɕiar,tɑŋ55 tɕiar51
+BJ,Beijing,136,里面,里头,,li tˈou,li214-21 tˈou4,li tˈou,li214-21 tˈou4
+BJ,Beijing,137,外面,外头,,uai tˈou,uai51 tˈou1,uai tˈou,uai51 tˈou1
+BJ,Beijing,138,甜,甜,,tˈian,tˈian35,tˈian,tˈian35
+BJ,Beijing,139,酸,酸,,suan,suan55,suan,suan55
+BJ,Beijing,140,咸,咸,,ɕian,ɕian35,ɕian,ɕian35
+BJ,Beijing,141,淡,淡,,tan,tan51,tan,tan51
+BJ,Beijing,142,胖,胖,,pˈɑŋ,pˈɑŋ51,pˈɑŋ,pˈɑŋ51
+BJ,Beijing,143,瘦,瘦,,ʂou,ʂou51,ʂou,ʂou51
+BJ,Beijing,144,冷,冷,,ləŋ,ləŋ214,ləŋ,ləŋ214
+BJ,Beijing,145,热,热,,ʐɤ,ʐɤ51,ʐɤ,ʐɤ51
+BJ,Beijing,146,香,香,,ɕiɑŋ,ɕiɑŋ55,ɕiɑŋ,ɕiɑŋ55
+BJ,Beijing,147,臭,臭,,tʂˈou,tʂˈou51,tʂˈou,tʂˈou51
+BJ,Beijing,148,粗,粗,,tsˈu,tsˈu55,tsˈu,tsˈu55
+BJ,Beijing,149,细,细,,ɕi,ɕi51,ɕi,ɕi51
+BJ,Beijing,150,长,长,,tʂˈɑŋ,tʂˈɑŋ35,tʂˈɑŋ,tʂˈɑŋ35
+BJ,Beijing,151,短,短,,tuan,tuan214,tuan,tuan214
+BJ,Beijing,152,脏,脏,,tsɑŋ,tsɑŋ55,tsɑŋ,tsɑŋ55
+BJ,Beijing,153,干净,干净,,kan tɕiŋ,kan55 tɕiŋ2,kan tɕiŋ,kan55 tɕiŋ2
+BJ,Beijing,154,便宜,便宜,,pˈian i,pˈian35 i3,pˈian i,pˈian35 i3
+BJ,Beijing,155,刚(来),刚,,kɑŋ,kɑŋ55,kɑŋ,kɑŋ55
+BJ,Beijing,156,刚(合适),刚,,kɑŋ,kɑŋ55,kɑŋ,kɑŋ55
+BJ,Beijing,157,正好,正好,,tʂəŋ xaur,tʂəŋ51 xaur214,tʂəŋ xaur,tʂəŋ51 xaur214
+BJ,Beijing,158,和,和,,xɤ,xɤ35,xɤ,xɤ35
+BJ,Beijing,159,只,只,,tʂʅ,tʂʅ214,tʂɻ̩,tʂɻ̩214
+BJ,Beijing,160,从,从,,tsˈuŋ,tsˈuŋ35,tsˈuŋ,tsˈuŋ35
+BJ,Beijing,161,替,替,,tˈi,tˈi51,tˈi,tˈi51
+BJ,Beijing,162,拿,拿,,na,na35,na,na35
+BJ,Beijing,163,故意,故意,,ku i,ku51 i51,ku i,ku51 i51
+BJ,Beijing,164,一,一,,i,i55,i,i55
+BJ,Beijing,165,二,二,,ər,ər51,ər,ər51
+BJ,Beijing,166,三,三,,san,san55,san,san55
+BJ,Beijing,167,四,四,,sɿ,sɿ51,sɹ̩,sɹ̩51
+BJ,Beijing,168,五,五,,u,u214,u,u214
+BJ,Beijing,169,六,六,,liou,liou51,liou,liou51
+BJ,Beijing,170,七,七,,tɕˈi,tɕˈi55,tɕˈi,tɕˈi55
+BJ,Beijing,171,八,八,,pa,pa55,pa,pa55
+BJ,Beijing,172,九,九,,tɕiou,tɕiou214,tɕiou,tɕiou214
+BJ,Beijing,173,十,十,,ʂʅ,ʂʅ35,ʂɻ̩,ʂɻ̩35
+BJ,Beijing,174,十一,十一,,ʂʅ i,ʂʅ35 i55,ʂɻ̩ i,ʂɻ̩35 i55
+BJ,Beijing,175,十二,十二,,ʂʅ ər,ʂʅ35 ər51,ʂɻ̩ ər,ʂɻ̩35 ər51
+BJ,Beijing,176,二十,二十,,ər ʂʅ,ər51 ʂʅ35,ər ʂɻ̩,ər51 ʂɻ̩35
+BJ,Beijing,177,二十一,二十一,,ər ʂʅ i,ər51 ʂʅ35 i55,ər ʂɻ̩ i,ər51 ʂɻ̩35 i55
+BJ,Beijing,178,一百二十,,,,,,
+BJ,Beijing,179,第一,第一,,ti i,ti51 i55,ti i,ti51 i55
+BJ,Beijing,180,第二,第二,,ti ər,ti51 ər51,ti ər,ti51 ər51
+BJ,Beijing,181,两里,二里,,ər li,ər51 li214,ər li,ər51 li214
+BJ,Beijing,182,二两,二两,,ər liɑŋ,ər51 liɑŋ214,ər liɑŋ,ər51 liɑŋ214
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+CD,Chengdu,1,太阳,太阳,,t‘ai iaŋ,t‘ai13 iaŋ31,t‘ai iaŋ,t‘ai13 iaŋ31
+CD,Chengdu,2,月亮,月亮 ,,ye niaŋ,ye31 niaŋ13,ye niaŋ,ye31 niaŋ13
+CD,Chengdu,3,星星,星星儿 ,,ɕin ɕiər,ɕin55 ɕiər55,ɕin ɕiər,ɕin55 ɕiər55
+CD,Chengdu,4,打雷,打雷,,ta nuei,ta53 nuei31,ta nuei,ta53 nuei31
+CD,Chengdu,5,闪电,火闪 ,,xo san,xo53 san53 ,xo san,xo53 san53 
+CD,Chengdu,6,下雨,落雨 ,,no y,no31 y53,no y,no31 y53
+CD,Chengdu,7,下雪,落雪 ,,no ɕye,no31 ɕye31,no ɕye,no31 ɕye31
+CD,Chengdu,8,冰雹,冰雹子 ,,pin pau tsɿ, pin55 pau13 tsɿ53,pin pau tsɹ̩, pin55 pau13 tsɹ̩53
+CD,Chengdu,9,结冰,结冰 ,,tɕie pin,tɕie31 pin55,tɕie pin,tɕie31 pin55
+CD,Chengdu,10,刮风,刮风 ,,kua foŋ,kua31 foŋ55,kua foŋ,kua31 foŋ55
+CD,Chengdu,11,虹,虹,,xoŋ,xoŋ31,xoŋ,xoŋ31
+CD,Chengdu,12,端午节,端阳,,tuan iaŋ,tuan55 iaŋ31,tuan iaŋ,tuan55 iaŋ31
+CD,Chengdu,13,中秋节,中秋节,,tsoŋ tɕˈieu tɕie,tsoŋ55 tɕˈieu55 tɕie31,tsoŋ tɕˈieu tɕie,tsoŋ55 tɕˈieu55 tɕie31
+CD,Chengdu,14,除夕,三十晚上,,san sɿ uan saŋ,san55 sɿ31 uan53 saŋ13,san sɹ̩ uan saŋ,san55 sɹ̩31 uan53 saŋ13
+CD,Chengdu,15,今年,今年 ,,tɕin ȵian,tɕin55 ȵian31,tɕin ɲian,tɕin55 ɲian31
+CD,Chengdu,16,明年,明年 ,,min ȵian,min31 ȵian31,min ɲian,min31 ɲian31
+CD,Chengdu,17,去年,去年 ,,tɕˈy ȵian,tɕˈy13 ȵian31,tɕˈy ɲian,tɕˈy13 ɲian31
+CD,Chengdu,18,明天,明天,,min tˈian,min31 tˈian55,min tˈian,min31 tˈian55
+CD,Chengdu,19,昨天,昨天,,tso tˈian,tso31 tˈian55,tso tˈian,tso31 tˈian55
+CD,Chengdu,20,今天,今天,,tɕin tˈian,tɕin55 tˈian55,tɕin tˈian,tɕin55 tˈian55
+CD,Chengdu,21,星期天,星期天,,ɕin tɕˈi tˈian,ɕin55 tɕˈi55 tˈian55,ɕin tɕˈi tˈian,ɕin55 tɕˈi55 tˈian55
+CD,Chengdu,22,麦子,麦子,,me tsɿ,me31 tsɿ53,me tsɹ̩,me31 tsɹ̩53
+CD,Chengdu,23,大米,米,,mi,mi53,mi,mi53
+CD,Chengdu,24,蚕豆,胡豆,,fu təu,fu31 təu13,fu təu,fu31 təu13
+CD,Chengdu,25,向日葵,向日葵,,ɕiaŋ zɿ kˈuei,ɕiaŋ13 zɿ31 kˈuei31,ɕiaŋ zɹ̩ kˈuei,ɕiaŋ13 zɹ̩31 kˈuei31
+CD,Chengdu,26,菠菜,菠菜,,po tsˈai,po55 tsˈai13,po tsˈai,po55 tsˈai13
+CD,Chengdu,27,卷心菜,卷心白,,tɕyan ɕin pe,tɕyan53 ɕin55 pe31,tɕyan ɕin pe,tɕyan53 ɕin55 pe31
+CD,Chengdu,28,西红柿,番茄,,fan tɕˈie,fan55 tɕˈie31 ,fan tɕˈie,fan55 tɕˈie31 
+CD,Chengdu,29,茄子,茄子,,tɕˈie tsɿ,tɕˈie31 tsɿ53,tɕˈie tsɹ̩,tɕˈie31 tsɹ̩53
+CD,Chengdu,30,白薯,红苕,,xoŋ sau,xoŋ31 sau31,xoŋ sau,xoŋ31 sau31
+CD,Chengdu,31,马铃薯,洋芋,,iaŋ y,iaŋ31 y13,iaŋ y,iaŋ31 y13
+CD,Chengdu,32,南瓜,南瓜,,nan kua,nan31 kua55,nan kua,nan31 kua55
+CD,Chengdu,33,猪,猪,,tsu,tsu55,tsu,tsu55
+CD,Chengdu,34,公猪,脚猪,,tɕyo tsu,tɕyo31 tsu55,tɕyo tsu,tɕyo31 tsu55
+CD,Chengdu,35,母猪,母猪,,mu tsu,mu53 tsu55,mu tsu,mu53 tsu55
+CD,Chengdu,36,公鸡,鸡公,,tɕi koŋ,tɕi55 koŋ55,tɕi koŋ,tɕi55 koŋ55
+CD,Chengdu,37,母鸡,鸡婆,,tɕi pˈo,tɕi55 pˈo31,tɕi pˈo,tɕi55 pˈo31
+CD,Chengdu,38,麻雀,麻雀儿,,ma tɕˈyər,ma31 tɕˈyər31-55,ma tɕˈyər,ma31 tɕˈyər31-55
+CD,Chengdu,39,老鼠,耗子,,xau tsɿ,xau13 tsɿ53,xau tsɹ̩,xau13 tsɹ̩53
+CD,Chengdu,40,臭虫,臭虫,,tsˈəu tsoŋ,tsˈəu13 tsoŋ31,tsˈəu tsoŋ,tsˈəu13 tsoŋ31
+CD,Chengdu,41,房子(整),房子,,faŋ tsɿ,faŋ31 tsɿ53,faŋ tsɹ̩,faŋ31 tsɹ̩53
+CD,Chengdu,42,房子(单),屋子,,u tsɿ,u31 tsɿ53,u tsɹ̩,u31 tsɹ̩53
+CD,Chengdu,43,窗户,窗子,,tsˈuaŋ tsɿ,tsˈuaŋ55 tsɿ53,tsˈuaŋ tsɹ̩,tsˈuaŋ55 tsɹ̩53
+CD,Chengdu,44,门坎,门槛 ,,mən kˈan,mən31 kˈan53,mən kˈan,mən31 kˈan53
+CD,Chengdu,45,厕所,茅房 ,,mau faŋ,mau31 faŋ31,mau faŋ,mau31 faŋ31
+CD,Chengdu,46,厨房,厨房 ,,tsˈu faŋ,tsˈu31 faŋ31,tsˈu faŋ,tsˈu31 faŋ31
+CD,Chengdu,47,烟囱,烟囱 ,,ian tsˈoŋ,ian55 tsˈoŋ55,ian tsˈoŋ,ian55 tsˈoŋ55
+CD,Chengdu,48,桌子,桌子 ,,tso tsɿ,tso31 tsɿ53,tso tsɹ̩,tso31 tsɹ̩53
+CD,Chengdu,49,楼梯,楼梯,,nəu tˈi,nəu31 tˈi55,nəu tˈi,nəu31 tˈi55
+CD,Chengdu,50,头,头,,tˈəu,tˈəu31,tˈəu,tˈəu31
+CD,Chengdu,51,额头,额颅,,ŋe nəu,ŋe31 nəu31-55,ŋe nəu,ŋe31 nəu31-55
+CD,Chengdu,52,脸,脸 ,,nian,nian53,nian,nian53
+CD,Chengdu,53,鼻子,鼻子 ,,pi tsɿ,pi31 tsɿ53,pi tsɹ̩,pi31 tsɹ̩53
+CD,Chengdu,54,脖子,颈子,,tɕin tsɿ,tɕin53 tsɿ53,tɕin tsɹ̩,tɕin53 tsɹ̩53
+CD,Chengdu,55,左手,左手 ,,tso səu,tso53 səu53,tso səu,tso53 səu53
+CD,Chengdu,56,右手,右手 ,,iəu səu,iəu13 səu53,iəu səu,iəu13 səu53
+CD,Chengdu,57,拳头,掟子 ,,tin tsɿ,tin13 tsɿ53,tin tsɹ̩,tin13 tsɹ̩53
+CD,Chengdu,58,手指头,手指拇儿 ,,səu tsɿ mər,səu53 tsɿ53 mər53,səu tsɹ̩ mər,səu53 tsɹ̩53 mər53
+CD,Chengdu,59,指甲,指甲,,tsɿ tɕia,tsɿ53 tɕia31,tsɹ̩ tɕia,tsɹ̩53 tɕia31
+CD,Chengdu,60,膝盖,磕膝头儿,,kˈe ɕi tˈər,kˈe31 ɕi31-55 tˈər31,kˈe ɕi tˈər,kˈe31 ɕi31-55 tˈər31
+CD,Chengdu,61,腿,腿杆,,tˈuei kan,tˈuei53 kan53,tˈuei kan,tˈuei53 kan53
+CD,Chengdu,62,父亲,爸,,pa,pa31,pa,pa31
+CD,Chengdu,63,母亲,妈,,ma,ma55,ma,ma55
+CD,Chengdu,64,祖父,爷爷,,ie ie,ie31 ie31,ie ie,ie31 ie31
+CD,Chengdu,65,祖母,婆婆,,pˈo pˈo,pˈo31 pˈo31,pˈo pˈo,pˈo31 pˈo31
+CD,Chengdu,66,伯父,伯伯,,pe pe,pe31 pe31-55,pe pe,pe31 pe31-55
+CD,Chengdu,67,伯母,伯娘,,pe ȵiaŋ,pe31 ȵiaŋ31,pe ɲiaŋ,pe31 ɲiaŋ31
+CD,Chengdu,68,叔父,伯儿,,pər,pər31,pər,pər31
+CD,Chengdu,69,叔母,婶婶,,sən sən,sən53 sən53-51,sən sən,sən53 sən53-51
+CD,Chengdu,70,外祖父,外公,,uai koŋ,uai13 koŋ55,uai koŋ,uai13 koŋ55
+CD,Chengdu,71,外祖母,外婆,,uai pˈo,uai13 pˈo31,uai pˈo,uai13 pˈo31
+CD,Chengdu,72,舅舅,舅舅,,tɕiəu tɕiəu,tɕiəu13 tɕiəu13-55,tɕiəu tɕiəu,tɕiəu13 tɕiəu13-55
+CD,Chengdu,73,舅母,舅母,,tɕiəu mər,tɕiəu13 mər53,tɕiəu mər,tɕiəu13 mər53
+CD,Chengdu,74,丈夫,老公,,nau koŋ,nau53 koŋ55,nau koŋ,nau53 koŋ55
+CD,Chengdu,75,妻子,老婆,,nau pˈo,nau53 pˈo31,nau pˈo,nau53 pˈo31
+CD,Chengdu,76,儿子,儿,,ər,ər31,ər,ər31
+CD,Chengdu,77,女儿,女,,ȵyər,ȵyər53,ɲyər,ɲyər53
+CD,Chengdu,78,早饭,早饭,,tsau fan,tsau53 fan13,tsau fan,tsau53 fan13
+CD,Chengdu,79,午饭,午饭,,u fan,u53 fan13,u fan,u53 fan13
+CD,Chengdu,80,晚饭,晚饭,,uan fan,uan53 fan13,uan fan,uan53 fan13
+CD,Chengdu,81,面条,面,,mian,mian13,mian,mian13
+CD,Chengdu,82,馒头,馒头,,man tˈəu,man31 tˈəu31-55,man tˈəu,man31 tˈəu31-55
+CD,Chengdu,83,包子,包子,,pau tsɿ,pau55 tsɿ53,pau tsɹ̩,pau55 tsɹ̩53
+CD,Chengdu,84,馄饨,抄手,,tsˈau səu,tsˈau55 səu53,tsˈau səu,tsˈau55 səu53
+CD,Chengdu,85,醋,醋 ,,tsˈu,tsˈu13,tsˈu,tsˈu13
+CD,Chengdu,86,酱油,酱油,,tɕiaŋ iəu,tɕiaŋ13 iəu31,tɕiaŋ iəu,tɕiaŋ13 iəu31
+CD,Chengdu,87,盐,盐,,ian,ian31,ian,ian31
+CD,Chengdu,88,筷子,筷子,,kˈuai tsɿ,kˈuai13 tsɿ53,kˈuai tsɹ̩,kˈuai13 tsɹ̩53
+CD,Chengdu,89,勺儿,瓢羹儿,,pˈiau kər,pˈiau31 kər55,pˈiau kər,pˈiau31 kər55
+CD,Chengdu,90,男人,男人,,nan zən,nan31 zən31-55,nan zən,nan31 zən31-55
+CD,Chengdu,91,女人,女人,,ȵy zən,ȵy53 zən31,ɲy zən,ɲy53 zən31
+CD,Chengdu,92,男孩子,男娃子,,nan ua tsɿ,nan31 ua31-55 tsɿ53,nan ua tsɹ̩,nan31 ua31-55 tsɹ̩53
+CD,Chengdu,93,女孩子,女娃子,,ȵy ua tsɿ,ȵy53 ua31 tsɿ53,ɲy ua tsɹ̩,ɲy53 ua31 tsɹ̩53
+CD,Chengdu,94,老头儿,老头儿,,nau tˈər,nau53 tˈər31,nau tˈər,nau53 tˈər31
+CD,Chengdu,95,医生,医生,,i sən,i55 sən55,i sən,i55 sən55
+CD,Chengdu,96,厨师,厨师,,tsˈusɿ,tsˈu31sɿ55,tsˈusɹ̩,tsˈu31sɹ̩55
+CD,Chengdu,97,乞丐,叫花子,,tɕiau xua tsɿ,tɕiau13 xua55 tsɿ53,tɕiau xua tsɹ̩,tɕiau13 xua55 tsɹ̩53
+CD,Chengdu,98,保姆,保姆,,pau mu,pau53 mu53,pau mu,pau53 mu53
+CD,Chengdu,99,病了,病了,,pin no,pin13 no53,pin no,pin13 no53
+CD,Chengdu,100,伤风,伤风,,saŋ foŋ,saŋ55 foŋ55,saŋ foŋ,saŋ55 foŋ55
+CD,Chengdu,101,泻肚,拉肚子,,na tu tsɿ,na55 tu13 tsɿ53,na tu tsɹ̩,na55 tu13 tsɹ̩53
+CD,Chengdu,102,瘸子,拜子,,pai tsɿ,pai55 tsɿ53,pai tsɹ̩,pai55 tsɹ̩53
+CD,Chengdu,103,驼背,驼子 ,,tˈo tsɿ,tˈo31 tsɿ53,tˈo tsɹ̩,tˈo31 tsɹ̩53
+CD,Chengdu,104,死了,死了 ,,sɿ no,sɿ53 no53,sɹ̩ no,sɹ̩53 no53
+CD,Chengdu,105,看病,看病 ,,kˈan pin,kˈan13 pin13,kˈan pin,kˈan13 pin13
+CD,Chengdu,106,我,我,,ŋo,ŋo53,ŋo,ŋo53
+CD,Chengdu,107,你,你,,ȵi,ȵi53,ɲi,ɲi53
+CD,Chengdu,108,他,他,,tˈa,tˈa55,tˈa,tˈa55
+CD,Chengdu,109,我们,我们,,ŋo mən,ŋo53 mən31-55,ŋo mən,ŋo53 mən31-55
+CD,Chengdu,110,你们,你们,,ȵi mən,ȵi53 mən31-55,ɲi mən,ɲi53 mən31-55
+CD,Chengdu,111,他们,他们,,tˈa mən,tˈa55 mən31-55,tˈa mən,tˈa55 mən31-55
+CD,Chengdu,112,咱们,我们,,ŋo mən,ŋo53 mən31-55,ŋo mən,ŋo53 mən31-55
+CD,Chengdu,113,自己,各人,,ko zən,ko31 zən31,ko zən,ko31 zən31
+CD,Chengdu,114,谁,哪个,,na ko,na53 ko13,na ko,na53 ko13
+CD,Chengdu,115,什么,啥子,,sa tsɿ,sa13 tsɿ53,sa tsɹ̩,sa13 tsɹ̩53
+CD,Chengdu,116,这里,这儿,,tsər,tsər55,tsər,tsər55
+CD,Chengdu,117,那里,那儿,,nər,nər55,nər,nər55
+CD,Chengdu,118,哪里,哪儿,,nər,nər53,nər,nər53
+CD,Chengdu,119,这个,这个,,tse ko,tse13 ko13-55,tse ko,tse13 ko13-55
+CD,Chengdu,120,那个,那个,,na ko,na13 ko13-55,na ko,na13 ko13-55
+CD,Chengdu,121,哪一个,哪个,,na ko,na53 ko13,na ko,na53 ko13
+CD,Chengdu,122,怎么样,啷个,,naŋ ko,naŋ53 ko13,naŋ ko,naŋ53 ko13
+CD,Chengdu,123,一位客人,一个客人,,ko,ko13,ko,ko13
+CD,Chengdu,124,一双鞋,一双鞋,,suaŋ,suaŋ55,suaŋ,suaŋ55
+CD,Chengdu,125,一床被,一床铺盖,,tsˈuaŋ,tsˈuaŋ31,tsˈuaŋ,tsˈuaŋ31
+CD,Chengdu,126,一辆车,一架车,,tɕia,tɕia13,tɕia,tɕia13
+CD,Chengdu,127,一条牛,一条牛,,tˈiau,tˈiau31,tˈiau,tˈiau31
+CD,Chengdu,128,一口猪,一根猪,,kən,kən55,kən,kən55
+CD,Chengdu,129,听一会儿,听下儿,,xər,xər55,xər,xər55
+CD,Chengdu,130,打一下,打一下,,xa,xa13,xa,xa13
+CD,Chengdu,131,上头,上头,,saŋ tˈəu,saŋ13 tˈəu31-55,saŋ tˈəu,saŋ13 tˈəu31-55
+CD,Chengdu,132,下头,下头,,ɕia tˈəu,ɕia13 tˈəu31-55,ɕia tˈəu,ɕia13 tˈəu31-55
+CD,Chengdu,133,左边,左边,,tso pian,tso53 pian55,tso pian,tso53 pian55
+CD,Chengdu,134,右边,右边,,iəu pian,iəu13 pian55,iəu pian,iəu13 pian55
+CD,Chengdu,135,当中,中间,,tsoŋ tɕian,tsoŋ55 tɕian55,tsoŋ tɕian,tsoŋ55 tɕian55
+CD,Chengdu,136,里面,里面,,ni mian,ni53 mian13,ni mian,ni53 mian13
+CD,Chengdu,137,外面,外头,,uai tˈəu,uai13 tˈəu31-55,uai tˈəu,uai13 tˈəu31-55
+CD,Chengdu,138,甜,甜,,tˈian,tˈian31,tˈian,tˈian31
+CD,Chengdu,139,酸,酸,,suan,suan55,suan,suan55
+CD,Chengdu,140,咸,咸,,xan,xan31,xan,xan31
+CD,Chengdu,141,淡,淡,,tan,tan13,tan,tan13
+CD,Chengdu,142,胖,胖,,pˈaŋ,pˈaŋ,pˈaŋ,pˈaŋ
+CD,Chengdu,143,瘦,瘦,,səu,səu13,səu,səu13
+CD,Chengdu,144,冷,冷,,nən,nən53,nən,nən53
+CD,Chengdu,145,热,热,,ze,ze31,ze,ze31
+CD,Chengdu,146,香,香,,ɕiaŋ,ɕiaŋ55,ɕiaŋ,ɕiaŋ55
+CD,Chengdu,147,臭,臭,,tsˈəu,tsˈəu13,tsˈəu,tsˈəu13
+CD,Chengdu,148,粗,粗,,tsˈu,tsˈu55,tsˈu,tsˈu55
+CD,Chengdu,149,细,细,,ɕi,ɕi13,ɕi,ɕi13
+CD,Chengdu,150,长,长,,tsˈaŋ,tsˈaŋ31,tsˈaŋ,tsˈaŋ31
+CD,Chengdu,151,短,短,,tuan,tuan53,tuan,tuan53
+CD,Chengdu,152,脏,脏,,tsaŋ,tsaŋ55,tsaŋ,tsaŋ55
+CD,Chengdu,153,干净,干净,,kan tɕin,kan55 tɕin13,kan tɕin,kan55 tɕin13
+CD,Chengdu,154,便宜,相因,,ɕiaŋ in,ɕiaŋ55 in55,ɕiaŋ in,ɕiaŋ55 in55
+CD,Chengdu,155,刚(来),才,,tsˈai,tsˈai31,tsˈai,tsˈai31
+CD,Chengdu,156,刚(合适),正,,tsˈən,tsˈən13,tsˈən,tsˈən13
+CD,Chengdu,157,正好,恰恰,,tɕˈia tɕˈia,tɕˈia31 tɕˈia31,tɕˈia tɕˈia,tɕˈia31 tɕˈia31
+CD,Chengdu,158,和,和,,xo,xo31,xo,xo31
+CD,Chengdu,159,只,只,,tsɿ,tsɿ53,tsɹ̩,tsɹ̩53
+CD,Chengdu,160,从,从,,tsˈoŋ,tsˈoŋ31,tsˈoŋ,tsˈoŋ31
+CD,Chengdu,161,替,帮,,paŋ,paŋ55,paŋ,paŋ55
+CD,Chengdu,162,拿,拿,,na,na31,na,na31
+CD,Chengdu,163,故意,利边,,ni pian,ni13 pian55,ni pian,ni13 pian55
+CD,Chengdu,164,一,一,,i,i31,i,i31
+CD,Chengdu,165,二,二,,ər,ər13,ər,ər13
+CD,Chengdu,166,三,三,,san,san55,san,san55
+CD,Chengdu,167,四,四,,sɿ,sɿ13,sɹ̩,sɹ̩13
+CD,Chengdu,168,五,五,,u,u53,u,u53
+CD,Chengdu,169,六,六,,nu,nu31,nu,nu31
+CD,Chengdu,170,七,七,,tɕˈi,tɕˈi31,tɕˈi,tɕˈi31
+CD,Chengdu,171,八,八,,pa,pa31,pa,pa31
+CD,Chengdu,172,九,九,,tɕiəu,tɕiəu53,tɕiəu,tɕiəu53
+CD,Chengdu,173,十,十,,sɿ,sɿ31,sɹ̩,sɹ̩31
+CD,Chengdu,174,十一,十一,,sɿi,sɿ31i31,sɹ̩i,sɹ̩31i31
+CD,Chengdu,175,十二,十二,,sɿər,sɿ31ər13,sɹ̩ər,sɹ̩31ər13
+CD,Chengdu,176,二十,二十,,ər sɿ,ər13 sɿ31,ər sɹ̩,ər13 sɹ̩31
+CD,Chengdu,177,二十一,二一,,ər i,ər13 i31,ər i,ər13 i31
+CD,Chengdu,178,一百二十,一百二,,i pe ər,i31 pe31 ər13,i pe ər,i31 pe31 ər13
+CD,Chengdu,179,第一,第一,,ti i,ti13 i31,ti i,ti13 i31
+CD,Chengdu,180,第二,第二,,ti ər,ti13 ər13,ti ər,ti13 ər13
+CD,Chengdu,181,两里,两里,,niaŋ ni,niaŋ53 ni53,niaŋ ni,niaŋ53 ni53
+CD,Chengdu,182,二两,二两,,ər niaŋ,ər13 niaŋ53,ər niaŋ,ər13 niaŋ53
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

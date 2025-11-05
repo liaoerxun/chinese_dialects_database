@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+BJ,Beijing,1,谁啊?我是老三。,谁呀?我是老三,,ʂei a uo ʂʅ lau san,ʂei35 a2 uo214 ʂʅ51 lau214-21 san55,ʂei a uo ʂɻ̩ lau san,ʂei35 a2 uo214 ʂɻ̩51 lau214-21 san55
+BJ,Beijing,2,老四呢?她正跟一个朋友说着话呢。,老四呢?她正跟一朋友说着话儿呢,,lau sɿ nə tˈa tʂəŋ kən i pˈəŋ iou ʂuo tʂə xuar nə,lau214-21 sɿ51 nə1 tˈa55 tʂəŋ51 kən55 i35 pˈəŋ35 iou3 ʂuo55 tʂə2 xuar51 nə1,lau sɹ̩ nə tˈa tʂəŋ kən i pˈəŋ iou ʂuo tʂə xuar nə,lau214-21 sɹ̩51 nə1 tˈa55 tʂəŋ51 kən55 i35 pˈəŋ35 iou3 ʂuo55 tʂə2 xuar51 nə1
+BJ,Beijing,3,她还没说完吗?,她还没说完吗,,tˈa xai mei ʂuo uan ma,tˈa55 xai35 mei35 ʂuo55 uan35 ma3,tˈa xai mei ʂuo uan ma,tˈa55 xai35 mei35 ʂuo55 uan35 ma3
+BJ,Beijing,4,还没有。大概再有一会儿就说完了。,还没呢。估摸着再待会儿就说完了,,xai mei nə ku mə tʂə tsai xuər tɕiou ʂuo uan lə,xai35 mei35 nə3 ku55 mə2 tʂə2 tsai51 xuər214 tɕiou51 ʂuo55 uan35 lə3,xai mei nə ku mə tʂə tsai xuər tɕiou ʂuo uan lə,xai35 mei35 nə3 ku55 mə2 tʂə2 tsai51 xuər214 tɕiou51 ʂuo55 uan35 lə3
+BJ,Beijing,5,他说马上就走，怎么这半天了还在家里?,他说立马儿就走，怎么这么半天了还在家·里,,tˈa ʂuo li mar tɕiou tsou tsəm səm pan tˈian lə xai tsai tɕia li,tˈa55 ʂuo55 li51 mar214 tɕiou51 tsou214 tsəm214 səm51 pan51 tˈian55 lə2 xai35 tsai214-21 tɕia55 li2,tˈa ʂuo li mar tɕiou tsou tsəm səm pan tˈian lə xai tsai tɕia li,tˈa55 ʂuo55 li51 mar214 tɕiou51 tsou214 tsəm214 səm51 pan51 tˈian55 lə2 xai35 tsai214-21 tɕia55 li2
+BJ,Beijing,6,你到哪儿去?我到城里去。,你上哪儿去?我进城去,,ni ʂɑŋ nar tɕˈy uo tɕin tʂˈəŋ tɕˈi,ni214 ʂɑŋ51 nar214 tɕˈy51 uo214 tɕin51 tʂˈəŋ35 tɕˈi3,ni ʂɑŋ nar tɕˈy uo tɕin tʂˈəŋ tɕˈi,ni214 ʂɑŋ51 nar214 tɕˈy51 uo214 tɕin51 tʂˈəŋ35 tɕˈi3
+BJ,Beijing,7,在那儿，不在这儿。,在那儿，不在这儿,,tsai nar pu tsai tʂər,tsai214 nar51 pu51-35 tsai214 tʂər51,tsai nar pu tsai tʂər,tsai214 nar51 pu51-35 tsai214 tʂər51
+BJ,Beijing,8,不是那么做，要这么做。,不那么着，得这么着,,pu nam tʂə tei tʂəm tʂə,pu51-35 nam51 tʂə1 tei214 tʂəm51 tʂə1,pu nam tʂə tei tʂəm tʂə,pu51-35 nam51 tʂə1 tei214 tʂəm51 tʂə1
+BJ,Beijing,9,太多了，用不着那么多，只要这么多就够了。,忒多了，用不着那么多，只要这么多就够了,,tˈei tuo lə yŋ pu tʂau nam tuo tʂʅ iau tʂəm tuo tɕiou kou lə,tˈei55 tuo55 lə2 yŋ51 pu2 tʂau35 nam51 tuo55 tʂʅ214 iau51 tʂəm51 tuo55 tɕiou51 kou51 lə1,tˈei tuo lə yŋ pu tʂau nam tuo tʂɻ̩ iau tʂəm tuo tɕiou kou lə,tˈei55 tuo55 lə2 yŋ51 pu2 tʂau35 nam51 tuo55 tʂɻ̩214 iau51 tʂəm51 tuo55 tɕiou51 kou51 lə1
+BJ,Beijing,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这俩哪个好点儿,,tʂei kə ta nei kə ɕiau tʂei lia nei kə xɑu tiar,tʂei51 kə1 ta51 nei51 kə1 ɕiau214 tʂei51 lia214 nei214 kə4 xɑu214-35 tiar214,tʂei kə ta nei kə ɕiau tʂei lia nei kə xɑu tiar,tʂei51 kə1 ta51 nei51 kə1 ɕiau214 tʂei51 lia214 nei214 kə4 xɑu214-35 tiar214
+BJ,Beijing,11,这个比那个好。,这个比那个好,,tʂei kə pi nei kə xau,tʂei51 kə1 pi214-21 nei51 kə1 xau214,tʂei kə pi nei kə xau,tʂei51 kə1 pi214-21 nei51 kə1 xau214
+BJ,Beijing,12,这些房子不如那些房子好。,这些房子不比那些房子好,,tʂei ɕiɛ fɑŋ tsɿ pu pi nei ɕiɛ fɑŋ tsɿ xau,tʂei51 ɕiɛ1 fɑŋ35 tsɿ3 pu51 pi214 nei51 ɕiɛ1 fɑŋ35 tsɿ3 xau214,tʂei ɕiɛ fɑŋ tsɹ̩ pu pi nei ɕiɛ fɑŋ tsɹ̩ xau,tʂei51 ɕiɛ1 fɑŋ35 tsɹ̩3 pu51 pi214 nei51 ɕiɛ1 fɑŋ35 tsɹ̩3 xau214
+BJ,Beijing,13,这句话用成都话怎么说?,,,,,,
+BJ,Beijing,14,他今年多大岁数了?,他今年多大岁数儿了,,tˈa tɕin nian tuo ta suei ʂurlə,tˈa55 tɕin55 nian2 tuo55 ta51 suei51 ʂur1lə1,tˈa tɕin nian tuo ta suei ʂurlə,tˈa55 tɕin55 nian2 tuo55 ta51 suei51 ʂur1lə1
+BJ,Beijing,15,大概三十来岁吧。,大概其三十来岁儿吧,,ta kai tɕˈi san ʂʅ lai suər pa,ta51 kai51 tɕˈi35 san55 ʂʅ2 lai35 suər51 pa1,ta kai tɕˈi san ʂɻ̩ lai suər pa,ta51 kai51 tɕˈi35 san55 ʂɻ̩2 lai35 suər51 pa1
+BJ,Beijing,16,这个东西有多重呢?,这东西有多沉,,tʂei tuŋ ɕi iou tuo tʂˈən,tʂei51 tuŋ55 ɕi2 iou214 tuo55 tʂˈən35,tʂei tuŋ ɕi iou tuo tʂˈən,tʂei51 tuŋ55 ɕi2 iou214 tuo55 tʂˈən35
+BJ,Beijing,17,有五十斤重呢。,有五十斤重呢,,iou u ʂʅ tɕin tʂuŋ nə,iou214-35 u213-21 ʂʅ4 tɕin55 tʂuŋ51 nə1,iou u ʂɻ̩ tɕin tʂuŋ nə,iou214-35 u213-21 ʂɻ̩4 tɕin55 tʂuŋ51 nə1
+BJ,Beijing,18,拿得动吗?,拿得动吗,,na tə tuŋ ma,na35 tə3 tuŋ51 ma1,na tə tuŋ ma,na35 tə3 tuŋ51 ma1
+BJ,Beijing,19,我拿得动，他拿不动。,我拿得动，他拿不动,,uo na tə tuŋ tˈa na pu tuŋ,uo214-21 na35 tə2 tuŋ51 tˈa55 na35 pu3 tuŋ51,uo na tə tuŋ tˈa na pu tuŋ,uo214-21 na35 tə2 tuŋ51 tˈa55 na35 pu3 tuŋ51
+BJ,Beijing,20,真不轻，重得连我也拿不动。,真不轻，沉得连我也拿不动,,tʂən pu tɕˈiŋ tʂˈən tə lian uo iɛ na pu tuŋ,tʂən55 pu51 tɕˈiŋ55 tʂˈən35 tə3 lian35 uo214-35 iɛ214 na35 pu3 tuŋ51,tʂən pu tɕˈiŋ tʂˈən tə lian uo iɛ na pu tuŋ,tʂən55 pu51 tɕˈiŋ55 tʂˈən35 tə3 lian35 uo214-35 iɛ214 na35 pu3 tuŋ51
+BJ,Beijing,21,你说得很好，你还会说点什么呢?,你说得挺好，你还能说点儿什么呢,,ni ʂuo tə tˈiŋ xɑu ni xai nəŋ ʂuo tiar ʂəm nə,ni214 ʂuo55 tə2 tˈiŋ214-35 xɑu3 ni214 xai35 nəŋ35 ʂuo55 tiar2 ʂəm35 nə3,ni ʂuo tə tˈiŋ xɑu ni xai nəŋ ʂuo tiar ʂəm nə,ni214 ʂuo55 tə2 tˈiŋ214-35 xɑu3 ni214 xai35 nəŋ35 ʂuo55 tiar2 ʂəm35 nə3
+BJ,Beijing,22,我嘴笨，我说不过他。,我嘴笨，我说不过他,,uo tsuei pən uo ʂuo pu kuo tˈa,uo214-35 tsuei214-21 pən51 uo214 ʂuo55 pu2 kuo51 tˈa55,uo tsuei pən uo ʂuo pu kuo tˈa,uo214-35 tsuei214-21 pən51 uo214 ʂuo55 pu2 kuo51 tˈa55
+BJ,Beijing,23,说了一遍，又说一遍。,说了一遍，又说一遍,,ʂuo lə i pian iou ʂuo i pian,ʂuo55 lə2 i55-35 pian51 iou51 ʂuo55 i55-35 pian51,ʂuo lə i pian iou ʂuo i pian,ʂuo55 lə2 i55-35 pian51 iou51 ʂuo55 i55-35 pian51
+BJ,Beijing,24,请你再说一遍。,您再说一遍,,nin tsai ʂuo i pian,nin35 tsai51 ʂuo55 i55-35 pian51,nin tsai ʂuo i pian,nin35 tsai51 ʂuo55 i55-35 pian51
+BJ,Beijing,25,不早了，快去吧。,不早了，麻利儿去吧,,pu tsɑu lə ma liər tɕˈy pa,pu51 tsɑu214-21 lə4 ma35 liər51-55 tɕˈy51 pa1,pu tsɑu lə ma liər tɕˈy pa,pu51 tsɑu214-21 lə4 ma35 liər51-55 tɕˈy51 pa1
+BJ,Beijing,26,现在还早着呢，等一会儿再去吧。,这会儿还早着呢，待会儿再去吧,,tʂei xuər xai tsɑu tʂə nə tai xuər tsai tɕˈy pa,tʂei51 xuər214 xai35 tsɑu214 tʂə4 nə2 tai55 xuər214 tsai51 tɕˈy51 pa1,tʂei xuər xai tsɑu tʂə nə tai xuər tsai tɕˈy pa,tʂei51 xuər214 xai35 tsɑu214 tʂə4 nə2 tai55 xuər214 tsai51 tɕˈy51 pa1
+BJ,Beijing,27,吃了饭再去好吗?,吃了饭再去行吗,,tʂˈʅ lə fan tsai tɕˈy ɕiŋ ma,tʂˈʅ55 lə2 fan51 tsai51 tɕˈy51 ɕiŋ35 ma3,tʂˈɻ̩ lə fan tsai tɕˈy ɕiŋ ma,tʂˈɻ̩55 lə2 fan51 tsai51 tɕˈy51 ɕiŋ35 ma3
+BJ,Beijing,28,慢慢儿吃啊，不要着急。,慢慢儿吃吧，甭着急,,man mar tʂˈʅ pa pəŋ tʂɑu tɕi,man51 mar51-55 tʂˈʅ55 pa2 pəŋ35 tʂɑu35 tɕi35,man mar tʂˈɻ̩ pa pəŋ tʂɑu tɕi,man51 mar51-55 tʂˈɻ̩55 pa2 pəŋ35 tʂɑu35 tɕi35
+BJ,Beijing,29,坐着吃比站着吃好些。,坐着吃比站着吃好点儿,,tsuo tʂə tʂˈʅ pi tʂan tʂə tʂˈʅ xau tiar,tsuo51 tʂə1 tʂˈʅ55 pi214 tʂan51 tʂə1 tʂˈʅ55 xau214-35 tiar214,tsuo tʂə tʂˈɻ̩ pi tʂan tʂə tʂˈɻ̩ xau tiar,tsuo51 tʂə1 tʂˈɻ̩55 pi214 tʂan51 tʂə1 tʂˈɻ̩55 xau214-35 tiar214
+BJ,Beijing,30,他吃了饭了，你吃了饭没有呢?,他吃了饭了，你吃没吃,,tˈa tʂˈʅ lə fan lə ni tʂˈʅ mei tsˈʅ,tˈa55 tʂˈʅ55 lə2 fan51 lə1 ni214 tʂˈʅ55 mei35 tsˈʅ55,tˈa tʂˈɻ̩ lə fan lə ni tʂˈɻ̩ mei tsˈɻ̩,tˈa55 tʂˈɻ̩55 lə2 fan51 lə1 ni214 tʂˈɻ̩55 mei35 tsˈɻ̩55
+BJ,Beijing,31,他去过上海，我没有去过。,他去过上海，我没去过,,tˈa tɕˈy kuo ʂɑŋ xai uo mei tɕˈy kuo,tˈa55 tɕˈy51 kuo11 ʂɑŋ51 xai214 uo214-21 mei35 tɕˈy51 kuo1,tˈa tɕˈy kuo ʂɑŋ xai uo mei tɕˈy kuo,tˈa55 tɕˈy51 kuo11 ʂɑŋ51 xai214 uo214-21 mei35 tɕˈy51 kuo1
+BJ,Beijing,32,来闻闻这朵花香不香。,来闻闻这朵花儿香不香,,lai uən uən tʂei tuo xuar ɕiɑŋ pu ɕiɑŋ,lai35 uən35 uən3 tʂei51 tuo214-21 xuar55 ɕiɑŋ55 pu2 ɕiɑŋ55,lai uən uən tʂei tuo xuar ɕiɑŋ pu ɕiɑŋ,lai35 uən35 uən3 tʂei51 tuo214-21 xuar55 ɕiɑŋ55 pu2 ɕiɑŋ55
+BJ,Beijing,33,给我一本书。,给我本儿书,,kei uo pər ʂu,kei214-35 uo214-35 pər214 ʂu55,kei uo pər ʂu,kei214-35 uo214-35 pər214 ʂu55
+BJ,Beijing,34,我真的没有那本书呀。,我真的没那本儿书呀,,uo tʂən tə mei nei pər ʂu ia,uo214 tʂən55 tə2 mei35 nei51 pər214 ʂu55 ia2,uo tʂən tə mei nei pər ʂu ia,uo214 tʂən55 tə2 mei35 nei51 pər214 ʂu55 ia2
+BJ,Beijing,35,你告诉他。,你告诉他,,ni kɑu suŋ tˈa,ni214 kɑu51 suŋ1 tˈa55,ni kɑu suŋ tˈa,ni214 kɑu51 suŋ1 tˈa55
+BJ,Beijing,36,好好地走，不要跑。,好好儿地走，别跑,,xɑu xɑur tə tspi piɛ pˈɑu,xɑu214-21 xɑur214-55 tə2 tspi214 piɛ35 pˈɑu214,xɑu xɑur tə tspi piɛ pˈɑu,xɑu214-21 xɑur214-55 tə2 tspi214 piɛ35 pˈɑu214
+BJ,Beijing,37,小心跌下去爬不上来。,小心摔下去爬不上来,,ɕiɑu ɕin ʂuai ɕia tɕˈi pˈa pu ʂɑŋ lai,ɕiɑu214-21 ɕin55 ʂuai55 ɕia2 tɕˈi2 pˈa35 pu3 ʂɑŋ51 lai35,ɕiɑu ɕin ʂuai ɕia tɕˈi pˈa pu ʂɑŋ lai,ɕiɑu214-21 ɕin55 ʂuai55 ɕia2 tɕˈi2 pˈa35 pu3 ʂɑŋ51 lai35
+BJ,Beijing,38,医生叫你多睡睡。,医生叫你多睡会儿,,i ʂəŋ tɕiɑu ni tuo ʂuei xuər,i55 ʂəŋ2 tɕiɑu51 ni214 tuo55 ʂuei51 xuər214,i ʂəŋ tɕiɑu ni tuo ʂuei xuər,i55 ʂəŋ2 tɕiɑu51 ni214 tuo55 ʂuei51 xuər214
+BJ,Beijing,39,抽烟或者喝茶都不许。,抽烟喝茶都不许,,tʂˈou ian xɤ tʂˈa tou pu ɕy,tʂˈou55 ian55 xɤ55 tʂˈa35 tou55 pu51-21 ɕy214,tʂˈou ian xɤ tʂˈa tou pu ɕy,tʂˈou55 ian55 xɤ55 tʂˈa35 tou55 pu51-21 ɕy214
+BJ,Beijing,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不好,,ian iɛ xɑu tʂˈa iɛ xɑu uo tou pu xɑu,ian55 iɛ214-35 xɑu214 tʂˈa35 iɛ214-35 xɑu214 uo214 tou55 pu51-35 xɑu51,ian iɛ xɑu tʂˈa iɛ xɑu uo tou pu xɑu,ian55 iɛ214-35 xɑu214 tʂˈa35 iɛ214-35 xɑu214 uo214 tou55 pu51-35 xɑu51
+BJ,Beijing,41,不管你去不去，反正我是要去的。,不管你去不去，反正我是要去的,,pu kuan ni tɕˈy pu tɕˈy fan tʂəŋ uo ʂʅ iɑu tçˈy tə,pu51 kuan214-35 ni214 tɕˈy51 pu1 tɕˈy51 fan214-21 tʂəŋ51 uo214 ʂʅ4 iɑu51 tçˈy51 tə2,pu kuan ni tɕˈy pu tɕˈy fan tʂəŋ uo ʂɻ̩ iɑu tçˈy tə,pu51 kuan214-35 ni214 tɕˈy51 pu1 tɕˈy51 fan214-21 tʂəŋ51 uo214 ʂɻ̩4 iɑu51 tçˈy51 tə2
+BJ,Beijing,42,我非去不可。,我非去不可,,uo fei tɕˈy pu kɤ,uo214 fei55 tɕˈy51 pu51 kɤ215,uo fei tɕˈy pu kɤ,uo214 fei55 tɕˈy51 pu51 kɤ215
+BJ,Beijing,43,你是哪一年来的?,你是哪年来的,,ni ʂʅ nei nian lai tə,ni214 ʂʅ51 nei214-21 nian35 lai35 tə3,ni ʂɻ̩ nei nian lai tə,ni214 ʂɻ̩51 nei214-21 nian35 lai35 tə3
+BJ,Beijing,44,我是前年到的北京。,我是前年来的北京,,uo ʂʅ tɕˈian nian lai tə pei tɕiŋ,uo214 ʂʅ51 tɕˈian35 nian3 lai35 tə3 pei213-21 tɕiŋ55,uo ʂɻ̩ tɕˈian nian lai tə pei tɕiŋ,uo214 ʂɻ̩51 tɕˈian35 nian3 lai35 tə3 pei213-21 tɕiŋ55
+BJ,Beijing,45,今天开会谁的主席?,今儿开会谁的主席,,tɕiər kˈai xuei ʂei tə tʂu ɕi,tɕiər55 kˈai55 xuei51 ʂei35 tə3 tʂu214-21 ɕi35,tɕiər kˈai xuei ʂei tə tʂu ɕi,tɕiər55 kˈai55 xuei51 ʂei35 tə3 tʂu214-21 ɕi35
+BJ,Beijing,46,你得请我的客。,你得请我的客,,ni tei tɕˈiŋ uo tə kˈɤ,ni213-35 tei214-21 tɕˈiŋ214-35 uo214 tə4 kˈɤ51,ni tei tɕˈiŋ uo tə kˈɤ,ni213-35 tei214-21 tɕˈiŋ214-35 uo214 tə4 kˈɤ51
+BJ,Beijing,47,一边走，一边讲。,一边儿走，一边儿聊,,i piar tsou i piar liɑu,i51 piar55 tsou214 i51 piar55 liɑu35,i piar tsou i piar liɑu,i51 piar55 tsou214 i51 piar55 liɑu35
+BJ,Beijing,48,越走越远，越说越多。,越走越远，越聊越多,,yɛ tsou yɛyan yɛ liau yɛ yɛ tuo,yɛ51 tsou214 yɛ51yan214 yɛ51 liau51 yɛ35 yɛ51 tuo55,yɛ tsou yɛyan yɛ liau yɛ yɛ tuo,yɛ51 tsou214 yɛ51yan214 yɛ51 liau51 yɛ35 yɛ51 tuo55
+BJ,Beijing,49,把那个东西拿给我。,把那东西拿给我,,pai nei tuŋ ɕi na kei uo,pai214 nei51 tuŋ55 ɕi2 na35 kei214-35 uo214,pai nei tuŋ ɕi na kei uo,pai214 nei51 tuŋ55 ɕi2 na35 kei214-35 uo214
+BJ,Beijing,50,有些地方把太阳叫日头。,有些个地界儿管太阳叫日头,,iou ɕiɛ kə ti tɕiɛr kuan tˈai iɑŋ tɕiɑu ʐʅ tˈou,iou214 ɕiɛ55 kə2 ti51 tɕiɛr1 kuan214 tˈai51 iɑŋ1 tɕiɑu51 ʐʅ51 tˈou1,iou ɕiɛ kə ti tɕiɛr kuan tˈai iɑŋ tɕiɑu ʐɻ̩ tˈou,iou214 ɕiɛ55 kə2 ti51 tɕiɛr1 kuan214 tˈai51 iɑŋ1 tɕiɑu51 ʐɻ̩51 tˈou1
+BJ,Beijing,51,您贵姓?我姓王。,您贵姓?我姓王,,nin kuei ɕiŋ uo ɕiŋ uɑŋ,nin35 kuei51 ɕiŋ51 uo214 ɕiŋ51 uɑŋ35,nin kuei ɕiŋ uo ɕiŋ uɑŋ,nin35 kuei51 ɕiŋ51 uo214 ɕiŋ51 uɑŋ35
+BJ,Beijing,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，咱们俩都姓王,,ni ɕiŋ uɑŋ uo iɛ ɕiŋ uɑŋ tsam lia tou ɕiŋ uɑŋ,ni214 ɕiŋ51 uɑŋ35 uo214-35 iɛ214 ɕiŋ51 uɑŋ35 tsam35 lia214 tou55 ɕiŋ51 uɑŋ35,ni ɕiŋ uɑŋ uo iɛ ɕiŋ uɑŋ tsam lia tou ɕiŋ uɑŋ,ni214 ɕiŋ51 uɑŋ35 uo214-35 iɛ214 ɕiŋ51 uɑŋ35 tsam35 lia214 tou55 ɕiŋ51 uɑŋ35
+BJ,Beijing,53,你先去吧，我们等一会儿再去。,你先去吧，我们待会儿再去,,ni ɕian tɕˈy pa uom tai xuər tsai tɕˈy,ni214-21 ɕian55 tɕˈy5 pa1 uom214 tai55 xuər214 tsai51 tɕˈy51,ni ɕian tɕˈy pa uom tai xuər tsai tɕˈy,ni214-21 ɕian55 tɕˈy5 pa1 uom214 tai55 xuər214 tsai51 tɕˈy51
+BJ,Beijing,54,你抽烟不抽?,你抽烟不抽,,ni tʂˈou ian pu tʂˈou,ni214-21 tʂˈou55 ian55 pu2 tʂˈou55,ni tʂˈou ian pu tʂˈou,ni214-21 tʂˈou55 ian55 pu2 tʂˈou55
+BJ,Beijing,55,你认得那个人不认得?,你认得那个人不认得,,ni ʐən tə nei kə ʐən pu ʐən tə,ni214-21 ʐən51 tə1 nei51 kə1 ʐən35 pu51-35 ʐən51 tə1,ni ʐən tə nei kə ʐən pu ʐən tə,ni214-21 ʐən51 tə1 nei51 kə1 ʐən35 pu51-35 ʐən51 tə1
+,Beijing,,,,,,,,
+BJ,Beijing,,,,,,,,
+BJ,Beijing,,,,,,,,
+BJ,Beijing,,,,,,,,
+BJ,Beijing,,,,,,,,

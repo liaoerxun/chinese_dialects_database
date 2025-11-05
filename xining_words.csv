@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+XN,Xining,1,太阳,热头儿,,ʐɛ tˈɯ ɛ,ʐɛ44-21 tˈɯ24-21 ɛ24-53,ʐɛ tˈɯ ɛ,ʐɛ44-21 tˈɯ24-21 ɛ24-53
+XN,Xining,2,月亮,月亮 ,,yu liɔ̃,yu44 liɔ̃53,yu liɔ̃,yu44 liɔ̃53
+XN,Xining,3,星星,星星 ,,ɕiə̃ ɕiə̃,ɕiə̃44 ɕiə̃44,ɕiə̃ ɕiə̃,ɕiə̃44 ɕiə̃44
+XN,Xining,4,打雷,雷响者 ,,luɨ ɕiɔ̃ tʂɛ,luɨ24-21 ɕiɔ̃53 tʂɛ,luɨ ɕiɔ̃ tʂɛ,luɨ24-21 ɕiɔ̃53 tʂɛ
+XN,Xining,5,闪电,闪电者 ,,ʂã tiã tʂɛ,ʂã53 tiã213-21 tʂɛ53,ʂã tiã tʂɛ,ʂã53 tiã213-21 tʂɛ53
+XN,Xining,6,下雨,下雨 ,,ɕia y,ɕia213 y53,ɕia y,ɕia213 y53
+XN,Xining,7,下雪,下雪 ,,ɕia ɕyu,ɕia213 ɕyu44,ɕia ɕyu,ɕia213 ɕyu44
+XN,Xining,8,冰雹,雹子 ,,pɔ tsɿ,pɔ44 tsɿ,pɔ tsɹ̩,pɔ44 tsɹ̩
+XN,Xining,9,结冰,冰冻下了,,piə̃ tuə̃ xa liɔ,piə̃44 tuə̃213-21 xa213-53 liɔ,piə̃ tuə̃ xa liɔ,piə̃44 tuə̃213-21 xa213-53 liɔ
+XN,Xining,10,刮风,刮风 ,,kua fə̃,kua44 fə̃44,kua fə̃,kua44 fə̃44
+XN,Xining,11,虹,虹 ,,kɔ̃,kɔ̃213,kɔ̃,kɔ̃213
+XN,Xining,12,端午节,端午 ,,tɔ̃ v̩,tɔ̃44 v̩53,tɔ̃ v̩,tɔ̃44 v̩53
+XN,Xining,13,中秋节,八月十五 ,,pa yu ʂʅ v̩,pa44 yu44 ʂʅ24-21 v̩53,pa yu ʂɻ̩ v̩,pa44 yu44 ʂɻ̩24-21 v̩53
+XN,Xining,14,除夕,三十晚夕 ,,sã ʂʅ uã ɕj,sã44-21 ʂʅ24 uã53-21 ɕj,sã ʂɻ̩ uã ɕj,sã44-21 ʂɻ̩24 uã53-21 ɕj
+XN,Xining,15,今年,今年,,tɕiə̃ ȵiã,tɕiə̃44 ȵiã24-44,tɕiə̃ ɲiã,tɕiə̃44 ɲiã24-44
+XN,Xining,16,明年,明年 ,,miə̃ ȵiã,miə̃24-21 ȵiã24-53,miə̃ ɲiã,miə̃24-21 ɲiã24-53
+XN,Xining,17,去年,年时 ,,ȵiã sɿ,ȵiã24-21 sɿ24-53,ɲiã sɹ̩,ɲiã24-21 sɹ̩24-53
+XN,Xining,18,明天,明天,,miə̃ tˈiã,miə̃24-21 tˈiã44-53,miə̃ tˈiã,miə̃24-21 tˈiã44-53
+XN,Xining,19,昨天,夜来 ,,iɛ lɛ,iɛ213-21 lɛ24-53,iɛ lɛ,iɛ213-21 lɛ24-53
+XN,Xining,20,今天,今儿 ,,tɕiə̃ ɛ,tɕiə̃44 ɛ,tɕiə̃ ɛ,tɕiə̃44 ɛ
+XN,Xining,21,星期天,星期日 ,,ɕiə̃ tɕˈj ʐʅ,ɕiə̃44 tɕˈj44 ʐʅ,ɕiə̃ tɕˈj ʐɻ̩,ɕiə̃44 tɕˈj44 ʐɻ̩
+XN,Xining,22,麦子,麦子 ,,mɨ tsɿ,mɨ44 tsɿ53,mɨ tsɹ̩,mɨ44 tsɹ̩53
+XN,Xining,23,大米,大米 ,,ta mj,ta213-21 mj53,ta mj,ta213-21 mj53
+XN,Xining,24,蚕豆,大豆 ,,ta tɯ,ta213-21 tɯ213-53,ta tɯ,ta213-21 tɯ213-53
+XN,Xining,25,向日葵,向日葵,,ɕiɔ̃ ʐʅ kˈuɨ,ɕiɔ̃213 ʐʅ kˈuɨ25,ɕiɔ̃ ʐɻ̩ kˈuɨ,ɕiɔ̃213 ʐɻ̩ kˈuɨ25
+XN,Xining,26,菠菜,菠菜 ,,pɔ tsˈɛ,pɔ44 tsˈɛ213-53,pɔ tsˈɛ,pɔ44 tsˈɛ213-53
+XN,Xining,27,卷心菜,卷心白菜 ,,tɕyã ɕiə pɨ tsˈɛ,tɕyã53 ɕiə44 pɨ24-21 tsˈɛ213-53,tɕyã ɕiə pɨ tsˈɛ,tɕyã53 ɕiə44 pɨ24-21 tsˈɛ213-53
+XN,Xining,28,西红柿,洋柿子 ,,iɔ̃ sɿ tsɿ,iɔ̃24 sɿ213-21 tsɿ53,iɔ̃ sɹ̩ tsɹ̩,iɔ̃24 sɹ̩213-21 tsɹ̩53
+XN,Xining,29,茄子,茄子 ,,tɕˈi tsɿ,tɕˈi24-21 tsɿ53,tɕˈi tsɹ̩,tɕˈi24-21 tsɹ̩53
+XN,Xining,30,白薯,红薯 ,,xuə̃ fv̩,xuə̃24-21 fv̩53,xuə̃ fv̩,xuə̃24-21 fv̩53
+XN,Xining,31,马铃薯,洋芋,,iɔ̃ y,iɔ̃24-21 y213,iɔ̃ y,iɔ̃24-21 y213
+XN,Xining,32,南瓜,南瓜 ,,nã kua,nã24-21 kua44-53,nã kua,nã24-21 kua44-53
+XN,Xining,33,猪,猪,,tʂv̩,tʂv̩44,tʂv̩,tʂv̩44
+XN,Xining,34,公猪,牙猪 ,,ia tʂv̩,ia24-21 tʂv̩44,ia tʂv̩,ia24-21 tʂv̩44
+XN,Xining,35,母猪,母猪 ,,mv̩ tʂv̩,mv̩53 tʂv̩,mv̩ tʂv̩,mv̩53 tʂv̩
+XN,Xining,36,公鸡,公鸡,,kuə̃ tɕj,kuə̃44 tɕj44,kuə̃ tɕj,kuə̃44 tɕj44
+XN,Xining,37,母鸡,母鸡,,mv̩ tɕj,mv̩53 tɕj,mv̩ tɕj,mv̩53 tɕj
+XN,Xining,38,麻雀,雀儿 ,,tɕˈiɔ ɛ,tɕˈiɔ53 ɛ,tɕˈiɔ ɛ,tɕˈiɔ53 ɛ
+XN,Xining,39,老鼠,老鼠 ,,lɔ fv̩,lɔ53-21 fv̩53,lɔ fv̩,lɔ53-21 fv̩53
+XN,Xining,40,臭虫,臭虱 ,,tʂˈɯ sɨ,tʂˈɯ213-21 sɨ44-53,tʂˈɯ sɨ,tʂˈɯ213-21 sɨ44-53
+XN,Xining,41,房子(整),房子 ,,fɔ̃ tsɿ,fɔ̃24-21 tsɿ53,fɔ̃ tsɹ̩,fɔ̃24-21 tsɹ̩53
+XN,Xining,42,房子(单),套间 ,,tˈɔ tɕiã,tˈɔ213-21 tɕiã44-53,tˈɔ tɕiã,tˈɔ213-21 tɕiã44-53
+XN,Xining,43,窗户,窗子 ,,tʂˈuɔ̃ tsɿ,tʂˈuɔ̃44 tsɿ53,tʂˈuɔ̃ tsɹ̩,tʂˈuɔ̃44 tsɹ̩53
+XN,Xining,44,门坎,门坎,,mə̃ kˈã,mə̃24-21 kˈã44-53,mə̃ kˈã,mə̃24-21 kˈã44-53
+XN,Xining,45,厕所,茅厕 ,,mɔ sɿ,mɔ24-21 sɿ53,mɔ sɹ̩,mɔ24-21 sɹ̩53
+XN,Xining,46,厨房,厨房 ,,tʂˈv̩ fɔ̃,tʂˈv̩24-21 fɔ̃24-53,tʂˈv̩ fɔ̃,tʂˈv̩24-21 fɔ̃24-53
+XN,Xining,47,烟囱,烟洞 ,,iã tuə̃,iã44 tuə̃213-53,iã tuə̃,iã44 tuə̃213-53
+XN,Xining,48,桌子,桌子 ,,tʂu tsɿ,tʂu44 tsɿ53,tʂu tsɹ̩,tʂu44 tsɹ̩53
+XN,Xining,49,楼梯,楼梯 ,,lv̩tsˈɿ,lv̩24-21tsˈɿ44-53,lv̩tsˈɹ̩,lv̩24-21tsˈɹ̩44-53
+XN,Xining,50,头,头 ,,tˈɯ,tˈɯ24,tˈɯ,tˈɯ24
+XN,Xining,51,额头,额目头 ,,nə̃ mv̩ tˈɯ,nə̃44 mv̩44 tˈɯ24,nə̃ mv̩ tˈɯ,nə̃44 mv̩44 tˈɯ24
+XN,Xining,52,脸,脸 ,,liã,liã53,liã,liã53
+XN,Xining,53,鼻子,鼻子 ,,pj tsɿ,pj24-21 tsɿ53,pj tsɹ̩,pj24-21 tsɹ̩53
+XN,Xining,54,脖子,脖板 ,,pɔ pã,pɔ24-21 pã53,pɔ pã,pɔ24-21 pã53
+XN,Xining,55,左手,左手,,tsu ʂɯ,tsu53-21 ʂɯ53,tsu ʂɯ,tsu53-21 ʂɯ53
+XN,Xining,56,右手,右手 ,,iɯ ʂɯ,iɯ213-21 ʂɯ53,iɯ ʂɯ,iɯ213-21 ʂɯ53
+XN,Xining,57,拳头,槌头 ,,tʂˈuɨ tˈɯ,tʂˈuɨ24-21 tˈɯ24-44,tʂˈuɨ tˈɯ,tʂˈuɨ24-21 tˈɯ24-44
+XN,Xining,58,手指头,手指头 ,,ʂɯ tsɿ tˈɯ,ʂɯ53 tsɿ44 tˈɯ24-44,ʂɯ tsɹ̩ tˈɯ,ʂɯ53 tsɹ̩44 tˈɯ24-44
+XN,Xining,59,指甲,指甲 ,,tsɿ tɕia,tsɿ53 tɕia44,tsɹ̩ tɕia,tsɹ̩53 tɕia44
+XN,Xining,60,膝盖,波膝盖 ,,pɔ ɕj kɛ,pɔ44 ɕj44 kɛ213,pɔ ɕj kɛ,pɔ44 ɕj44 kɛ213
+XN,Xining,61,腿,腿,,tˈuɨ,tˈuɨ53,tˈuɨ,tˈuɨ53
+XN,Xining,62,父亲,大大 ,,ta ta,ta44 ta,ta ta,ta44 ta
+XN,Xining,63,母亲,姆妈 ,,m̩ ma,m̩44 ma,m̩ ma,m̩44 ma
+XN,Xining,64,祖父,爷爷 ,,i iɛ,i24-21 iɛ24,i iɛ,i24-21 iɛ24
+XN,Xining,65,祖母,奶奶 ,,nɛ nɛ,nɛ53 nɛ,nɛ nɛ,nɛ53 nɛ
+XN,Xining,66,伯父,达达 ,,ta ta,ta24-21 ta24-53,ta ta,ta24-21 ta24-53
+XN,Xining,67,伯母,妈妈 ,,ma ma,ma44-21 ma44-53,ma ma,ma44-21 ma44-53
+XN,Xining,68,叔父,爸爸 ,,pa pa,pa213021 pa213,pa pa,pa213021 pa213
+XN,Xining,69,叔母,婶子 ,,ʂə̃ tsɿ,ʂə̃53 tsɿ,ʂə̃ tsɹ̩,ʂə̃53 tsɹ̩
+XN,Xining,70,外祖父,位爷,,uɨ i,uɨ213-21 i24-53,uɨ i,uɨ213-21 i24-53
+XN,Xining,71,外祖母,位奶奶 ,,uɨ nɛ nɛ,uɨ213-21 nɛ53-21 nɛ53-24,uɨ nɛ nɛ,uɨ213-21 nɛ53-21 nɛ53-24
+XN,Xining,72,舅舅,阿舅 ,,a tɕiɯ,a44-21 tɕiɯ213,a tɕiɯ,a44-21 tɕiɯ213
+XN,Xining,73,舅母,舅母 ,,tɕiɯ mv̩,tɕiɯ213-21 mv̩53,tɕiɯ mv̩,tɕiɯ213-21 mv̩53
+XN,Xining,74,丈夫,我们的人 ,,nɔ mə̃ tsɿ ʐə̃,nɔ53-44 mə̃ tsɿ ʐə̃24,nɔ mə̃ tsɹ̩ ʐə̃,nɔ53-44 mə̃ tsɹ̩ ʐə̃24
+XN,Xining,75,妻子,我们家里的 ,,nɔ mə̃ tɕia l̩ tsɿ,nɔ53-44 mə̃ tɕia44 l̩ tsɿ53,nɔ mə̃ tɕia l̩ tsɹ̩,nɔ53-44 mə̃ tɕia44 l̩ tsɹ̩53
+XN,Xining,76,儿子,儿子 ,,ɛ tsɿ,ɛ24-21 tsɿ53,ɛ tsɹ̩,ɛ24-21 tsɹ̩53
+XN,Xining,77,女儿,姑娘 ,,kv̩ ȵiɔ̃,kv̩44 ȵiɔ̃24-44,kv̩ ɲiɔ̃,kv̩44 ɲiɔ̃24-44
+XN,Xining,78,早饭,早饭 ,,tsɔ fã,tsɔ53 fã,tsɔ fã,tsɔ53 fã
+XN,Xining,79,午饭,午饭 ,,v̩ fã,v̩53 fã213,v̩ fã,v̩53 fã213
+XN,Xining,80,晚饭,黑饭,,xɨ  fã,xɨ44  fã213-53,xɨ  fã,xɨ44  fã213-53
+XN,Xining,81,面条,面,,miã,miã213,miã,miã213
+XN,Xining,82,馒头,馍馍 ,,mɔ mɔ,mɔ24-21 mɔ24,mɔ mɔ,mɔ24-21 mɔ24
+XN,Xining,83,包子,包子 ,,pɔ tsɿ,pɔ44 tsɿ53,pɔ tsɹ̩,pɔ44 tsɹ̩53
+XN,Xining,84,馄饨,馄饨 ,,xuə̃ tuə̃,xuə̃24-21 tuə̃213,xuə̃ tuə̃,xuə̃24-21 tuə̃213
+XN,Xining,85,醋,醋 ,,tɕˈy,tɕˈy213,tɕˈy,tɕˈy213
+XN,Xining,86,酱油,酱油 ,,tɕiɔ̃ iɯ,tɕiɔ̃213 iɯ24,tɕiɔ̃ iɯ,tɕiɔ̃213 iɯ24
+XN,Xining,87,盐,盐,,iã,iã24,iã,iã24
+XN,Xining,88,筷子,筷子 ,,kˈuɛ tsɿ,kˈuɛ213-21 tsɿ53,kˈuɛ tsɹ̩,kˈuɛ213-21 tsɹ̩53
+XN,Xining,89,勺儿,勺勺 ,,fɔ fɔ,fɔ24-21 fɔ24-53,fɔ fɔ,fɔ24-21 fɔ24-53
+XN,Xining,90,男人,男人 ,,nã ʐə̃,nã24-21 ʐə̃24-53,nã ʐə̃,nã24-21 ʐə̃24-53
+XN,Xining,91,女人,女人 ,,mj ʐə̃,mj53-44 ʐə̃,mj ʐə̃,mj53-44 ʐə̃
+XN,Xining,92,男孩子,尕娃 ,,ka ua,ka24-21 ua213,ka ua,ka24-21 ua213
+XN,Xining,93,女孩子,女子 ,,mj tsɿ,mj53-44 tsɿ,mj tsɹ̩,mj53-44 tsɹ̩
+XN,Xining,94,老头儿,老汉 ,,lɔ xã,lɔ53 xã,lɔ xã,lɔ53 xã
+XN,Xining,95,医生,先生 ,,ɕiã sə̃,ɕiã44 sə̃44,ɕiã sə̃,ɕiã44 sə̃44
+XN,Xining,96,厨师,大师傅 ,,ta sɿ fv̩,ta213 sɿ44 fv̩,ta sɹ̩ fv̩,ta213 sɹ̩44 fv̩
+XN,Xining,97,乞丐,寻口 ,,ɕiə̃ kˈɯ,ɕiə̃24-21 kˈɯ53,ɕiə̃ kˈɯ,ɕiə̃24-21 kˈɯ53
+XN,Xining,98,保姆,保姆 ,,pɔ mv̩,pɔ53-21 mv̩53,pɔ mv̩,pɔ53-21 mv̩53
+XN,Xining,99,病了,病了,,piə liɔ,piə213-21 liɔ53,piə liɔ,piə213-21 liɔ53
+XN,Xining,100,伤风,凉着了 ,,liɔ̃ tʂˈu liɔ,liɔ̃24-21 tʂˈu53 liɔ,liɔ̃ tʂˈu liɔ,liɔ̃24-21 tʂˈu53 liɔ
+XN,Xining,101,泻肚,拉肚子 ,,la tv̩ tsɿ,la44-21 tv̩213-21 tsɿ53,la tv̩ tsɹ̩,la44-21 tv̩213-21 tsɹ̩53
+XN,Xining,102,瘸子,瘸子 ,,tɕˈyu tsɿ,tɕˈyu24-21 tsɿ53,tɕˈyu tsɹ̩,tɕˈyu24-21 tsɹ̩53
+XN,Xining,103,驼背,背老锅儿,,pɨ lɔ ku ɛ,pɨ213-44 lɔ53 ku44-21 ɛ24,pɨ lɔ ku ɛ,pɨ213-44 lɔ53 ku44-21 ɛ24
+XN,Xining,104,死了,殁掉了 ,,mɔ tiɔ liɔ,mɔ44 tiɔ213-44 liɔ,mɔ tiɔ liɔ,mɔ44 tiɔ213-44 liɔ
+XN,Xining,105,看病,看病 ,,kˈã piə̃,kˈã213 piə̃213,kˈã piə̃,kˈã213 piə̃213
+XN,Xining,106,我,我,,nɔ,nɔ53,nɔ,nɔ53
+XN,Xining,107,你,你,,ȵi,ȵi53,ɲi,ɲi53
+XN,Xining,108,他,他,,tˈa,tˈa53,tˈa,tˈa53
+XN,Xining,109,我们,我们,,nɔ mə̃,nɔ53 mə̃,nɔ mə̃,nɔ53 mə̃
+XN,Xining,110,你们,你们 ,,ȵi mə̃,ȵi53 mə̃,ɲi mə̃,ɲi53 mə̃
+XN,Xining,111,他们,家们 ,,tɕia mə̃,tɕia24-21 mə̃24-53,tɕia mə̃,tɕia24-21 mə̃24-53
+XN,Xining,112,咱们,我们 ,,nɔ mə̃,nɔ53 mə̃,nɔ mə̃,nɔ53 mə̃
+XN,Xining,113,自己,个家 ,,ku tɕia,ku213-21 tɕia44-24,ku tɕia,ku213-21 tɕia44-24
+XN,Xining,114,谁,谁 ,,fɨ,fɨ24,fɨ,fɨ24
+XN,Xining,115,什么,啥,,sa,sa213,sa,sa213
+XN,Xining,116,这里,致扎 ,,tʂʅ tʂa,tʂʅ213-21 tʂa53,tʂɻ̩ tʂa,tʂɻ̩213-21 tʂa53
+XN,Xining,117,那里,奈扎 ,,nɛ tʂa,nɛ213-21 tʂa53,nɛ tʂa,nɛ213-21 tʂa53
+XN,Xining,118,哪里,阿扎 ,,a tʂa,a44-21 tʂa53,a tʂa,a44-21 tʂa53
+XN,Xining,119,这个,致个 ,,tʂʅ kɔ,tʂʅ213-21 kɔ213,tʂɻ̩ kɔ,tʂɻ̩213-21 kɔ213
+XN,Xining,120,那个,奈个 ,,nɛ kɔ,nɛ213-21 kɔ213,nɛ kɔ,nɛ213-21 kɔ213
+XN,Xining,121,哪一个,阿个,,a kɔ,a44-21 kɔ213,a kɔ,a44-21 kɔ213
+XN,Xining,122,怎么样,阿蒙者 ,,a mə̃ tʂɛ,a44-21 mə̃24 tʂɛ53,a mə̃ tʂɛ,a44-21 mə̃24 tʂɛ53
+XN,Xining,123,一位客人,个 ,,kɔ,kɔ213,kɔ,kɔ213
+XN,Xining,124,一双鞋,双,,fɔ̃,fɔ̃44,fɔ̃,fɔ̃44
+XN,Xining,125,一床被,床,,tʂˈuɔ̃,tʂˈuɔ̃24,tʂˈuɔ̃,tʂˈuɔ̃24
+XN,Xining,126,一辆车,辆,,liɔ̃,liɔ̃53,liɔ̃,liɔ̃53
+XN,Xining,127,一条牛,头,,tˈɯ,tˈɯ24,tˈɯ,tˈɯ24
+XN,Xining,128,一口猪,个,,kɔ,kɔ213,kɔ,kɔ213
+XN,Xining,129,听一会儿,听一会儿,,xuɨ,xuɨ213,xuɨ,xuɨ213
+XN,Xining,130,打一下,打一挂,,kua,kua,kua,kua
+XN,Xining,131,上头,上头,,ʂɔ̃ tˈɯ,ʂɔ̃213-21 tˈɯ24-53,ʂɔ̃ tˈɯ,ʂɔ̃213-21 tˈɯ24-53
+XN,Xining,132,下头,下头,,xa tˈɯ,xa213-21 tˈɯ24-53,xa tˈɯ,xa213-21 tˈɯ24-53
+XN,Xining,133,左边,左面,,tsu miã ɛ,tsu53 miã ɛ,tsu miã ɛ,tsu53 miã ɛ
+XN,Xining,134,右边,右面,,iɯ miã ɛ,iɯ213-21 miã213 ɛ,iɯ miã ɛ,iɯ213-21 miã213 ɛ
+XN,Xining,135,当中,中间 ,,tʂuə̃ tɕiã,tʂuə̃44 tɕiã44,tʂuə̃ tɕiã,tʂuə̃44 tɕiã44
+XN,Xining,136,里面,里头 ,,l̩ tˈɯ,l̩53 tˈɯ,l̩ tˈɯ,l̩53 tˈɯ
+XN,Xining,137,外面,外头 ,,uɛ tˈɯ,uɛ213-21 tˈɯ24-53,uɛ tˈɯ,uɛ213-21 tˈɯ24-53
+XN,Xining,138,甜,甜,,tˈiã,tˈiã24,tˈiã,tˈiã24
+XN,Xining,139,酸,酸,,suã,suã44,suã,suã44
+XN,Xining,140,咸,咸,,xã,xã24,xã,xã24
+XN,Xining,141,淡,淡,,tã,tã213,tã,tã213
+XN,Xining,142,胖,胖,,pˈɔ̃,pˈɔ̃213,pˈɔ̃,pˈɔ̃213
+XN,Xining,143,瘦,瘦,,sɯ,sɯ213,sɯ,sɯ213
+XN,Xining,144,冷,冷,,lə̃,lə̃53,lə̃,lə̃53
+XN,Xining,145,热,热,,ʐɛ,ʐɛ44,ʐɛ,ʐɛ44
+XN,Xining,146,香,香,,ɕiɔ̃,ɕiɔ̃44,ɕiɔ̃,ɕiɔ̃44
+XN,Xining,147,臭,臭,,tʂˈɯ,tʂˈɯ213,tʂˈɯ,tʂˈɯ213
+XN,Xining,148,粗,粗,,tɕˈy,tɕˈy44,tɕˈy,tɕˈy44
+XN,Xining,149,细,细,,ɕj,ɕj213,ɕj,ɕj213
+XN,Xining,150,长,长,,tʂˈɔ̃,tʂˈɔ̃24,tʂˈɔ̃,tʂˈɔ̃24
+XN,Xining,151,短,短,,tuã,tuã53,tuã,tuã53
+XN,Xining,152,脏,脏,,tsɔ̃,tsɔ̃44,tsɔ̃,tsɔ̃44
+XN,Xining,153,干净,干净,,kã tɕiə̃,kã44 tɕiə̃,kã tɕiə̃,kã44 tɕiə̃
+XN,Xining,154,便宜,便宜,,pˈiã i,pˈiã24-21 i24-53,pˈiã i,pˈiã24-21 i24-53
+XN,Xining,155,刚(来),将,,tɕiɔ̃,tɕiɔ̃24,tɕiɔ̃,tɕiɔ̃24
+XN,Xining,156,刚(合适),将,,tɕiɔ̃,tɕiɔ̃24,tɕiɔ̃,tɕiɔ̃24
+XN,Xining,157,正好,将卡码 ,,tɕiɔ̃ kˈa ma,tɕiɔ̃24 kˈa53-21 ma53,tɕiɔ̃ kˈa ma,tɕiɔ̃24 kˈa53-21 ma53
+XN,Xining,158,和,跟,,kə̃,kə̃44,kə̃,kə̃44
+XN,Xining,159,只,就,,tɕiɯ,tɕiɯ213,tɕiɯ,tɕiɯ213
+XN,Xining,160,从,从,,tsˈuə̃,tsˈuə̃24,tsˈuə̃,tsˈuə̃24
+XN,Xining,161,替,代,,tɛ,tɛ213,tɛ,tɛ213
+XN,Xining,162,拿,逮,,tɛ,tɛ213,tɛ,tɛ213
+XN,Xining,163,故意,得故意儿,,ti kv̩ i ɛ,ti44 kv̩213 i213-21 ɛ24-53,ti kv̩ i ɛ,ti44 kv̩213 i213-21 ɛ24-53
+XN,Xining,164,一,一,,j,j44,j,j44
+XN,Xining,165,二,二,,ɛ,ɛ213,ɛ,ɛ213
+XN,Xining,166,三,三,,sã,sã44,sã,sã44
+XN,Xining,167,四,四,,sɿ,sɿ213,sɹ̩,sɹ̩213
+XN,Xining,168,五,五,,v̩,v̩53,v̩,v̩53
+XN,Xining,169,六,六,,liɯ,liɯ44,liɯ,liɯ44
+XN,Xining,170,七,七,,tɕˈj,tɕˈj44,tɕˈj,tɕˈj44
+XN,Xining,171,八,八,,pa,pa44,pa,pa44
+XN,Xining,172,九,九,,tɕiɯ,tɕiɯ53,tɕiɯ,tɕiɯ53
+XN,Xining,173,十,十,,ʂʅ,ʂʅ24,ʂɻ̩,ʂɻ̩24
+XN,Xining,174,十一,十一,,ʂʅ j,ʂʅ24 j44,ʂɻ̩ j,ʂɻ̩24 j44
+XN,Xining,175,十二,十二,,ʂʅ ɛ,ʂʅ24-21 ɛ213,ʂɻ̩ ɛ,ʂɻ̩24-21 ɛ213
+XN,Xining,176,二十,二十,,ɛ ʂʅ,ɛ213-2 ʂʅ24-53,ɛ ʂɻ̩,ɛ213-2 ʂɻ̩24-53
+XN,Xining,177,二十一,二十一,,ɛ ʂʅ i,ɛ213 ʂʅ i44,ɛ ʂɻ̩ i,ɛ213 ʂɻ̩ i44
+XN,Xining,178,一百二十,,,,,,
+XN,Xining,179,第一,第一,,tsʅ j,tsʅ213 j44,tsɻ̩ j,tsɻ̩213 j44
+XN,Xining,180,第二,第二,,tsʅ ɛ,tsʅ213 ɛ213,tsɻ̩ ɛ,tsɻ̩213 ɛ213
+XN,Xining,181,两里,两里,,liɔ̃ l̩,liɔ̃53-21 l̩53,liɔ̃ l̩,liɔ̃53-21 l̩53
+XN,Xining,182,二两,二两,,ɛ liɔ̃,ɛ213-21 liɔ̃53,ɛ liɔ̃,ɛ213-21 liɔ̃53
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

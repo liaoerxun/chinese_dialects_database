@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+GY,Guiyang,1,谁啊?我是老三。,哪个?我是老三,,la ko ŋo sɿ lao san,la42 ko213 ŋo42 sɿ213 lao42 san55,la ko ŋo sɹ̩ lao san,la42 ko213 ŋo42 sɹ̩213 lao42 san55
+GY,Guiyang,2,老四呢?她正跟一个朋友说着话呢。,老四呢?她正在和一个朋友说起话的嘞,,lao sɿ lɛ la tsen tsai xo i ko pˈoŋ iəu so tɕˈi xua lɛ lɛ,lao42 sɿ213 lɛ55 la55 tsen213 tsai213 xo21 i21 ko213 pˈoŋ21 iəu42 so21 tɕˈi42 xua213 lɛ55 lɛ21,lao sɹ̩ lɛ la tsen tsai xo i ko pˈoŋ iəu so tɕˈi xua lɛ lɛ,lao42 sɹ̩213 lɛ55 la55 tsen213 tsai213 xo21 i21 ko213 pˈoŋ21 iəu42 so21 tɕˈi42 xua213 lɛ55 lɛ21
+GY,Guiyang,3,她还没说完吗?,她还没得说完啊,,la xai mei tɛ so uan a,la55 xai21 mei55 tɛ21 so21 uan21 a21,la xai mei tɛ so uan a,la55 xai21 mei55 tɛ21 so21 uan21 a21
+GY,Guiyang,4,还没有。大概再有一会儿就说完了。,还没得。多半还有一下下就说完喽,,xai mei tɛ to pan xai iəu i xa xa təu so uan ləu,xai21 mei55 tɛ21 to55 pan213 xai21 iəu42 i21 xa213 xa213 təu213 so21 uan21 ləu42,xai mei tɛ to pan xai iəu i xa xa təu so uan ləu,xai21 mei55 tɛ21 to55 pan213 xai21 iəu42 i21 xa213 xa213 təu213 so21 uan21 ləu42
+GY,Guiyang,5,他说马上就走，怎么这半天了还在家里?,他说的立马就走，咋个这样大半天了还在屋头呢,,la so lɛ li ma təu tsəu tsa ko tsɿ iaŋ ta pan tˈian ao xai tsai u tˈəu lɛ,la55 so21 lɛ55 li21 ma42 təu213 tsəu42 tsa21 ko213 tsɿ55 iaŋ213 ta213 pan213 tˈian55 ao213 xai21 tsai213 u21 tˈəu55 lɛ21,la so lɛ li ma təu tsəu tsa ko tsɹ̩ iaŋ ta pan tˈian ao xai tsai u tˈəu lɛ,la55 so21 lɛ55 li21 ma42 təu213 tsəu42 tsa21 ko213 tsɹ̩55 iaŋ213 ta213 pan213 tˈian55 ao213 xai21 tsai213 u21 tˈəu55 lɛ21
+GY,Guiyang,6,你到哪儿去?我到城里去。,你走哪点去呃?我走城头去,,li tsəu la tai kˈi ei ŋo tsəu tsˈen tˈəu kˈi,li42 tsəu42 la42 tai42 kˈi213 ei55 ŋo42 tsəu42 tsˈen21 tˈəu55 kˈi213,li tsəu la tai kˈi ei ŋo tsəu tsˈen tˈəu kˈi,li42 tsəu42 la42 tai42 kˈi213 ei55 ŋo42 tsəu42 tsˈen21 tˈəu55 kˈi213
+GY,Guiyang,7,在那儿，不在这儿。,在那点，不在这点,,tsai a tiɛ pu tsai tsɿ tiɛ,tsai213 a213 tiɛ42 pu21 tsai213 tsɿ55 tiɛ42,tsai a tiɛ pu tsai tsɹ̩ tiɛ,tsai213 a213 tiɛ42 pu21 tsai213 tsɹ̩55 tiɛ42
+GY,Guiyang,8,不是那么做，要这么做。,不是那样做，是要像这样做的,,pu sɿ a iaŋ tsəu sɿ iao ɕiaŋ tsɿ iaŋ tsəu lɛ,pu21 sɿ213 a213 iaŋ213 tsəu213 sɿ213 iao213 ɕiaŋ213 tsɿ55 iaŋ213 tsəu213 lɛ55,pu sɹ̩ a iaŋ tsəu sɹ̩ iao ɕiaŋ tsɹ̩ iaŋ tsəu lɛ,pu21 sɹ̩213 a213 iaŋ213 tsəu213 sɹ̩213 iao213 ɕiaŋ213 tsɹ̩55 iaŋ213 tsəu213 lɛ55
+GY,Guiyang,9,太多了，用不着那么多，只要这么多就够了。,太多啦，要不倒那样多，只要这样多就够啦,,tˈai to la iao pu tao a iaŋ to tsɿ iao tsɿ iaŋ to təu kəu la,tˈai213 to55 la42 iao213 pu21 tao42 a213 iaŋ213 to55 tsɿ42 iao213 tsɿ55 iaŋ213 to55 təu213 kəu213 la42,tˈai to la iao pu tao a iaŋ to tsɹ̩ iao tsɹ̩ iaŋ to təu kəu la,tˈai213 to55 la42 iao213 pu21 tao42 a213 iaŋ213 to55 tsɹ̩42 iao213 tsɹ̩55 iaŋ213 to55 təu213 kəu213 la42
+GY,Guiyang,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这两个到底哪个要好一点呢,,tsɿ ko ta a ko ɕiao tsɿ liaŋ ko tao ti la ko iao xao i tɛ lɛ,tsɿ55 ko213 ta213 a213 ko213 ɕiao42 tsɿ55 liaŋ42 ko213 tao213 ti42 la42 ko213 iao213 xao42 i21 tɛ42 lɛ55,tsɹ̩ ko ta a ko ɕiao tsɹ̩ liaŋ ko tao ti la ko iao xao i tɛ lɛ,tsɹ̩55 ko213 ta213 a213 ko213 ɕiao42 tsɹ̩55 liaŋ42 ko213 tao213 ti42 la42 ko213 iao213 xao42 i21 tɛ42 lɛ55
+GY,Guiyang,11,这个比那个好。,这个更比那个好,,tsɿ ko ken pi a ko xao,tsɿ55 ko213 ken213 pi42 a213 ko213 xao42,tsɹ̩ ko ken pi a ko xao,tsɹ̩55 ko213 ken213 pi42 a213 ko213 xao42
+GY,Guiyang,12,这些房子不如那些房子好。,这些房子不得那些房子好,,tsɿ ɕiɛ faŋ tsɿ pu tɛ a ɕiɛ faŋ tsɿ xao,tsɿ55 ɕiɛ55 faŋ21 tsɿ42 pu21 tɛ21 a213 ɕiɛ55 faŋ21 tsɿ42 xao42,tsɹ̩ ɕiɛ faŋ tsɹ̩ pu tɛ a ɕiɛ faŋ tsɹ̩ xao,tsɹ̩55 ɕiɛ55 faŋ21 tsɹ̩42 pu21 tɛ21 a213 ɕiɛ55 faŋ21 tsɹ̩42 xao42
+GY,Guiyang,13,这句话用成都话怎么说?,,,,,,
+GY,Guiyang,14,他今年多大岁数了?,他今年好大啦,,la tɕin lian xao ta la,la55 tɕin55 lian21 xao42 ta213 la43,la tɕin lian xao ta la,la55 tɕin55 lian21 xao42 ta213 la43
+GY,Guiyang,15,大概三十来岁吧。,怕有三十来岁喽嘛,,pˈa iəu san sɿ lai suei ləu ma,pˈa213 iəu42 san55 sɿ21 lai21 suei213 ləu42 ma42,pˈa iəu san sɹ̩ lai suei ləu ma,pˈa213 iəu42 san55 sɹ̩21 lai21 suei213 ləu42 ma42
+GY,Guiyang,16,这个东西有多重呢?,这个东西有好重啊,,tsɿ ko toŋ ɕi iəu xao tsoŋ a,tsɿ55 ko213 toŋ55 ɕi55 iəu42 xao42 tsoŋ213 a42,tsɹ̩ ko toŋ ɕi iəu xao tsoŋ a,tsɹ̩55 ko213 toŋ55 ɕi55 iəu42 xao42 tsoŋ213 a42
+GY,Guiyang,17,有五十斤重呢。,有五十斤重嘞,,iəu u sɿ tɕin tsoŋ lɛ,iəu42 u42 sɿ21 tɕin55 tsoŋ213 lɛ21,iəu u sɹ̩ tɕin tsoŋ lɛ,iəu42 u42 sɹ̩21 tɕin55 tsoŋ213 lɛ21
+GY,Guiyang,18,拿得动吗?,拿得动不,,la tɛ toŋ pu,la21 tɛ21 toŋ213 pu21,la tɛ toŋ pu,la21 tɛ21 toŋ213 pu21
+GY,Guiyang,19,我拿得动，他拿不动。,我拿得动，他拿不动,,ŋo la tɛ toŋ la la pu toŋ,ŋo42 la21 tɛ21 toŋ213 la55 la21 pu21 toŋ213,ŋo la tɛ toŋ la la pu toŋ,ŋo42 la21 tɛ21 toŋ213 la55 la21 pu21 toŋ213
+GY,Guiyang,20,真不轻，重得连我也拿不动。,硬是不轻嘞，重得连我都拿不动,,ŋen sɿ pu tɕˈin lɛ tsoŋ tɛ lian ŋo təu la pu toŋ,ŋen213 sɿ213 pu21 tɕˈin55 lɛ21 tsoŋ213 tɛ21 lian21 ŋo42 təu55 la21 pu21 toŋ213,ŋen sɹ̩ pu tɕˈin lɛ tsoŋ tɛ lian ŋo təu la pu toŋ,ŋen213 sɹ̩213 pu21 tɕˈin55 lɛ21 tsoŋ213 tɛ21 lian21 ŋo42 təu55 la21 pu21 toŋ213
+GY,Guiyang,21,你说得很好，你还会说点什么呢?,你说得好得很，你还会说些哪样呢,,li so tɛ xao tɛ xen li xai xuei so ɕiɛ la iaŋ lɛ,li42 so21 tɛ21 xao42 tɛ21 xen42 li42 xai21 xuei213 so21 ɕiɛ55 la42 iaŋ213 lɛ55,li so tɛ xao tɛ xen li xai xuei so ɕiɛ la iaŋ lɛ,li42 so21 tɛ21 xao42 tɛ21 xen42 li42 xai21 xuei213 so21 ɕiɛ55 la42 iaŋ213 lɛ55
+GY,Guiyang,22,我嘴笨，我说不过他。,我的嘴笨得很，我说不赢他,,ŋo lɛ tsuei pen tɛ xen ŋo so pu in la,ŋo42 lɛ55 tsuei42 pen213 tɛ21 xen42 ŋo42 so21 pu21 in21 la55,ŋo lɛ tsuei pen tɛ xen ŋo so pu in la,ŋo42 lɛ55 tsuei42 pen213 tɛ21 xen42 ŋo42 so21 pu21 in21 la55
+GY,Guiyang,23,说了一遍，又说一遍。,说了一遍，又说一遍,,so əu i pian iəu so i pian,so21 əu213 i21 pian213 iəu213 so21 i21 pian213,so əu i pian iəu so i pian,so21 əu213 i21 pian213 iəu213 so21 i21 pian213
+GY,Guiyang,24,请你再说一遍。,麻烦你再说一遍下,,ma fan li tsai so i pian xa,ma21 fan21 li42 tsai213 so21 i21 pian213 xa213,ma fan li tsai so i pian xa,ma21 fan21 li42 tsai213 so21 i21 pian213 xa213
+GY,Guiyang,25,不早了，快去吧。,不早了，快点去喽,,pu tsao əu kˈuai tai tɕˈi ləu,pu21 tsao42 əu213 kˈuai213 tai42 tɕˈi213 ləu42,pu tsao əu kˈuai tai tɕˈi ləu,pu21 tsao42 əu213 kˈuai213 tai42 tɕˈi213 ləu42
+GY,Guiyang,26,现在还早着呢，等一会儿再去吧。,这下还早得很嘞，等一下再去嘛,,tsɿ xa xai tsao tɛ xen lɛ ten i xa tsai tɕˈi ma,tsɿ55 xa213 xai21 tsao42 tɛ21 xen42 lɛ21 ten42 i21 xa213 tsai213 tɕˈi213 ma21,tsɹ̩ xa xai tsao tɛ xen lɛ ten i xa tsai tɕˈi ma,tsɹ̩55 xa213 xai21 tsao42 tɛ21 xen42 lɛ21 ten42 i21 xa213 tsai213 tɕˈi213 ma21
+GY,Guiyang,27,吃了饭再去好吗?,吃了饭将得去好,,txˈɿ əu fan tɕiaŋ tɛ tɕˈi xa,txˈɿ21 əu213 fan213 tɕiaŋ55 tɛ21 tɕˈi213 xa42,txˈɹ̩ əu fan tɕiaŋ tɛ tɕˈi xa,txˈɹ̩21 əu213 fan213 tɕiaŋ55 tɛ21 tɕˈi213 xa42
+GY,Guiyang,28,慢慢儿吃啊，不要着急。,慢慢的吃好，不要着急,,man man lɛ tsˈɿ xao pu piao tso tɕi,man213 man213 lɛ55 tsˈɿ21 xao42 pu21 piao213 tso21 tɕi21,man man lɛ tsˈɹ̩ xao pu piao tso tɕi,man213 man213 lɛ55 tsˈɹ̩21 xao42 pu21 piao213 tso21 tɕi21
+GY,Guiyang,29,坐着吃比站着吃好些。,坐起吃要比站起吃好点,,tso tɕˈi tsˈɿ iao pi tsan tɕˈi tsˈɿ xao tɛ,tso21 tɕˈi42 tsˈɿ21 iao213 pi42 tsan213 tɕˈi42 tsˈɿ21 xao42 tɛ42,tso tɕˈi tsˈɹ̩ iao pi tsan tɕˈi tsˈɹ̩ xao tɛ,tso21 tɕˈi42 tsˈɹ̩21 iao213 pi42 tsan213 tɕˈi42 tsˈɹ̩21 xao42 tɛ42
+GY,Guiyang,30,他吃了饭了，你吃了饭没有呢?,他吃了饭了，你吃了饭不得呃,,la tsˈɿ ao fan əu li tsˈɿ ao fan pu tɛ ɛ,la55 tsˈɿ21 ao213 fan213 əu213 li42 tsˈɿ21 ao213 fan213 pu21 tɛ21 ɛ55,la tsˈɹ̩ ao fan əu li tsˈɹ̩ ao fan pu tɛ ɛ,la55 tsˈɹ̩21 ao213 fan213 əu213 li42 tsˈɹ̩21 ao213 fan213 pu21 tɛ21 ɛ55
+GY,Guiyang,31,他去过上海，我没有去过。,他去过上海，我没得去过,,la kˈi ko saŋ xai ŋo mei tɛ tɕˈi ko,la55 kˈi213 ko213 saŋ213 xai42 ŋo42 mei55 tɛ21 tɕˈi213 ko213,la kˈi ko saŋ xai ŋo mei tɛ tɕˈi ko,la55 kˈi213 ko213 saŋ213 xai42 ŋo42 mei55 tɛ21 tɕˈi213 ko213
+GY,Guiyang,32,来闻闻这朵花香不香。,来闻下看这朵花香不香,,lai uen xa kˈan tsɿ to xua ɕiaŋ pu ɕiaŋ,lai21 uen21 xa213 kˈan213 tsɿ55 to42 xua55 ɕiaŋ55 pu21 ɕiaŋ55,lai uen xa kˈan tsɹ̩ to xua ɕiaŋ pu ɕiaŋ,lai21 uen21 xa213 kˈan213 tsɹ̩55 to42 xua55 ɕiaŋ55 pu21 ɕiaŋ55
+GY,Guiyang,33,给我一本书。,拿一本书跟我,,la i pen su ken ŋo,la21 i21 pen42 su55 ken55 ŋo42,la i pen su ken ŋo,la21 i21 pen42 su55 ken55 ŋo42
+GY,Guiyang,34,我真的没有那本书呀。,我真的没得那本书嘛,,ŋo tsen lɛ mei tɛ a pen su ma,ŋo42 tsen55 lɛ55 mei55 tɛ21 a213 pen42 su55 ma21,ŋo tsen lɛ mei tɛ a pen su ma,ŋo42 tsen55 lɛ55 mei55 tɛ21 a213 pen42 su55 ma21
+GY,Guiyang,35,你告诉他。,你跟他讲,,li ken la tɕiaŋ,li42 ken55 la55 tɕiaŋ42,li ken la tɕiaŋ,li42 ken55 la55 tɕiaŋ42
+GY,Guiyang,36,好好地走，不要跑。,好好地走，不要跑,,xao xao lɛ tsəu pu iao pˈao,xao42 xao42 lɛ55 tsəu42 pu21 iao213 pˈao42,xao xao lɛ tsəu pu iao pˈao,xao42 xao42 lɛ55 tsəu42 pu21 iao213 pˈao42
+GY,Guiyang,37,小心跌下去爬不上来。,不注意跶下去就爬不起来𡂿,,pu tsu i ta ɕia tɕˈi təu pˈa pu tɕˈi lai əu,pu21 tsu213 i213 ta21 ɕia213 tɕˈi213 təu213 pˈa21 pu21 tɕˈi42 lai21 əu213,pu tsu i ta ɕia tɕˈi təu pˈa pu tɕˈi lai əu,pu21 tsu213 i213 ta21 ɕia213 tɕˈi213 təu213 pˈa21 pu21 tɕˈi42 lai21 əu213
+GY,Guiyang,38,医生叫你多睡睡。,医生喊你多睡下,,i sen xan li to suei xa,i55 sen55 xan42 li42 to55 suei213 xa213,i sen xan li to suei xa,i55 sen55 xan42 li42 to55 suei213 xa213
+GY,Guiyang,39,抽烟或者喝茶都不许。,吃烟吃茶都要不得,,tsˈɿ ian tsˈɿ tsˈa təu iao pu tɛ,tsˈɿ21 ian55 tsˈɿ21 tsˈa təu55 iao213 pu21 tɛ21,tsˈɹ̩ ian tsˈɹ̩ tsˈa təu iao pu tɛ,tsˈɹ̩21 ian55 tsˈɹ̩21 tsˈa təu55 iao213 pu21 tɛ21
+GY,Guiyang,40,烟也好，茶也好，我都不喜欢。,管你是烟是茶，我都不喜欢,,kuan li sɿ ian sɿ tsˈa ŋo təu pu ɕi xuan,kuan42 li42 sɿ213 ian55 sɿ213 tsˈa21 ŋo42 təu55 pu21 ɕi42 xuan55,kuan li sɹ̩ ian sɹ̩ tsˈa ŋo təu pu ɕi xuan,kuan42 li42 sɹ̩213 ian55 sɹ̩213 tsˈa21 ŋo42 təu55 pu21 ɕi42 xuan55
+GY,Guiyang,41,不管你去不去，反正我是要去的。,管你去不去𡂿，横顺我都是要去的,,kuan li tɕˈi pu tɕˈi əu xuen suen ŋo təu sɿ iao tɕˈi lɛ,kuan42 li42 tɕˈi213 pu21 tɕˈi213 əu21 xuen21 suen213 ŋo42 təu55 sɿ213 iao213 tɕˈi213 lɛ55,kuan li tɕˈi pu tɕˈi əu xuen suen ŋo təu sɹ̩ iao tɕˈi lɛ,kuan42 li42 tɕˈi213 pu21 tɕˈi213 əu21 xuen21 suen213 ŋo42 təu55 sɹ̩213 iao213 tɕˈi213 lɛ55
+GY,Guiyang,42,我非去不可。,我非要去,,ŋo fei iao kˈei,ŋo42 fei55 iao213 kˈei213,ŋo fei iao kˈei,ŋo42 fei55 iao213 kˈei213
+GY,Guiyang,43,你是哪一年来的?,你是哪一年来的,,li sɿ la i lian lai lɛ,li42 sɿ213 la42 i21 lian21 lai21 lɛ55,li sɹ̩ la i lian lai lɛ,li42 sɹ̩213 la42 i21 lian21 lai21 lɛ55
+GY,Guiyang,44,我是前年到的北京。,我是前年来北京的,,ŋo sɿ tɕˈian lian lai pɛ tɕin lɛ,ŋo42 sɿ213 tɕˈian21 lian21 lai21 pɛ21 tɕin55 lɛ55,ŋo sɹ̩ tɕˈian lian lai pɛ tɕin lɛ,ŋo42 sɹ̩213 tɕˈian21 lian21 lai21 pɛ21 tɕin55 lɛ55
+GY,Guiyang,45,今天开会谁的主席?,今天开会是哪个当主席,,tɕin tˈian kˈai xuei sɿ la ko taŋ tsu ɕi,tɕin55 tˈian55 kˈai55 xuei213 sɿ213 la42 ko213 taŋ55 tsu42 ɕi21,tɕin tˈian kˈai xuei sɹ̩ la ko taŋ tsu ɕi,tɕin55 tˈian55 kˈai55 xuei213 sɹ̩213 la42 ko213 taŋ55 tsu42 ɕi21
+GY,Guiyang,46,你得请我的客。,你要请我的客𡂿,,li iao tɕˈin ŋo lɛ kˈɛ əu,li42 iao213 tɕˈin42 ŋo42 lɛ55 kˈɛ21 əu55,li iao tɕˈin ŋo lɛ kˈɛ əu,li42 iao213 tɕˈin42 ŋo42 lɛ55 kˈɛ21 əu55
+GY,Guiyang,47,一边走，一边讲。,连路走，连路讲,,lian lu tsəu lian lu tɕiaŋ,lian21 lu213 tsəu42 lian21 lu213 tɕiaŋ42,lian lu tsəu lian lu tɕiaŋ,lian21 lu213 tsəu42 lian21 lu213 tɕiaŋ42
+GY,Guiyang,48,越走越远，越说越多。,越走越远，越说越多,,iɛ tsəu iɛ ian iɛ su iɛ to,iɛ21 tsəu42 iɛ21 ian42 iɛ21 su21 iɛ21 to55,iɛ tsəu iɛ ian iɛ su iɛ to,iɛ21 tsəu42 iɛ21 ian42 iɛ21 su21 iɛ21 to55
+GY,Guiyang,49,把那个东西拿给我。,把那个东西拿给我,,pa a ko toŋ ɕi la kei ŋo,pa42 a213 ko213 toŋ55 ɕi55 la21 kei55 ŋo42,pa a ko toŋ ɕi la kei ŋo,pa42 a213 ko213 toŋ55 ɕi55 la21 kei55 ŋo42
+GY,Guiyang,50,有些地方把太阳叫日头。,有些地方把太阳叫做日头,,iəu ɕiɛ ti faŋ pa tˈai iaŋ tɕiao tsu zɿ tˈəu,iəu42 ɕiɛ55 ti213 faŋ55 pa42 tˈai213 iaŋ21 tɕiao213 tsu213 zɿ21 tˈəu21,iəu ɕiɛ ti faŋ pa tˈai iaŋ tɕiao tsu zɹ̩ tˈəu,iəu42 ɕiɛ55 ti213 faŋ55 pa42 tˈai213 iaŋ21 tɕiao213 tsu213 zɹ̩21 tˈəu21
+GY,Guiyang,51,您贵姓?我姓王。,你贵姓?我姓王,,li kuei ɕin ŋo ɕin uaŋ,li42 kuei213 ɕin213 ŋo42 ɕin213 uaŋ21,li kuei ɕin ŋo ɕin uaŋ,li42 kuei213 ɕin213 ŋo42 ɕin213 uaŋ21
+GY,Guiyang,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我也是姓王，我们两个都姓王,,li ɕin uaŋ ŋo iɛ sɿ ɕin uaŋ ŋo men liaŋ ko təu ɕin uaŋ,li42 ɕin213 uaŋ21 ŋo42 iɛ42 sɿ213 ɕin213 uaŋ21 ŋo42 men55 liaŋ42 ko213 təu55 ɕin213 uaŋ21,li ɕin uaŋ ŋo iɛ sɹ̩ ɕin uaŋ ŋo men liaŋ ko təu ɕin uaŋ,li42 ɕin213 uaŋ21 ŋo42 iɛ42 sɹ̩213 ɕin213 uaŋ21 ŋo42 men55 liaŋ42 ko213 təu55 ɕin213 uaŋ21
+GY,Guiyang,53,你先去吧，我们等一会儿再去。,你先去倒好，我们等一下下再去,,li ɕian kˈi tao xa ŋo men ten i xa xa tsai kˈɛ,li42 ɕian55 kˈi213 tao42 xa42 ŋo42 men55 ten42 i21 xa55 xa55 tsai213 kˈɛ213,li ɕian kˈi tao xa ŋo men ten i xa xa tsai kˈɛ,li42 ɕian55 kˈi213 tao42 xa42 ŋo42 men55 ten42 i21 xa55 xa55 tsai213 kˈɛ213
+GY,Guiyang,54,你抽烟不抽?/你抽不抽烟?,你吃烟不吃,,li tsˈɿ ian pu tsˈɿ,li42 tsˈɿ21 ian55 pu21 tsˈɿ21,li tsˈɹ̩ ian pu tsˈɹ̩,li42 tsˈɹ̩21 ian55 pu21 tsˈɹ̩21
+GY,Guiyang,55,你认得那个人不认得?,你认得那个人不,,li zen tɛ a ko zen pu,li42 zen213 tɛ21 a213 ko213 zen21 pu21,li zen tɛ a ko zen pu,li42 zen213 tɛ21 a213 ko213 zen21 pu21
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

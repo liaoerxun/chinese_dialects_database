@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+HF,Hefei,1,太阳,太阳,,tˈE iɑ̃,tˈE53 iɑ̃,tˈɤ53 iɑ̃,tˈɤ iɑ̃
+HF,Hefei,2,月亮,月亮 ,,yɐʔ liɑ̃,yɐʔ5 liɑ̃53,yɐʔ5 liɑ̃53,yɐʔ liɑ̃
+HF,Hefei,3,星星,星 ,,ɕin,ɕin21,ɕin21,ɕin
+HF,Hefei,4,打雷,打雷 ,,ta le,ta24 le55,ta24 le55,ta le
+HF,Hefei,5,闪电,打闪 ,,ta ʂən,ta24 ʂən24,ta24 ʂən24,ta ʂən
+HF,Hefei,6,下雨,下雨 ,,ɕia zɥ,ɕia53 zɥ24,ɕia53 zɥ24,ɕia zɥ
+HF,Hefei,7,下雪,下雪 ,,ɕia ɕyɐʔ,ɕia53 ɕyɐʔ5,ɕia53 ɕyɐʔ5,ɕia ɕyɐʔ
+HF,Hefei,8,冰雹,盐豆子 ,,iɪ̃ tɯ tsə,iɪ̃55 tɯ53 tsə,iɪ̃55 tɯ53 tsə,iɪ̃ tɯ tsə
+HF,Hefei,9,结冰,结冰 ,,tɕiɐʔ pin,tɕiɐʔ5 pin21,tɕiɐʔ5 pin21,tɕiɐʔ pin
+HF,Hefei,10,刮风,起风 ,,tsˈɿ fəŋ,tsˈɿ24 fəŋ21,tsˈɹ̩24 fəŋ21,tsˈɹ̩ fəŋ
+HF,Hefei,11,虹,虹 ,,tɕiɑ,tɕiɑ53,tɕiɑ53,tɕiɑ
+HF,Hefei,12,端午节,端午节 ,,tʊ̃ u tɕiɐʔ,tʊ̃21 u24 tɕiɐʔ5,tʊ̃21 u24 tɕiɐʔ5,tʊ̃ u tɕiɐʔ
+HF,Hefei,13,中秋节,中秋节 ,,tʂəŋ tɕˈiɯ tɕiɐʔ,tʂəŋ21-24 tɕˈiɯ21 tɕiɐʔ5,tʂəŋ21-24 tɕˈiɯ21 tɕiɐʔ5,tʂəŋ tɕˈiɯ tɕiɐʔ
+HF,Hefei,14,除夕,年三十,,liɪ̃ sæ̃ ʂəʔ,liɪ̃55 sæ̃21 ʂəʔ5,liɪ̃55 sæ̃21 ʂəʔ5,liɪ̃ sæ̃ ʂəʔ
+HF,Hefei,15,今年,今年 ,,tɕin liɪ̃,tɕin21 liɪ̃55,tɕin21 liɪ̃55,tɕin liɪ̃
+HF,Hefei,16,明年,明年 ,,min liɪ̃,min55 liɪ̃55,min55 liɪ̃55,min liɪ̃
+HF,Hefei,17,去年,去年 ,,tsˈɥ liɪ̃,tsˈɥ53 liɪ̃55,tsˈɥ53 liɪ̃55,tsˈɥ liɪ̃
+HF,Hefei,18,明天,麻个 ,,ma kə,ma55 kə,ma55 kə,ma kə
+HF,Hefei,19,昨天,昨个,,tsʊ kə,tsʊ55 kə,tsʊ55 kə,tsʊ kə
+HF,Hefei,20,今天,皆个 ,,tɕiE kə,tɕiE21 kə,tɕiɤ21 kə,tɕiɤ kə
+HF,Hefei,21,星期天,星期天 ,,ɕin tsˈɿ tˈiɪ̃,ɕin21 tsˈɿ55 tˈiɪ̃21,ɕin21 tsˈɹ̩55 tˈiɪ̃21,ɕin tsˈɹ̩ tˈiɪ̃
+HF,Hefei,22,麦子,麦子 ,,mɐʔ tsə,mɐʔ5 tsə,mɐʔ5 tsə,mɐʔ tsə
+HF,Hefei,23,大米,米 ,,mɿ,mɿ24,mɹ̩24,mɹ̩
+HF,Hefei,24,蚕豆,蚕豆 ,,tsˈæ̃ tɯ,tsˈæ̃55 tɯ53,tsˈæ̃55 tɯ53,tsˈæ̃ tɯ
+HF,Hefei,25,向日葵,葵花 ,,kˈue xua,kˈue55 xua21,kˈue55 xua21,kˈue xua
+HF,Hefei,26,菠菜,菠菜 ,,pʊ tsˈE,pʊ21-24 tsˈE53,pʊ21-24 tsˈɤ53,pʊ tsˈɤ
+HF,Hefei,27,卷心菜,包头菜 ,,pɔ tˈɯ tsˈE,pɔ21 tˈɯ55 tsˈE53,pɔ21 tˈɯ55 tsˈɤ53,pɔ tˈɯ tsˈɤ
+HF,Hefei,28,西红柿,洋柿子 ,,iɑ̃ sɿ tsə,iɑ̃55 sɿ53 tsə,iɑ̃55 sɹ̩53 tsə,iɑ̃ sɹ̩ tsə
+HF,Hefei,29,茄子,茄子 ,,tɕˈye tsə,tɕˈye55 tsə,tɕˈye55 tsə,tɕˈye tsə
+HF,Hefei,30,白薯,芋头 ,,zɥ tˈɯ,zɥ53 tˈɯ,zɥ53 tˈɯ,zɥ tˈɯ
+HF,Hefei,31,马铃薯,马铃薯 ,,ma lin tʂˈu,ma24 lin55 tʂˈu24,ma24 lin55 tʂˈu24,ma lin tʂˈu
+HF,Hefei,32,南瓜,南瓜 ,,læ̃ kua,læ̃55 kua21,læ̃55 kua21,læ̃ kua
+HF,Hefei,33,猪,猪 ,,tʂu,tʂu21,tʂu21,tʂu
+HF,Hefei,34,公猪,公猪 ,,kəŋ tʂu,kəŋ21-24 tʂu21,kəŋ21-24 tʂu21,kəŋ tʂu
+HF,Hefei,35,母猪,母猪 ,,məŋ tʂu,məŋ24 tʂu21,məŋ24 tʂu21,məŋ tʂu
+HF,Hefei,36,公鸡,公鸡 ,,kəŋ tsɿ,kəŋ21-24 tsɿ21,kəŋ21-24 tsɹ̩21,kəŋ tsɹ̩
+HF,Hefei,37,母鸡,母鸡 ,,məŋ tsɿ,məŋ24 tsɿ21,məŋ24 tsɹ̩21,məŋ tsɹ̩
+HF,Hefei,38,麻雀,麻啾,,ma tɕˈiɯ,ma55 tɕˈiɯ21,ma55 tɕˈiɯ21,ma tɕˈiɯ
+HF,Hefei,39,老鼠,老鼠,,lɔ tʂˈuə,lɔ24 tʂˈuə,lɔ24 tʂˈuə,lɔ tʂˈuə
+HF,Hefei,40,臭虫,臭虫,,tʂˈɯ tʂˈəŋ,tʂˈɯ53 tʂˈəŋ,tʂˈɯ53 tʂˈəŋ,tʂˈɯ tʂˈəŋ
+HF,Hefei,41,房子(整),宅子,,tsɐʔ tsə,tsɐʔ5 tsə,tsɐʔ5 tsə,tsɐʔ tsə
+HF,Hefei,42,房子(单),房间 ,,fɑ̃ tɕɪ̃,fɑ̃55 tɕɪ̃21,fɑ̃55 tɕɪ̃21,fɑ̃ tɕɪ̃
+HF,Hefei,43,窗户,窗子 ,,tʂˈuɑ̃ tsə,tʂˈuɑ̃21 tsə,tʂˈuɑ̃21 tsə,tʂˈuɑ̃ tsə
+HF,Hefei,44,门坎,门坎 ,,mən kˈæ̃,mən55 kˈæ̃24,mən55 kˈæ̃24,mən kˈæ̃
+HF,Hefei,45,厕所,茅厕 ,,mɔ tsˈɿ,mɔ55 tsˈɿ21,mɔ55 tsˈɹ̩21,mɔ tsˈɹ̩
+HF,Hefei,46,厨房,锅间 ,,kʊ tɕiɪ̃,kʊ21-24 tɕiɪ̃21,kʊ21-24 tɕiɪ̃21,kʊ tɕiɪ̃
+HF,Hefei,47,烟囱,烟龙 ,,iɪ̃ ləŋ,iɪ̃21 ləŋ,iɪ̃21 ləŋ,iɪ̃ ləŋ
+HF,Hefei,48,桌子,桌子 ,,tʂuɐʔ tsə,tʂuɐʔ5 tsə,tʂuɐʔ5 tsə,tʂuɐʔ tsə
+HF,Hefei,49,楼梯,楼梯 ,,lɯ tsˈɿ,lɯ55 tsˈɿ21,lɯ55 tsˈɹ̩21,lɯ tsˈɹ̩
+HF,Hefei,50,头,头,,tˈɯ,tˈɯ55,tˈɯ55,tˈɯ
+HF,Hefei,51,额头,额脑头 ,,ʐɐʔ lɔ tˈɯ,ʐɐʔ5-2 lɔ24 tˈɯ55,ʐɐʔ5-2 lɔ24 tˈɯ55,ʐɐʔ lɔ tˈɯ
+HF,Hefei,52,脸,脸 ,,liɪ̃,liɪ̃24,liɪ̃24,liɪ̃
+HF,Hefei,53,鼻子,鼻子,,piəʔ tsə,piəʔ5 tsə,piəʔ5 tsə,piəʔ tsə
+HF,Hefei,54,脖子,脑颈把 ,,lɔ tɕin pa,lɔ24 tɕin24 pa53,lɔ24 tɕin24 pa53,lɔ tɕin pa
+HF,Hefei,55,左手,左手 ,,tsʊ ʂɯ,tsʊ24 ʂɯ24,tsʊ24 ʂɯ24,tsʊ ʂɯ
+HF,Hefei,56,右手,右手 ,,iɯ ʂɯ,iɯ53 ʂɯ24,iɯ53 ʂɯ24,iɯ ʂɯ
+HF,Hefei,57,拳头,拳头 ,,tɕˈyɪ̃ tˈɯ,tɕˈyɪ̃55 tˈɯ,tɕˈyɪ̃55 tˈɯ,tɕˈyɪ̃ tˈɯ
+HF,Hefei,58,手指头,拇爪头 ,,mu tʂɔ tˈɯ,mu24 tʂɔ24 tˈɯ55,mu24 tʂɔ24 tˈɯ55,mu tʂɔ tˈɯ
+HF,Hefei,59,指甲,指甲盖,,tʂəʔ tɕiɐʔ kE,tʂəʔ5-2 tɕiɐʔ5 kE53,tʂəʔ5-2 tɕiɐʔ5 kɤ53,tʂəʔ tɕiɐʔ kɤ
+HF,Hefei,60,膝盖,磕膝头 ,,kˈɐʔ tɕˈiəʔ tˈɯ,kˈɐʔ5-2 tɕˈiəʔ5-2 tˈɯ55,kˈɐʔ5-2 tɕˈiəʔ5-2 tˈɯ55,kˈɐʔ tɕˈiəʔ tˈɯ
+HF,Hefei,61,腿,腿,,tˈe,tˈe24,tˈe24,tˈe
+HF,Hefei,62,父亲,伯伯 ,,pɐʔ pɐʔ,pɐʔ5-2 pɐʔ5,pɐʔ5-2 pɐʔ5,pɐʔ pɐʔ
+HF,Hefei,63,母亲,妈爷 ,,ma i,ma21 i55,ma21 i55,ma i
+HF,Hefei,64,祖父,爹爹 ,,te te,te21 te,te21 te,te te
+HF,Hefei,65,祖母,奶奶 ,,lE lE,lE21 lE,lɤ21 lɤ,lɤ lɤ
+HF,Hefei,66,伯父,大伯 ,,ta pɐʔ,ta53 pɐʔ5,ta53 pɐʔ5,ta pɐʔ
+HF,Hefei,67,伯母,大大 ,,ta ta,ta53 ta,ta53 ta,ta ta
+HF,Hefei,68,叔父,爷 ,,i,i55,i55,i
+HF,Hefei,69,叔母,婶子,,ʂən tsə,ʂən24 tsə,ʂən24 tsə,ʂən tsə
+HF,Hefei,70,外祖父,外爹爹,,uE te te,uE53 te21 te,uɤ53 te21 te,uɤ te te
+HF,Hefei,71,外祖母,外奶奶 ,,uE lE lE,uE53 lE lE,uɤ53 lɤ lɤ,uɤ lɤ lɤ
+HF,Hefei,72,舅舅,舅舅,,tɕiɯ tɕiɯ,tɕiɯ53 tɕiɯ,tɕiɯ53 tɕiɯ,tɕiɯ tɕiɯ
+HF,Hefei,73,舅母,舅妈 ,,tɕiɯ mə,tɕiɯ53 mə,tɕiɯ53 mə,tɕiɯ mə
+HF,Hefei,74,丈夫,老的们 ,,lɔ tiəʔ mən,lɔ24 tiəʔ mən,lɔ24 tiəʔ mən,lɔ tiəʔ mən
+HF,Hefei,75,妻子,奶奶们,,lE lE mən,lE24 lE mən,lɤ24 lɤ mən,lɤ lɤ mən
+HF,Hefei,76,儿子,儿子 ,,a tsə,a55 tsə,a55 tsə,a tsə
+HF,Hefei,77,女儿,丫头,,ia tˈɯ,ia21 tˈɯ,ia21 tˈɯ,ia tˈɯ
+HF,Hefei,78,早饭,早饭 ,,tsɔ fæ̃,tsɔ24 fæ̃53,tsɔ24 fæ̃53,tsɔ fæ̃
+HF,Hefei,79,午饭,中饭 ,,tʂəŋ fæ̃,tʂəŋ21-24 fæ̃53,tʂəŋ21-24 fæ̃53,tʂəŋ fæ̃
+HF,Hefei,80,晚饭,晚饭 ,,uæ̃ fæ̃,uæ̃24 fæ̃53,uæ̃24 fæ̃53,uæ̃ fæ̃
+HF,Hefei,81,面条,面条 ,,miɪ̃ tˈiɔ,miɪ̃53 tˈiɔ55,miɪ̃53 tˈiɔ55,miɪ̃ tˈiɔ
+HF,Hefei,82,馒头,大馍 ,,ta mʊ,ta53 mʊ55,ta53 mʊ55,ta mʊ
+HF,Hefei,83,包子,包子 ,,pɔ tsə,pɔ21 tsə,pɔ21 tsə,pɔ tsə
+HF,Hefei,84,馄饨,饺子 ,,tɕiɔ tsə,tɕiɔ24 tsə,tɕiɔ24 tsə,tɕiɔ tsə
+HF,Hefei,85,醋,醋,,tsˈu,tsˈu53,tsˈu53,tsˈu
+HF,Hefei,86,酱油,酱油 ,,tɕiɑ̃ iɯ,tɕiɑ̃53 iɯ55,tɕiɑ̃53 iɯ55,tɕiɑ̃ iɯ
+HF,Hefei,87,盐,盐,,iɪ̃,iɪ̃55,iɪ̃55,iɪ̃
+HF,Hefei,88,筷子,筷子 ,,kˈiE tsə,kˈiE53 tsə,kˈiɤ53 tsə,kˈiɤ tsə
+HF,Hefei,89,勺儿,勺子,,ʂuɐʔ tsə,ʂuɐʔ5 tsə,ʂuɐʔ5 tsə,ʂuɐʔ tsə
+HF,Hefei,90,男人,男的,,læ̃ tiəʔ,læ̃55 tiəʔ,læ̃55 tiəʔ,læ̃ tiəʔ
+HF,Hefei,91,女人,女的 ,,zɥ tiəʔ,zɥ24 tiəʔ,zɥ24 tiəʔ,zɥ tiəʔ
+HF,Hefei,92,男孩子,小厮 ,,ɕiɔ sɿ,ɕiɔ24 sɿ,ɕiɔ24 sɹ̩,ɕiɔ sɹ̩
+HF,Hefei,93,女孩子,丫头,,ia tˈɯ,ia21 tˈɯ,ia21 tˈɯ,ia tˈɯ
+HF,Hefei,94,老头儿,老头子 ,,lɔ tˈɯ tsə,lɔ24 tˈɯ55 tsə,lɔ24 tˈɯ55 tsə,lɔ tˈɯ tsə
+HF,Hefei,95,医生,医生 ,,zɿ sən,zɿ21 sən,zɹ̩21 sən,zɹ̩ sən
+HF,Hefei,96,厨师,厨子 ,,tʂˈu tsə,tʂˈu55 tsə,tʂˈu55 tsə,tʂˈu tsə
+HF,Hefei,97,乞丐,叫花子 ,,tɕiɔ xua tsə,tɕiɔ53 xua21 tsə,tɕiɔ53 xua21 tsə,tɕiɔ xua tsə
+HF,Hefei,98,保姆,帮工的 ,,pɑ̃ kəŋ tiəʔ,pɑ̃21-24 kəŋ21 tiəʔ,pɑ̃21-24 kəŋ21 tiəʔ,pɑ̃ kəŋ tiəʔ
+HF,Hefei,99,病了,不好过 ,,pəʔ xɔ kʊ,pəʔ5-2 xɔ24 kʊ53,pəʔ5-2 xɔ24 kʊ53,pəʔ xɔ kʊ
+HF,Hefei,100,伤风,伤风 ,,ʂɑ̃ fəŋ,ʂɑ̃21-24 fəŋ21,ʂɑ̃21-24 fəŋ21,ʂɑ̃ fəŋ
+HF,Hefei,101,泻肚,跑稀 ,,pˈɔ sɿ,pˈɔ55 sɿ21,pˈɔ55 sɹ̩21,pˈɔ sɹ̩
+HF,Hefei,102,瘸子,瘸子 ,,tɕˈyɐʔ tsə,tɕˈyɐʔ5 tsə,tɕˈyɐʔ5 tsə,tɕˈyɐʔ tsə
+HF,Hefei,103,驼背,驼子 ,,tˈʊ tsə,tˈʊ55 tsə,tˈʊ55 tsə,tˈʊ tsə
+HF,Hefei,104,死了,不在了,,pəʔ tsE lə,pəʔ5 tsE53 lə,pəʔ5 tsɤ53 lə,pəʔ tsɤ lə
+HF,Hefei,105,看病,瞧病 ,,tɕˈiɔ pin,tɕˈiɔ55 pin53,tɕˈiɔ55 pin53,tɕˈiɔ pin
+HF,Hefei,106,我,我,,ʊ,ʊ24,ʊ24,ʊ
+HF,Hefei,107,你,你,,li,li24,li24,li
+HF,Hefei,108,他,他,,tˈa,tˈa21,tˈa21,tˈa
+HF,Hefei,109,我们,我们,,ʊ mən,ʊ24 mən,ʊ24 mən,ʊ mən
+HF,Hefei,110,你们,你们,,li mən,li24 mən,li24 mən,li mən
+HF,Hefei,111,他们,他们,,tˈa mən,tˈa21 mən,tˈa21 mən,tˈa mən
+HF,Hefei,112,咱们,我们 ,,ʊ mən,ʊ24 mən,ʊ24 mən,ʊ mən
+HF,Hefei,113,自己,自己 ,,tsɿ tsɿ,tsɿ53 tsɿ24,tsɹ̩53 tsɹ̩24,tsɹ̩ tsɹ̩
+HF,Hefei,114,谁,哈个,,xa kə,xa24 kə,xa24 kə,xa kə
+HF,Hefei,115,什么,哄个,,xəŋ kə,xəŋ53 kə,xəŋ53 kə,xəŋ kə
+HF,Hefei,116,这里,第奥子,,ti ɔ tsə,ti53 ɔ tsə,ti53 ɔ tsə,ti ɔ tsə
+HF,Hefei,117,那里,那奥子 ,,la ɔ tsə,la53 ɔ tsə,la53 ɔ tsə,la ɔ tsə
+HF,Hefei,118,哪里,哪格子,,la kə tsə,la24 kə tsə,la24 kə tsə,la kə tsə
+HF,Hefei,119,这个,第个 ,,ti kə,ti53 kə,ti53 kə,ti kə
+HF,Hefei,120,那个,那个 ,,la kə,la53 kə,la53 kə,la kə
+HF,Hefei,121,哪一个,哈一个,,xa iəʔ kə,xa24 iəʔ5 kə,xa24 iəʔ5 kə,xa iəʔ kə
+HF,Hefei,122,怎么样,怎样 ,,tsən iɑ̃,tsən24 iɑ̃53,tsən24 iɑ̃53,tsən iɑ̃
+HF,Hefei,123,一位客人,个,,kə,kə53,kə53,kə
+HF,Hefei,124,一双鞋,双,,ʂuɑ̃,ʂuɑ̃21,ʂuɑ̃21,ʂuɑ̃
+HF,Hefei,125,一床被,床,,tʂˈuɑ̃,tʂˈuɑ̃55,tʂˈuɑ̃55,tʂˈuɑ̃
+HF,Hefei,126,一辆车,挂,,kua,kua53,kua53,kua
+HF,Hefei,127,一条牛,条,,tˈiɔ,tˈiɔ55,tˈiɔ55,tˈiɔ
+HF,Hefei,128,一口猪,口,,kˈɯ,kˈɯ24,kˈɯ24,kˈɯ
+HF,Hefei,129,听一会儿,一霎子,,,,,
+HF,Hefei,130,打一下,,,,,,
+HF,Hefei,131,上头,高头 ,,kɔ tˈɯ,kɔ21 tˈɯ,kɔ21 tˈɯ,kɔ tˈɯ
+HF,Hefei,132,下头,底下 ,,tsɿ ɕia,tsɿ24 ɕia,tsɹ̩24 ɕia,tsɹ̩ ɕia
+HF,Hefei,133,左边,左半个 ,,tsʊ pʊ̃ kə,tsʊ24 pʊ̃53 kə,tsʊ24 pʊ̃53 kə,tsʊ pʊ̃ kə
+HF,Hefei,134,右边,右半个 ,,iɯ pʊ̃ kə,iɯ53 pʊ̃53 kə,iɯ53 pʊ̃53 kə,iɯ pʊ̃ kə
+HF,Hefei,135,当中,中间 ,,tʂəŋ tɕɪ̃,tʂəŋ21-24 tɕɪ̃21,tʂəŋ21-24 tɕɪ̃21,tʂəŋ tɕɪ̃
+HF,Hefei,136,里面,里头,,zɿ tˈɯ,zɿ24 tˈɯ,zɹ̩24 tˈɯ,zɹ̩ tˈɯ
+HF,Hefei,137,外面,外头 ,,uE tˈɯ,uE53 tˈɯ,uɤ53 tˈɯ,uɤ tˈɯ
+HF,Hefei,138,甜,甜,,tˈiɪ̃,tˈiɪ̃55,tˈiɪ̃55,tˈiɪ̃
+HF,Hefei,139,酸,酸,,sʊ̃,sʊ̃21,sʊ̃21,sʊ̃
+HF,Hefei,140,咸,咸,,ɕiɪ̃,ɕiɪ̃55,ɕiɪ̃55,ɕiɪ̃
+HF,Hefei,141,淡,淡,,tæ̃,tæ̃53,tæ̃53,tæ̃
+HF,Hefei,142,胖,胖,,pˈɑ̃,pˈɑ̃53,pˈɑ̃53,pˈɑ̃
+HF,Hefei,143,瘦,瘦,,sɯ,sɯ53,sɯ53,sɯ
+HF,Hefei,144,冷,冷,,lən,lən24,lən24,lən
+HF,Hefei,145,热,热,,ʐɐʔ,ʐɐʔ5,ʐɐʔ5,ʐɐʔ
+HF,Hefei,146,香,香,,ɕiɑ̃,ɕiɑ̃21,ɕiɑ̃21,ɕiɑ̃
+HF,Hefei,147,臭,臭,,tʂˈɯ,tʂˈɯ53,tʂˈɯ53,tʂˈɯ
+HF,Hefei,148,粗,粗,,tsˈu,tsˈu21,tsˈu21,tsˈu
+HF,Hefei,149,细,细,,sɿ,sɿ53,sɹ̩53,sɹ̩
+HF,Hefei,150,长,长,,tʂˈɑ̃,tʂˈɑ̃55,tʂˈɑ̃55,tʂˈɑ̃
+HF,Hefei,151,短,短,,tʊ̃,tʊ̃24,tʊ̃24,tʊ̃
+HF,Hefei,152,脏,脏,,tsɑ̃,tsɑ̃21,tsɑ̃21,tsɑ̃
+HF,Hefei,153,干净,清亮 ,,tɕˈin liɑ̃,tɕˈin21 liɑ̃,tɕˈin21 liɑ̃,tɕˈin liɑ̃
+HF,Hefei,154,便宜,巧,,tɕˈiɔ,tɕˈiɔ24,tɕˈiɔ24,tɕˈiɔ
+HF,Hefei,155,刚(来),才 ,,tsˈE,tsˈE55,tsˈɤ55,tsˈɤ
+HF,Hefei,156,刚(合适),正 ,,tʂən,tʂən53,tʂən53,tʂən
+HF,Hefei,157,正好,将好 ,,tɕiɑ̃ xʊ,tɕiɑ̃21 xʊ24,tɕiɑ̃21 xʊ24,tɕiɑ̃ xʊ
+HF,Hefei,158,和,跟 ,,kən,kən21,kən21,kən
+HF,Hefei,159,只,只 ,,tʂəʔ,tʂəʔ,tʂəʔ,tʂəʔ
+HF,Hefei,160,从,从 ,,tsˈəŋ,tsˈəŋ55,tsˈəŋ55,tsˈəŋ
+HF,Hefei,161,替,帮 ,,pɑ̃,pɑ̃21,pɑ̃21,pɑ̃
+HF,Hefei,162,拿,拿 ,,la,la55,la55,la
+HF,Hefei,163,故意,故意 ,,ku zɿ,ku53 zɿ53,ku53 zɹ̩53,ku zɹ̩
+HF,Hefei,164,一,一,,iəʔ,iəʔ5,iəʔ5,iəʔ
+HF,Hefei,165,二,二,,a,a53,a53,a
+HF,Hefei,166,三,三,,sæ̃,sæ̃21,sæ̃21,sæ̃
+HF,Hefei,167,四,四,,sɿ,sɿ53,sɹ̩53,sɹ̩
+HF,Hefei,168,五,五,,u,u24,u24,u
+HF,Hefei,169,六,六,,ləʔ,ləʔ5,ləʔ5,ləʔ
+HF,Hefei,170,七,七,,tɕˈiəʔ,tɕˈiəʔ5,tɕˈiəʔ5,tɕˈiəʔ
+HF,Hefei,171,八,八,,pɐʔ,pɐʔ5,pɐʔ5,pɐʔ
+HF,Hefei,172,九,九,,tɕiɯ,tɕiɯ24,tɕiɯ24,tɕiɯ
+HF,Hefei,173,十,十,,ʂəʔ,ʂəʔ5,ʂəʔ5,ʂəʔ
+HF,Hefei,174,十一,十一,,ʂəʔ iəʔ,ʂəʔ5-2 iəʔ5,ʂəʔ5-2 iəʔ5,ʂəʔ iəʔ
+HF,Hefei,175,十二,十二,,ʂəʔ a,ʂəʔ5 a53,ʂəʔ5 a53,ʂəʔ a
+HF,Hefei,176,二十,二十,,a ʂəʔ,a53 ʂəʔ5,a53 ʂəʔ5,a ʂəʔ
+HF,Hefei,177,二十一,二十一,,a ʂəʔ iəʔ,a53 ʂəʔ5-2 iəʔ5,a53 ʂəʔ5-2 iəʔ5,a ʂəʔ iəʔ
+HF,Hefei,178,一百二十一,一百二十一,,iəʔ pɐʔ a ʂəʔ iəʔ,iəʔ5-2 pɐʔ5 a53 ʂəʔ5-2 iəʔ5,iəʔ5-2 pɐʔ5 a53 ʂəʔ5-2 iəʔ5,iəʔ pɐʔ a ʂəʔ iəʔ
+HF,Hefei,179,第一,第一,,tsɿ iəʔ,tsɿ53 iəʔ5,tsɹ̩53 iəʔ5,tsɹ̩ iəʔ
+HF,Hefei,180,第二,第二,,tsɿ a,tsɿ53 a53,tsɹ̩53 a53,tsɹ̩ a
+HF,Hefei,181,两里,二里,,a zɿ,a53 zɿ24,a53 zɹ̩24,a zɹ̩
+HF,Hefei,182,二两,二两,,a liɑ̃,a53 liɑ̃24,a53 liɑ̃24,a liɑ̃
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,
+HF,Hefei,,,,,,,,

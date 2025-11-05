@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+XG,Xianggang,1,太阳,日头 ,,jɐt tˈɐu,jɐt2 tˈɐu21-35,jɐt tˈɐu,jɐt2 tˈɐu21-35
+XG,Xianggang,2,月亮,月亮 ,,jyt lœŋ,jyt2 lœŋ22,jyt lœŋ,jyt2 lœŋ22
+XG,Xianggang,3,星星,星 ,,siŋ,siŋ55,siŋ,siŋ55
+XG,Xianggang,4,打雷,行雷 ,,haŋ løy,haŋ21 løy21,haŋ løy,haŋ21 løy21
+XG,Xianggang,5,闪电,闪电 ,,sim tin,sim35 tin22,sim tin,sim35 tin22
+XG,Xianggang,6,下雨,落雨 ,,lɔk jy,lɔk2 jy13,lɔk jy,lɔk2 jy13
+XG,Xianggang,7,下雪,落雪 ,,lɔk syt,lɔk2 syt3,lɔk syt,lɔk2 syt3
+XG,Xianggang,8,冰雹,雹 ,,pɔk,pɔk2,pɔk,pɔk2
+XG,Xianggang,9,结冰,结冰 ,,kit piŋ,kit3 piŋ55,kit piŋ,kit3 piŋ55
+XG,Xianggang,10,刮风,翻风 ,,fan fuŋ,fan55 fuŋ55,fan fuŋ,fan55 fuŋ55
+XG,Xianggang,11,虹,彩虹 ,,tsˈɔi huŋ,tsˈɔi35 huŋ21,tsˈɔi huŋ,tsˈɔi35 huŋ21
+XG,Xianggang,12,端午节,端午 ,,tyn ŋ,tyn55 ŋ13,tyn ŋ,tyn55 ŋ13
+XG,Xianggang,13,中秋节,中秋 ,,tsuŋ tsˈɐu,tsuŋ55 tsˈɐu55,tsuŋ tsˈɐu,tsuŋ55 tsˈɐu55
+XG,Xianggang,14,除夕,年卅晚,,ȵin sa man,ȵin21 sa55 man13,ɲin sa man,ɲin21 sa55 man13
+XG,Xianggang,15,今年,今年,,kɐm ȵin,kɐm35 ȵin21,kɐm ɲin,kɐm35 ɲin21
+XG,Xianggang,16,明年,出年,,tsˈøt ȵin,tsˈøt5 ȵin21,tsˈøt ɲin,tsˈøt5 ɲin21
+XG,Xianggang,17,去年,旧年,,kɐu ȵin,kɐu22 ȵin21,kɐu ɲin,kɐu22 ɲin21
+XG,Xianggang,18,明天,听日,,tˈiŋ jɐt,tˈiŋ55 jɐt2,tˈiŋ jɐt,tˈiŋ55 jɐt2
+XG,Xianggang,19,昨天,琴日,,kˈɐm jɐt,kˈɐm21 jɐt2,kˈɐm jɐt,kˈɐm21 jɐt2
+XG,Xianggang,20,今天,今日,,kɐm jɐt,kɐm55 jɐt2,kɐm jɐt,kɐm55 jɐt2
+XG,Xianggang,21,星期天,星期日,,siŋ kˈei jɐt,siŋ55 kˈei21 jɐt2,siŋ kˈei jɐt,siŋ55 kˈei21 jɐt2
+XG,Xianggang,22,麦子,麦,,mɐk,mɐk2,mɐk,mɐk2
+XG,Xianggang,23,大米,禾,,wɔ,wɔ21,wɔ,wɔ21
+XG,Xianggang,24,蚕豆,蚕豆,,tsˈam tɐu,tsˈam21 tɐu22-35,tsˈam tɐu,tsˈam21 tɐu22-35
+XG,Xianggang,25,向日葵,向日葵,,hœŋ jɐt kˈwɐi,hœŋ33 jɐt2 kˈwɐi21,hœŋ jɐt kˈwɐi,hœŋ33 jɐt2 kˈwɐi21
+XG,Xianggang,26,菠菜,菠菜,,pɔ tsˈɔi,pɔ55 tsˈɔi33,pɔ tsˈɔi,pɔ55 tsˈɔi33
+XG,Xianggang,27,卷心菜,椰菜,,jɛ tsˈɔi,jɛ21 tsˈɔi33,jɛ tsˈɔi,jɛ21 tsˈɔi33
+XG,Xianggang,28,西红柿,番茄,,fan kˈɛ,fan55 kˈɛ35,fan kˈɛ,fan55 kˈɛ35
+XG,Xianggang,29,茄子,矮瓜,,ɐi kwa,ɐi35 kwa55,ɐi kwa,ɐi35 kwa55
+XG,Xianggang,30,白薯,番薯,,fan sy,fan55 sy21-35,fan sy,fan55 sy21-35
+XG,Xianggang,31,马铃薯,薯仔,,sy tsɐi,sy21 tsɐi35,sy tsɐi,sy21 tsɐi35
+XG,Xianggang,32,南瓜,南瓜,,nam kwa,nam21 kwa55,nam kwa,nam21 kwa55
+XG,Xianggang,33,猪,猪,,tsy,tsy55,tsy,tsy55
+XG,Xianggang,34,公猪,猪公,,tsy kuŋ,tsy55 kuŋ55,tsy kuŋ,tsy55 kuŋ55
+XG,Xianggang,35,母猪,猪乸,,tsy na,tsy55 na35,tsy na,tsy55 na35
+XG,Xianggang,36,公鸡,鸡公,,kɐi kuŋ,kɐi55 kuŋ55,kɐi kuŋ,kɐi55 kuŋ55
+XG,Xianggang,37,母鸡,鸡乸,,kɐi na,kɐi55 na55,kɐi na,kɐi55 na55
+XG,Xianggang,38,麻雀,麻雀,,ma tsœk,ma21 tsœk33-35,ma tsœk,ma21 tsœk33-35
+XG,Xianggang,39,老鼠,老鼠,,lou sy,lou13 sy35,lou sy,lou13 sy35
+XG,Xianggang,40,臭虫,木虱 ,,muk sɐt,muk2 sɐt5,muk sɐt,muk2 sɐt5
+XG,Xianggang,41,房子(整),屋 ,,uk,uk5,uk,uk5
+XG,Xianggang,42,房子(单),房间,,fɔŋ kan,fɔŋ21 kan55,fɔŋ kan,fɔŋ21 kan55
+XG,Xianggang,43,窗户,窗 ,,tsˈœŋ,tsˈœŋ55,tsˈœŋ,tsˈœŋ55
+XG,Xianggang,44,门坎,门坎,,mun hɐm,mun21 hɐm13,mun hɐm,mun21 hɐm13
+XG,Xianggang,45,厕所,厕所,,tsˈi sɔ,tsˈi33 sɔ35,tsˈi sɔ,tsˈi33 sɔ35
+XG,Xianggang,46,厨房,厨房,,tsˈøy fɔŋ,tsˈøy21 fɔŋ21-35,tsˈøy fɔŋ,tsˈøy21 fɔŋ21-35
+XG,Xianggang,47,烟囱,烟通,,jin tˈuŋ,jin55 tˈuŋ55,jin tˈuŋ,jin55 tˈuŋ55
+XG,Xianggang,48,桌子,台,,tˈɔi,tˈɔi21-35,tˈɔi,tˈɔi21-35
+XG,Xianggang,49,楼梯,楼梯,,lɐu tˈɐi,lɐu21 tˈɐi55,lɐu tˈɐi,lɐu21 tˈɐi55
+XG,Xianggang,50,头,头,,tˈɐu,tˈɐu21,tˈɐu,tˈɐu21
+XG,Xianggang,51,额头,额头,,ŋak tˈɐu,ŋak2 tˈɐu21,ŋak tˈɐu,ŋak2 tˈɐu21
+XG,Xianggang,52,脸,面,,min,min22,min,min22
+XG,Xianggang,53,鼻子,鼻哥,,pei kɔ,pei22 kɔ55,pei kɔ,pei22 kɔ55
+XG,Xianggang,54,脖子,颈,,kɛŋ,kɛŋ35,kɛŋ,kɛŋ35
+XG,Xianggang,55,左手,左手,,tsɔ sɐu,tsɔ35 sɐu35,tsɔ sɐu,tsɔ35 sɐu35
+XG,Xianggang,56,右手,右手,,jɐu sɐu,jɐu22 sɐu35,jɐu sɐu,jɐu22 sɐu35
+XG,Xianggang,57,拳头,拳头,,kˈyn tˈɐu,kˈyn21 tˈɐu21,kˈyn tˈɐu,kˈyn21 tˈɐu21
+XG,Xianggang,58,手指头,手指头,,sɐu tsi tˈɐu,sɐu35 tsi35 tˈɐu21,sɐu tsi tˈɐu,sɐu35 tsi35 tˈɐu21
+XG,Xianggang,59,指甲,指甲,,tsi kap,tsi35 kap3,tsi kap,tsi35 kap3
+XG,Xianggang,60,膝盖,膝头,,sɐt tˈɐu,sɐt5 tˈɐu21,sɐt tˈɐu,sɐt5 tˈɐu21
+XG,Xianggang,61,腿,脚,,kœk,kœk3,kœk,kœk3
+XG,Xianggang,62,父亲,爸爸 ,,pa pa,pa55-21 pa55,pa pa,pa55-21 pa55
+XG,Xianggang,63,母亲,妈妈,,ma ma,ma55-21 ma55,ma ma,ma55-21 ma55
+XG,Xianggang,64,祖父,阿爷 ,,a jɛ,a33 jɛ21,a jɛ,a33 jɛ21
+XG,Xianggang,65,祖母,阿嫲,,a ma,a33 ma21,a ma,a33 ma21
+XG,Xianggang,66,伯父,伯父,,pak fu,pak3 fu22,pak fu,pak3 fu22
+XG,Xianggang,67,伯母,伯娘,,pak nœŋ,pak3 nœŋ21,pak nœŋ,pak3 nœŋ21
+XG,Xianggang,68,叔父,阿叔 ,,a suk,a33 suk5,a suk,a33 suk5
+XG,Xianggang,69,叔母,阿婶 ,,a sɐm,a33 sɐm35,a sɐm,a33 sɐm35
+XG,Xianggang,70,外祖父,阿公 ,,a kuŋ,a33 kuŋ55,a kuŋ,a33 kuŋ55
+XG,Xianggang,71,外祖母,婆婆,,pˈɔ pˈɔ,pˈɔ21 pˈɔ21-35,pˈɔ pˈɔ,pˈɔ21 pˈɔ21-35
+XG,Xianggang,72,舅舅,舅父 ,,kˈɐu fu,kˈɐu13 fu22-35,kˈɐu fu,kˈɐu13 fu22-35
+XG,Xianggang,73,舅母,妗母 ,,kˈɐm mou,kˈɐm13 mou13,kˈɐm mou,kˈɐm13 mou13
+XG,Xianggang,74,丈夫,老公 ,,lou kuŋ,lou13 kuŋ55,lou kuŋ,lou13 kuŋ55
+XG,Xianggang,75,妻子,老婆 ,,lou pˈɔ,lou13 pˈɔ21,lou pˈɔ,lou13 pˈɔ21
+XG,Xianggang,76,儿子,仔,,tsɐi,tsɐi35,tsɐi,tsɐi35
+XG,Xianggang,77,女儿,女 ,,nøy,nøy13-35,nøy,nøy13-35
+XG,Xianggang,78,早饭,早餐 ,,tsou tsˈan,tsou35 tsˈan55,tsou tsˈan,tsou35 tsˈan55
+XG,Xianggang,79,午饭,午餐 ,,ŋ tsˈan,ŋ13 tsˈan55,ŋ tsˈan,ŋ13 tsˈan55
+XG,Xianggang,80,晚饭,晚餐 ,,man tsˈan,man13 tsˈan55,man tsˈan,man13 tsˈan55
+XG,Xianggang,81,面条,面 ,,min,min22,min,min22
+XG,Xianggang,82,馒头,馒头 ,,man tˈɐu,man22 tˈɐu21,man tˈɐu,man22 tˈɐu21
+XG,Xianggang,83,包子,包 ,,pau,pau55,pau,pau55
+XG,Xianggang,84,馄饨,云吞,,wɐn tˈɐn,wɐn21 tˈɐn55,wɐn tˈɐn,wɐn21 tˈɐn55
+XG,Xianggang,85,醋,醋 ,,tsˈou,tsˈou33,tsˈou,tsˈou33
+XG,Xianggang,86,酱油,豉油 ,,si jɐu,si22 jɐu21,si jɐu,si22 jɐu21
+XG,Xianggang,87,盐,盐 ,,jim,jim21,jim,jim21
+XG,Xianggang,88,筷子,筷子 ,,fai tsi,fai33 tsi35,fai tsi,fai33 tsi35
+XG,Xianggang,89,勺儿,匙羹 ,,tsˈi kɐŋ,tsˈi21 kɐŋ55,tsˈi kɐŋ,tsˈi21 kɐŋ55
+XG,Xianggang,90,男人,男人 ,,nam jɐn,nam21 jɐn21-35,nam jɐn,nam21 jɐn21-35
+XG,Xianggang,91,女人,女人 ,,nøy jɐn,nøy13 jɐn21-35,nøy jɐn,nøy13 jɐn21-35
+XG,Xianggang,92,男孩子,男仔 ,,nam tsɐi,nam21 tsɐi35,nam tsɐi,nam21 tsɐi35
+XG,Xianggang,93,女孩子,女仔 ,,nøy tsɐi,nøy13 tsɐi35,nøy tsɐi,nøy13 tsɐi35
+XG,Xianggang,94,老头儿,老人家,,lou jɐn ka,lou13 jɐn21 ka55,lou jɐn ka,lou13 jɐn21 ka55
+XG,Xianggang,95,医生,医生,,ji sɐŋ,ji55 sɐŋ55,ji sɐŋ,ji55 sɐŋ55
+XG,Xianggang,96,厨师,厨师,,tsy si,tsy21 si55,tsy si,tsy21 si55
+XG,Xianggang,97,乞丐,乞儿,,hɐt ji,hɐt5 ji21-55,hɐt ji,hɐt5 ji21-55
+XG,Xianggang,98,保姆,工人 ,,kuŋ jɐn,kuŋ55 jɐn21,kuŋ jɐn,kuŋ55 jɐn21
+XG,Xianggang,99,病了,病咗 ,,pɛŋ tsɔ,pɛŋ22 tsɔ35,pɛŋ tsɔ,pɛŋ22 tsɔ35
+XG,Xianggang,100,伤风,伤风 ,,sœŋ fuŋ,sœŋ55 fuŋ55,sœŋ fuŋ,sœŋ55 fuŋ55
+XG,Xianggang,101,泻肚,肚屙 ,,tˈou ɔ,tˈou13 ɔ55,tˈou ɔ,tˈou13 ɔ55
+XG,Xianggang,102,瘸子,跛脚佬 ,,pɐi kœk lou,pɐi55 kœk3 lou35,pɐi kœk lou,pɐi55 kœk3 lou35
+XG,Xianggang,103,驼背,驼背 ,,tˈɔ pui,tˈɔ21 pui33,tˈɔ pui,tˈɔ21 pui33
+XG,Xianggang,104,死了,死咗 ,,sei tsɔ,sei35 tsɔ35,sei tsɔ,sei35 tsɔ35
+XG,Xianggang,105,看病,睇病 ,,tɐi pɛŋ,tɐi35 pɛŋ22,tɐi pɛŋ,tɐi35 pɛŋ22
+XG,Xianggang,106,我,我,,ŋɔ,ŋɔ13,ŋɔ,ŋɔ13
+XG,Xianggang,107,你,你,,nei,nei13,nei,nei13
+XG,Xianggang,108,他,佢 ,,kˈøy,kˈøy13,kˈøy,kˈøy13
+XG,Xianggang,109,我们,我哋 ,,ŋɔ tei,ŋɔ13 tei22,ŋɔ tei,ŋɔ13 tei22
+XG,Xianggang,110,你们,你吔 ,,nei tei,nei13 tei22,nei tei,nei13 tei22
+XG,Xianggang,111,他们,佢哋 ,,kˈøy tei,kˈøy13 tei22,kˈøy tei,kˈøy13 tei22
+XG,Xianggang,112,咱们,我吔,,ŋɔ tei,ŋɔ13 tei22,ŋɔ tei,ŋɔ13 tei22
+XG,Xianggang,113,自己,自己 ,,tsi kei,tsi22 kei35,tsi kei,tsi22 kei35
+XG,Xianggang,114,谁,边个 ,,pin kɔ,pin55 kɔ33,pin kɔ,pin55 kɔ33
+XG,Xianggang,115,什么,乜,,mɐt,mɐt5,mɐt,mɐt5
+XG,Xianggang,116,这里,呢度 ,,nei tou,nei55 tou22,nei tou,nei55 tou22
+XG,Xianggang,117,那里,嗰度,,kɔ tou,kɔ35 tou22,kɔ tou,kɔ35 tou22
+XG,Xianggang,118,哪里,边度,,pin tou,pin44 tou22,pin tou,pin44 tou22
+XG,Xianggang,119,这个,呢个 ,,nei kɔ,nei55 kɔ33,nei kɔ,nei55 kɔ33
+XG,Xianggang,120,那个,嗰个,,kɔ kɔ,kɔ35 kɔ33,kɔ kɔ,kɔ35 kɔ33
+XG,Xianggang,121,哪一个,边个 ,,pin kɔ,pin55 kɔ33,pin kɔ,pin55 kɔ33
+XG,Xianggang,122,怎么样,点,,tim,tim35,tim,tim35
+XG,Xianggang,123,一位客人,位,,wɐi,wɐi22-35,wɐi,wɐi22-35
+XG,Xianggang,124,一双鞋,对,,tøy,tøy33,tøy,tøy33
+XG,Xianggang,125,一床被,床,,tsˈɔŋ,tsˈɔŋ21,tsˈɔŋ,tsˈɔŋ21
+XG,Xianggang,126,一辆车,架,,ka,ka33,ka,ka33
+XG,Xianggang,127,一条牛,只,,tsɛk,tsɛk3,tsɛk,tsɛk3
+XG,Xianggang,128,一口猪,只,,tsɛk,tsɛk3,tsɛk,tsɛk3
+XG,Xianggang,129,听一会儿,阵,,tsɐn,tsɐn22,tsɐn,tsɐn22
+XG,Xianggang,130,打一下,下,,ha,ha13,ha,ha13
+XG,Xianggang,131,上头,上便 ,,sœŋ pin,sœŋ22 pin22,sœŋ pin,sœŋ22 pin22
+XG,Xianggang,132,下头,下便 ,,ha pin,ha22 pin22,ha pin,ha22 pin22
+XG,Xianggang,133,左边,左便 ,,tsɔ pin,tsɔ35 pin22,tsɔ pin,tsɔ35 pin22
+XG,Xianggang,134,右边,右便 ,,jɐu pin,jɐu22 pin22,jɐu pin,jɐu22 pin22
+XG,Xianggang,135,当中,中间 ,,tsuŋ kan,tsuŋ55 kan55,tsuŋ kan,tsuŋ55 kan55
+XG,Xianggang,136,里面,入便 ,,jɐp pin,jɐp2 pin22,jɐp pin,jɐp2 pin22
+XG,Xianggang,137,外面,出便 ,,tsˈøt pin,tsˈøt5 pin22,tsˈøt pin,tsˈøt5 pin22
+XG,Xianggang,138,甜,甜,,tˈim,tˈim21,tˈim,tˈim21
+XG,Xianggang,139,酸,酸,,syn,syn55,syn,syn55
+XG,Xianggang,140,咸,咸,,ham,ham21,ham,ham21
+XG,Xianggang,141,淡,淡,,tˈam,tˈam13,tˈam,tˈam13
+XG,Xianggang,142,胖,肥,,fei,fei21,fei,fei21
+XG,Xianggang,143,瘦,瘦,,sɐu,sɐu33,sɐu,sɐu33
+XG,Xianggang,144,冷,冻,,tuŋ,tuŋ33,tuŋ,tuŋ33
+XG,Xianggang,145,热,热,,jit,jit2,jit,jit2
+XG,Xianggang,146,香,香,,hœŋ,hœŋ55,hœŋ,hœŋ55
+XG,Xianggang,147,臭,臭,,tsˈɐu,tsˈɐu33,tsˈɐu,tsˈɐu33
+XG,Xianggang,148,粗,粗,,tsˈou,tsˈou55,tsˈou,tsˈou55
+XG,Xianggang,149,细,细,,sɐi,sɐi33,sɐi,sɐi33
+XG,Xianggang,150,长,长,,tsˈœŋ,tsˈœŋ21,tsˈœŋ,tsˈœŋ21
+XG,Xianggang,151,短,短,,tyn,tyn35,tyn,tyn35
+XG,Xianggang,152,脏,污糟 ,,wu tsou,wu55 tsou55,wu tsou,wu55 tsou55
+XG,Xianggang,153,干净,干净 ,,kɔn tsɛŋ,kɔn55 tsɛŋ22,kɔn tsɛŋ,kɔn55 tsɛŋ22
+XG,Xianggang,154,便宜,平 ,,pˈɛŋ,pˈɛŋ21,pˈɛŋ,pˈɛŋ21
+XG,Xianggang,155,刚(来),啱 ,,ŋam,ŋam55,ŋam,ŋam55
+XG,Xianggang,156,刚(合适),啱,,ŋam,ŋam55,ŋam,ŋam55
+XG,Xianggang,157,正好,啱啱好 ,,ŋam ŋam hou,ŋam55 ŋam55 hou35,ŋam ŋam hou,ŋam55 ŋam55 hou35
+XG,Xianggang,158,和,同 ,,tˈuŋ,tˈuŋ21,tˈuŋ,tˈuŋ21
+XG,Xianggang,159,只,只 ,,tsi,tsi35,tsi,tsi35
+XG,Xianggang,160,从,从 ,,tsˈuŋ,tsˈuŋ21,tsˈuŋ,tsˈuŋ21
+XG,Xianggang,161,替,帮 ,,pɔŋ,pɔŋ55,pɔŋ,pɔŋ55
+XG,Xianggang,162,拿,攞,,lɔ,lɔ35,lɔ,lɔ35
+XG,Xianggang,163,故意,特登 ,,tɐk tɐŋ,tɐk2 tɐŋ55,tɐk tɐŋ,tɐk2 tɐŋ55
+XG,Xianggang,164,一,一,,jɐt,jɐt5,jɐt,jɐt5
+XG,Xianggang,165,二,二,,ji,ji22,ji,ji22
+XG,Xianggang,166,三,三,,sam,sam55,sam,sam55
+XG,Xianggang,167,四,四,,sei,sei33,sei,sei33
+XG,Xianggang,168,五,五,,ŋ,ŋ13,ŋ,ŋ13
+XG,Xianggang,169,六,六,,luk,luk2,luk,luk2
+XG,Xianggang,170,七,七,,tsˈɐt,tsˈɐt5,tsˈɐt,tsˈɐt5
+XG,Xianggang,171,八,八,,pat,pat3,pat,pat3
+XG,Xianggang,172,九,九,,kɐu,kɐu35,kɐu,kɐu35
+XG,Xianggang,173,十,十,,sɐp,sɐp2,sɐp,sɐp2
+XG,Xianggang,174,十一,十一,,sɐp jɐt,sɐp2 jɐt5,sɐp jɐt,sɐp2 jɐt5
+XG,Xianggang,175,十二,十二,,sɐp ji,sɐp2 ji22,sɐp ji,sɐp2 ji22
+XG,Xianggang,176,二十,二十,,ji sɐp,ji22 sɐp2,ji sɐp,ji22 sɐp2
+XG,Xianggang,177,二十一,二十一,,ji sɐp jɐt,ji22 sɐp2 jɐt5,ji sɐp jɐt,ji22 sɐp2 jɐt5
+XG,Xianggang,178,一百二十,,,,,,
+XG,Xianggang,179,第一,第一,,tɐi jɐt,tɐi22 jɐt5,tɐi jɐt,tɐi22 jɐt5
+XG,Xianggang,180,第二,第二,,tɐi ji,tɐi22 ji22,tɐi ji,tɐi22 ji22
+XG,Xianggang,181,两里,两里,,lœŋ mɐi,lœŋ13 mɐi55,lœŋ mɐi,lœŋ13 mɐi55
+XG,Xianggang,182,二两,二两,,ji lœŋ,ji22 lœŋ35,ji lœŋ,ji22 lœŋ35
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+GY,Guiyang,1,太阳,太阳 ,,tˈai iaŋ,tˈai213 iaŋ21,tˈai iaŋ,tˈai213 iaŋ21
+GY,Guiyang,2,月亮,月亮 ,,iɛ liaŋ,iɛ21 liaŋ213,iɛ liaŋ,iɛ21 liaŋ213
+GY,Guiyang,3,星星,星宿 ,,ɕin ɕiəu,ɕin55 ɕiəu213,ɕin ɕiəu,ɕin55 ɕiəu213
+GY,Guiyang,4,打雷,打雷 ,,ta luei,ta42 luei21,ta luei,ta42 luei21
+GY,Guiyang,5,闪电,火闪 ,,xo san,xo42 san42,xo san,xo42 san42
+GY,Guiyang,6,下雨,下雨 ,,ɕia i,ɕia213 i42,ɕia i,ɕia213 i42
+GY,Guiyang,7,下雪,下雪 ,,ɕia ɕiɛ,ɕia213 ɕiɛ21,ɕia ɕiɛ,ɕia213 ɕiɛ21
+GY,Guiyang,8,冰雹,冰雹,,pin pao,pin55 pao213,pin pao,pin55 pao213
+GY,Guiyang,9,结冰,结冰 ,,tɕiɛ pin,tɕiɛ21 pin55,tɕiɛ pin,tɕiɛ21 pin55
+GY,Guiyang,10,刮风,吹风,,tsˈuei foŋ,tsˈuei55 foŋ55,tsˈuei foŋ,tsˈuei55 foŋ55
+GY,Guiyang,11,虹,虹 ,,kaŋ,kaŋ213,kaŋ,kaŋ213
+GY,Guiyang,12,端午节,端午 ,,tuan u,tuan55 u42,tuan u,tuan55 u42
+GY,Guiyang,13,中秋节,八月十五 ,,pa iɛ sɿ u,pa21 iɛ21 sɿ21 u42,pa iɛ sɹ̩ u,pa21 iɛ21 sɹ̩21 u42
+GY,Guiyang,14,除夕,三十夜 ,,san sɿ iɛ,san55 sɿ21 iɛ213,san sɹ̩ iɛ,san55 sɹ̩21 iɛ213
+GY,Guiyang,15,今年,今年,,tɕin lian,tɕin55 lian21,tɕin lian,tɕin55 lian21
+GY,Guiyang,16,明年,明年,,min lian,min21 lian21,min lian,min21 lian21
+GY,Guiyang,17,去年,去年,,tɕˈi lian,tɕˈi213 lian21,tɕˈi lian,tɕˈi213 lian21
+GY,Guiyang,18,明天,明天 ,,min tˈian,min21 tˈian55,min tˈian,min21 tˈian55
+GY,Guiyang,19,昨天,昨天 ,,tso tˈian,tso21 tˈian55,tso tˈian,tso21 tˈian55
+GY,Guiyang,20,今天,今天 ,,tɕin tˈian,tɕin55 tˈian55,tɕin tˈian,tɕin55 tˈian55
+GY,Guiyang,21,星期天,星期天 ,,ɕin tɕˈi tˈian,ɕin55 tɕˈi55 tˈian55,ɕin tɕˈi tˈian,ɕin55 tɕˈi55 tˈian55
+GY,Guiyang,22,麦子,麦子 ,,mɛ tsɿ,mɛ21 tsɿ42,mɛ tsɹ̩,mɛ21 tsɹ̩42
+GY,Guiyang,23,大米,大米 ,,ta mi,ta213 mi42,ta mi,ta213 mi42
+GY,Guiyang,24,蚕豆,胡豆 ,,fu təu,fu21 təu213,fu təu,fu21 təu213
+GY,Guiyang,25,向日葵,葵花 ,,kˈuei xua,kˈuei21 xua55,kˈuei xua,kˈuei21 xua55
+GY,Guiyang,26,菠菜,菠菜 ,,po tsˈai,po55 tsˈai213,po tsˈai,po55 tsˈai213
+GY,Guiyang,27,卷心菜,裹心白 ,,ko ɕin pɛ,ko42 ɕin55 pɛ21,ko ɕin pɛ,ko42 ɕin55 pɛ21
+GY,Guiyang,28,西红柿,毛辣角 ,,mao la ko,mao21 la21 ko21,mao la ko,mao21 la21 ko21
+GY,Guiyang,29,茄子,茄子 ,,tɕˈiɛ tsɿ,tɕˈiɛ21 tsɿ42,tɕˈiɛ tsɹ̩,tɕˈiɛ21 tsɹ̩42
+GY,Guiyang,30,白薯,饭薯 ,,fan su,fan213 su21,fan su,fan213 su21
+GY,Guiyang,31,马铃薯,洋芋 ,,iaŋ i,iaŋ21 i213,iaŋ i,iaŋ21 i213
+GY,Guiyang,32,南瓜,南瓜 ,,lan kua,lan21 kua55,lan kua,lan21 kua55
+GY,Guiyang,33,猪,猪 ,,tsu,tsu55,tsu,tsu55
+GY,Guiyang,34,公猪,牙猪,,ia tsu,ia21 tsu55,ia tsu,ia21 tsu55
+GY,Guiyang,35,母猪,草猪,,tsˈao tsu,tsˈao42 tsu55,tsˈao tsu,tsˈao42 tsu55
+GY,Guiyang,36,公鸡,公鸡 ,,koŋ tɕi,koŋ55 tɕi55,koŋ tɕi,koŋ55 tɕi55
+GY,Guiyang,37,母鸡,子鸡,,tsɿ tɕi,tsɿ42 tɕi55,tsɹ̩ tɕi,tsɹ̩42 tɕi55
+GY,Guiyang,38,麻雀,麻雀,,ma tɕˈio,ma21 tɕˈio21,ma tɕˈio,ma21 tɕˈio21
+GY,Guiyang,39,老鼠,耗子 ,,xao tsɿ,xao213 tsɿ42,xao tsɹ̩,xao213 tsɹ̩42
+GY,Guiyang,40,臭虫,臭虫 ,,tsˈəu tsˈoŋ,tsˈəu213 tsˈoŋ21,tsˈəu tsˈoŋ,tsˈəu213 tsˈoŋ21
+GY,Guiyang,41,房子(整),房子 ,,faŋ tsɿ,faŋ21 tsɿ42,faŋ tsɹ̩,faŋ21 tsɹ̩42
+GY,Guiyang,42,房子(单),房间,,faŋ kan,faŋ21 kan55,faŋ kan,faŋ21 kan55
+GY,Guiyang,43,窗户,窗子 ,,tsˈuaŋ tsɿ,tsˈuaŋ55 tsɿ42,tsˈuaŋ tsɹ̩,tsˈuaŋ55 tsɹ̩42
+GY,Guiyang,44,门坎,门坎 ,,men kˈan,men21 kˈan42,men kˈan,men21 kˈan42
+GY,Guiyang,45,厕所,厕所 ,,tsˈɛ so,tsˈɛ21 so42,tsˈɛ so,tsˈɛ21 so42
+GY,Guiyang,46,厨房,厨房 ,,tsˈu faŋ,tsˈu21 faŋ21,tsˈu faŋ,tsˈu21 faŋ21
+GY,Guiyang,47,烟囱,烟囱 ,,ian tsˈoŋ,ian55 tsˈoŋ55,ian tsˈoŋ,ian55 tsˈoŋ55
+GY,Guiyang,48,桌子,桌子 ,,tso tsɿ,tso21 tsɿ42,tso tsɹ̩,tso21 tsɹ̩42
+GY,Guiyang,49,楼梯,楼梯 ,,ləu tˈi,ləu21 tˈi55,ləu tˈi,ləu21 tˈi55
+GY,Guiyang,50,头,脑壳 ,,lao kˈo,lao42 kˈo21,lao kˈo,lao42 kˈo21
+GY,Guiyang,51,额头,额颅 ,,ŋɛ ləu,ŋɛ21 ləu55,ŋɛ ləu,ŋɛ21 ləu55
+GY,Guiyang,52,脸,脸 ,,lian,lian42,lian,lian42
+GY,Guiyang,53,鼻子,鼻子 ,,pi tsɿ,pi21 tsɿ42,pi tsɹ̩,pi21 tsɹ̩42
+GY,Guiyang,54,脖子,颈根 ,,tɕiaŋ ken,tɕiaŋ42 ken55,tɕiaŋ ken,tɕiaŋ42 ken55
+GY,Guiyang,55,左手,左手 ,,tso səu,tso42 səu42,tso səu,tso42 səu42
+GY,Guiyang,56,右手,右手 ,,iəu səu,iəu213 səu42,iəu səu,iəu213 səu42
+GY,Guiyang,57,拳头,碇子 ,,tin tsɿ,tin213 tsɿ42,tin tsɹ̩,tin213 tsɹ̩42
+GY,Guiyang,58,手指头,指头 ,,tsɿ tˈəu,tsɿ42 tˈəu21,tsɹ̩ tˈəu,tsɹ̩42 tˈəu21
+GY,Guiyang,59,指甲,指甲 ,,tsɿ tɕia,tsɿ42 tɕia21,tsɹ̩ tɕia,tsɹ̩42 tɕia21
+GY,Guiyang,60,膝盖,克膝头 ,,kˈɛ ɕi tˈəu,kˈɛ21 ɕi55 tˈəu21,kˈɛ ɕi tˈəu,kˈɛ21 ɕi55 tˈəu21
+GY,Guiyang,61,腿,罢腿 ,,pa tˈuei,pa213 tˈuei42,pa tˈuei,pa213 tˈuei42
+GY,Guiyang,62,父亲,爸爸,,pa pa,pa21 pa55,pa pa,pa21 pa55
+GY,Guiyang,63,母亲,妈 ,,ma,ma55,ma,ma55
+GY,Guiyang,64,祖父,爷爷,,iɛ iɛ,iɛ21 iɛ55,iɛ iɛ,iɛ21 iɛ55
+GY,Guiyang,65,祖母,太太 ,,tˈai tˈai,tˈai21 tˈai213,tˈai tˈai,tˈai21 tˈai213
+GY,Guiyang,66,伯父,伯伯 ,,pɛ pɜ,pɛ21 pɜ55,pɛ pɜ,pɛ21 pɜ55
+GY,Guiyang,67,伯母,伯妈 ,,pɛ ma,pɛ21 ma55,pɛ ma,pɛ21 ma55
+GY,Guiyang,68,叔父,叔叔 ,,su su,su21 su55,su su,su21 su55
+GY,Guiyang,69,叔母,婶婶 ,,sen sen,sen42 sen42,sen sen,sen42 sen42
+GY,Guiyang,70,外祖父,公公 ,,koŋ koŋ,koŋ55 koŋ55,koŋ koŋ,koŋ55 koŋ55
+GY,Guiyang,71,外祖母,婆婆 ,,pˈo pˈo,pˈo21 pˈo55,pˈo pˈo,pˈo21 pˈo55
+GY,Guiyang,72,舅舅,舅舅 ,,tɕiəu tɕiəu,tɕiəu21 tɕiəu213,tɕiəu tɕiəu,tɕiəu21 tɕiəu213
+GY,Guiyang,73,舅母,舅妈 ,,tɕiəu ma,tɕiəu213 ma55,tɕiəu ma,tɕiəu213 ma55
+GY,Guiyang,74,丈夫,男人 ,,lan zen,lan21 zen21,lan zen,lan21 zen21
+GY,Guiyang,75,妻子,女的 ,,li lɛ,li42 lɛ55,li lɛ,li42 lɛ55
+GY,Guiyang,76,儿子,儿子 ,,ə˞ tsɿ,ə˞21 tsɿ42,ə˞ tsɹ̩,ə˞21 tsɹ̩42
+GY,Guiyang,77,女儿,姑娘 ,,ku liaŋ,ku55 liaŋ55,ku liaŋ,ku55 liaŋ55
+GY,Guiyang,78,早饭,过早 ,,ko tsao,ko213 tsao42,ko tsao,ko213 tsao42
+GY,Guiyang,79,午饭,中午饭,,tsoŋ u fan,tsoŋ55 u42 fan213,tsoŋ u fan,tsoŋ55 u42 fan213
+GY,Guiyang,80,晚饭,晚饭 ,,uan fan,uan42 fan213,uan fan,uan42 fan213
+GY,Guiyang,81,面条,面 ,,mian,mian213,mian,mian213
+GY,Guiyang,82,馒头,馒头 ,,man tˈəu,man21 tˈəu55,man tˈəu,man21 tˈəu55
+GY,Guiyang,83,包子,包子 ,,pao tsɿ,pao55 tsɿ42,pao tsɹ̩,pao55 tsɹ̩42
+GY,Guiyang,84,馄饨,馄吞 ,,kˈuen tˈen,kˈuen21 tˈen55,kˈuen tˈen,kˈuen21 tˈen55
+GY,Guiyang,85,醋,醋 ,,tsˈu,tsˈu213,tsˈu,tsˈu213
+GY,Guiyang,86,酱油,酱油 ,,tɕiaŋ iəu,tɕiaŋ213 iəu21,tɕiaŋ iəu,tɕiaŋ213 iəu21
+GY,Guiyang,87,盐,盐巴 ,,ian pa,ian21 pa55,ian pa,ian21 pa55
+GY,Guiyang,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai213 tsɿ42,kˈuai tsɹ̩,kˈuai213 tsɹ̩42
+GY,Guiyang,89,勺儿,瓢儿 ,,pˈiao ə˞,pˈiao21 ə˞55,pˈiao ə˞,pˈiao21 ə˞55
+GY,Guiyang,90,男人,男的 ,,lan lɛ,lan21 lɛ55,lan lɛ,lan21 lɛ55
+GY,Guiyang,91,女人,女的 ,,li lɛ,li42 lɛ55,li lɛ,li42 lɛ55
+GY,Guiyang,92,男孩子,男娃娃 ,,lan ua ua,lan21 ua21 ua55,lan ua ua,lan21 ua21 ua55
+GY,Guiyang,93,女孩子,女娃娃 ,,li ua ua,li42 ua21 ua55,li ua ua,li42 ua21 ua55
+GY,Guiyang,94,老头儿,老者 ,,lao tsei,lao42 tsei42,lao tsei,lao42 tsei42
+GY,Guiyang,95,医生,医生 ,,i sen,i55 sen55,i sen,i55 sen55
+GY,Guiyang,96,厨师,厨子,,tsˈu tsɿ,tsˈu21 tsɿ42,tsˈu tsɹ̩,tsˈu21 tsɹ̩42
+GY,Guiyang,97,乞丐,叫化子 ,,tɕiao xua tsɿ,tɕiao213 xua213 tsɿ42,tɕiao xua tsɹ̩,tɕiao213 xua213 tsɹ̩42
+GY,Guiyang,98,保姆,保姆 ,,pao mu,pao42 mu42,pao mu,pao42 mu42
+GY,Guiyang,99,病了,生病了 ,,sen pin əu,sen55 pin213 əu213,sen pin əu,sen55 pin213 əu213
+GY,Guiyang,100,伤风,凉倒 ,,liaŋ tao,liaŋ21 tao42,liaŋ tao,liaŋ21 tao42
+GY,Guiyang,101,泻肚,肚皮不好 ,,tu pˈi pu xao,tu213 pˈi21 pu21 xao42,tu pˈi pu xao,tu213 pˈi21 pu21 xao42
+GY,Guiyang,102,瘸子,□子,,pai tsɿ,pai55 tsɿ42,pai tsɹ̩,pai55 tsɹ̩42
+GY,Guiyang,103,驼背,驼子 ,,tˈo tsɿ,tˈo21 tsɿ42,tˈo tsɹ̩,tˈo21 tsɹ̩42
+GY,Guiyang,104,死了,死了 ,,sɿ əu,sɿ42 əu213,sɹ̩ əu,sɹ̩42 əu213
+GY,Guiyang,105,看病,看病 ,,kˈan pin,kˈan213 pin213,kˈan pin,kˈan213 pin213
+GY,Guiyang,106,我,我,,ŋo,ŋo42,ŋo,ŋo42
+GY,Guiyang,107,你,你,,li,li42,li,li42
+GY,Guiyang,108,他,他,,la,la55,la,la55
+GY,Guiyang,109,我们,我们,,ŋo men,ŋo42 men55,ŋo men,ŋo42 men55
+GY,Guiyang,110,你们,你们,,li men,li42 men55,li men,li42 men55
+GY,Guiyang,111,他们,他们,,la men,la55 men55,la men,la55 men55
+GY,Guiyang,112,咱们,我们,,ŋo men,ŋo42 men55,ŋo men,ŋo42 men55
+GY,Guiyang,113,自己,自己 ,,tsɿ tɕi,tsɿ213 tɕi42,tsɹ̩ tɕi,tsɹ̩213 tɕi42
+GY,Guiyang,114,谁,哪个 ,,la ko,la42 ko213,la ko,la42 ko213
+GY,Guiyang,115,什么,朗子 ,,laŋ tsɿ,laŋ42 tsɿ42,laŋ tsɹ̩,laŋ42 tsɹ̩42
+GY,Guiyang,116,这里,这点,,tsɿ tɛ,tsɿ55 tɛ42,tsɹ̩ tɛ,tsɹ̩55 tɛ42
+GY,Guiyang,117,那里,那点,,a tɛ,a55 tɛ42,a tɛ,a55 tɛ42
+GY,Guiyang,118,哪里,哪点,,la tɛ,la42 tɛ42,la tɛ,la42 tɛ42
+GY,Guiyang,119,这个,这个,,tsɿ ko,tsɿ55 ko213,tsɹ̩ ko,tsɹ̩55 ko213
+GY,Guiyang,120,那个,那个,,a ko,a55 ko213,a ko,a55 ko213
+GY,Guiyang,121,哪一个,哪个 ,,la ko,la42 ko213,la ko,la42 ko213
+GY,Guiyang,122,怎么样,咋个样,,tsa ko iaŋ,tsa21 ko21 iaŋ213,tsa ko iaŋ,tsa21 ko21 iaŋ213
+GY,Guiyang,123,一位客人,个,,ko,ko213,ko,ko213
+GY,Guiyang,124,一双鞋,双,,suaŋ,suaŋ55,suaŋ,suaŋ55
+GY,Guiyang,125,一床被,床,,tsˈuaŋ,tsˈuaŋ21,tsˈuaŋ,tsˈuaŋ21
+GY,Guiyang,126,一辆车,架,,tɕia,tɕia213,tɕia,tɕia213
+GY,Guiyang,127,一条牛,条,,tˈiao,tˈiao21,tˈiao,tˈiao21
+GY,Guiyang,128,一口猪,条,,tˈiao,tˈiao21,tˈiao,tˈiao21
+GY,Guiyang,129,听一会儿,阵,,tsen,tsen213,tsen,tsen213
+GY,Guiyang,130,打一下,下,,xa,xa213,xa,xa213
+GY,Guiyang,131,上头,上头,,saŋ tˈəu,saŋ213 tˈəu55,saŋ tˈəu,saŋ213 tˈəu55
+GY,Guiyang,132,下头,下头,,ɕia tˈəu,ɕia213 tˈəu55,ɕia tˈəu,ɕia213 tˈəu55
+GY,Guiyang,133,左边,左边,,tso pian,tso42 pian55,tso pian,tso42 pian55
+GY,Guiyang,134,右边,右边,,iəu pian,iəu213 pian55,iəu pian,iəu213 pian55
+GY,Guiyang,135,当中,当中,,taŋ tsoŋ,taŋ55 tsoŋ55,taŋ tsoŋ,taŋ55 tsoŋ55
+GY,Guiyang,136,里面,里头,,i tˈəu,i42 tˈəu55,i tˈəu,i42 tˈəu55
+GY,Guiyang,137,外面,外头,,uai tˈəu,uai213 tˈəu55,uai tˈəu,uai213 tˈəu55
+GY,Guiyang,138,甜,甜,,tˈian,tˈian21,tˈian,tˈian21
+GY,Guiyang,139,酸,酸,,suan,suan55,suan,suan55
+GY,Guiyang,140,咸,咸,,ɕian,ɕian21,ɕian,ɕian21
+GY,Guiyang,141,淡,淡,,tan,tan213,tan,tan213
+GY,Guiyang,142,胖,□,,maŋ,maŋ55,maŋ,maŋ55
+GY,Guiyang,143,瘦,瘦,,səu,səu213,səu,səu213
+GY,Guiyang,144,冷,冷,,len,len42,len,len42
+GY,Guiyang,145,热,热,,zɛ,zɛ21,zɛ,zɛ21
+GY,Guiyang,146,香,香,,ɕiaŋ,ɕiaŋ55,ɕiaŋ,ɕiaŋ55
+GY,Guiyang,147,臭,臭,,tsˈəu,tsˈəu213,tsˈəu,tsˈəu213
+GY,Guiyang,148,粗,粗,,tsˈu,tsˈu55,tsˈu,tsˈu55
+GY,Guiyang,149,细,细,,ɕi,ɕi213,ɕi,ɕi213
+GY,Guiyang,150,长,长,,tsˈaŋ,tsˈaŋ21,tsˈaŋ,tsˈaŋ21
+GY,Guiyang,151,短,短,,tuan,tuan42,tuan,tuan42
+GY,Guiyang,152,脏,腊踏,,la tˈa,la21 tˈa21,la tˈa,la21 tˈa21
+GY,Guiyang,153,干净,干净 ,,kan tɕin,kan55 tɕin213,kan tɕin,kan55 tɕin213
+GY,Guiyang,154,便宜,便宜 ,,pˈian i,pˈian21 i213,pˈian i,pˈian21 i213
+GY,Guiyang,155,刚(来),将才 ,,tɕiaŋ tsˈai,tɕiaŋ55 tsˈai21,tɕiaŋ tsˈai,tɕiaŋ55 tsˈai21
+GY,Guiyang,156,刚(合适),将将的 ,,tɕiaŋ tɕiaŋ lɛ,tɕiaŋ55 tɕiaŋ55 lɛ55,tɕiaŋ tɕiaŋ lɛ,tɕiaŋ55 tɕiaŋ55 lɛ55
+GY,Guiyang,157,正好,正对头 ,,tsen tuei tˈəu,tsen213 tuei213 tˈəu21,tsen tuei tˈəu,tsen213 tuei213 tˈəu21
+GY,Guiyang,158,和,和 ,,xo,xo21,xo,xo21
+GY,Guiyang,159,只,只 ,,tsɿ,tsɿ42,tsɹ̩,tsɹ̩42
+GY,Guiyang,160,从,齐,,tɕˈi,tɕˈi21,tɕˈi,tɕˈi21
+GY,Guiyang,161,替,替 ,,tˈi,tˈi213,tˈi,tˈi213
+GY,Guiyang,162,拿,拿 ,,la,la21,la,la21
+GY,Guiyang,163,故意,罢意 ,,pa i,pa213 i213,pa i,pa213 i213
+GY,Guiyang,164,一,一,,i,i21,i,i21
+GY,Guiyang,165,二,二,,ə˞,ə˞213,ə˞,ə˞213
+GY,Guiyang,166,三,三,,san,san55,san,san55
+GY,Guiyang,167,四,四,,sɿ,sɿ213,sɹ̩,sɹ̩213
+GY,Guiyang,168,五,五,,u,u42,u,u42
+GY,Guiyang,169,六,六,,lu,lu21,lu,lu21
+GY,Guiyang,170,七,七,,tɕˈi,tɕˈi21,tɕˈi,tɕˈi21
+GY,Guiyang,171,八,八,,pa,pa21,pa,pa21
+GY,Guiyang,172,九,九,,tɕiəu,tɕiəu42,tɕiəu,tɕiəu42
+GY,Guiyang,173,十,十,,sɿ,sɿ21,sɹ̩,sɹ̩21
+GY,Guiyang,174,十一,十一,,sɿ i,sɿ21 i21,sɹ̩ i,sɹ̩21 i21
+GY,Guiyang,175,十二,十二,,sɿ ə˞,sɿ21 ə˞213,sɹ̩ ə˞,sɹ̩21 ə˞213
+GY,Guiyang,176,二十,二十,,ə˞ sɿ,ə˞213 sɿ21,ə˞ sɹ̩,ə˞213 sɹ̩21
+GY,Guiyang,177,二十一,二十一,,ə˞ sɿ i,ə˞213 sɿ21 i21,ə˞ sɹ̩ i,ə˞213 sɹ̩21 i21
+GY,Guiyang,178,一百二十一,一百二十一,,i pɛ ə˞ sɿ i,i21 pɛ21 ə˞213 sɿ21 i21,i pɛ ə˞ sɹ̩ i,i21 pɛ21 ə˞213 sɹ̩21 i21
+GY,Guiyang,179,第一,第一,,ti i,ti213 i21,ti i,ti213 i21
+GY,Guiyang,180,第二,第二,,ti ə˞,ti213 ə˞213,ti ə˞,ti213 ə˞213
+GY,Guiyang,181,两里,两里,,liaŋ li,liaŋ42 li42,liaŋ li,liaŋ42 li42
+GY,Guiyang,182,二两,二两,,ə˞ liaŋ,ə˞213 liaŋ42,ə˞ liaŋ,ə˞213 liaŋ42
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
