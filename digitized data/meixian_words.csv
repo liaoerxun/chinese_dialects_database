@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+MX,Meixian,1,太阳,日头 ,,ŋit tˈeu,ŋit1 tˈeu11,ŋit1 tˈeu11,ŋit tˈeu
+MX,Meixian,2,月亮,月光 ,,ŋiat kuoŋ,ŋiat5 kuoŋ44,ŋiat5 kuoŋ44,ŋiat kuoŋ
+MX,Meixian,3,星星,星儿 ,,sen ne,sen44-35 ne,sen44-35 ne,sen ne
+MX,Meixian,4,打雷,响雷公 ,,hioŋ lui kuŋ,hioŋ31 lui11 kuŋ44,hioŋ31 lui11 kuŋ44,hioŋ lui kuŋ
+MX,Meixian,5,闪电,慑火蛇 ,,ŋiap fo sa,ŋiap1 fo31 sa11,ŋiap1 fo31 sa11,ŋiap fo sa
+MX,Meixian,6,下雨,落雨 ,,lok i,lok5 i31,lok5 i31,lok i
+MX,Meixian,7,下雪,落雪 ,,lok siet,lok5 siet1,lok5 siet1,lok siet
+MX,Meixian,8,冰雹,雹 ,,pˈok,pˈok5,pˈok5,pˈok
+MX,Meixian,9,结冰,结冰 ,,kiat pen,kiat1 pen44,kiat1 pen44,kiat pen
+MX,Meixian,10,刮风,起风 ,,hi fuŋ,hi31 fuŋ44,hi31 fuŋ44,hi fuŋ
+MX,Meixian,11,虹,天弓 ,,tˈien kiuŋ,tˈien44 kiuŋ44,tˈien44 kiuŋ44,tˈien kiuŋ
+MX,Meixian,12,端午节,五月节 ,,n̩ ŋiat tsiet,n̩31 ŋiat5 tsiet1,n̩31 ŋiat5 tsiet1,n̩ ŋiat tsiet
+MX,Meixian,13,中秋节,中秋节 ,,tsuŋ tsˈiu tsiet,tsuŋ44 tsˈiu44-35 tsiet1,tsuŋ44 tsˈiu44-35 tsiet1,tsuŋ tsˈiu tsiet
+MX,Meixian,14,除夕,年三十日 ,,ŋian sam səp ŋit,ŋian11 sam44 səp5 ŋit1,ŋian11 sam44 səp5 ŋit1,ŋian sam səp ŋit
+MX,Meixian,15,今年,今年 ,,kin ŋian,kin44-35 ŋian11,kin44-35 ŋian11,kin ŋian
+MX,Meixian,16,明年,过了年 ,,kuo e ŋian,kuo53-55 e ŋian11,kuo53-55 e ŋian11,kuo e ŋian
+MX,Meixian,17,去年,旧年儿 ,,kˈiu ŋian ne,kˈiu53-55 ŋian11 ne,kˈiu53-55 ŋian11 ne,kˈiu ŋian ne
+MX,Meixian,18,明天,辰朝日 ,,sən tsau ŋit,sən11 tsau44-35 ŋit1,sən11 tsau44-35 ŋit1,sən tsau ŋit
+MX,Meixian,19,昨天,秋晡日 ,,tsˈiu pu ŋit,tsˈiu44 pu44-35 ŋit1,tsˈiu44 pu44-35 ŋit1,tsˈiu pu ŋit
+MX,Meixian,20,今天,今日 ,,kim ŋit,kim44-35 ŋit1,kim44-35 ŋit1,kim ŋit
+MX,Meixian,21,星期天,星期日,,sen kˈi ŋit,sen44-35 kˈi11 ŋit1,sen44-35 kˈi11 ŋit1,sen kˈi ŋit
+MX,Meixian,22,麦子,麦儿,,mak e,mak5 e,mak5 e,mak e
+MX,Meixian,23,大米,米 ,,mi,mi31,mi31,mi
+MX,Meixian,24,蚕豆,胡豆,,fu tˈeu,fu11 tˈeu53,fu11 tˈeu53,fu tˈeu
+MX,Meixian,25,向日葵,向日葵 ,,hioŋ ŋit kˈui,hioŋ53-55 ŋit1 kˈui11,hioŋ53-55 ŋit1 kˈui11,hioŋ ŋit kˈui
+MX,Meixian,26,菠菜,角菜儿 ,,kok tsˈoi ie,kok1 tsˈoi53-55 ie,kok1 tsˈoi53-55 ie,kok tsˈoi ie
+MX,Meixian,27,卷心菜,包菜 ,,pau tsˈoi,pau44-35 tsˈoi53,pau44-35 tsˈoi53,pau tsˈoi
+MX,Meixian,28,西红柿,番茄儿 ,,fan kˈio e,fan44-35 kˈio11 e,fan44-35 kˈio11 e,fan kˈio e
+MX,Meixian,29,茄子,吊菜儿 ,,tiau tsˈoi ie,tiau53-55 tsˈoi53-55 ie,tiau53-55 tsˈoi53-55 ie,tiau tsˈoi ie
+MX,Meixian,30,白薯,番薯 ,,fan su,fan44-35 su11,fan44-35 su11,fan su
+MX,Meixian,31,马铃薯,马铃薯 ,,ma laŋ su,ma44-35 laŋ11 su11,ma44-35 laŋ11 su11,ma laŋ su
+MX,Meixian,32,南瓜,冬瓜 ,,tuŋ kua,tuŋ44 kua44,tuŋ44 kua44,tuŋ kua
+MX,Meixian,33,猪,猪儿 ,,tsu ve,tsu44-35 ve,tsu44-35 ve,tsu ve
+MX,Meixian,34,公猪,猪哥,,tsu ko,tsu44 ko44,tsu44 ko44,tsu ko
+MX,Meixian,35,母猪,猪嫲,,tsu ma,tsu44-35 ma11,tsu44-35 ma11,tsu ma
+MX,Meixian,36,公鸡,鸡公 ,,ke kuŋ,ke44 kuŋ44,ke44 kuŋ44,ke kuŋ
+MX,Meixian,37,母鸡,鸡嫲 ,,ke ma,ke44 ma11,ke44 ma11,ke ma
+MX,Meixian,38,麻雀,禾笔儿 ,,vo pit le,vo11 pit1 le,vo11 pit1 le,vo pit le
+MX,Meixian,39,老鼠,老鼠儿,,lau tsˈu ve,lau31 tsˈu31 ve,lau31 tsˈu31 ve,lau tsˈu ve
+MX,Meixian,40,臭虫,乾蜱 ,,kon pˈi,kon44 pˈi44,kon44 pˈi44,kon pˈi
+MX,Meixian,41,房子(整),屋儿,,vuk e,vuk1 e,vuk1 e,vuk e
+MX,Meixian,42,房子(单),间儿 ,,kian ne,kian44-35 ne,kian44-35 ne,kian ne
+MX,Meixian,43,窗户,窗儿 ,,tsˈuŋ ŋe,tsˈuŋ44-35 ŋe,tsˈuŋ44-35 ŋe,tsˈuŋ ŋe
+MX,Meixian,44,门坎,门段 ,,mum ton,mum11 ton53,mum11 ton53,mum ton
+MX,Meixian,45,厕所,屎窖 ,,sɿ kau,sɿ31 kau53,sɹ̩31 kau53,sɹ̩ kau
+MX,Meixian,46,厨房,厨房下 ,,tsˈu foŋ ha,tsˈu11 foŋ11 ha44,tsˈu11 foŋ11 ha44,tsˈu foŋ ha
+MX,Meixian,47,烟囱,烟涵 ,,ian ham,ian44-35 ham11,ian44-35 ham11,ian ham
+MX,Meixian,48,桌子,桌儿,,tsok e,tsok1 e,tsok1 e,tsok e
+MX,Meixian,49,楼梯,梯排 ,,tˈoi pˈai,tˈoi44-35 pˈai11,tˈoi44-35 pˈai11,tˈoi pˈai
+MX,Meixian,50,头,头,,tˈeu,tˈeu11,tˈeu11,tˈeu
+MX,Meixian,51,额头,额 ,,ŋiak,ŋiak1,ŋiak1,ŋiak
+MX,Meixian,52,脸,面 ,,mien,mien53,mien53,mien
+MX,Meixian,53,鼻子,鼻公 ,,pˈi kuŋ,pˈi53 kuŋ44,pˈi53 kuŋ44,pˈi kuŋ
+MX,Meixian,54,脖子,颈茎 ,,kiaŋ kin,kiaŋ31 kin44,kiaŋ31 kin44,kiaŋ kin
+MX,Meixian,55,左手,左手 ,,tso su,tso31 su31,tso31 su31,tso su
+MX,Meixian,56,右手,右手 ,,iu su,iu53-55 su31,iu53-55 su31,iu su
+MX,Meixian,57,拳头,拳头 ,,kˈian tˈeu,kˈian11 tˈeu11,kˈian11 tˈeu11,kˈian tˈeu
+MX,Meixian,58,手指头,手指 ,,su tsɿ,su31 tsɿ31,su31 tsɹ̩31,su tsɹ̩
+MX,Meixian,59,指甲,手指甲 ,,su tsɿ kap,su31 tsɿ31 kap1,su31 tsɹ̩31 kap1,su tsɹ̩ kap
+MX,Meixian,60,膝盖,膝头项 ,,tsˈit tˈeu hoŋ,tsˈit1 tˈeu11 hoŋ53,tsˈit1 tˈeu11 hoŋ53,tsˈit tˈeu hoŋ
+MX,Meixian,61,腿,脚,,kiok,kiok1,kiok1,kiok
+MX,Meixian,62,父亲,阿爸,,a pa,a44 pa44,a44 pa44,a pa
+MX,Meixian,63,母亲,阿姆,,a me,a44 me44,a44 me44,a me
+MX,Meixian,64,祖父,阿公 ,,a kuŋ,a44 kuŋ44,a44 kuŋ44,a kuŋ
+MX,Meixian,65,祖母,阿婆,,a pˈo,a44-35 pˈo11,a44-35 pˈo11,a pˈo
+MX,Meixian,66,伯父,阿伯,,a pak,a44-35 pak1,a44-35 pak1,a pak
+MX,Meixian,67,伯母,伯姆 ,,pak me,pak1 me44,pak1 me44,pak me
+MX,Meixian,68,叔父,阿叔 ,,a suk,a44-35 suk1,a44-35 suk1,a suk
+MX,Meixian,69,叔母,叔姆 ,,suk me,suk1 me44,suk1 me44,suk me
+MX,Meixian,70,外祖父,外阿公 ,,ŋoi a kuŋ,ŋoi53 a44 kuŋ44,ŋoi53 a44 kuŋ44,ŋoi a kuŋ
+MX,Meixian,71,外祖母,外阿婆 ,,ŋoi a pˈo,ŋoi53 a44-35 pˈo11,ŋoi53 a44-35 pˈo11,ŋoi a pˈo
+MX,Meixian,72,舅舅,阿舅 ,,a kˈiu,a44 kˈiu44,a44 kˈiu44,a kˈiu
+MX,Meixian,73,舅母,舅姆 ,,kˈiu me,kˈiu44 me44,kˈiu44 me44,kˈiu me
+MX,Meixian,74,丈夫,老公 ,,lau kuŋ,lau31 kuŋ44,lau31 kuŋ44,lau kuŋ
+MX,Meixian,75,妻子,老婆 ,,lau pˈo,lau31 pˈo11,lau31 pˈo11,lau pˈo
+MX,Meixian,76,儿子,赖儿 ,,lai ie,lai53-55 ie,lai53-55 ie,lai ie
+MX,Meixian,77,女儿,妹儿 ,,moi ie,moi53-55 ie,moi53-55 ie,moi ie
+MX,Meixian,78,早饭,食朝 ,,sət tsau,sət5 tsau44,sət5 tsau44,sət tsau
+MX,Meixian,79,午饭,食昼,,sət tsu,sət5 tsu53,sət5 tsu53,sət tsu
+MX,Meixian,80,晚饭,食夜 ,,sət ia,sət5 ia53,sət5 ia53,sət ia
+MX,Meixian,81,面条,面 ,,mien,mien53,mien53,mien
+MX,Meixian,82,馒头,馒头 ,,man tˈeu,man11 tˈeu11,man11 tˈeu11,man tˈeu
+MX,Meixian,83,包子,包儿 ,,pau ve,pau44-35 ve,pau44-35 ve,pau ve
+MX,Meixian,84,馄饨,饺儿 ,,kiau ve,kiau11 ve,kiau11 ve,kiau ve
+MX,Meixian,85,醋,酸醋 ,,son tsˈɿ,son44-35 tsˈɿ53,son44-35 tsˈɹ̩53,son tsˈɹ̩
+MX,Meixian,86,酱油,白味 ,,pˈak mi,pˈak5 mi53,pˈak5 mi53,pˈak mi
+MX,Meixian,87,盐,盐 ,,iam,iam11,iam11,iam
+MX,Meixian,88,筷子,筷儿 ,,kˈuai ie,kˈuai53-55 ie,kˈuai53-55 ie,kˈuai ie
+MX,Meixian,89,勺儿,勺儿,,sok e,sok5 e,sok5 e,sok e
+MX,Meixian,90,男人,男儿人 ,,nam me ŋin,nam11 me ŋin11,nam11 me ŋin11,nam me ŋin
+MX,Meixian,91,女人,妇人家 ,,fu ŋin ka,fu53-55 ŋin11 ka44,fu53-55 ŋin11 ka44,fu ŋin ka
+MX,Meixian,92,男孩子,细阿哥儿,,se a ko e,se53 a44 ko44-35 e,se53 a44 ko44-35 e,se a ko e
+MX,Meixian,93,女孩子,细妹儿 ,,se moi ie,se53-55 moi53 ie,se53-55 moi53 ie,se moi ie
+MX,Meixian,94,老头儿,老阿伯 ,,lau a pak,lau31 a44-35 pak1,lau31 a44-35 pak1,lau a pak
+MX,Meixian,95,医生,医生 ,,i sen,i44 sen44,i44 sen44,i sen
+MX,Meixian,96,厨师,厨师 ,,tsˈu sɿ,tsˈu11 sɿ44,tsˈu11 sɹ̩44,tsˈu sɹ̩
+MX,Meixian,97,乞丐,告化儿 ,,kau fa ve,kau53-55 fa53-55 ve,kau53-55 fa53-55 ve,kau fa ve
+MX,Meixian,98,保姆,保姆 ,,pau me,pau31 me44,pau31 me44,pau me
+MX,Meixian,99,病了,发病 ,,pot pˈiaŋ,pot1 pˈiaŋ53,pot1 pˈiaŋ53,pot pˈiaŋ
+MX,Meixian,100,伤风,伤风 ,,soŋ fuŋ,soŋ44 fuŋ44,soŋ44 fuŋ44,soŋ fuŋ
+MX,Meixian,101,泻肚,屙痢肚 ,,o li tu,o44-35 li53-55 tu31,o44-35 li53-55 tu31,o li tu
+MX,Meixian,102,瘸子,□脚儿,,pai kiok e,pai44-35 kiok1 e,pai44-35 kiok1 e,pai kiok e
+MX,Meixian,103,驼背,驼背儿 ,,tˈo poi ie,tˈo11 poi53-55 ie,tˈo11 poi53-55 ie,tˈo poi ie
+MX,Meixian,104,死了,死撇了 ,,si pˈet le,si31 pˈet1 le,si31 pˈet1 le,si pˈet le
+MX,Meixian,105,看病,看病 ,,kˈon pˈiaŋ,kˈon53-55 pˈiaŋ53,kˈon53-55 pˈiaŋ53,kˈon pˈiaŋ
+MX,Meixian,106,我,𠊎 ,,ŋai,ŋai11,ŋai11,ŋai
+MX,Meixian,107,你,你 ,,n̩,n̩11,n̩11,n̩
+MX,Meixian,108,他,佢 ,,ki,ki11,ki11,ki
+MX,Meixian,109,我们,𠊎丁人 ,,ŋai ten ŋin,ŋai21 ten44-35 ŋin11,ŋai21 ten44-35 ŋin11,ŋai ten ŋin
+MX,Meixian,110,你们,你丁人 ,,n̩ ten ŋin,n̩11 ten44-35 ŋin11,n̩11 ten44-35 ŋin11,n̩ ten ŋin
+MX,Meixian,111,他们,佢丁人 ,,ki ten ŋin,ki11 ten44-35 ŋin11,ki11 ten44-35 ŋin11,ki ten ŋin
+MX,Meixian,112,咱们,𠊎丁人 ,,ŋai ten ŋin,ŋai21 ten44-35 ŋin11,ŋai21 ten44-35 ŋin11,ŋai ten ŋin
+MX,Meixian,113,自己,自家 ,,tsˈɿ ka,tsˈɿ53 ka44,tsˈɹ̩53 ka44,tsˈɹ̩ ka
+MX,Meixian,114,谁,□人 ,,man ŋin,man53-55 ŋin11,man53-55 ŋin11,man ŋin
+MX,Meixian,115,什么,脈个,,mak ke,mak1 ke53,mak1 ke53,mak ke
+MX,Meixian,116,这里,□儿 ,,e ie,e31 ie,e31 ie,e ie
+MX,Meixian,117,那里,□儿 ,,ke ie,ke53 ie,ke53 ie,ke ie
+MX,Meixian,118,哪里,□儿 ,,ŋai ke,ŋai53-55 ke53,ŋai53-55 ke53,ŋai ke
+MX,Meixian,119,这个,□儿 ,,e ke,e31 ke53,e31 ke53,e ke
+MX,Meixian,120,那个,□儿 ,,ke ke,ke53-55 ke53,ke53-55 ke53,ke ke
+MX,Meixian,121,哪一个,□儿 ,,ŋai ke,ŋai53-55 ke53,ŋai53-55 ke53,ŋai ke
+MX,Meixian,122,怎么样,样儿,,ŋioŋ ŋe,ŋioŋ53-55 ŋe,ŋioŋ53-55 ŋe,ŋioŋ ŋe
+MX,Meixian,123,一位客人,个,,ke,ke53,ke53,ke
+MX,Meixian,124,一双鞋,双,,suŋ,suŋ44,suŋ44,suŋ
+MX,Meixian,125,一床被,翻,,fon,fon44,fon44,fon
+MX,Meixian,126,一辆车,辆,,lioŋ,lioŋ11,lioŋ11,lioŋ
+MX,Meixian,127,一条牛,条,,tˈiau,tˈiau11,tˈiau11,tˈiau
+MX,Meixian,128,一口猪,条,,tˈiau,tˈiau11,tˈiau11,tˈiau
+MX,Meixian,129,听一会儿,下,,ha,ha53,ha53,ha
+MX,Meixian,130,打一下,下,,ha,ha53,ha53,ha
+MX,Meixian,131,上头,上背 ,,soŋ poi,soŋ53-55 poi53,soŋ53-55 poi53,soŋ poi
+MX,Meixian,132,下头,下背 ,,ha poi,ha44-35 poi53,ha44-35 poi53,ha poi
+MX,Meixian,133,左边,左片 ,,tso pˈien,tso31 pˈien31,tso31 pˈien31,tso pˈien
+MX,Meixian,134,右边,右片 ,,iu pˈien,iu53-55 pˈien31,iu53-55 pˈien31,iu pˈien
+MX,Meixian,135,当中,中间 ,,tsuŋ kian,tsuŋ44 kian44,tsuŋ44 kian44,tsuŋ kian
+MX,Meixian,136,里面,里肚儿 ,,ti tu ve,ti44-35 tu31 ve,ti44-35 tu31 ve,ti tu ve
+MX,Meixian,137,外面,外背 ,,ŋoi poi,ŋoi53-55 poi53,ŋoi53-55 poi53,ŋoi poi
+MX,Meixian,138,甜,甜,,tˈiam,tˈiam11,tˈiam11,tˈiam
+MX,Meixian,139,酸,酸,,son,son44,son44,son
+MX,Meixian,140,咸,咸,,ham,ham11,ham11,ham
+MX,Meixian,141,淡,淡,,tˈam,tˈam44,tˈam44,tˈam
+MX,Meixian,142,胖,肥,,pˈi,pˈi11,pˈi11,pˈi
+MX,Meixian,143,瘦,瘦,,seu,seu53,seu53,seu
+MX,Meixian,144,冷,寒,,hon,hon11,hon11,hon
+MX,Meixian,145,热,热,,ŋiat,ŋiat5,ŋiat5,ŋiat
+MX,Meixian,146,香,香,,hioŋ,hioŋ44,hioŋ44,hioŋ
+MX,Meixian,147,臭,臭,,tsˈu,tsˈu53,tsˈu53,tsˈu
+MX,Meixian,148,粗,粗,,tsˈɿ,tsˈɿ44,tsˈɹ̩44,tsˈɹ̩
+MX,Meixian,149,细,幼,,iu,iu53,iu53,iu
+MX,Meixian,150,长,长,,tsˈoŋ,tsˈoŋ11,tsˈoŋ11,tsˈoŋ
+MX,Meixian,151,短,短,,ton,ton31,ton31,ton
+MX,Meixian,152,脏,□,,me,me53,me53,me
+MX,Meixian,153,干净,净,,tsˈiaŋ,tsˈiaŋ53,tsˈiaŋ53,tsˈiaŋ
+MX,Meixian,154,便宜,便宜,,pˈien ŋin,pˈien11 ŋin11,pˈien11 ŋin11,pˈien ŋin
+MX,Meixian,155,刚(来),刚刚,,koŋ koŋ,koŋ44 koŋ44-35,koŋ44 koŋ44-35,koŋ koŋ
+MX,Meixian,156,刚(合适),刚,,koŋ,koŋ44,koŋ44,koŋ
+MX,Meixian,157,正好,正好 ,,tsaŋ hau,tsaŋ53-55 hau31,tsaŋ53-55 hau31,tsaŋ hau
+MX,Meixian,158,和,同 ,,tˈuŋ,tˈuŋ11,tˈuŋ11,tˈuŋ
+MX,Meixian,159,只,只 ,,tsak,tsak1,tsak1,tsak
+MX,Meixian,160,从,从 ,,tsˈiuŋ,tsˈiuŋ11,tsˈiuŋ11,tsˈiuŋ
+MX,Meixian,161,替,替 ,,tˈi,tˈi53,tˈi53,tˈi
+MX,Meixian,162,拿,拿 ,,na,na44,na44,na
+MX,Meixian,163,故意,故意 ,,ku i,ku53-55 i53,ku53-55 i53,ku i
+MX,Meixian,164,一,一,,it,it1,it1,it
+MX,Meixian,165,二,二,,ŋi,ŋi53,ŋi53,ŋi
+MX,Meixian,166,三,三,,sam,sam44,sam44,sam
+MX,Meixian,167,四,四,,si,si53,si53,si
+MX,Meixian,168,五,五,,n̩,n̩31,n̩31,n̩
+MX,Meixian,169,六,六,,liuk,liuk1,liuk1,liuk
+MX,Meixian,170,七,七,,tsˈit,tsˈit1,tsˈit1,tsˈit
+MX,Meixian,171,八,八,,pat,pat1,pat1,pat
+MX,Meixian,172,九,九,,kiu,kiu31,kiu31,kiu
+MX,Meixian,173,十,十,,səp,səp5,səp5,səp
+MX,Meixian,174,十一,十一,,səp it,səp5 it1,səp5 it1,səp it
+MX,Meixian,175,十二,十二,,səp ŋi,səp5 ŋi53,səp5 ŋi53,səp ŋi
+MX,Meixian,176,二十,二十,,ŋi səp,ŋi53 səp5,ŋi53 səp5,ŋi səp
+MX,Meixian,177,二十一,二十一,,ŋi səp it,ŋi53 səp5 it1,ŋi53 səp5 it1,ŋi səp it
+MX,Meixian,178,一百二十一,一百二十一,,it pak ŋi səp it,it1 pak1 ŋi53 səp5 it1,it1 pak1 ŋi53 səp5 it1,it pak ŋi səp it
+MX,Meixian,179,第一,第一,,tˈi it,tˈi53-55 it1,tˈi53-55 it1,tˈi it
+MX,Meixian,180,第二,第二,,tˈi ŋi,tˈi53-55 ŋi53,tˈi53-55 ŋi53,tˈi ŋi
+MX,Meixian,181,两里,两里,,lioŋ li,lioŋ31 li44,lioŋ31 li44,lioŋ li
+MX,Meixian,182,二两,二两,,ŋi lioŋ,ŋi53 lioŋ44,ŋi53 lioŋ44,ŋi lioŋ
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,

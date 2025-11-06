@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+MX,Meixian,1,谁啊?我是老三。,□人啊?𠊎係阿三,,man ŋin na ŋai he a sam,man53-55 ŋin11 na ŋai11 he53 a44 sam44,man53-55 ŋin11 na ŋai11 he53 a44 sam44,man ŋin na ŋai he a sam
+MX,Meixian,2,老四呢?她正跟一个朋友说着话呢。,阿四啊?佢正同一隻朋友□那儿嬲,,a si a ki tsaŋ tˈuŋ it tsak pˈen iu hok ke= e liau,a44-35 si53-55 a ki11 tsaŋ53 tˈuŋ11 it1 tsak1 pˈen11 iu44 hok1 ke53=55 e liau53,a44-35 si53-55 a ki11 tsaŋ53 tˈuŋ11 it1 tsak1 pˈen11 iu44 hok1 ke53=55 e liau53,a si a ki tsaŋ tˈuŋ it tsak pˈen iu hok ke= e liau
+MX,Meixian,3,她还没说完吗?,佢唔曾讲撇係唔係,,ki m̩ tˈien koŋ pˈei he m̩ me,ki11 m̩11 tˈien11 koŋ31 pˈei1 he53-55 m̩11 me53,ki11 m̩11 tˈien11 koŋ31 pˈei1 he53-55 m̩11 me53,ki m̩ tˈien koŋ pˈei he m̩ me
+MX,Meixian,4,还没有。大概再有一会儿就说完了。,还吂曾。等一下添佢就会讲撇了,,han maŋ tˈien ten it ha tˈiam ki tsˈu voi koŋ pˈet le,han11 maŋ11 tˈien11 ten31 it1 ha53 tˈiam44-35 ki11 tsˈu53-55 voi53-55 koŋ31 pˈet11 le,han11 maŋ11 tˈien11 ten31 it1 ha53 tˈiam44-35 ki11 tsˈu53-55 voi53-55 koŋ31 pˈet11 le,han maŋ tˈien ten it ha tˈiam ki tsˈu voi koŋ pˈet le
+MX,Meixian,5,他说马上就走，怎么这半天了还在家里?,佢话□□就走，样□久了还在屋下,,ki va lik lak tsˈiu tseu ŋioŋ an kiu ve han tsˈoi vuk kˈa,ki11 va53 lik5 lak5 tsˈiu53-55 tseu31 ŋioŋ53-55 an31 kiu31 ve han11 tsˈoi44-35 vuk1 kˈa44,ki11 va53 lik5 lak5 tsˈiu53-55 tseu31 ŋioŋ53-55 an31 kiu31 ve han11 tsˈoi44-35 vuk1 kˈa44,ki va lik lak tsˈiu tseu ŋioŋ an kiu ve han tsˈoi vuk kˈa
+MX,Meixian,6,你到哪儿去?我到城里去。,你去哪儿?我去出街,,n̩ hi nai ie ŋai hi tsˈut ke,n̩11 hi53-55 nai53-55 ie ŋai11 hi53-55 tsˈut1 ke44,n̩11 hi53-55 nai53-55 ie ŋai11 hi53-55 tsˈut1 ke44,n̩ hi nai ie ŋai hi tsˈut ke
+MX,Meixian,7,在那儿，不在这儿。,在那儿，唔係这儿,,hoi ke ie m̩ me e ie,hoi44-35 ke53-55 ie m̩11 me53-55 e31 ie,hoi44-35 ke53-55 ie m̩11 me53-55 e31 ie,hoi ke ie m̩ me e ie
+MX,Meixian,8,不是那么做，要这么做。,唔係那么做，爱这样做,,m̩ me ke an ne tso oi e ŋioŋ ŋe tso,m̩11 me53-55 ke53-55 an31 ne tso53 oi53-55 e31 ŋioŋ53-55 ŋe tso53,m̩11 me53-55 ke53-55 an31 ne tso53 oi53-55 e31 ŋioŋ53-55 ŋe tso53,m̩ me ke an ne tso oi e ŋioŋ ŋe tso
+MX,Meixian,9,太多了，用不着那么多，只要这么多就够了。,忒多了，唔使□多，爱□多儿就够了,,tˈiet to e m̩ sɿ an to oi an to e tsˈiu keu ve,tˈiet1 to44-35 e m̩11 sɿ31 an31 to44 oi53-55 an31 to44-35 e tsˈiu53 keu53 ve,tˈiet1 to44-35 e m̩11 sɹ̩31 an31 to44 oi53-55 an31 to44-35 e tsˈiu53 keu53 ve,tˈiet to e m̩ sɹ̩ an to oi an to e tsˈiu keu ve
+MX,Meixian,10,这个大，那个小，这两个哪一个好一点呢?,这隻过大，那隻过细，这两隻哪隻过好,,e tsak kuo tˈai ke tsak kuo se e lioŋ tsak na ŋai tsak kˈo hau,e31 tsak1 kuo53-55 tˈai53 ke53-55 tsak1 kuo53-55 se53 e31 lioŋ31 tsak1 na44 ŋai53-55 tsak1 kˈo53-55 hau31,e31 tsak1 kuo53-55 tˈai53 ke53-55 tsak1 kuo53-55 se53 e31 lioŋ31 tsak1 na44 ŋai53-55 tsak1 kˈo53-55 hau31,e tsak kuo tˈai ke tsak kuo se e lioŋ tsak na ŋai tsak kˈo hau
+MX,Meixian,11,这个比那个好。,这隻比那隻过好,,e tsak pi e tsak kuo hau,e31 tsak1 pi31 e53-55 tsak1 kuo53-55 hau31,e31 tsak1 pi31 e53-55 tsak1 kuo53-55 hau31,e tsak pi e tsak kuo hau
+MX,Meixian,12,这些房子不如那些房子好。,这兜屋儿无那兜屋儿□靓,,e teu vuk e mo ke teu vuk e an liaŋ,e31 teu44-35 vuk1 e mo11 ke53-55 teu44 vuk1 e an31 liaŋ53,e31 teu44-35 vuk1 e mo11 ke53-55 teu44 vuk1 e an31 liaŋ53,e teu vuk e mo ke teu vuk e an liaŋ
+MX,Meixian,13,这句话用成都话怎么说?,,,,,,
+MX,Meixian,14,他今年多大岁数了?,佢今年几多岁了,,ki kin ŋian ki to se e,ki11 kin44-35 ŋian11 ki31 to44-35 se53-55 e,ki11 kin44-35 ŋian11 ki31 to44-35 se53-55 e,ki kin ŋian ki to se e
+MX,Meixian,15,大概三十来岁吧。,三十岁左右,,sam səp se tso iu,sam44 səp5 se53 tso31 iu53,sam44 səp5 se53 tso31 iu53,sam səp se tso iu
+MX,Meixian,16,这个东西有多重呢?,这个东西有几重儿,,e ke tuŋ si iu ki tsˈuŋ ŋe,e31 ke53 tuŋ44 si44 iu44-35 ki31 tsˈuŋ44-35 ŋe,e31 ke53 tuŋ44 si44 iu44-35 ki31 tsˈuŋ44-35 ŋe,e ke tuŋ si iu ki tsˈuŋ ŋe
+MX,Meixian,17,有五十斤重呢。,有五十过斤重哦,,iu n̩ səp kuo kin tsˈiŋ ŋo,iu44-35 n̩31 səp5 kuo53 kin44 tsˈiŋ44-35 ŋo,iu44-35 n̩31 səp5 kuo53 kin44 tsˈiŋ44-35 ŋo,iu n̩ səp kuo kin tsˈiŋ ŋo
+MX,Meixian,18,拿得动吗?,拿得起无,,na tet hi mo,na44-35 tet1 hi31 mo11,na44-35 tet1 hi31 mo11,na tet hi mo
+MX,Meixian,19,我拿得动，他拿不动。,𠊎拿得起，佢拿唔起,,ŋai na atet hi ki na m̩ hi,ŋai11 na44-35 atet1 hi31 ki11 na44-35 m̩11 hi31,ŋai11 na44-35 atet1 hi31 ki11 na44-35 m̩11 hi31,ŋai na atet hi ki na m̩ hi
+MX,Meixian,20,真不轻，重得连我也拿不动。,哎呀好重哦，连我也拿唔多起,,ai ia hau tsˈuŋ ŋo lien ŋai ia na m̩ to hi,ai31 ia hau31 tsˈuŋ44-35 ŋo lien11 ŋai11 ia31 na44-35 m̩11 to44-35 hi31,ai31 ia hau31 tsˈuŋ44-35 ŋo lien11 ŋai11 ia31 na44-35 m̩11 to44-35 hi31,ai ia hau tsˈuŋ ŋo lien ŋai ia na m̩ to hi
+MX,Meixian,21,你说得很好，你还会说点什么呢?,你十分□讲，你还有脈个讲个,,n̩ səp fun̩ liak koŋ n̩ han iu mak ke koŋ ke,n̩11 səp5 fun̩44 liak5 koŋ31 n̩11 han11 iu44 mak1 ke53 koŋ31 ke53,n̩11 səp5 fun̩44 liak5 koŋ31 n̩11 han11 iu44 mak1 ke53 koŋ31 ke53,n̩ səp fun̩ liak koŋ n̩ han iu mak ke koŋ ke
+MX,Meixian,22,我嘴笨，我说不过他。,𠊎个嘴十分贲，𠊎讲唔过佢,,ŋai ke tsoi səp fun pˈun ŋai koŋ m̩ kuo ki,ŋai11 ke53-55 tsoi53 səp5 fun44 pˈun44 ŋai11 koŋ31 m̩11 kuo53-55 ki11,ŋai11 ke53-55 tsoi53 səp5 fun44 pˈun44 ŋai11 koŋ31 m̩11 kuo53-55 ki11,ŋai ke tsoi səp fun pˈun ŋai koŋ m̩ kuo ki
+MX,Meixian,23,说了一遍，又说一遍。,讲了一转，又还爱讲一转,,koŋ ŋe it tson iu han oi koŋ it tson,koŋ31 ŋe it1 tson31 iu53-55 han11 oi53-55 koŋ31 it1 tson31,koŋ31 ŋe it1 tson31 iu53-55 han11 oi53-55 koŋ31 it1 tson31,koŋ ŋe it tson iu han oi koŋ it tson
+MX,Meixian,24,请你再说一遍。,请你再讲一转,,tsˈiaŋ n̩ tsoi koŋ it tson,tsˈiaŋ31 n̩11 tsoi53-55 koŋ31 it1 tson31,tsˈiaŋ31 n̩11 tsoi53-55 koŋ31 it1 tson31,tsˈiaŋ n̩ tsoi koŋ it tson
+MX,Meixian,25,不早了，快去吧。,唔早了，快滴来去,,m̩ tsau ve kˈuai tit loi hi,m̩11 tsau31 ve kˈuai53 tit5 loi11 hi53,m̩11 tsau31 ve kˈuai53 tit5 loi11 hi53,m̩ tsau ve kˈuai tit loi hi
+MX,Meixian,26,现在还早着呢，等一会儿再去吧。,今下还十分早，等一下正来去,,kin ha han səp fun tsau ten it ha tsaŋ loi hi,kin44-35 ha53-55 han11 səp5 fun44-35 tsau31 ten31 it1 ha53-55 tsaŋ53-55 loi11 hi53,kin44-35 ha53-55 han11 səp5 fun44-35 tsau31 ten31 it1 ha53-55 tsaŋ53-55 loi11 hi53,kin ha han səp fun tsau ten it ha tsaŋ loi hi
+MX,Meixian,27,吃了饭再去好吗?,食了饭正去好无,,sət te fan tsaŋ hi hau mo,sət5 te fan53-55 tsaŋ53-55 hi53 hau31 mo11,sət5 te fan53-55 tsaŋ53-55 hi53 hau31 mo11,sət te fan tsaŋ hi hau mo
+MX,Meixian,28,慢慢儿吃啊，不要着急。,慢慢儿食，唔使□急,,man man ne sət m sɿ an kip,man53-55 man53-55 ne sət5 m11 sɿ31 an31 kip1,man53-55 man53-55 ne sət5 m11 sɹ̩31 an31 kip1,man man ne sət m sɹ̩ an kip
+MX,Meixian,29,坐着吃比站着吃好些。,坐等来食比待等来食过好,,tsˈo ten loi sət pi kˈi ten loi sət kuo hau,tsˈo44-35 ten31 loi11 sət5 pi31 kˈi44-35 ten31 loi11 sət5 kuo53-55 hau31,tsˈo44-35 ten31 loi11 sət5 pi31 kˈi44-35 ten31 loi11 sət5 kuo53-55 hau31,tsˈo ten loi sət pi kˈi ten loi sət kuo hau
+MX,Meixian,30,他吃了饭了，你吃了饭没有呢?,佢食了饭了，你食了饭无啊,,ki sət le fan ne n sət le fan mo a,ki1 sət5 le fan53-55 ne n11 sət5 le fan53-55 mo11 a44,ki1 sət5 le fan53-55 ne n11 sət5 le fan53-55 mo11 a44,ki sət le fan ne n sət le fan mo a
+MX,Meixian,31,他去过上海，我没有去过。,佢去过上海，我唔曾去过,,ki hi kuo soŋ hoi ŋai m̩ tˈien hi kuo,ki11 hi53-55 kuo53-55 soŋ53 hoi31 ŋai11 m̩11 tˈien11 hi53-55 kuo53,ki11 hi53-55 kuo53-55 soŋ53 hoi31 ŋai11 m̩11 tˈien11 hi53-55 kuo53,ki hi kuo soŋ hoi ŋai m̩ tˈien hi kuo
+MX,Meixian,32,来闻闻这朵花香不香。,你来鼻一下，这朵花香无,,n̩ loi pˈi it ha e to fa hioŋ mo,n̩11 loi11 pˈi53-55 it1 ha53 e31 to31 fa44 hioŋ44-35 mo11,n̩11 loi11 pˈi53-55 it1 ha53 e31 to31 fa44 hioŋ44-35 mo11,n̩ loi pˈi it ha e to fa hioŋ mo
+MX,Meixian,33,给我一本书。,分一本书分𠊎,,pun it pun su pun ŋai,pun44-35 it1 pun31 su44 pun44-35 ŋai11,pun44-35 it1 pun31 su44 pun44-35 ŋai11,pun it pun su pun ŋai
+MX,Meixian,34,我真的没有那本书呀。,𠊎无这本书，𠊎真真无,,ŋai mo e pun su ŋai tsən tsən mo e,ŋai11 mo11 e31 pun31 su44 ŋai11 tsən44 tsən44-35 mo11 e,ŋai11 mo11 e31 pun31 su44 ŋai11 tsən44 tsən44-35 mo11 e,ŋai mo e pun su ŋai tsən tsən mo e
+MX,Meixian,35,你告诉他。,你话佢知,,n̩ vˈa ki ti,n̩11 vˈa53-55 ki11 ti44,n̩11 vˈa53-55 ki11 ti44,n̩ vˈa ki ti
+MX,Meixian,36,好好地走，不要跑。,慢慢儿走，唔好乱䟄,,man man ne tseu m̩ hau lon tsˈiak,man53-55 man53-55 ne tseu31 m̩11 hau31 lon53-55 tsˈiak1,man53-55 man53-55 ne tseu31 m̩11 hau31 lon53-55 tsˈiak1,man man ne tseu m̩ hau lon tsˈiak
+MX,Meixian,37,小心跌下去爬不上来。,老神哦，跌下去爬唔上来哦,,lau sən no tiet ha hi pˈa m̩ soŋ loi vo,lau31 sən11 no tiet1 ha44-35 hi53-55 pˈa11 m̩11 soŋ44-35 loi11 vo,lau31 sən11 no tiet1 ha44-35 hi53-55 pˈa11 m̩11 soŋ44-35 loi11 vo,lau sən no tiet ha hi pˈa m̩ soŋ loi vo
+MX,Meixian,38,医生叫你多睡睡。,医生喊你多睡滴目,,i sen ham n̩ to soi tit muk,i44 sen44-35 ham53-55 n̩11 to44-35 soi53-55 tit1 muk1,i44 sen44-35 ham53-55 n̩11 to44-35 soi53-55 tit1 muk1,i sen ham n̩ to soi tit muk
+MX,Meixian,39,抽烟或者喝茶都不许。,食烟或者食茶都唔做得,,sət ian fat tsa sət tsˈa tu m̩ tso tet,sət5 ian44 fat5 tsa31 sət5 tsˈa11 tu44-35 m̩11 tso53-55 tet1,sət5 ian44 fat5 tsa31 sət5 tsˈa11 tu44-35 m̩11 tso53-55 tet1,sət ian fat tsa sət tsˈa tu m̩ tso tet
+MX,Meixian,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，𠊎都唔好,,ian ia hau tsˈa ia hau ŋai tu m̩ hau,ian44-35 ia44-35 hau31 tsˈa11 ia44-35 hau31 ŋai11 tu44-35 m̩11 hau53,ian44-35 ia44-35 hau31 tsˈa11 ia44-35 hau31 ŋai11 tu44-35 m̩11 hau53,ian ia hau tsˈa ia hau ŋai tu m̩ hau
+MX,Meixian,41,不管你去不去，反正我是要去的。,唔管你去也唔去，反正𠊎就会去,,m̩ kuon n̩ hi ia m̩ hi fan tsən ŋai tsˈiu voi hi,m̩11 kuon31 n̩11 hi53 ia44 m̩11 hi53 fan31 tsən53-55 ŋai11 tsˈiu53-55 voi53-55 hi53,m̩11 kuon31 n̩11 hi53 ia44 m̩11 hi53 fan31 tsən53-55 ŋai11 tsˈiu53-55 voi53-55 hi53,m̩ kuon n̩ hi ia m̩ hi fan tsən ŋai tsˈiu voi hi
+MX,Meixian,42,我非去不可。,𠊎就爱去,,ŋai tsˈiu oi hi,ŋai11 tsˈiu53-55 oi53-55 hi53,ŋai11 tsˈiu53-55 oi53-55 hi53,ŋai tsˈiu oi hi
+MX,Meixian,43,你是哪一年来的?,你係哪年来个,,n̩ he nai ŋian loi ke,n̩11 he53-55 nai53-55 ŋian11 loi11 ke53,n̩11 he53-55 nai53-55 ŋian11 loi11 ke53,n̩ he nai ŋian loi ke
+MX,Meixian,44,我是前年到的北京。,𠊎係前年儿来北京个,,ŋai he tsˈien ŋian ne loi pet kin ke,ŋai11 he53-55 tsˈien11 ŋian11 ne loi11 pet1 kin44-35 ke53,ŋai11 he53-55 tsˈien11 ŋian11 ne loi11 pet1 kin44-35 ke53,ŋai he tsˈien ŋian ne loi pet kin ke
+MX,Meixian,45,今天开会谁的主席?,今晡日开会□人当主席,,kim pu ŋit kˈoi fi man ŋin toŋ tsu sit,kim44 pu44-35 ŋit kˈoi44-35 fi53 man31 ŋin11 toŋ44-35 tsu31 sit5,kim44 pu44-35 ŋit kˈoi44-35 fi53 man31 ŋin11 toŋ44-35 tsu31 sit5,kim pu ŋit kˈoi fi man ŋin toŋ tsu sit
+MX,Meixian,46,你得请我的客。,你爱请𠊎,,n̩ oi tsˈiaŋ ŋai,n̩11 oi53-55 tsˈiaŋ31 ŋai11,n̩11 oi53-55 tsˈiaŋ31 ŋai11,n̩ oi tsˈiaŋ ŋai
+MX,Meixian,47,一边走，一边讲。,一边行，一边讲,,it pien haŋ it pien koŋ,it1 pien44-35 haŋ11 it1 pien44-35 koŋ31,it1 pien44-35 haŋ11 it1 pien44-35 koŋ31,it pien haŋ it pien koŋ
+MX,Meixian,48,越走越远，越说越多。,越走越远，越讲越多,,iat tseu iat ian iat koŋ iat to,iat5 tseu31 iat5 ian31 iat5 koŋ31 iat5 to44,iat5 tseu31 iat5 ian31 iat5 koŋ31 iat5 to44,iat tseu iat ian iat koŋ iat to
+MX,Meixian,49,把那个东西拿给我。,把个只东西拿分𠊎,,pa ke tsak tuŋ si na pun ŋai,pa31 ke53-55 tsak1 tuŋ44 si44 na44 pun44-35 ŋai11,pa31 ke53-55 tsak1 tuŋ44 si44 na44 pun44-35 ŋai11,pa ke tsak tuŋ si na pun ŋai
+MX,Meixian,50,有些地方把太阳叫日头。,有兜地方把太阳喊做日头,,iu teu tˈi foŋ pa tˈai ioŋ ham tso ŋit tˈeu,iu44 teu44 tˈi53 foŋ44 pa31 tˈai53-55 ioŋ11 ham53-55 tso53-55 ŋit1 tˈeu11,iu44 teu44 tˈi53 foŋ44 pa31 tˈai53-55 ioŋ11 ham53-55 tso53-55 ŋit1 tˈeu11,iu teu tˈi foŋ pa tˈai ioŋ ham tso ŋit tˈeu
+MX,Meixian,51,您贵姓?我姓王。,你贵姓啊?𠊎姓王,,n̩ kui siaŋ ŋa ŋai siaŋ voŋ,n̩11 kui53-55 siaŋ53-55 ŋa44-35 ŋai11 siaŋ53-55 voŋ11,n̩11 kui53-55 siaŋ53-55 ŋa44-35 ŋai11 siaŋ53-55 voŋ11,n̩ kui siaŋ ŋa ŋai siaŋ voŋ
+MX,Meixian,52,你姓王我也姓王，咱们两个人都姓王。,你姓王𠊎也姓王，𠊎两个人都姓王,,n̩ siaŋ voŋ ŋai ia siaŋ voŋ ŋai lioŋ ke ŋin tu siaŋ voŋ,n̩11 siaŋ53-55 voŋ11 ŋai11 ia44-35 siaŋ53-55 voŋ11 ŋai11 lioŋ31 ke53-55 ŋin11 tu44-35 siaŋ53-55 voŋ11,n̩11 siaŋ53-55 voŋ11 ŋai11 ia44-35 siaŋ53-55 voŋ11 ŋai11 lioŋ31 ke53-55 ŋin11 tu44-35 siaŋ53-55 voŋ11,n̩ siaŋ voŋ ŋai ia siaŋ voŋ ŋai lioŋ ke ŋin tu siaŋ voŋ
+MX,Meixian,53,你先去吧，我们等一会儿再去。,你做你先去，𠊎丁人等一下正去,,n̩ tso n̩ sien hi ŋai ten ŋin ten it ha tsaŋ hi,n̩11 tso53-55 n̩11 sien44-35 hi53 ŋai11 ten44-35 ŋin11 ten31 it1 ha53-55 tsaŋ53-55 hi53,n̩11 tso53-55 n̩11 sien44-35 hi53 ŋai11 ten44-35 ŋin11 ten31 it1 ha53-55 tsaŋ53-55 hi53,n̩ tso n̩ sien hi ŋai ten ŋin ten it ha tsaŋ hi
+MX,Meixian,54,你抽烟不抽?,你食烟无,,n̩ sət ian mo,n̩11 sət5 ian44-35 mo11,n̩11 sət5 ian44-35 mo11,n̩ sət ian mo
+MX,Meixian,55,你认得那个人不认得?,你识得那隻人无,,n̩ sət tet ke tsak ŋin mo,n̩11 sət1 tet1 ke53-55 tsak1 ŋin11 mo11,n̩11 sət1 tet1 ke53-55 tsak1 ŋin11 mo11,n̩ sət tet ke tsak ŋin mo
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
+MX,Meixian,,,,,,,,
