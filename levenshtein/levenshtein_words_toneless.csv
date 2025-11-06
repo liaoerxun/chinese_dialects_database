@@ -1,183 +1,183 @@
-sentence_id,Beijing,Chengdu,Guiyang,Nanchang,Taibei,Taiyuan,Xianggang,Xiangtan,Xining,Hefei,Meixian
-1,tˈai iɑŋ,t‘ai iaŋ,tˈai iaŋ,tˈai iɔŋ,tˈai iɔŋ,tai iɒ̃,jɐt tˈɐu,tˈai ian,ʐɛ tˈɯ ɛ,tˈɤ iɑ̃,ŋit tˈeu
-2,yɛ liɑŋ,ye niaŋ,iɛ liaŋ,ɲyɵʔ kuɔŋ,geʔ liũ,yəʔ liɒ̃,jyt lœŋ,yæ nian,yu liɔ̃,yɐʔ liɑ̃,ŋiat kuoŋ
-3,ɕiŋ ɕiŋ,ɕin ɕiər,ɕin ɕiəu,siɑŋ tsɹ̩,tˈĩ tsˈĩ,ɕi ɕiəu,siŋ,sian tsɹ̩,ɕiə̃ ɕiə̃,ɕin,sen ne
-4,ta lei,ta nuei,ta luei,tɑ lui,tan lui,xiɒ̃ xuəʔ luei,haŋ løy,tɒ nəi,luɨ ɕiɔ̃ tʂɛ,ta le,hioŋ lui kuŋ
-5,ʂan tian,xo san,xo san,tɑ fɔʔ sɛn,siam tian,ta sæ̃,sim tin,tʂˈɒ ɸɒ ɕyẽ,ʂã tiã tʂɛ,ta ʂən,ŋiap fo sa
-6,ɕia y,no y,ɕia i,lɔʔ y,lɔʔ hɔ,xa y,lɔk jy,no y,ɕia y,ɕia zɥ,lok i
-7,ɕia ɕyɛ,no ɕye,ɕia ɕiɛ,lɔʔ ɕyɵʔ,lɔʔ seʔ,xa ɕyəʔ,lɔk syt,no sie,ɕia ɕyu,ɕia ɕyɐʔ,lok siet
-8,pɑu tsɹ̩,pin pau tsɹ̩,pin pao,pˈɔʔ tsɹ̩,piŋ pˈauʔ,ləŋ tæ̃ tsəʔ,pɔk,sie tsɹ̩ tsɹ̩,pɔ tsɹ̩,iɪ̃ tɯ tsə,pˈok
-9,tɕiɛ piŋ,tɕie pin,tɕiɛ pin,tɕiɛʔ pin,kiet piŋ,tuəŋ piəŋ,kit piŋ,tɕie kəɯ,piə̃ tuə̃ xa liɔ,tɕiɐʔ pin,kiat pen
-10,kua fəŋ,kua foŋ,tsˈuei foŋ,tɕˈi fuŋ,ki hɔŋ,kuaʔ fəŋ,fan fuŋ,tɕˈi ɸən,kua fə̃,tsˈɹ̩ fəŋ,hi fuŋ
-11,xuŋ,xoŋ,kaŋ,kɔŋ,hɔŋ,tɕiɒ̃,tsˈɔi huŋ,kɔn,kɔ̃,tɕiɑ,tˈien kiuŋ
-12,u yɛ tɕiɛ,tuan iaŋ,tuan u,tɵn u,gɔ lit tsieʔ,vu yəʔ tuæ̃ vu,tyn ŋ,tɔn u i,tɔ̃ v̩,tʊ̃ u tɕiɐʔ,n̩ ŋiat tsiet
-13,pa yɛ tɕiɛ,tsoŋ tɕˈieu tɕie,pa iɛ sɹ̩ u,tsuŋ tɕˈiu,tiɔŋ tsˈiu tsieʔ,paʔ yəʔ səʔ vu,tsuŋ tsˈɐu,tʂən tsˈiəɯ i,pa yu ʂɻ̩ v̩,tʂəŋ tɕˈiɯ tɕiɐʔ,tsuŋ tsˈiu tsiet
-14,san ʂər,san sɹ̩ uan saŋ,san sɹ̩ iɛ,san sɨʔ iɑ uan,li kau am,nie sæ̃ səʔ,ɲin sa man,dai ɲiẽ san ʂɻ̩,sã ʂɻ̩ uã ɕj,liɪ̃ sæ̃ ʂəʔ,ŋian sam səp ŋit
-15,tɕin nian,tɕin ɲian,tɕin lian,tɕin ɲiɛn,kin lĩ,tɕiəŋ nie,kɐm ɲin,tɕin ɲiẽ tsɹ̩,tɕiə̃ ɲiã,tɕin liɪ̃,kin ŋian
-16,miŋ nian,min ɲian,min lian,miɑŋ ɲiɛn,buã lĩ,miəŋ nie,tsˈøt ɲin,min ɲiẽ tsɹ̩,miə̃ ɲiã,min liɪ̃,kuo e ŋian
-17,tɕˈy nian,tɕˈy ɲian,tɕˈi lian,tɕˈiu ɲiɛn,ku lĩ,nie sɹ̩,kɐu ɲin,tɕˈy ɲiẽ tsɹ̩,ɲiã sɹ̩,tsˈɥ liɪ̃,kˈiu ŋian ne
-18,miə̃r,min tˈian,min tˈian,miɑŋ ɲiʔ,bĩ a tsai,tsau tɕˈi,tˈiŋ jɐt,mai i tsɹ̩,miə̃ tˈiã,ma kə,sən tsau ŋit
-19,tsuor,tso tˈian,tso tˈian,tsˈɔʔ ɲiʔ,tsa hŋ,ie tˈie,kˈɐm jɐt,dzo i tsɹ̩,iɛ lɛ,tsʊ kə,tsˈiu pu ŋit
-20,tɕiər,tɕin tˈian,tɕin tˈian,tɕin ɲiʔ,kin lã lit,tɕiəŋ zəɹ̩,kɐm jɐt,tɕin i tsɹ̩,tɕiə̃ ɛ,tɕiɤ kə,kim ŋit
-21,li pai tˈian,ɕin tɕˈi tˈian,ɕin tɕˈi tˈian,li pai,le pai lit,li pai,siŋ kˈei jɐt,sin dʑi i,ɕiə̃ tɕˈj ʐɻ̩,ɕin tsˈɹ̩ tˈiɪ̃,sen kˈi ŋit
-22,mai tsɹ̩,me tsɹ̩,mɛ tsɹ̩,mɑʔ tsɹ̩,beʔ a,mieʔ tsəʔ,mɐk,mai tsɹ̩,mɨ tsɹ̩,mɐʔ tsə,mak e
-23,ta mi,mi,ta mi,mi,bi,tˈau tsəʔ,wɔ,dai mi,ta mj,mɹ̩,mi
-24,tsˈan tou,fu təu,fu təu,tsˈɵn tˈɛu,tsˈan tau,ta təu,tsˈam tɐu,uan dəɯ,ta tɯ,tsˈæ̃ tɯ,fu tˈeu
-25,ɕiaŋ ʐɻ̩ kˈuei,ɕiaŋ zɹ̩ kˈuei,kˈuei xua,kˈui fɑ,hiɔŋ iɔŋ hue,kˈuei xua,hœŋ jɐt kˈwɐi,tɕyẽ i niẽ,ɕiɔ̃ ʐɻ̩ kˈuɨ,kˈue xua,hioŋ ŋit kˈui
-26,po tsˈai,po tsˈai,po tsˈai,po tsˈai,po lin a tsˈai,tɕˈi tsˈai,pɔ tsˈɔi,po tsˈai,pɔ tsˈɛ,pʊ tsˈɤ,kok tsˈoi ie
-27,iɑŋ pai tsˈai,tɕyan ɕin pe,ko ɕin pɛ,pɑu tsˈai,kŋ̩ sim tsˈai,xuei tsəʔ pai,jɛ tsˈɔi,paɯ tsˈai,tɕyã ɕiə pɨ tsˈɛ,pɔ tˈɯ tsˈɤ,pau tsˈoi
-28,ɕi xuŋ ʂɻ̩,fan tɕˈie,mao la ko,fan tɕˈiɑ,tˈa bã to,ɕi fæ̃ sɹ̩,fan kˈɛ,si ɦən sɹ̩,iɔ̃ sɹ̩ tsɹ̩,iɑ̃ sɹ̩ tsə,fan kˈio e
-29,tɕˈiɛ tsɹ̩,tɕˈie tsɹ̩,tɕˈiɛ tsɹ̩,tɕˈiɑ tsɹ̩,kio,tɕˈie tsəʔ,ɐi kwa,dʑyɒ tsɹ̩,tɕˈi tsɹ̩,tɕˈye tsə,tiau tsˈoi ie
-30,pai ʂu,xoŋ sau,fan su,lo pˈo ɕy,han tsi,xuəŋ su,fan sy,tɕio pan ɕy,xuə̃ fv̩,zɥ tˈɯ,fan su
-31,tˈu tour,iaŋ y,iaŋ i,iɔŋ y tˈɛu,bã liŋ tsi,sæ̃ iəʔ tæ̃,sy tsɐi,ian y dəɯ,iɔ̃ y,ma lin tʂˈu,ma laŋ su
-32,nan kuə,nan kua,lan kua,pɛʔ kuɑ,kim kue,næ̃ kua,nam kwa,nan kuɒ,nã kua,læ̃ kua,tuŋ kua
-33,tʂu,tsu,tsu,tɕy,ti,tsu,tsy,tɕy,tʂv̩,tʂu,tsu ve
-34,kuŋ tʂu,tɕyo tsu,ia tsu,tɕy ku li,ti kaŋ,kuəŋ tsu,tsy kuŋ,tɕio tɕy tsɹ̩,ia tʂv̩,kəŋ tʂu,tsu ko
-35,mu tʂu,mu tsu,tsˈao tsu,tɕy pˈo,ti bu,mu tsu,tsy na,tɕy bo tsɹ̩,mv̩ tʂv̩,məŋ tʂu,tsu ma
-36,kuŋ tɕi,tɕi koŋ,koŋ tɕi,tɕi kuŋ,ke kaŋ,kuəŋ tɕi,kɐi kuŋ,tɕiaɯ tɕi,kuə̃ tɕj,kəŋ tsɹ̩,ke kuŋ
-37,mu tɕi,tɕi pˈo,tsɹ̩ tɕi,tɕi pˈo,ke bu,tsˈau tɕi,kɐi na,tɕi bo,mv̩ tɕj,məŋ tsɹ̩,ke ma
-38,tɕia tɕˈiɑur,ma tɕˈyər,ma tɕˈio,kan tɕˈiɔʔ tsɹ̩,tsˈiʔ tsiau a,tɕˈyar,ma tsœk,mɒ tsˈio tsɹ̩,tɕˈiɔ ɛ,ma tɕˈiɯ,vo pit le
-39,xɑu tsɹ̩,xau tsɹ̩,xao tsɹ̩,lau ɕy,liau tsˈi,ku ər,lou sy,naɯ ɕy tsɹ̩,lɔ fv̩,lɔ tʂˈuə,lau tsˈu ve
-40,tʂˈou tʂˈuŋ,tsˈəu tsoŋ,tsˈəu tsˈoŋ,tsˈɨu tsˈuŋ,baʔ sat,piəʔ səʔ,muk sɐt,tʂˈəɯ dʐən,tʂˈɯ sɨ,tʂˈɯ tʂˈəŋ,kon pˈi
-41,fɑŋ tsɹ̩,faŋ tsɹ̩,faŋ tsɹ̩,uʔ,tsˈu,fɒ̃ tsəʔ,uk,u,fɔ̃ tsɹ̩,tsɐʔ tsə,vuk e
-42,u tsɹ̩,u tsɹ̩,faŋ kan,fɔŋ,paŋ kiŋ,tɕia,fɔŋ kan,ɸɔn kan,tˈɔ tɕiã,fɑ̃ tɕɪ̃,kian ne
-43,tʂˈuɑŋ xu,tsˈuaŋ tsɹ̩,tsˈuaŋ tsɹ̩,tsˈɔŋ tsɹ̩,tˈaŋ a,tsˈuɒ̃ xu,tsˈœŋ,tʂˈɔn tsɹ̩,tʂˈuɔ̃ tsɹ̩,tʂˈuɑ̃ tsə,tsˈuŋ ŋe
-44,mən kˈar,mən kˈan,men kˈan,mɨn kan,ho tiŋ,məŋ ɕie ɕie,mun hɐm,mən kˈan,mə̃ kˈã,mən kˈæ̃,mum ton
-45,tsˈɤ suo,mau faŋ,tsˈɛ so,mɑu kɔŋ,pien so,mau fɒ̃,tsˈi sɔ,maɯ sɹ̩ u,mɔ sɹ̩,mɔ tsˈɹ̩,sɹ̩ kau
-46,tʂˈu fɑŋ,tsˈu faŋ,tsˈu faŋ,tɕˈy fɔŋ,tu paŋ,tsˈu fɒ̃,tsˈøy fɔŋ,tsaɯ u,tʂˈv̩ fɔ̃,kʊ tɕiɪ̃,tsˈu foŋ ha
-47,ian tˈuŋ,ian tsˈoŋ,ian tsˈoŋ,iɛn tˈuŋ,ien taŋ,ie tuəŋ,jin tˈuŋ,iẽ dən,iã tuə̃,iɪ̃ ləŋ,ian ham
-48,tʂuo tsɹ̩,tso tsɹ̩,tso tsɹ̩,tsɔʔ tsɹ̩,toʔ a,tsuaʔ tsəʔ,tˈɔi,tso tsɹ̩,tʂu tsɹ̩,tʂuɐʔ tsə,tsok e
-49,lou tˈi,nəu tˈi,ləu tˈi,lɛu tˈi,lau tˈui,ləu tˈi,lɐu tˈɐi,nəɯ tˈi,lv̩tsˈɹ̩,lɯ tsˈɹ̩,tˈoi pˈai
-50,nɑu tai,tˈəu,lao kˈo,tˈɛu,tˈau,təʔ nau,tˈɐu,naɯ kˈo,tˈɯ,tˈɯ,tˈeu
-51,nɑu mər,ŋe nəu,ŋɛ ləu,lɑu kuɑ,hiaʔ tˈau,pəŋ ləu,ŋak tˈɐu,naɯ mən,nə̃ mv̩ tˈɯ,ʐɐʔ lɔ tˈɯ,ŋiak
-52,lian,nian,lian,liɛn,bin,mi nie,min,niẽ kuai,liã,liɪ̃,mien
-53,pi tsɹ̩,pi tsɹ̩,pi tsɹ̩,pˈiʔ kuŋ,pˈĩ,piəʔ tsəʔ,pei kɔ,pˈi dən,pj tsɹ̩,piəʔ tsə,pˈi kuŋ
-54,po kə̃r,tɕin tsɹ̩,tɕiaŋ ken,tɕiɑŋ,am kun,paʔ tsəʔ,kɛŋ,tɕian kən,pɔ pã,lɔ tɕin pa,kiaŋ kin
-55,tsuo ʂou,tso səu,tso səu,tso sɨu,to tsˈiu,tsuɤ səu,tsɔ sɐu,tso ʂəɯ,tsu ʂɯ,tsʊ ʂɯ,tso su
-56,iou ʂou,iəu səu,iəu səu,iu sɨu,tsiã tsˈiu,tsəŋ səu,jɐu sɐu,iəɯ ʂəɯ,iɯ ʂɯ,iɯ ʂɯ,iu su
-57,tɕˈyan tˈou,tin tsɹ̩,tin tsɹ̩,tɕˈyɵn tˈɛu,kun tˈau,kəʔ tu,kˈyn tˈɐu,do ɕin,tʂˈuɨ tˈɯ,tɕˈyɪ̃ tˈɯ,kˈian tˈeu
-58,ʂou tʂɻ̩ tˈou,səu tsɹ̩ mər,tsɹ̩ tˈəu,tsɨʔ tˈɛu tsɹ̩,tsŋ̩ tˈau,səu tsəʔ tˈəu,sɐu tsi tˈɐu,ʂəɯ tʂɻ̩ naɯ,ʂɯ tsɹ̩ tˈɯ,mu tʂɔ tˈɯ,su tsɹ̩
-59,tʂɻ̩ tɕia,tsɹ̩ tɕia,tsɹ̩ tɕia,tsɨʔ kaʔ tsɹ̩,tsŋ kaʔ,tsəʔ tɕiaʔ,tsi kap,tʂɻ̩ kɒ,tsɹ̩ tɕia,tʂəʔ tɕiɐʔ kɤ,su tsɹ̩ kap
-60,po ləŋ kar,kˈe ɕi tˈər,kˈɛ ɕi tˈəu,kˈiɛʔ ɕiʔ tˈɛu tsɹ̩,kˈa tˈau hu,kəʔ ti kˈuei,sɐt tˈɐu,ɕi dəɯ ku,pɔ ɕj kɛ,kˈɐʔ tɕˈiəʔ tˈɯ,tsˈit tˈeu hoŋ
-61,tˈuei,tˈuei kan,pa tˈuei,tɕiɔʔ,tˈui,tˈuei,kœk,tˈəi pɒ tsɹ̩,tˈuɨ,tˈe,kiok
-62,tiɛ,pa,pa pa,pɑʔ,hu tsˈin,lau tsəʔ,pa pa,tie tie,ta ta,pɐʔ pɐʔ,a pa
-63,niɑŋ,ma,ma,m̩ mɑ,bu tsˈin,ma,ma ma,m̩ mɒ,m̩ ma,ma i,a me
-64,iɛ iɛ,ie ie,iɛ iɛ,kuŋ kuŋ,a kɔŋ,ie ie,a jɛ,kən kən,i iɛ,te te,a kuŋ
-65,nai nai,pˈo pˈo,tˈai tˈai,pˈo pˈo,a bã,nai nai,a ma,ŋai dʑi,nɛ nɛ,lɤ lɤ,a pˈo
-66,ta iɛ,pe pe,pɛ pɜ,tˈai pɑʔ,a peʔ,ta ie,pak fu,pɒ pɒ,ta ta,ta pɐʔ,a pak
-67,ta ma,pe ɲiaŋ,pɛ ma,tˈai mɑ,a m̩,ta niɒ̃,pak nœŋ,pɒ dʑi,ma ma,ta ta,pak me
-68,ʂur,pər,su su,suʔ,a tsik,suəʔ suəʔ,a suk,ʂəɯ ʂəɯ,pa pa,i,a suk
-69,ʂər,sən sən,sen sen,sɨn tsɹ̩,a tsim,səŋ səŋ,a sɐm,ʂən dʑi,ʂə̃ tsɹ̩,ʂən tsə,suk me
-70,lɑu iɛ,uai koŋ,koŋ koŋ,ŋɑ kuŋ,gua kɔŋ,lau ie,a kuŋ,uai kən,uɨ i,uɤ te te,ŋoi a kuŋ
-71,lɑu lɑu,uai pˈo,pˈo pˈo,ŋɑ pˈo,gua bã,lau niɒ̃,pˈɔ pˈɔ,uai bo,uɨ nɛ nɛ,uɤ lɤ lɤ,ŋoi a pˈo
-72,tɕiou tɕiou,tɕiəu tɕiəu,tɕiəu tɕiəu,mu tɕˈiu,a ku,tɕiəu tɕiəu,kˈɐu fu,dʑiəɯ iɒ,a tɕiɯ,tɕiɯ tɕiɯ,a kˈiu
-73,tɕiou ma,tɕiəu mər,tɕiəu ma,tɕˈiu mu,a kim,tɕiəŋ tɕiəŋ,kˈɐm mou,dʑiəɯ ɲian,tɕiɯ mv̩,tɕiɯ mə,kˈiu me
-74,nan ʐən,nau koŋ,lan zen,lɑu kuŋ,hu,lau xæ̃,lou kuŋ,ŋai in,nɔ mə̃ tsɹ̩ ʐə̃,lɔ tiəʔ mən,lau kuŋ
-75,ɕi fər,nau pˈo,li lɛ,lɑu pˈo,tsˈe,lau pˈɤ,lou pˈɔ,ŋai in,nɔ mə̃ tɕia l̩ tsɹ̩,lɤ lɤ mən,lau pˈo
-76,ər tsɹ̩,ər,ə˞ tsɹ̩,tsai,kiã,ɕiau tsəʔ,tsɐi,tsai,ɛ tsɹ̩,a tsə,lai ie
-77,kuei ny,ɲyər,ku liaŋ,ɲy,tsa bo kiã,kuei ny,nøy,ɲy tsai dʑi,kv̩ ɲiɔ̃,ia tˈɯ,moi ie
-78,tsɑu tʂˈɑŋ fan,tsau fan,ko tsao,tsɑu fan,tsa tŋ̩,tsau tɕˈiəŋ fæ̃,tsou tsˈan,tsaɯ ɸan,tsɔ fã,tsɔ fæ̃,sət tsau
-79,ʂɑŋ u fan,u fan,tsoŋ u fan,tsuŋ fan,tioŋ tau tŋ̩,sɒ̃ vu fæ̃,ŋ tsˈan,tʂən u ɸan,v̩ fã,tʂəŋ fæ̃,sət tsu
-80,uan fan,uan fan,uan fan,iɑ fan,am tŋ̩,xəʔ ie fæ̃,man tsˈan,iɒ ɸan,xɨ  fã,uæ̃ fæ̃,sət ia
-81,mian tˈiɑur,mian,mian,miɛn,bĩ,mie,min,miẽ,miã,miɪ̃ tˈiɔ,mien
-82,man tˈou,man tˈəu,man tˈəu,mo mo,ban tˈo,mɤ mɤ,man tˈɐu,momo,mɔ mɔ,ta mʊ,man tˈeu
-83,pɑu tsɹ̩,pau tsɹ̩,pao tsɹ̩,pɑu tsɹ̩,pau a,pau tsəʔ,pau,paɯ tsɹ̩,pɔ tsɹ̩,pɔ tsə,pau ve
-84,xun tˈun,tsˈau səu,kˈuen tˈen,tɕˈin tˈɔŋ,pien sip,xuəŋ tuəŋ,wɐn tˈɐn,ɸən tən,xuə̃ tuə̃,tɕiɔ tsə,kiau ve
-85,tsˈu,tsˈu,tsˈu,ɕiɛu tɕiu,tsˈo,tsˈu,tsˈou,tsˈəɯ,tɕˈy,tsˈu,son tsˈɹ̩
-86,tɕiɑŋ iou,tɕiaŋ iəu,tɕiaŋ iəu,tɕiɔŋ iu,tau iu,tɕiɒ̃ iəu,si jɐu,tsian iəɯ,tɕiɔ̃ iɯ,tɕiɑ̃ iɯ,pˈak mi
-87,ian,ian,ian pa,iɛn,iam,ɕie ie,jim,iẽ,iã,iɪ̃,iam
-88,kˈuai tsɹ̩,kˈuai tsɹ̩,kˈuai tsɹ̩,kˈuai tsɹ̩,ti,kˈuai tsəʔ,fai tsi,kˈuai tsɹ̩,kˈuɛ tsɹ̩,kˈiɤ tsə,kˈuai ie
-89,ʂɑu tsɹ̩,pˈiau kər,pˈiao ə˞,sɔʔ tsɹ̩,tˈŋ̩ si,tˈiau kəŋ,tsˈi kɐŋ,diaɯ kən,fɔ fɔ,ʂuɐʔ tsə,sok e
-90,iɛ mər,nan zən,lan lɛ,lan ko,ta pɔ,næ̃ təʔ,nam jɐn,nan in kɒ,nã ʐə̃,læ̃ tiəʔ,nam me ŋin
-91,ny ʐən,ɲy zən,li lɛ,ɲy ko,tsa bɔ,ny təʔ,nøy jɐn,ɲy in kɒ,mj ʐə̃,zɥ tiəʔ,fu ŋin ka
-92,nan xar,nan ua tsɹ̩,lan ua ua,lan tsai tsɹ̩,ta pɔ gĩ na,næ̃ va va,nam tsɐi,ŋɒ dʑi,ka ua,ɕiɔ sɹ̩,se a ko e
-93,ny xar,ɲy ua tsɹ̩,li ua ua,ɲy tsai tsɹ̩,tsa bɔ gĩ na,ny va va,nøy tsɐi,məi dʑi,mj tsɹ̩,ia tˈɯ,se moi ie
-94,lɑu tˈour,nau tˈər,lao tsei,lɑu tˈɛu tsɹ̩,lau tua laŋ,lau xæ̃ xæ̃,lou jɐn ka,naɯ kɔn tsɹ̩,lɔ xã,lɔ tˈɯ tsə,lau a pak
-95,i ʂəŋ,i sən,i sen,i sɛn,i siŋ,ɕie səŋ,ji sɐŋ,i sən,ɕiã sə̃,zɹ̩ sən,i sen
-96,ta ʂɻ̩ fu,tsˈusɹ̩,tsˈu tsɹ̩,tˈai sɹ̩ fu,tsoŋ pˈo sai hu,tsˈu tsəʔ,tsy si,dʑy sɹ̩,ta sɹ̩ fv̩,tʂˈu tsə,tsˈu sɹ̩
-97,iɑu fan tə,tɕiau xua tsɹ̩,tɕiao xua tsɹ̩,kɑu fɑ tsɹ̩,kˈit tsiaʔ,tɕiau xua tsəʔ,hɐt ji,kaɯ ɸɒ tsɹ̩,ɕiə̃ kˈɯ,tɕiɔ xua tsə,kau fa ve
-98,pɑu mu,pau mu,pao mu,tɕi ɲiɔŋ,lin bu,pau mu,kuŋ jɐn,paɯ mo,pɔ mv̩,pɑ̃ kəŋ tiəʔ,pau me
-99,piŋ lə,pin no,sen pin əu,pˈiɑŋ liɛu,pˈua pĩ,pi lie,pɛŋ tsɔ,tʂo bian,piə liɔ,pəʔ xɔ kʊ,pot pˈiaŋ
-100,ʂɑŋ fəŋ,saŋ foŋ,liaŋ tao,sɔŋ fuŋ,sioŋ hoŋ,pˈiəʔ tsu lie,sœŋ fuŋ,nian tɒ,liɔ̃ tʂˈu liɔ,ʂɑ̃ fəŋ,soŋ fuŋ
-101,nɑu tu tsɹ̩,na tu tsɹ̩,tu pˈi pu xao,ɕiɑ tˈu,lau sai,tsˈuæ̃ ɕi,tˈou ɔ,təɯ tsɹ̩ o,la tv̩ tsɹ̩,pˈɔ sɹ̩,o li tu
-102,tɕˈyɛ tsɹ̩,pai tsɹ̩,pai tsɹ̩,kuai tsɹ̩,pai kˈa,kuai tsəʔ,pɐi kœk lou,pai tsɹ̩,tɕˈyu tsɹ̩,tɕˈyɐʔ tsə,pai kiok e
-103,luo kuor,tˈo tsɹ̩,tˈo tsɹ̩,tˈo tsɹ̩,kˈiau ku,pei kuɤ kuɤ,tˈɔ pui,do tsɹ̩,pɨ lɔ ku ɛ,tˈʊ tsə,tˈo poi ie
-104,kɤr lə,sɹ̩ no,sɹ̩ əu,sɹ̩ pɨʔ lɛu,si a,sɹ̩ lie,sei tsɔ,naɯ tɒ,mɔ tiɔ liɔ,pəʔ tsɤ lə,si pˈet le
-105,tɕˈiɑu piŋ,kˈan pin,kˈan pin,kˈɵn pˈiɑŋ,kˈuã pĩ,kæ̃ piəŋ,tɐi pɛŋ,kˈan bian,kˈã piə̃,tɕˈiɔ pin,kˈon pˈiaŋ
-106,uo,ŋo,ŋo,ŋo,gua,ɣɤ,ŋɔ,ŋo,nɔ,ʊ,ŋai
-107,ni,ɲi,li,n̩,li,ni,nei,ni,ɲi,li,n̩
-108,tˈa,tˈa,la,tɕie,i,tˈa,kˈøy,tˈɒ,tˈa,tˈa,ki
-109,uom,ŋo mən,ŋo men,ŋo mɨn,gun,ɣɤ məʔ,ŋɔ tei,ŋo in,nɔ mə̃,ʊ mən,ŋai ten ŋin
-110,nim,ɲi mən,li men,n̩ mɨn,lin,ni məʔ,nei tei,ɲi in,ɲi mə̃,li mən,n̩ ten ŋin
-111,tˈam,tˈa mən,la men,tɕie mɨn,in,tˈa məʔ,kˈøy tei,tˈɒ in,tɕia mə̃,tˈa mən,ki ten ŋin
-112,tsam,ŋo mən,ŋo men,ŋo mɨn,lan,tsa məʔ,ŋɔ tei,ŋo in,nɔ mə̃,ʊ mən,ŋai ten ŋin
-113,tsɹ̩ kɤr,ko zən,tsɹ̩ tɕi,tsˈɹ̩ kan,ka ki,tsɹ̩ tɕia,tsi kei,dzɹ̩ kɒ,ku tɕia,tsɹ̩ tsɹ̩,tsˈɹ̩ ka
-114,ʂei,na ko,la ko,lɑ ko,siã,suei,pin kɔ,nɒ ko,fɨ,xa kə,man ŋin
-115,ʂəm,sa tsɹ̩,laŋ tsɹ̩,sɨʔ li,siã bĩʔ,səŋ,mɐt,ʂən mo,sa,xəŋ kə,mak ke
-116,tʂɤr,tsər,tsɹ̩ tɛ,ko li,tsia,tsəʔ lɤ,nei tou,ko tɔn,tʂɻ̩ tʂa,ti ɔ tsə,e ie
-117,nar,nər,a tɛ,he li,hia,vəʔ lɤ,kɔ tou,nɒ tɔn,nɛ tʂa,la ɔ tsə,ke ie
-118,nar,nər,la tɛ,lɑ li,to ui,na lɤ,pin tou,nɒ tɔn,a tʂa,la kə tsə,ŋai ke
-119,tʂɤ kə,tse ko,tsɹ̩ ko,ko tsɑʔ,tsit le,tsai,nei kɔ,ko ko,tʂɻ̩ kɔ,ti kə,e ke
-120,na kə,na ko,a ko,he ko,hit le,vai,kɔ kɔ,nɒ ko,nɛ kɔ,la kə,ke ke
-121,na kə,na ko,la ko,lɑ ko,to tsit le,na kuai,pin kɔ,nɒ i ko,a kɔ,xa iəʔ kə,ŋai ke
-122,tsən mo iɑŋ,naŋ ko,tsa ko iaŋ,lɔŋ iɔŋ,an tsuã iũ,tsaʔ ti,tim,i kai,a mə̃ tʂɛ,tsən iɑ̃,ŋioŋ ŋe
-123,uei,ko,ko,ko,le,kuai,wɐi,tʂɒ,kɔ,kə,ke
-124,ʂuaŋ,suaŋ,suaŋ,sɔŋ,siaŋ,tuei,tøy,sɔn,fɔ̃,ʂuɑ̃,suŋ
-125,tʂˈuɑŋ,tsˈuaŋ,tsˈuaŋ,tsˈɔŋ,liã,tuei,tsˈɔŋ,dzɔn,tʂˈuɔ̃,tʂˈuɑ̃,fon
-126,liɑŋ,tɕia,tɕia,pˈu,tai,kua,ka,bu,liɔ̃,kua,lioŋ
-127,tˈou,tˈiau,tˈiao,tsɑʔ,tsiaʔ,tuei,tsɛk,tʂɒ,tˈɯ,tˈiɔ,tˈiau
-128,kˈou,kən,tˈiao,tsɑʔ,tsiaʔ,tuei,tsɛk,tʂɒ,kɔ,kˈɯ,tˈiau
-129,i xuər,xər,tsen,iʔ hɑ tsɹ̩,le,tˈiəŋ iəʔ tsəŋ tsəŋ,tsɐn,ɦɒ,xuɨ,,ha
-130,i ɕiar,xa,xa,ha,pˈaʔ tsit le,ta iəʔ xa,ha,ɦɒ,kua,,ha
-131,ʂɑŋ tˈou,saŋ tˈəu,saŋ tˈəu,sɔŋ tˈɛu,tiŋ tˈau,nau tˈəu,sœŋ pin,ʂɔn dəɯ,ʂɔ̃ tˈɯ,kɔ tˈɯ,soŋ poi
-132,ɕia tˈou,ɕia tˈəu,ɕia tˈəu,ha tˈɛu,e bin,xa tˈəu,ha pin,ɦɒ dəɯ,xa tˈɯ,tsɹ̩ ɕia,ha poi
-133,tsuo piar,tso pian,tso pian,tso piɛn,to piŋ,tsɤ pæ̃ tɕˈiəʔ,tsɔ pin,tso piẽ,tsu miã ɛ,tsʊ pʊ̃ kə,tso pˈien
-134,iou piar,iəu pian,iəu pian,iu piɛn,tsiã piŋ,iəu pæ̃ tɕˈiəʔ,jɐu pin,iəɯ piẽ,iɯ miã ɛ,iɯ pʊ̃ kə,iu pˈien
-135,tɑŋ tɕiar,tsoŋ tɕian,taŋ tsoŋ,tɔŋ tsuŋ,tiɔŋ ŋ̩,tɒ̃ tsuəŋ tɕiar,tsuŋ kan,tʂən kan,tʂuə̃ tɕiã,tʂəŋ tɕɪ̃,tsuŋ kian
-136,li tˈou,ni mian,i tˈəu,li tˈɛu,lai bin,li tˈəu,jɐp pin,ni dəɯ,l̩ tˈɯ,zɹ̩ tˈɯ,ti tu ve
-137,uai tˈou,uai tˈəu,uai tˈəu,uai tˈɛu,gua bin,vai tˈəu,tsˈøt pin,uai dəɯ,uɛ tˈɯ,uɤ tˈɯ,ŋoi poi
-138,tˈian,tˈian,tˈian,tˈiɛn,tĩ,tˈie,tˈim,diẽ,tˈiã,tˈiɪ̃,tˈiam
-139,suan,suan,suan,sɵn,sŋ̩,suæ̃,syn,sɔn,suã,sʊ̃,son
-140,ɕian,xan,ɕian,han,kiam,ɕie,ham,ɦan,xã,ɕiɪ̃,ham
-141,tan,tan,tan,tˈan,tsiã,kua,tˈam,dan,tã,tæ̃,tˈam
-142,pˈɑŋ,pˈaŋ,maŋ,pˈɔŋ,pui,zəu,fei,tsɔn,pˈɔ̃,pˈɑ̃,pˈi
-143,ʂou,səu,səu,sɛu,san,səu,sɐu,səɯ,sɯ,sɯ,seu
-144,ləŋ,nən,len,lɑŋ,liŋ,tuəŋ,tuŋ,nən,lə̃,lən,hon
-145,ʐɤ,ze,zɛ,lɛʔ,luaʔ,zaʔ,jit,ie,ʐɛ,ʐɐʔ,ŋiat
-146,ɕiɑŋ,ɕiaŋ,ɕiaŋ,ɕiɔŋ,pˈaŋ,ɕiɒ̃,hœŋ,sian,ɕiɔ̃,ɕiɑ̃,hioŋ
-147,tʂˈou,tsˈəu,tsˈəu,tsˈɨu,tsˈau,tsˈəu,tsˈɐu,tʂˈəɯ,tʂˈɯ,tʂˈɯ,tsˈu
-148,tsˈu,tsˈu,tsˈu,tsˈu,tsˈɔ,tsˈu,tsˈou,tsˈəɯ,tɕˈy,tsˈu,tsˈɹ̩
-149,ɕi,ɕi,ɕi,ɕi,iu,ɕi,sɐi,si,ɕj,sɹ̩,iu
-150,tʂˈɑŋ,tsˈaŋ,tsˈaŋ,tsˈɔŋ,tŋ̩,tsˈɒ̃,tsˈœŋ,dʐɔn,tʂˈɔ̃,tʂˈɑ̃,tsˈoŋ
-151,tuan,tuan,tuan,tɵn,te,tuæ̃,tyn,tɔn,tuã,tʊ̃,ton
-152,tsɑŋ,tsaŋ,la tˈa,ŋɑ tsɑ,hiɔŋ,zəʔ tsɒ̃,wu tsou,nɒ tˈɒ,tsɔ̃,tsɑ̃,me
-153,kan tɕiŋ,kan tɕin,kan tɕin,kɵn tɕˈin,tsˈiŋ kˈi,kæ̃ tɕiəŋ,kɔn tsɛŋ,so ni,kã tɕiə̃,tɕˈin liɑ̃,tsˈiaŋ
-154,pˈian i,ɕiaŋ in,pˈian i,pˈiɛn i,pien i,tɕie,pˈɛŋ,biẽ ɲi,pˈiã i,tɕˈiɔ,pˈien ŋin
-155,kɑŋ,tsˈai,tɕiaŋ tsˈai,kɔŋ,tu a,tɕiɒ̃,ŋam,dzai,tɕiɔ̃,tsˈɤ,koŋ koŋ
-156,kɑŋ,tsˈən,tɕiaŋ tɕiaŋ lɛ,kɔŋ kɔŋ,tu tu,tɕiɒ̃ tɕiɒ̃,ŋam,tʂən,tɕiɔ̃,tʂən,koŋ
-157,tʂəŋ xaur,tɕˈia tɕˈia,tsen tuei tˈəu,tsɨn hɑu,tu tu ho,tsəŋ xau xau,ŋam ŋam hou,tʂən haɯ,tɕiɔ̃ kˈa ma,tɕiɑ̃ xʊ,tsaŋ hau
-158,xɤ,xo,xo,kiɛn,kaʔ,xuɤ,tˈuŋ,ɦo,kə̃,kən,tˈuŋ
-159,tʂɻ̩,tsɹ̩,tsɹ̩,tsɨʔ,tsi,kuɒ̃,tsi,tsɹ̩,tɕiɯ,tʂəʔ,tsak
-160,tsˈuŋ,tsˈoŋ,tɕˈi,tsˈuŋ,tui,tsˈuəŋ,tsˈuŋ,dzən,tsˈuə̃,tsˈəŋ,tsˈiuŋ
-161,tˈi,paŋ,tˈi,pɔŋ,tˈe,tˈi,pɔŋ,ke,tɛ,pɑ̃,tˈi
-162,na,na,la,lɑʔ,tˈeʔ,na,lɔ,nɒ,tɛ,la,na
-163,ku i,ni pian,pa i,tˈɛʔ sɹ̩,kɔ i,tsuæ̃ i,tɐk tɐŋ,tɕin uəi,ti kv̩ i ɛ,ku zɹ̩,ku i
-164,i,i,i,iʔ,tsit,iəʔ,jɐt,i,j,iəʔ,it
-165,ər,ər,ə˞,ɵ,lŋ̩,ər,ji,e,ɛ,a,ŋi
-166,san,san,san,san,sã,sæ̃,sam,san,sã,sæ̃,sam
-167,sɹ̩,sɹ̩,sɹ̩,sɹ̩,si,sɹ̩,sei,sɹ̩,sɹ̩,sɹ̩,si
-168,u,u,u,ŋ̩,gɔ,vu,ŋ,u,v̩,u,n̩
-169,liou,nu,lu,liuʔ,lak,liəu,luk,nəɯ,liɯ,ləʔ,liuk
-170,tɕˈi,tɕˈi,tɕˈi,tɕˈiʔ,tsˈit,tɕˈiəʔ,tsˈɐt,tsˈi,tɕˈj,tɕˈiəʔ,tsˈit
-171,pa,pa,pa,paʔ,peʔ,paʔ,pat,pɒ,pa,pɐʔ,pat
-172,tɕiou,tɕiəu,tɕiəu,tɕiu,kau,tɕiəu,kɐu,tɕiəɯ,tɕiɯ,tɕiɯ,kiu
-173,ʂɻ̩,sɹ̩,sɹ̩,sɨʔ,tsap,səʔ,sɐp,ʂɻ̩,ʂɻ̩,ʂəʔ,səp
-174,ʂɻ̩ i,sɹ̩i,sɹ̩ i,sɨʔ iʔ,tsap it,səʔ iəʔ,sɐp jɐt,ʂɻ̩ i,ʂɻ̩ j,ʂəʔ iəʔ,səp it
-175,ʂɻ̩ ər,sɹ̩ər,sɹ̩ ə˞,sɨʔ ɵ,tsap li,səʔ ər,sɐp ji,ʂɻ̩ e,ʂɻ̩ ɛ,ʂəʔ a,səp ŋi
-176,ər ʂɻ̩,ər sɹ̩,ə˞ sɹ̩,ɵ sɨʔ,li tsap,ər səʔ,ji sɐp,e ʂɻ̩,ɛ ʂɻ̩,a ʂəʔ,ŋi səp
-177,ər ʂɻ̩ i,ər i,ə˞ sɹ̩ i,ɵ sɨʔ iʔ,li tsap it,ər səʔ iəʔ,ji sɐp jɐt,e ʂɻ̩ i,ɛ ʂɻ̩ i,a ʂəʔ iəʔ,ŋi səp it
-178,,i pe ər,i pɛ ə˞ sɹ̩ i,iʔ pɑʔ ɵ sɨʔ,tsˈit paʔ li tsap it,iəʔ pai ər səʔ iəʔ,,,,iəʔ pɐʔ a ʂəʔ iəʔ,it pak ŋi səp it
-179,ti i,ti i,ti i,tˈi iʔ,te it,ti iəʔ,tɐi jɐt,di i,tsɻ̩ j,tsɹ̩ iəʔ,tˈi it
-180,ti ər,ti ər,ti ə˞,tˈi ɵ,te li,ti ər,tɐi ji,di e,tsɻ̩ ɛ,tsɹ̩ a,tˈi ŋi
-181,ər li,niaŋ ni,liaŋ li,liɔŋ li,lŋ̩ li,ər li,lœŋ mɐi,nian ni,liɔ̃ l̩,a zɹ̩,lioŋ li
-182,ər liɑŋ,ər niaŋ,ə˞ liaŋ,ɵ liɔŋ,lŋ̩ liũ,liɒ̃ li,ji lœŋ,e nian,ɛ liɔ̃,a liɑ̃,ŋi lioŋ
+sentence_id,Beijing,Chengdu,Guiyang,Nanchang,Taibei,Taiyuan,Xianggang,Xiangtan,Xining,Hefei,Meixian,Hangzhou
+1,tˈai iɑŋ,t‘ai iaŋ,tˈai iaŋ,tˈai iɔŋ,tˈai iɔŋ,tai iɒ̃,jɐt tˈɐu,tˈai ian,ʐɛ tˈɯ ɛ,tˈɤ iɑ̃,ŋit tˈeu,tˈɤ ɦiɑŋ
+2,yɛ liɑŋ,ye niaŋ,iɛ liaŋ,ɲyɵʔ kuɔŋ,geʔ liũ,yəʔ liɒ̃,jyt lœŋ,yæ nian,yu liɔ̃,yɐʔ liɑ̃,ŋiat kuoŋ,ɦyəʔ liɑŋ
+3,ɕiŋ ɕiŋ,ɕin ɕiər,ɕin ɕiəu,siɑŋ tsɹ̩,tˈĩ tsˈĩ,ɕi ɕiəu,siŋ,sian tsɹ̩,ɕiə̃ ɕiə̃,ɕin,sen ne,ɕin
+4,ta lei,ta nuei,ta luei,tɑ lui,tan lui,xiɒ̃ xuəʔ luei,haŋ løy,tɒ nəi,luɨ ɕiɔ̃ tʂɛ,ta le,hioŋ lui kuŋ,tɑ lei
+5,ʂan tian,xo san,xo san,tɑ fɔʔ sɛn,siam tian,ta sæ̃,sim tin,tʂˈɒ ɸɒ ɕyẽ,ʂã tiã tʂɛ,ta ʂən,ŋiap fo sa,huoʔ sɥõ
+6,ɕia y,no y,ɕia i,lɔʔ y,lɔʔ hɔ,xa y,lɔk jy,no y,ɕia y,ɕia zɥ,lok i,loʔ ʔɥ
+7,ɕia ɕyɛ,no ɕye,ɕia ɕiɛ,lɔʔ ɕyɵʔ,lɔʔ seʔ,xa ɕyəʔ,lɔk syt,no sie,ɕia ɕyu,ɕia ɕyɐʔ,lok siet,loʔ çiəʔ
+8,pɑu tsɹ̩,pin pau tsɹ̩,pin pao,pˈɔʔ tsɹ̩,piŋ pˈauʔ,ləŋ tæ̃ tsəʔ,pɔk,sie tsɹ̩ tsɹ̩,pɔ tsɹ̩,iɪ̃ tɯ tsə,pˈok,pin bɔ
+9,tɕiɛ piŋ,tɕie pin,tɕiɛ pin,tɕiɛʔ pin,kiet piŋ,tuəŋ piəŋ,kit piŋ,tɕie kəɯ,piə̃ tuə̃ xa liɔ,tɕiɐʔ pin,kiat pen,tɕiəʔ pin
+10,kua fəŋ,kua foŋ,tsˈuei foŋ,tɕˈi fuŋ,ki hɔŋ,kuaʔ fəŋ,fan fuŋ,tɕˈi ɸən,kua fə̃,tsˈɹ̩ fəŋ,hi fuŋ,tɕˈi foŋ
+11,xuŋ,xoŋ,kaŋ,kɔŋ,hɔŋ,tɕiɒ̃,tsˈɔi huŋ,kɔn,kɔ̃,tɕiɑ,tˈien kiuŋ,hei
+12,u yɛ tɕiɛ,tuan iaŋ,tuan u,tɵn u,gɔ lit tsieʔ,vu yəʔ tuæ̃ vu,tyn ŋ,tɔn u i,tɔ̃ v̩,tʊ̃ u tɕiɐʔ,n̩ ŋiat tsiet,tuõ ʔu
+13,pa yɛ tɕiɛ,tsoŋ tɕˈieu tɕie,pa iɛ sɹ̩ u,tsuŋ tɕˈiu,tiɔŋ tsˈiu tsieʔ,paʔ yəʔ səʔ vu,tsuŋ tsˈɐu,tʂən tsˈiəɯ i,pa yu ʂɻ̩ v̩,tʂəŋ tɕˈiɯ tɕiɐʔ,tsuŋ tsˈiu tsiet,pɑʔ ɦyəʔ puõ
+14,san ʂər,san sɹ̩ uan saŋ,san sɹ̩ iɛ,san sɨʔ iɑ uan,li kau am,nie sæ̃ səʔ,ɲin sa man,dai ɲiẽ san ʂɻ̩,sã ʂɻ̩ uã ɕj,liɪ̃ sæ̃ ʂəʔ,ŋian sam səp ŋit,ɲiɤ̃ sɤ̃ zəʔ vɤ̃ zɑŋ
+15,tɕin nian,tɕin ɲian,tɕin lian,tɕin ɲiɛn,kin lĩ,tɕiəŋ nie,kɐm ɲin,tɕin ɲiẽ tsɹ̩,tɕiə̃ ɲiã,tɕin liɪ̃,kin ŋian,ken ɲiɤ̃
+16,miŋ nian,min ɲian,min lian,miɑŋ ɲiɛn,buã lĩ,miəŋ nie,tsˈøt ɲin,min ɲiẽ tsɹ̩,miə̃ ɲiã,min liɪ̃,kuo e ŋian,men ɲiɤ̃
+17,tɕˈy nian,tɕˈy ɲian,tɕˈi lian,tɕˈiu ɲiɛn,ku lĩ,nie sɹ̩,kɐu ɲin,tɕˈy ɲiẽ tsɹ̩,ɲiã sɹ̩,tsˈɥ liɪ̃,kˈiu ŋian ne,dʑiø ɲiɤ̃ tsɹ̩
+18,miə̃r,min tˈian,min tˈian,miɑŋ ɲiʔ,bĩ a tsai,tsau tɕˈi,tˈiŋ jɐt,mai i tsɹ̩,miə̃ tˈiã,ma kə,sən tsau ŋit,men tsɔ
+19,tsuor,tso tˈian,tso tˈian,tsˈɔʔ ɲiʔ,tsa hŋ,ie tˈie,kˈɐm jɐt,dzo i tsɹ̩,iɛ lɛ,tsʊ kə,tsˈiu pu ŋit,zɑŋ ŋɑʔ tsɹ̩
+20,tɕiər,tɕin tˈian,tɕin tˈian,tɕin ɲiʔ,kin lã lit,tɕiəŋ zəɹ̩,kɐm jɐt,tɕin i tsɹ̩,tɕiə̃ ɛ,tɕiɤ kə,kim ŋit,ken tsɔ
+21,li pai tˈian,ɕin tɕˈi tˈian,ɕin tɕˈi tˈian,li pai,le pai lit,li pai,siŋ kˈei jɐt,sin dʑi i,ɕiə̃ tɕˈj ʐɻ̩,ɕin tsˈɹ̩ tˈiɪ̃,sen kˈi ŋit,li pɤ tˈiɤ̃
+22,mai tsɹ̩,me tsɹ̩,mɛ tsɹ̩,mɑʔ tsɹ̩,beʔ a,mieʔ tsəʔ,mɐk,mai tsɹ̩,mɨ tsɹ̩,mɐʔ tsə,mak e,mɑʔ tsɹ̩
+23,ta mi,mi,ta mi,mi,bi,tˈau tsəʔ,wɔ,dai mi,ta mj,mɹ̩,mi,mɤ̃ mi
+24,tsˈan tou,fu təu,fu təu,tsˈɵn tˈɛu,tsˈan tau,ta təu,tsˈam tɐu,uan dəɯ,ta tɯ,tsˈæ̃ tɯ,fu tˈeu,dzɤ̃ dei əl
+25,ɕiaŋ ʐɻ̩ kˈuei,ɕiaŋ zɹ̩ kˈuei,kˈuei xua,kˈui fɑ,hiɔŋ iɔŋ hue,kˈuei xua,hœŋ jɐt kˈwɐi,tɕyẽ i niẽ,ɕiɔ̃ ʐɻ̩ kˈuɨ,kˈue xua,hioŋ ŋit kˈui,gui huɑ
+26,po tsˈai,po tsˈai,po tsˈai,po tsˈai,po lin a tsˈai,tɕˈi tsˈai,pɔ tsˈɔi,po tsˈai,pɔ tsˈɛ,pʊ tsˈɤ,kok tsˈoi ie,po tsˈɤ
+27,iɑŋ pai tsˈai,tɕyan ɕin pe,ko ɕin pɛ,pɑu tsˈai,kŋ̩ sim tsˈai,xuei tsəʔ pai,jɛ tsˈɔi,paɯ tsˈai,tɕyã ɕiə pɨ tsˈɛ,pɔ tˈɯ tsˈɤ,pau tsˈoi,pɔ ɕin tsˈɤ
+28,ɕi xuŋ ʂɻ̩,fan tɕˈie,mao la ko,fan tɕˈiɑ,tˈa bã to,ɕi fæ̃ sɹ̩,fan kˈɛ,si ɦən sɹ̩,iɔ̃ sɹ̩ tsɹ̩,iɑ̃ sɹ̩ tsə,fan kˈio e,fɤ̃ dʑiɑ
+29,tɕˈiɛ tsɹ̩,tɕˈie tsɹ̩,tɕˈiɛ tsɹ̩,tɕˈiɑ tsɹ̩,kio,tɕˈie tsəʔ,ɐi kwa,dʑyɒ tsɹ̩,tɕˈi tsɹ̩,tɕˈye tsə,tiau tsˈoi ie,dʑi əl
+30,pai ʂu,xoŋ sau,fan su,lo pˈo ɕy,han tsi,xuəŋ su,fan sy,tɕio pan ɕy,xuə̃ fv̩,zɥ tˈɯ,fan su,fɤ̃ dzɥ
+31,tˈu tour,iaŋ y,iaŋ i,iɔŋ y tˈɛu,bã liŋ tsi,sæ̃ iəʔ tæ̃,sy tsɐi,ian y dəɯ,iɔ̃ y,ma lin tʂˈu,ma laŋ su,ɦiɑŋ fɤ̃ dzɥ
+32,nan kuə,nan kua,lan kua,pɛʔ kuɑ,kim kue,næ̃ kua,nam kwa,nan kuɒ,nã kua,læ̃ kua,tuŋ kua,nɤ̃ kuɑ
+33,tʂu,tsu,tsu,tɕy,ti,tsu,tsy,tɕy,tʂv̩,tʂu,tsu ve,tsɥ
+34,kuŋ tʂu,tɕyo tsu,ia tsu,tɕy ku li,ti kaŋ,kuəŋ tsu,tsy kuŋ,tɕio tɕy tsɹ̩,ia tʂv̩,kəŋ tʂu,tsu ko,koŋ tsɥ
+35,mu tʂu,mu tsu,tsˈao tsu,tɕy pˈo,ti bu,mu tsu,tsy na,tɕy bo tsɹ̩,mv̩ tʂv̩,məŋ tʂu,tsu ma,mu tsɥ
+36,kuŋ tɕi,tɕi koŋ,koŋ tɕi,tɕi kuŋ,ke kaŋ,kuəŋ tɕi,kɐi kuŋ,tɕiaɯ tɕi,kuə̃ tɕj,kəŋ tsɹ̩,ke kuŋ,ɦioŋ tɕi
+37,mu tɕi,tɕi pˈo,tsɹ̩ tɕi,tɕi pˈo,ke bu,tsˈau tɕi,kɐi na,tɕi bo,mv̩ tɕj,məŋ tsɹ̩,ke ma,bo tɕi
+38,tɕia tɕˈiɑur,ma tɕˈyər,ma tɕˈio,kan tɕˈiɔʔ tsɹ̩,tsˈiʔ tsiau a,tɕˈyar,ma tsœk,mɒ tsˈio tsɹ̩,tɕˈiɔ ɛ,ma tɕˈiɯ,vo pit le,mɑ tɕˈiɔ əl
+39,xɑu tsɹ̩,xau tsɹ̩,xao tsɹ̩,lau ɕy,liau tsˈi,ku ər,lou sy,naɯ ɕy tsɹ̩,lɔ fv̩,lɔ tʂˈuə,lau tsˈu ve,lɔ tsˈɥ
+40,tʂˈou tʂˈuŋ,tsˈəu tsoŋ,tsˈəu tsˈoŋ,tsˈɨu tsˈuŋ,baʔ sat,piəʔ səʔ,muk sɐt,tʂˈəɯ dʐən,tʂˈɯ sɨ,tʂˈɯ tʂˈəŋ,kon pˈi,tsˈei dzoŋ
+41,fɑŋ tsɹ̩,faŋ tsɹ̩,faŋ tsɹ̩,uʔ,tsˈu,fɒ̃ tsəʔ,uk,u,fɔ̃ tsɹ̩,tsɐʔ tsə,vuk e,vɑŋ tsɹ̩
+42,u tsɹ̩,u tsɹ̩,faŋ kan,fɔŋ,paŋ kiŋ,tɕia,fɔŋ kan,ɸɔn kan,tˈɔ tɕiã,fɑ̃ tɕɪ̃,kian ne,vɑŋ tɕiɤ̃
+43,tʂˈuɑŋ xu,tsˈuaŋ tsɹ̩,tsˈuaŋ tsɹ̩,tsˈɔŋ tsɹ̩,tˈaŋ a,tsˈuɒ̃ xu,tsˈœŋ,tʂˈɔn tsɹ̩,tʂˈuɔ̃ tsɹ̩,tʂˈuɑ̃ tsə,tsˈuŋ ŋe,tsˈɥɑŋ men
+44,mən kˈar,mən kˈan,men kˈan,mɨn kan,ho tiŋ,məŋ ɕie ɕie,mun hɐm,mən kˈan,mə̃ kˈã,mən kˈæ̃,mum ton,men kˈɤ̃
+45,tsˈɤ suo,mau faŋ,tsˈɛ so,mɑu kɔŋ,pien so,mau fɒ̃,tsˈi sɔ,maɯ sɹ̩ u,mɔ sɹ̩,mɔ tsˈɹ̩,sɹ̩ kau,mɔ kˈɑŋ
+46,tʂˈu fɑŋ,tsˈu faŋ,tsˈu faŋ,tɕˈy fɔŋ,tu paŋ,tsˈu fɒ̃,tsˈøy fɔŋ,tsaɯ u,tʂˈv̩ fɔ̃,kʊ tɕiɪ̃,tsˈu foŋ ha,dzɥ vɑŋ
+47,ian tˈuŋ,ian tsˈoŋ,ian tsˈoŋ,iɛn tˈuŋ,ien taŋ,ie tuəŋ,jin tˈuŋ,iẽ dən,iã tuə̃,iɪ̃ ləŋ,ian ham,ʔiɤ̃ tsˈoŋ
+48,tʂuo tsɹ̩,tso tsɹ̩,tso tsɹ̩,tsɔʔ tsɹ̩,toʔ a,tsuaʔ tsəʔ,tˈɔi,tso tsɹ̩,tʂu tsɹ̩,tʂuɐʔ tsə,tsok e,tsoʔ tsɹ̩
+49,lou tˈi,nəu tˈi,ləu tˈi,lɛu tˈi,lau tˈui,ləu tˈi,lɐu tˈɐi,nəɯ tˈi,lv̩tsˈɹ̩,lɯ tsˈɹ̩,tˈoi pˈai,ɦu tˈi
+50,nɑu tai,tˈəu,lao kˈo,tˈɛu,tˈau,təʔ nau,tˈɐu,naɯ kˈo,tˈɯ,tˈɯ,tˈeu,dei
+51,nɑu mər,ŋe nəu,ŋɛ ləu,lɑu kuɑ,hiaʔ tˈau,pəŋ ləu,ŋak tˈɐu,naɯ mən,nə̃ mv̩ tˈɯ,ʐɐʔ lɔ tˈɯ,ŋiak,ŋɑʔ koʔ dei
+52,lian,nian,lian,liɛn,bin,mi nie,min,niẽ kuai,liã,liɪ̃,mien,liɤ̃ kˈoŋ
+53,pi tsɹ̩,pi tsɹ̩,pi tsɹ̩,pˈiʔ kuŋ,pˈĩ,piəʔ tsəʔ,pei kɔ,pˈi dən,pj tsɹ̩,piəʔ tsə,pˈi kuŋ,bɑʔ dei
+54,po kə̃r,tɕin tsɹ̩,tɕiaŋ ken,tɕiɑŋ,am kun,paʔ tsəʔ,kɛŋ,tɕian kən,pɔ pã,lɔ tɕin pa,kiaŋ kin,dei tɕin
+55,tsuo ʂou,tso səu,tso səu,tso sɨu,to tsˈiu,tsuɤ səu,tsɔ sɐu,tso ʂəɯ,tsu ʂɯ,tsʊ ʂɯ,tso su,tɕi sei
+56,iou ʂou,iəu səu,iəu səu,iu sɨu,tsiã tsˈiu,tsəŋ səu,jɐu sɐu,iəɯ ʂəɯ,iɯ ʂɯ,iɯ ʂɯ,iu su,zɥen sei
+57,tɕˈyan tˈou,tin tsɹ̩,tin tsɹ̩,tɕˈyɵn tˈɛu,kun tˈau,kəʔ tu,kˈyn tˈɐu,do ɕin,tʂˈuɨ tˈɯ,tɕˈyɪ̃ tˈɯ,kˈian tˈeu,dzɥõ dei
+58,ʂou tʂɻ̩ tˈou,səu tsɹ̩ mər,tsɹ̩ tˈəu,tsɨʔ tˈɛu tsɹ̩,tsŋ̩ tˈau,səu tsəʔ tˈəu,sɐu tsi tˈɐu,ʂəɯ tʂɻ̩ naɯ,ʂɯ tsɹ̩ tˈɯ,mu tʂɔ tˈɯ,su tsɹ̩,sei tsɹ̩ dei
+59,tʂɻ̩ tɕia,tsɹ̩ tɕia,tsɹ̩ tɕia,tsɨʔ kaʔ tsɹ̩,tsŋ kaʔ,tsəʔ tɕiaʔ,tsi kap,tʂɻ̩ kɒ,tsɹ̩ tɕia,tʂəʔ tɕiɐʔ kɤ,su tsɹ̩ kap,sei tsɹ̩ kˈɑʔ əl
+60,po ləŋ kar,kˈe ɕi tˈər,kˈɛ ɕi tˈəu,kˈiɛʔ ɕiʔ tˈɛu tsɹ̩,kˈa tˈau hu,kəʔ ti kˈuei,sɐt tˈɐu,ɕi dəɯ ku,pɔ ɕj kɛ,kˈɐʔ tɕˈiəʔ tˈɯ,tsˈit tˈeu hoŋ,ɕiəʔ kˈo dei
+61,tˈuei,tˈuei kan,pa tˈuei,tɕiɔʔ,tˈui,tˈuei,kœk,tˈəi pɒ tsɹ̩,tˈuɨ,tˈe,kiok,tɕiɑʔ pˈɑŋ
+62,tiɛ,pa,pa pa,pɑʔ,hu tsˈin,lau tsəʔ,pa pa,tie tie,ta ta,pɐʔ pɐʔ,a pa,pɑ pɑ
+63,niɑŋ,ma,ma,m̩ mɑ,bu tsˈin,ma,ma ma,m̩ mɒ,m̩ ma,ma i,a me,mɑ mɑ
+64,iɛ iɛ,ie ie,iɛ iɛ,kuŋ kuŋ,a kɔŋ,ie ie,a jɛ,kən kən,i iɛ,te te,a kuŋ,tiɑ tiɑ
+65,nai nai,pˈo pˈo,tˈai tˈai,pˈo pˈo,a bã,nai nai,a ma,ŋai dʑi,nɛ nɛ,lɤ lɤ,a pˈo,nɤ nɤ
+66,ta iɛ,pe pe,pɛ pɜ,tˈai pɑʔ,a peʔ,ta ie,pak fu,pɒ pɒ,ta ta,ta pɐʔ,a pak,pɑʔ pɑʔ
+67,ta ma,pe ɲiaŋ,pɛ ma,tˈai mɑ,a m̩,ta niɒ̃,pak nœŋ,pɒ dʑi,ma ma,ta ta,pak me,dɑ mɑ mɑ
+68,ʂur,pər,su su,suʔ,a tsik,suəʔ suəʔ,a suk,ʂəɯ ʂəɯ,pa pa,i,a suk,ɕiɔ pɑʔ pɑʔ
+69,ʂər,sən sən,sen sen,sɨn tsɹ̩,a tsim,səŋ səŋ,a sɐm,ʂən dʑi,ʂə̃ tsɹ̩,ʂən tsə,suk me,sen niɑŋ
+70,lɑu iɛ,uai koŋ,koŋ koŋ,ŋɑ kuŋ,gua kɔŋ,lau ie,a kuŋ,uai kən,uɨ i,uɤ te te,ŋoi a kuŋ,ɦuɤ koŋ
+71,lɑu lɑu,uai pˈo,pˈo pˈo,ŋɑ pˈo,gua bã,lau niɒ̃,pˈɔ pˈɔ,uai bo,uɨ nɛ nɛ,uɤ lɤ lɤ,ŋoi a pˈo,ɦuɤ bo
+72,tɕiou tɕiou,tɕiəu tɕiəu,tɕiəu tɕiəu,mu tɕˈiu,a ku,tɕiəu tɕiəu,kˈɐu fu,dʑiəɯ iɒ,a tɕiɯ,tɕiɯ tɕiɯ,a kˈiu,niɑŋ dʑiø
+73,tɕiou ma,tɕiəu mər,tɕiəu ma,tɕˈiu mu,a kim,tɕiəŋ tɕiəŋ,kˈɐm mou,dʑiəɯ ɲian,tɕiɯ mv̩,tɕiɯ mə,kˈiu me,dʑiø m̩
+74,nan ʐən,nau koŋ,lan zen,lɑu kuŋ,hu,lau xæ̃,lou kuŋ,ŋai in,nɔ mə̃ tsɹ̩ ʐə̃,lɔ tiəʔ mən,lau kuŋ,lɔ koŋ
+75,ɕi fər,nau pˈo,li lɛ,lɑu pˈo,tsˈe,lau pˈɤ,lou pˈɔ,ŋai in,nɔ mə̃ tɕia l̩ tsɹ̩,lɤ lɤ mən,lau pˈo,lɔ bo
+76,ər tsɹ̩,ər,ə˞ tsɹ̩,tsai,kiã,ɕiau tsəʔ,tsɐi,tsai,ɛ tsɹ̩,a tsə,lai ie,əl tsɹ̩
+77,kuei ny,ɲyər,ku liaŋ,ɲy,tsa bo kiã,kuei ny,nøy,ɲy tsai dʑi,kv̩ ɲiɔ̃,ia tˈɯ,moi ie,nɥ əl
+78,tsɑu tʂˈɑŋ fan,tsau fan,ko tsao,tsɑu fan,tsa tŋ̩,tsau tɕˈiəŋ fæ̃,tsou tsˈan,tsaɯ ɸan,tsɔ fã,tsɔ fæ̃,sət tsau,tsɔ vɤ̃
+79,ʂɑŋ u fan,u fan,tsoŋ u fan,tsuŋ fan,tioŋ tau tŋ̩,sɒ̃ vu fæ̃,ŋ tsˈan,tʂən u ɸan,v̩ fã,tʂəŋ fæ̃,sət tsu,tsoŋ vɤ̃
+80,uan fan,uan fan,uan fan,iɑ fan,am tŋ̩,xəʔ ie fæ̃,man tsˈan,iɒ ɸan,xɨ  fã,uæ̃ fæ̃,sət ia,ɦi vɤ̃
+81,mian tˈiɑur,mian,mian,miɛn,bĩ,mie,min,miẽ,miã,miɪ̃ tˈiɔ,mien,miɤ̃
+82,man tˈou,man tˈəu,man tˈəu,mo mo,ban tˈo,mɤ mɤ,man tˈɐu,momo,mɔ mɔ,ta mʊ,man tˈeu,muõ dei
+83,pɑu tsɹ̩,pau tsɹ̩,pao tsɹ̩,pɑu tsɹ̩,pau a,pau tsəʔ,pau,paɯ tsɹ̩,pɔ tsɹ̩,pɔ tsə,pau ve,muõ dei
+84,xun tˈun,tsˈau səu,kˈuen tˈen,tɕˈin tˈɔŋ,pien sip,xuəŋ tuəŋ,wɐn tˈɐn,ɸən tən,xuə̃ tuə̃,tɕiɔ tsə,kiau ve,ɦun den
+85,tsˈu,tsˈu,tsˈu,ɕiɛu tɕiu,tsˈo,tsˈu,tsˈou,tsˈəɯ,tɕˈy,tsˈu,son tsˈɹ̩,tsˈu
+86,tɕiɑŋ iou,tɕiaŋ iəu,tɕiaŋ iəu,tɕiɔŋ iu,tau iu,tɕiɒ̃ iəu,si jɐu,tsian iəɯ,tɕiɔ̃ iɯ,tɕiɑ̃ iɯ,pˈak mi,tɕiɑŋ ɦiø
+87,ian,ian,ian pa,iɛn,iam,ɕie ie,jim,iẽ,iã,iɪ̃,iam,ɦiɤ̃
+88,kˈuai tsɹ̩,kˈuai tsɹ̩,kˈuai tsɹ̩,kˈuai tsɹ̩,ti,kˈuai tsəʔ,fai tsi,kˈuai tsɹ̩,kˈuɛ tsɹ̩,kˈiɤ tsə,kˈuai ie,kˈuɤ əl
+89,ʂɑu tsɹ̩,pˈiau kər,pˈiao ə˞,sɔʔ tsɹ̩,tˈŋ̩ si,tˈiau kəŋ,tsˈi kɐŋ,diaɯ kən,fɔ fɔ,ʂuɐʔ tsə,sok e,zoʔ əl
+90,iɛ mər,nan zən,lan lɛ,lan ko,ta pɔ,næ̃ təʔ,nam jɐn,nan in kɒ,nã ʐə̃,læ̃ tiəʔ,nam me ŋin,nɤ̃ zen tɕiɑ
+91,ny ʐən,ɲy zən,li lɛ,ɲy ko,tsa bɔ,ny təʔ,nøy jɐn,ɲy in kɒ,mj ʐə̃,zɥ tiəʔ,fu ŋin ka,nɥ zen tɕiɑ
+92,nan xar,nan ua tsɹ̩,lan ua ua,lan tsai tsɹ̩,ta pɔ gĩ na,næ̃ va va,nam tsɐi,ŋɒ dʑi,ka ua,ɕiɔ sɹ̩,se a ko e,nɤ̃ ɦiɑ əl
+93,ny xar,ɲy ua tsɹ̩,li ua ua,ɲy tsai tsɹ̩,tsa bɔ gĩ na,ny va va,nøy tsɐi,məi dʑi,mj tsɹ̩,ia tˈɯ,se moi ie,nɥ ɦiɑ əl
+94,lɑu tˈour,nau tˈər,lao tsei,lɑu tˈɛu tsɹ̩,lau tua laŋ,lau xæ̃ xæ̃,lou jɐn ka,naɯ kɔn tsɹ̩,lɔ xã,lɔ tˈɯ tsə,lau a pak,lɔ dei əl
+95,i ʂəŋ,i sən,i sen,i sɛn,i siŋ,ɕie səŋ,ji sɐŋ,i sən,ɕiã sə̃,zɹ̩ sən,i sen,ʔi sen
+96,ta ʂɻ̩ fu,tsˈusɹ̩,tsˈu tsɹ̩,tˈai sɹ̩ fu,tsoŋ pˈo sai hu,tsˈu tsəʔ,tsy si,dʑy sɹ̩,ta sɹ̩ fv̩,tʂˈu tsə,tsˈu sɹ̩,dzɥ vɑŋ sɹ̩ vu
+97,iɑu fan tə,tɕiau xua tsɹ̩,tɕiao xua tsɹ̩,kɑu fɑ tsɹ̩,kˈit tsiaʔ,tɕiau xua tsəʔ,hɐt ji,kaɯ ɸɒ tsɹ̩,ɕiə̃ kˈɯ,tɕiɔ xua tsə,kau fa ve,tɕiɔ huɑ tsɹ̩
+98,pɑu mu,pau mu,pao mu,tɕi ɲiɔŋ,lin bu,pau mu,kuŋ jɐn,paɯ mo,pɔ mv̩,pɑ̃ kəŋ tiəʔ,pau me,pɔ mu
+99,piŋ lə,pin no,sen pin əu,pˈiɑŋ liɛu,pˈua pĩ,pi lie,pɛŋ tsɔ,tʂo bian,piə liɔ,pəʔ xɔ kʊ,pot pˈiaŋ,sen bin tə
+100,ʂɑŋ fəŋ,saŋ foŋ,liaŋ tao,sɔŋ fuŋ,sioŋ hoŋ,pˈiəʔ tsu lie,sœŋ fuŋ,nian tɒ,liɔ̃ tʂˈu liɔ,ʂɑ̃ fəŋ,soŋ fuŋ,sɥɑŋ foŋ
+101,nɑu tu tsɹ̩,na tu tsɹ̩,tu pˈi pu xao,ɕiɑ tˈu,lau sai,tsˈuæ̃ ɕi,tˈou ɔ,təɯ tsɹ̩ o,la tv̩ tsɹ̩,pˈɔ sɹ̩,o li tu,du bi dzɑ
+102,tɕˈyɛ tsɹ̩,pai tsɹ̩,pai tsɹ̩,kuai tsɹ̩,pai kˈa,kuai tsəʔ,pɐi kœk lou,pai tsɹ̩,tɕˈyu tsɹ̩,tɕˈyɐʔ tsə,pai kiok e,tɕˈiɔ kuɤ əl
+103,luo kuor,tˈo tsɹ̩,tˈo tsɹ̩,tˈo tsɹ̩,kˈiau ku,pei kuɤ kuɤ,tˈɔ pui,do tsɹ̩,pɨ lɔ ku ɛ,tˈʊ tsə,tˈo poi ie,do pei lɔ əl
+104,kɤr lə,sɹ̩ no,sɹ̩ əu,sɹ̩ pɨʔ lɛu,si a,sɹ̩ lie,sei tsɔ,naɯ tɒ,mɔ tiɔ liɔ,pəʔ tsɤ lə,si pˈet le,sɹ̩ liɔ tə
+105,tɕˈiɑu piŋ,kˈan pin,kˈan pin,kˈɵn pˈiɑŋ,kˈuã pĩ,kæ̃ piəŋ,tɐi pɛŋ,kˈan bian,kˈã piə̃,tɕˈiɔ pin,kˈon pˈiaŋ,kˈɤ̃ mɔ bin
+106,uo,ŋo,ŋo,ŋo,gua,ɣɤ,ŋɔ,ŋo,nɔ,ʊ,ŋai,ŋo
+107,ni,ɲi,li,n̩,li,ni,nei,ni,ɲi,li,n̩,ni
+108,tˈa,tˈa,la,tɕie,i,tˈa,kˈøy,tˈɒ,tˈa,tˈa,ki,tˈɑ
+109,uom,ŋo mən,ŋo men,ŋo mɨn,gun,ɣɤ məʔ,ŋɔ tei,ŋo in,nɔ mə̃,ʊ mən,ŋai ten ŋin,ŋo men
+110,nim,ɲi mən,li men,n̩ mɨn,lin,ni məʔ,nei tei,ɲi in,ɲi mə̃,li mən,n̩ ten ŋin,ni men
+111,tˈam,tˈa mən,la men,tɕie mɨn,in,tˈa məʔ,kˈøy tei,tˈɒ in,tɕia mə̃,tˈa mən,ki ten ŋin,tˈɑ men
+112,tsam,ŋo mən,ŋo men,ŋo mɨn,lan,tsa məʔ,ŋɔ tei,ŋo in,nɔ mə̃,ʊ mən,ŋai ten ŋin,ŋo men dɑ tɕiɑ
+113,tsɹ̩ kɤr,ko zən,tsɹ̩ tɕi,tsˈɹ̩ kan,ka ki,tsɹ̩ tɕia,tsi kei,dzɹ̩ kɒ,ku tɕia,tsɹ̩ tsɹ̩,tsˈɹ̩ ka,dzɹ̩ tɕiɑ
+114,ʂei,na ko,la ko,lɑ ko,siã,suei,pin kɔ,nɒ ko,fɨ,xa kə,man ŋin,nɑ koʔ
+115,ʂəm,sa tsɹ̩,laŋ tsɹ̩,sɨʔ li,siã bĩʔ,səŋ,mɐt,ʂən mo,sa,xəŋ kə,mak ke,sɑ ɕi
+116,tʂɤr,tsər,tsɹ̩ tɛ,ko li,tsia,tsəʔ lɤ,nei tou,ko tɔn,tʂɻ̩ tʂa,ti ɔ tsə,e ie,kəʔ li
+117,nar,nər,a tɛ,he li,hia,vəʔ lɤ,kɔ tou,nɒ tɔn,nɛ tʂa,la ɔ tsə,ke ie,nɑ li
+118,nar,nər,la tɛ,lɑ li,to ui,na lɤ,pin tou,nɒ tɔn,a tʂa,la kə tsə,ŋai ke,nɑ li
+119,tʂɤ kə,tse ko,tsɹ̩ ko,ko tsɑʔ,tsit le,tsai,nei kɔ,ko ko,tʂɻ̩ kɔ,ti kə,e ke,tɕiəʔ koʔ
+120,na kə,na ko,a ko,he ko,hit le,vai,kɔ kɔ,nɒ ko,nɛ kɔ,la kə,ke ke,nɑ koʔ
+121,na kə,na ko,la ko,lɑ ko,to tsit le,na kuai,pin kɔ,nɒ i ko,a kɔ,xa iəʔ kə,ŋai ke,nɑ ʔiəʔ koʔ
+122,tsən mo iɑŋ,naŋ ko,tsa ko iaŋ,lɔŋ iɔŋ,an tsuã iũ,tsaʔ ti,tim,i kai,a mə̃ tʂɛ,tsən iɑ̃,ŋioŋ ŋe,tɕiəʔ kəʔ tˈɔ
+123,uei,ko,ko,ko,le,kuai,wɐi,tʂɒ,kɔ,kə,ke,ɦui
+124,ʂuaŋ,suaŋ,suaŋ,sɔŋ,siaŋ,tuei,tøy,sɔn,fɔ̃,ʂuɑ̃,suŋ,sɥɑŋ
+125,tʂˈuɑŋ,tsˈuaŋ,tsˈuaŋ,tsˈɔŋ,liã,tuei,tsˈɔŋ,dzɔn,tʂˈuɔ̃,tʂˈuɑ̃,fon,dzɥɑŋ
+126,liɑŋ,tɕia,tɕia,pˈu,tai,kua,ka,bu,liɔ̃,kua,lioŋ,bu
+127,tˈou,tˈiau,tˈiao,tsɑʔ,tsiaʔ,tuei,tsɛk,tʂɒ,tˈɯ,tˈiɔ,tˈiau,tsɑʔ
+128,kˈou,kən,tˈiao,tsɑʔ,tsiaʔ,tuei,tsɛk,tʂɒ,kɔ,kˈɯ,tˈiau,tsɑʔ
+129,i xuər,xər,tsen,iʔ hɑ tsɹ̩,le,tˈiəŋ iəʔ tsəŋ tsəŋ,tsɐn,ɦɒ,xuɨ,,ha,çiəʔ əl
+130,i ɕiar,xa,xa,ha,pˈaʔ tsit le,ta iəʔ xa,ha,ɦɒ,kua,,ha,tɕi
+131,ʂɑŋ tˈou,saŋ tˈəu,saŋ tˈəu,sɔŋ tˈɛu,tiŋ tˈau,nau tˈəu,sœŋ pin,ʂɔn dəɯ,ʂɔ̃ tˈɯ,kɔ tˈɯ,soŋ poi,kɔ dei
+132,ɕia tˈou,ɕia tˈəu,ɕia tˈəu,ha tˈɛu,e bin,xa tˈəu,ha pin,ɦɒ dəɯ,xa tˈɯ,tsɹ̩ ɕia,ha poi,ɦiɑ ti
+133,tsuo piar,tso pian,tso pian,tso piɛn,to piŋ,tsɤ pæ̃ tɕˈiəʔ,tsɔ pin,tso piẽ,tsu miã ɛ,tsʊ pʊ̃ kə,tso pˈien,tso piɤ̃
+134,iou piar,iəu pian,iəu pian,iu piɛn,tsiã piŋ,iəu pæ̃ tɕˈiəʔ,jɐu pin,iəɯ piẽ,iɯ miã ɛ,iɯ pʊ̃ kə,iu pˈien,ɦiø piɤ̃
+135,tɑŋ tɕiar,tsoŋ tɕian,taŋ tsoŋ,tɔŋ tsuŋ,tiɔŋ ŋ̩,tɒ̃ tsuəŋ tɕiar,tsuŋ kan,tʂən kan,tʂuə̃ tɕiã,tʂəŋ tɕɪ̃,tsuŋ kian,tɑŋ tsoŋ
+136,li tˈou,ni mian,i tˈəu,li tˈɛu,lai bin,li tˈəu,jɐp pin,ni dəɯ,l̩ tˈɯ,zɹ̩ tˈɯ,ti tu ve,li dei
+137,uai tˈou,uai tˈəu,uai tˈəu,uai tˈɛu,gua bin,vai tˈəu,tsˈøt pin,uai dəɯ,uɛ tˈɯ,uɤ tˈɯ,ŋoi poi,ɦuɤ dei
+138,tˈian,tˈian,tˈian,tˈiɛn,tĩ,tˈie,tˈim,diẽ,tˈiã,tˈiɪ̃,tˈiam,diɤ̃
+139,suan,suan,suan,sɵn,sŋ̩,suæ̃,syn,sɔn,suã,sʊ̃,son,sɥõ
+140,ɕian,xan,ɕian,han,kiam,ɕie,ham,ɦan,xã,ɕiɪ̃,ham,ɦiɤ̃
+141,tan,tan,tan,tˈan,tsiã,kua,tˈam,dan,tã,tæ̃,tˈam,dɤ̃
+142,pˈɑŋ,pˈaŋ,maŋ,pˈɔŋ,pui,zəu,fei,tsɔn,pˈɔ̃,pˈɑ̃,pˈi,pˈɑŋ
+143,ʂou,səu,səu,sɛu,san,səu,sɐu,səɯ,sɯ,sɯ,seu,sei
+144,ləŋ,nən,len,lɑŋ,liŋ,tuəŋ,tuŋ,nən,lə̃,lən,hon,len
+145,ʐɤ,ze,zɛ,lɛʔ,luaʔ,zaʔ,jit,ie,ʐɛ,ʐɐʔ,ŋiat,zɥəʔ
+146,ɕiɑŋ,ɕiaŋ,ɕiaŋ,ɕiɔŋ,pˈaŋ,ɕiɒ̃,hœŋ,sian,ɕiɔ̃,ɕiɑ̃,hioŋ,ɕiɑŋ
+147,tʂˈou,tsˈəu,tsˈəu,tsˈɨu,tsˈau,tsˈəu,tsˈɐu,tʂˈəɯ,tʂˈɯ,tʂˈɯ,tsˈu,tsˈei
+148,tsˈu,tsˈu,tsˈu,tsˈu,tsˈɔ,tsˈu,tsˈou,tsˈəɯ,tɕˈy,tsˈu,tsˈɹ̩,tsˈu
+149,ɕi,ɕi,ɕi,ɕi,iu,ɕi,sɐi,si,ɕj,sɹ̩,iu,ɕi
+150,tʂˈɑŋ,tsˈaŋ,tsˈaŋ,tsˈɔŋ,tŋ̩,tsˈɒ̃,tsˈœŋ,dʐɔn,tʂˈɔ̃,tʂˈɑ̃,tsˈoŋ,dzɑŋ
+151,tuan,tuan,tuan,tɵn,te,tuæ̃,tyn,tɔn,tuã,tʊ̃,ton,tuõ
+152,tsɑŋ,tsaŋ,la tˈa,ŋɑ tsɑ,hiɔŋ,zəʔ tsɒ̃,wu tsou,nɒ tˈɒ,tsɔ̃,tsɑ̃,me,foŋ
+153,kan tɕiŋ,kan tɕin,kan tɕin,kɵn tɕˈin,tsˈiŋ kˈi,kæ̃ tɕiəŋ,kɔn tsɛŋ,so ni,kã tɕiə̃,tɕˈin liɑ̃,tsˈiaŋ,kɤ̃ dʑin
+154,pˈian i,ɕiaŋ in,pˈian i,pˈiɛn i,pien i,tɕie,pˈɛŋ,biẽ ɲi,pˈiã i,tɕˈiɔ,pˈien ŋin,biɤ̃ ɲi
+155,kɑŋ,tsˈai,tɕiaŋ tsˈai,kɔŋ,tu a,tɕiɒ̃,ŋam,dzai,tɕiɔ̃,tsˈɤ,koŋ koŋ,kɑŋ kɑŋ
+156,kɑŋ,tsˈən,tɕiaŋ tɕiaŋ lɛ,kɔŋ kɔŋ,tu tu,tɕiɒ̃ tɕiɒ̃,ŋam,tʂən,tɕiɔ̃,tʂən,koŋ,kɑŋ kɑŋ
+157,tʂəŋ xaur,tɕˈia tɕˈia,tsen tuei tˈəu,tsɨn hɑu,tu tu ho,tsəŋ xau xau,ŋam ŋam hou,tʂən haɯ,tɕiɔ̃ kˈa ma,tɕiɑ̃ xʊ,tsaŋ hau,kɑŋ hɔ
+158,xɤ,xo,xo,kiɛn,kaʔ,xuɤ,tˈuŋ,ɦo,kə̃,kən,tˈuŋ,tɑʔ
+159,tʂɻ̩,tsɹ̩,tsɹ̩,tsɨʔ,tsi,kuɒ̃,tsi,tsɹ̩,tɕiɯ,tʂəʔ,tsak,tsəʔ
+160,tsˈuŋ,tsˈoŋ,tɕˈi,tsˈuŋ,tui,tsˈuəŋ,tsˈuŋ,dzən,tsˈuə̃,tsˈəŋ,tsˈiuŋ,dzoŋ
+161,tˈi,paŋ,tˈi,pɔŋ,tˈe,tˈi,pɔŋ,ke,tɛ,pɑ̃,tˈi,pɑʔ
+162,na,na,la,lɑʔ,tˈeʔ,na,lɔ,nɒ,tɛ,la,na,do
+163,ku i,ni pian,pa i,tˈɛʔ sɹ̩,kɔ i,tsuæ̃ i,tɐk tɐŋ,tɕin uəi,ti kv̩ i ɛ,ku zɹ̩,ku i,dəʔ ɦui
+164,i,i,i,iʔ,tsit,iəʔ,jɐt,i,j,iəʔ,it,ʔiəʔ
+165,ər,ər,ə˞,ɵ,lŋ̩,ər,ji,e,ɛ,a,ŋi,əl
+166,san,san,san,san,sã,sæ̃,sam,san,sã,sæ̃,sam,sɤ̃
+167,sɹ̩,sɹ̩,sɹ̩,sɹ̩,si,sɹ̩,sei,sɹ̩,sɹ̩,sɹ̩,si,sɹ̩
+168,u,u,u,ŋ̩,gɔ,vu,ŋ,u,v̩,u,n̩,ʔu
+169,liou,nu,lu,liuʔ,lak,liəu,luk,nəɯ,liɯ,ləʔ,liuk,loʔ
+170,tɕˈi,tɕˈi,tɕˈi,tɕˈiʔ,tsˈit,tɕˈiəʔ,tsˈɐt,tsˈi,tɕˈj,tɕˈiəʔ,tsˈit,tɕˈiəʔ
+171,pa,pa,pa,paʔ,peʔ,paʔ,pat,pɒ,pa,pɐʔ,pat,pɑʔ
+172,tɕiou,tɕiəu,tɕiəu,tɕiu,kau,tɕiəu,kɐu,tɕiəɯ,tɕiɯ,tɕiɯ,kiu,tɕiø
+173,ʂɻ̩,sɹ̩,sɹ̩,sɨʔ,tsap,səʔ,sɐp,ʂɻ̩,ʂɻ̩,ʂəʔ,səp,zəʔ
+174,ʂɻ̩ i,sɹ̩i,sɹ̩ i,sɨʔ iʔ,tsap it,səʔ iəʔ,sɐp jɐt,ʂɻ̩ i,ʂɻ̩ j,ʂəʔ iəʔ,səp it,zəʔ ʔiəʔ
+175,ʂɻ̩ ər,sɹ̩ər,sɹ̩ ə˞,sɨʔ ɵ,tsap li,səʔ ər,sɐp ji,ʂɻ̩ e,ʂɻ̩ ɛ,ʂəʔ a,səp ŋi,zəʔ əl
+176,ər ʂɻ̩,ər sɹ̩,ə˞ sɹ̩,ɵ sɨʔ,li tsap,ər səʔ,ji sɐp,e ʂɻ̩,ɛ ʂɻ̩,a ʂəʔ,ŋi səp,əl zəʔ
+177,ər ʂɻ̩ i,ər i,ə˞ sɹ̩ i,ɵ sɨʔ iʔ,li tsap it,ər səʔ iəʔ,ji sɐp jɐt,e ʂɻ̩ i,ɛ ʂɻ̩ i,a ʂəʔ iəʔ,ŋi səp it,ɲiɤ̃ ʔiəʔ
+178,,i pe ər,i pɛ ə˞ sɹ̩ i,iʔ pɑʔ ɵ sɨʔ,tsˈit paʔ li tsap it,iəʔ pai ər səʔ iəʔ,,,,iəʔ pɐʔ a ʂəʔ iəʔ,it pak ŋi səp it,ʔiəʔ pɑʔ niɤ̃ ʔiəʔ
+179,ti i,ti i,ti i,tˈi iʔ,te it,ti iəʔ,tɐi jɐt,di i,tsɻ̩ j,tsɹ̩ iəʔ,tˈi it,di ʔiəʔ
+180,ti ər,ti ər,ti ə˞,tˈi ɵ,te li,ti ər,tɐi ji,di e,tsɻ̩ ɛ,tsɹ̩ a,tˈi ŋi,di əl
+181,ər li,niaŋ ni,liaŋ li,liɔŋ li,lŋ̩ li,ər li,lœŋ mɐi,nian ni,liɔ̃ l̩,a zɹ̩,lioŋ li,liɑŋ li
+182,ər liɑŋ,ər niaŋ,ə˞ liaŋ,ɵ liɔŋ,lŋ̩ liũ,liɒ̃ li,ji lœŋ,e nian,ɛ liɔ̃,a liɑ̃,ŋi lioŋ,əl liɑŋ

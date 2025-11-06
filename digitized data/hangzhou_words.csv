@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+HZ,Hangzhou,1,太阳,太阳,,tˈE ɦiɑŋ,tˈE445 ɦiɑŋ213-31,tˈɤ445 ɦiɑŋ213-31,tˈɤ ɦiɑŋ
+HZ,Hangzhou,2,月亮,月亮,,ɦyəʔ liɑŋ,ɦyəʔ2 liɑŋ13,ɦyəʔ2 liɑŋ13,ɦyəʔ liɑŋ
+HZ,Hangzhou,3,星星,星,,ɕin,ɕin33,ɕin33,ɕin
+HZ,Hangzhou,4,打雷,打雷,,tɑ lei,tɑ53 lei213,tɑ53 lei213,tɑ lei
+HZ,Hangzhou,5,闪电,霍闪,,huoʔ sɥõ,huoʔ5 sɥõ53,huoʔ5 sɥõ53,huoʔ sɥõ
+HZ,Hangzhou,6,下雨,落雨,,loʔ ʔɥ,loʔ2 ʔɥ53,loʔ2 ʔɥ53,loʔ ʔɥ
+HZ,Hangzhou,7,下雪,落雪,,loʔ çiəʔ,loʔ2 çiəʔ5,loʔ2 çiəʔ5,loʔ çiəʔ
+HZ,Hangzhou,8,冰雹,冰雹,,pin bɔ,pin33 bɔ213-33,pin33 bɔ213-33,pin bɔ
+HZ,Hangzhou,9,结冰,结冰,,tɕiəʔ pin,tɕiəʔ5 pin33,tɕiəʔ5 pin33,tɕiəʔ pin
+HZ,Hangzhou,10,刮风,起风,,tɕˈi foŋ,tɕˈi53 foŋ33,tɕˈi53 foŋ33,tɕˈi foŋ
+HZ,Hangzhou,11,虹,鲎,,hei,hei445,hei445,hei
+HZ,Hangzhou,12,端午节,端午,,tuõ ʔu,tuõ33 ʔu53-33,tuõ33 ʔu53-33,tuõ ʔu
+HZ,Hangzhou,13,中秋节,八月半,,pɑʔ ɦyəʔ puõ,pɑʔ5 ɦyəʔ2-5 puõ445-33,pɑʔ5 ɦyəʔ2-5 puõ445-33,pɑʔ ɦyəʔ puõ
+HZ,Hangzhou,14,除夕,年三十晚上,,ȵiẼ sẼ zəʔ vẼ zɑŋ,ȵiẼ213-21 sẼ33 zəʔ2-5 vẼ53 zɑŋ13-31,ɲiɤ̃213-21 sɤ̃33 zəʔ2-5 vɤ̃53 zɑŋ13-31,ɲiɤ̃ sɤ̃ zəʔ vɤ̃ zɑŋ
+HZ,Hangzhou,15,今年,根年,,ken ȵiẼ,ken33 ȵiẼ213-33,ken33 ɲiɤ̃213-33,ken ɲiɤ̃
+HZ,Hangzhou,16,明年,门年,,men ȵiẼ,men213-21 ȵiẼ213-13,men213-21 ɲiɤ̃213-13,men ɲiɤ̃
+HZ,Hangzhou,17,去年,旧年子,,dʑiø ȵiẼ tsɿ,dʑiø13 ȵiẼ213-53 tsɿ53-31,dʑiø13 ɲiɤ̃213-53 tsɹ̩53-31,dʑiø ɲiɤ̃ tsɹ̩
+HZ,Hangzhou,18,明天,门朝,,men tsɔ,men213-21 tsɔ33,men213-21 tsɔ33,men tsɔ
+HZ,Hangzhou,19,昨天,上额子,,zɑŋ ŋɑʔ tsɿ,zɑŋ13 ŋɑʔ2-5 tsɿ53,zɑŋ13 ŋɑʔ2-5 tsɹ̩53,zɑŋ ŋɑʔ tsɹ̩
+HZ,Hangzhou,20,今天,根朝,,ken tsɔ,ken33 tsɔ33,ken33 tsɔ33,ken tsɔ
+HZ,Hangzhou,21,星期天,礼拜天,,li pE tˈiẼ,li53 pE445-31 tˈiẼ33-31,li53 pɤ445-31 tˈiɤ̃33-31,li pɤ tˈiɤ̃
+HZ,Hangzhou,22,麦子,麦子,,mɑʔ tsɿ,mɑʔ2 tsɿ53,mɑʔ2 tsɹ̩53,mɑʔ tsɹ̩
+HZ,Hangzhou,23,大米,晚米,,mẼ mi,mẼ53 mi53-31,mɤ̃53 mi53-31,mɤ̃ mi
+HZ,Hangzhou,24,蚕豆,蚕豆儿,,dzẼ dei əl,dzẼ213-21 dei13 əl213-53,dzɤ̃213-21 dei13 əl213-53,dzɤ̃ dei əl
+HZ,Hangzhou,25,向日葵,葵花,,gui huɑ,gui213-21 huɑ33,gui213-21 huɑ33,gui huɑ
+HZ,Hangzhou,26,菠菜,菠菜,,po tsˈE,po33 tsˈE445-33,po33 tsˈɤ445-33,po tsˈɤ
+HZ,Hangzhou,27,卷心菜,包心菜,,pɔ ɕin tsˈE,pɔ33 ɕin33 tsˈE445-33,pɔ33 ɕin33 tsˈɤ445-33,pɔ ɕin tsˈɤ
+HZ,Hangzhou,28,西红柿,番茄,,fẼ dʑiɑ,fẼ33 dʑiɑ213-13,fɤ̃33 dʑiɑ213-13,fɤ̃ dʑiɑ
+HZ,Hangzhou,29,茄子,茄儿,,dʑi əl,dʑi213-21 əl213-13,dʑi213-21 əl213-13,dʑi əl
+HZ,Hangzhou,30,白薯,番薯,,fẼ dzɥ,fẼ33 dzɥ13-33,fɤ̃33 dzɥ13-33,fɤ̃ dzɥ
+HZ,Hangzhou,31,马铃薯,洋番薯,,ɦiɑŋ fẼ dzɥ,ɦiɑŋ213-21 fẼ33 dzɥ13-33,ɦiɑŋ213-21 fɤ̃33 dzɥ13-33,ɦiɑŋ fɤ̃ dzɥ
+HZ,Hangzhou,32,南瓜,南瓜,,nẼ kuɑ,nẼ213-21 kuɑ33,nɤ̃213-21 kuɑ33,nɤ̃ kuɑ
+HZ,Hangzhou,33,猪,猪,,tsɥ,tsɥ33,tsɥ33,tsɥ
+HZ,Hangzhou,34,公猪,公猪,,koŋ tsɥ,koŋ33 tsɥ33,koŋ33 tsɥ33,koŋ tsɥ
+HZ,Hangzhou,35,母猪,母猪,,mu tsɥ,mu53 tsɥ33-31,mu53 tsɥ33-31,mu tsɥ
+HZ,Hangzhou,36,公鸡,雄鸡,,ɦioŋ tɕi,ɦioŋ213-21 tɕi33,ɦioŋ213-21 tɕi33,ɦioŋ tɕi
+HZ,Hangzhou,37,母鸡,婆鸡,,bo tɕi,bo213-21 tɕi33,bo213-21 tɕi33,bo tɕi
+HZ,Hangzhou,38,麻雀,麻巧儿,,mɑ tɕˈiɔ əl,mɑ213-21 tɕˈiɔ53 əl213-31,mɑ213-21 tɕˈiɔ53 əl213-31,mɑ tɕˈiɔ əl
+HZ,Hangzhou,39,老鼠,老鼠,,lɔ tsˈɥ,lɔ53 tsˈɥ53,lɔ53 tsˈɥ53,lɔ tsˈɥ
+HZ,Hangzhou,40,臭虫,臭虫,,tsˈei dzoŋ,tsˈei445 dzoŋ213-31,tsˈei445 dzoŋ213-31,tsˈei dzoŋ
+HZ,Hangzhou,41,房子(整),房子,,vɑŋ tsɿ,vɑŋ213-21 tsɿ,vɑŋ213-21 tsɹ̩,vɑŋ tsɹ̩
+HZ,Hangzhou,42,房子(单),房间,,vɑŋ tɕiẼ,vɑŋ213-21 tɕiẼ33,vɑŋ213-21 tɕiɤ̃33,vɑŋ tɕiɤ̃
+HZ,Hangzhou,43,窗户,窗门,,tsˈɥɑŋ men,tsˈɥɑŋ33 men213-33,tsˈɥɑŋ33 men213-33,tsˈɥɑŋ men
+HZ,Hangzhou,44,门坎,门坎,,men kˈẼ,men213-21 kˈẼ53,men213-21 kˈɤ̃53,men kˈɤ̃
+HZ,Hangzhou,45,厕所,茅坑,,mɔ kˈɑŋ,mɔ213-21 kˈɑŋ33,mɔ213-21 kˈɑŋ33,mɔ kˈɑŋ
+HZ,Hangzhou,46,厨房,厨房,,dzɥ vɑŋ,dzɥ213-21 vɑŋ213-13,dzɥ213-21 vɑŋ213-13,dzɥ vɑŋ
+HZ,Hangzhou,47,烟囱,烟囱,,ʔiẼ tsˈoŋ,ʔiẼ33 tsˈoŋ33,ʔiɤ̃33 tsˈoŋ33,ʔiɤ̃ tsˈoŋ
+HZ,Hangzhou,48,桌子,桌子,,tsoʔ tsɿ,tsoʔ5 tsɿ,tsoʔ5 tsɹ̩,tsoʔ tsɹ̩
+HZ,Hangzhou,49,楼梯,扶梯,,ɦu tˈi,ɦu213-21 tˈi33,ɦu213-21 tˈi33,ɦu tˈi
+HZ,Hangzhou,50,头,头,,dei,dei213,dei213,dei
+HZ,Hangzhou,51,额头,额角头,,ŋɑʔ koʔ dei,ŋɑʔ2 koʔ5 dei213-31,ŋɑʔ2 koʔ5 dei213-31,ŋɑʔ koʔ dei
+HZ,Hangzhou,52,脸,脸孔,,liẼ kˈoŋ,liẼ53 kˈoŋ53-31,liɤ̃53 kˈoŋ53-31,liɤ̃ kˈoŋ
+HZ,Hangzhou,53,鼻子,鼻头,,bɑʔ dei,bɑʔ2 dei213-13,bɑʔ2 dei213-13,bɑʔ dei
+HZ,Hangzhou,54,脖子,脰颈,,dei tɕin,dei13 tɕin53,dei13 tɕin53,dei tɕin
+HZ,Hangzhou,55,左手,借手,,tɕi sei,tɕi445 sei53,tɕi445 sei53,tɕi sei
+HZ,Hangzhou,56,右手,顺手,,zɥen sei,zɥen13 sei53,zɥen13 sei53,zɥen sei
+HZ,Hangzhou,57,拳头,拳头,,dzɥõ dei,dzɥõ213-21 dei213-13,dzɥõ213-21 dei213-13,dzɥõ dei
+HZ,Hangzhou,58,手指头,手指头,,sei tsɿ dei,sei53 tsɿ53-31 dei213-31,sei53 tsɹ̩53-31 dei213-31,sei tsɹ̩ dei
+HZ,Hangzhou,59,指甲,手指掐儿,,sei tsɿ kˈɑʔ əl,sei53 tsɿ53-31 kˈɑʔ5 əl213-31,sei53 tsɹ̩53-31 kˈɑʔ5 əl213-31,sei tsɹ̩ kˈɑʔ əl
+HZ,Hangzhou,60,膝盖,膝髁头,,ɕiəʔ kˈo dei,ɕiəʔ5 kˈo33-31 dei213-31,ɕiəʔ5 kˈo33-31 dei213-31,ɕiəʔ kˈo dei
+HZ,Hangzhou,61,腿,脚膀,,tɕiɑʔ pˈɑŋ,tɕiɑʔ5 pˈɑŋ53,tɕiɑʔ5 pˈɑŋ53,tɕiɑʔ pˈɑŋ
+HZ,Hangzhou,62,父亲,爸爸,,pɑ pɑ,pɑ33 pɑ33,pɑ33 pɑ33,pɑ pɑ
+HZ,Hangzhou,63,母亲,妈妈,,mɑ mɑ,mɑ33 mɑ33,mɑ33 mɑ33,mɑ mɑ
+HZ,Hangzhou,64,祖父,爹爹,,tiɑ tiɑ,tiɑ33 tiɑ33,tiɑ33 tiɑ33,tiɑ tiɑ
+HZ,Hangzhou,65,祖母,奶奶,,nE nE,nE53 nE53-31,nɤ53 nɤ53-31,nɤ nɤ
+HZ,Hangzhou,66,伯父,伯伯,,pɑʔ pɑʔ,pɑʔ5 pɑʔ5,pɑʔ5 pɑʔ5,pɑʔ pɑʔ
+HZ,Hangzhou,67,伯母,大妈妈,,dɑ mɑ mɑ,dɑ13 mɑ33-53 mɑ33-31,dɑ13 mɑ33-53 mɑ33-31,dɑ mɑ mɑ
+HZ,Hangzhou,68,叔父,小伯伯,,ɕiɔ pɑʔ pɑʔ,ɕiɔ53 pɑʔ5 pɑʔ5,ɕiɔ53 pɑʔ5 pɑʔ5,ɕiɔ pɑʔ pɑʔ
+HZ,Hangzhou,69,叔母,婶娘,,sen niɑŋ,sen53 niɑŋ213-31,sen53 niɑŋ213-31,sen niɑŋ
+HZ,Hangzhou,70,外祖父,外公,,ɦuE koŋ,ɦuE13 koŋ33-53,ɦuɤ13 koŋ33-53,ɦuɤ koŋ
+HZ,Hangzhou,71,外祖母,外婆,,ɦuE bo,ɦuE13 bo213-53,ɦuɤ13 bo213-53,ɦuɤ bo
+HZ,Hangzhou,72,舅舅,娘舅,,niɑŋ dʑiø,niɑŋ213-21 dʑiø13,niɑŋ213-21 dʑiø13,niɑŋ dʑiø
+HZ,Hangzhou,73,舅母,舅姆,,dʑiø m̩,dʑiø13 m̩33-53,dʑiø13 m̩33-53,dʑiø m̩
+HZ,Hangzhou,74,丈夫,老公,,lɔ koŋ,lɔ53 koŋ33-31,lɔ53 koŋ33-31,lɔ koŋ
+HZ,Hangzhou,75,妻子,老婆,,lɔ bo,lɔ53 bo213-31,lɔ53 bo213-31,lɔ bo
+HZ,Hangzhou,76,儿子,儿子,,əl tsɿ,əl213-21 tsɿ53,əl213-21 tsɹ̩53,əl tsɹ̩
+HZ,Hangzhou,77,女儿,女儿,,nɥ əl,nɥ53 əl213-31,nɥ53 əl213-31,nɥ əl
+HZ,Hangzhou,78,早饭,早饭,,tsɔ vẼ,tsɔ53 vẼ13-31,tsɔ53 vɤ̃13-31,tsɔ vɤ̃
+HZ,Hangzhou,79,午饭,中饭,,tsoŋ vẼ,tsoŋ33 vẼ13-33,tsoŋ33 vɤ̃13-33,tsoŋ vɤ̃
+HZ,Hangzhou,80,晚饭,夜饭,,ɦi vẼ,ɦi13 vẼ13-53,ɦi13 vɤ̃13-53,ɦi vɤ̃
+HZ,Hangzhou,81,面条,面,,miẼ,miẼ13,miɤ̃13,miɤ̃
+HZ,Hangzhou,82,馒头,馒头,,muõ dei,muõ213-21 dei213-13,muõ213-21 dei213-13,muõ dei
+HZ,Hangzhou,83,包子,馒头,,muõ dei,muõ213-21 dei213-13,muõ213-21 dei213-13,muõ dei
+HZ,Hangzhou,84,馄饨,馄饨,,ɦun den,ɦun213-21 den213-13,ɦun213-21 den213-13,ɦun den
+HZ,Hangzhou,85,醋,醋,,tsˈu,tsˈu445,tsˈu445,tsˈu
+HZ,Hangzhou,86,酱油,酱油,,tɕiɑŋ ɦiø,tɕiɑŋ445 ɦiø213-31,tɕiɑŋ445 ɦiø213-31,tɕiɑŋ ɦiø
+HZ,Hangzhou,87,盐,盐,,ɦiẼ,ɦiẼ213,ɦiɤ̃213,ɦiɤ̃
+HZ,Hangzhou,88,筷子,筷儿,,kˈuE əl,kˈuE445 əl213-31,kˈuɤ445 əl213-31,kˈuɤ əl
+HZ,Hangzhou,89,勺儿,勺儿,,zoʔ əl,zoʔ2 əl213-13,zoʔ2 əl213-13,zoʔ əl
+HZ,Hangzhou,90,男人,男人家,,nẼ zen tɕiɑ,nẼ213-21 zen213-13 tɕiɑ33,nɤ̃213-21 zen213-13 tɕiɑ33,nɤ̃ zen tɕiɑ
+HZ,Hangzhou,91,女人,女人家,,nɥ zen tɕiɑ,nɥ53 zen213-31 tɕiɑ33,nɥ53 zen213-31 tɕiɑ33,nɥ zen tɕiɑ
+HZ,Hangzhou,92,男孩子,男伢儿,,nẼ ɦiɑ əl,nẼ213-21 ɦiɑ213-13 əl213-53,nɤ̃213-21 ɦiɑ213-13 əl213-53,nɤ̃ ɦiɑ əl
+HZ,Hangzhou,93,女孩子,女伢儿,,nɥ ɦiɑ əl,nɥ53 ɦiɑ213-31 əl213-33,nɥ53 ɦiɑ213-31 əl213-33,nɥ ɦiɑ əl
+HZ,Hangzhou,94,老头儿,老头儿,,lɔ dei əl,lɔ53 dei213-31 əl213-31,lɔ53 dei213-31 əl213-31,lɔ dei əl
+HZ,Hangzhou,95,医生,医生,,ʔi sen,ʔi33 sen33,ʔi33 sen33,ʔi sen
+HZ,Hangzhou,96,厨师,厨房师傅,,dzɥ vɑŋ sɿ vu,dzɥ213-21 vɑŋ213-13 sɿ33 vu13-33,dzɥ213-21 vɑŋ213-13 sɹ̩33 vu13-33,dzɥ vɑŋ sɹ̩ vu
+HZ,Hangzhou,97,乞丐,叫化子,,tɕiɔ huɑ tsɿ,tɕiɔ445 huɑ445-31 tsɿ53-31,tɕiɔ445 huɑ445-31 tsɹ̩53-31,tɕiɔ huɑ tsɹ̩
+HZ,Hangzhou,98,保姆,保姆,,pɔ mu,pɔ53 mu53-31,pɔ53 mu53-31,pɔ mu
+HZ,Hangzhou,99,病了,生病得,,sen bin tə,sen33 bin13 tə,sen33 bin13 tə,sen bin tə
+HZ,Hangzhou,100,伤风,伤风,,sɥɑŋ foŋ,sɥɑŋ33 foŋ33,sɥɑŋ33 foŋ33,sɥɑŋ foŋ
+HZ,Hangzhou,101,泻肚,肚皮惹,,du bi dzɑ,du13 bi213-53 dzɑ13,du13 bi213-53 dzɑ13,du bi dzɑ
+HZ,Hangzhou,102,瘸子,跷拐儿,,tɕˈiɔ kuE əl,tɕˈiɔ33 kuE53 əl213-31,tɕˈiɔ33 kuɤ53 əl213-31,tɕˈiɔ kuɤ əl
+HZ,Hangzhou,103,驼背,驼背佬儿,,do pei lɔ əl,do213-21 pei445 lɔ53 əl213-31,do213-21 pei445 lɔ53 əl213-31,do pei lɔ əl
+HZ,Hangzhou,104,死了,死了得,,sɿ liɔ tə,sɿ53 liɔ53-31 tə,sɹ̩53 liɔ53-31 tə,sɹ̩ liɔ tə
+HZ,Hangzhou,105,看病,看毛病,,kˈẼ mɔ bin,kˈẼ445 mɔ213-21 bin13,kˈɤ̃445 mɔ213-21 bin13,kˈɤ̃ mɔ bin
+HZ,Hangzhou,106,我,我,,ŋo,ŋo53,ŋo53,ŋo
+HZ,Hangzhou,107,你,你,,ni,ni53,ni53,ni
+HZ,Hangzhou,108,他,他,,tˈɑ,tˈɑ33,tˈɑ33,tˈɑ
+HZ,Hangzhou,109,我们,我们,,ŋo men,ŋo53 men213-31,ŋo53 men213-31,ŋo men
+HZ,Hangzhou,110,你们,你们,,ni men,ni53 men213-31,ni53 men213-31,ni men
+HZ,Hangzhou,111,他们,他们,,tˈɑ men,tˈɑ33 men213-33,tˈɑ33 men213-33,tˈɑ men
+HZ,Hangzhou,112,咱们,我们大家,,ŋo men dɑ tɕiɑ,ŋo53 men213-31 dɑ13 tɕiɑ33-53,ŋo53 men213-31 dɑ13 tɕiɑ33-53,ŋo men dɑ tɕiɑ
+HZ,Hangzhou,113,自己,自家,,dzɿ tɕiɑ,dzɿ13 tɕiɑ33-53,dzɹ̩13 tɕiɑ33-53,dzɹ̩ tɕiɑ
+HZ,Hangzhou,114,谁,哪个,,nɑ koʔ,nɑ53 koʔ5,nɑ53 koʔ5,nɑ koʔ
+HZ,Hangzhou,115,什么,啥西,,sɑ ɕi,sɑ53 ɕi33-31,sɑ53 ɕi33-31,sɑ ɕi
+HZ,Hangzhou,116,这里,格里,,kəʔ li,kəʔ5 li,kəʔ5 li,kəʔ li
+HZ,Hangzhou,117,那里,那里,,nɑ li,nɑ445 li,nɑ445 li,nɑ li
+HZ,Hangzhou,118,哪里,哪里,,nɑ li,nɑ53 li,nɑ53 li,nɑ li
+HZ,Hangzhou,119,这个,接个,,tɕiəʔ koʔ,tɕiəʔ5 koʔ5,tɕiəʔ5 koʔ5,tɕiəʔ koʔ
+HZ,Hangzhou,120,那个,那个,,nɑ koʔ,nɑ53 koʔ5,nɑ53 koʔ5,nɑ koʔ
+HZ,Hangzhou,121,哪一个,哪一个,,nɑ ʔiəʔ koʔ,nɑ445 ʔiəʔ5 koʔ5,nɑ445 ʔiəʔ5 koʔ5,nɑ ʔiəʔ koʔ
+HZ,Hangzhou,122,怎么样,接个套,,tɕiəʔ kəʔ tˈɔ,tɕiəʔ5 kəʔ5 tˈɔ445,tɕiəʔ5 kəʔ5 tˈɔ445,tɕiəʔ kəʔ tˈɔ
+HZ,Hangzhou,123,一位客人,位,,ɦui,ɦui13,ɦui13,ɦui
+HZ,Hangzhou,124,一双鞋,双,,sɥɑŋ,sɥɑŋ33,sɥɑŋ33,sɥɑŋ
+HZ,Hangzhou,125,一床被,床,,dzɥɑŋ,dzɥɑŋ213,dzɥɑŋ213,dzɥɑŋ
+HZ,Hangzhou,126,一辆车,部,,bu,bu13,bu13,bu
+HZ,Hangzhou,127,一条牛,只,,tsɑʔ,tsɑʔ5,tsɑʔ5,tsɑʔ
+HZ,Hangzhou,128,一口猪,只,,tsɑʔ,tsɑʔ5,tsɑʔ5,tsɑʔ
+HZ,Hangzhou,129,听一会儿,歇,,çiəʔ əl,çiəʔ5 əl,çiəʔ5 əl,çiəʔ əl
+HZ,Hangzhou,130,打一下,记,,tɕi,tɕi445,tɕi445,tɕi
+HZ,Hangzhou,131,上头,高头,,kɔ dei,kɔ33 dei213-33,kɔ33 dei213-33,kɔ dei
+HZ,Hangzhou,132,下头,下底,,ɦiɑ ti,ɦiɑ13 ti53,ɦiɑ13 ti53,ɦiɑ ti
+HZ,Hangzhou,133,左边,左边,,tso piẼ,tso53 piẼ33-31,tso53 piɤ̃33-31,tso piɤ̃
+HZ,Hangzhou,134,右边,右边,,ɦiø piẼ,ɦiø13 piẼ33-53,ɦiø13 piɤ̃33-53,ɦiø piɤ̃
+HZ,Hangzhou,135,当中,当中,,tɑŋ tsoŋ,tɑŋ33 tsoŋ33,tɑŋ33 tsoŋ33,tɑŋ tsoŋ
+HZ,Hangzhou,136,里面,里头,,li dei,li53 dei213-31,li53 dei213-31,li dei
+HZ,Hangzhou,137,外面,外头,,ɦuE dei,ɦuE13 dei213-53,ɦuɤ13 dei213-53,ɦuɤ dei
+HZ,Hangzhou,138,甜,甜,,diẼ,diẼ213,diɤ̃213,diɤ̃
+HZ,Hangzhou,139,酸,酸,,sɥõ,sɥõ33,sɥõ33,sɥõ
+HZ,Hangzhou,140,咸,咸,,ɦiẼ,ɦiẼ213,ɦiɤ̃213,ɦiɤ̃
+HZ,Hangzhou,141,淡,淡,,dẼ,dẼ13,dɤ̃13,dɤ̃
+HZ,Hangzhou,142,胖,胖,,pˈɑŋ,pˈɑŋ445,pˈɑŋ445,pˈɑŋ
+HZ,Hangzhou,143,瘦,瘦,,sei,sei445,sei445,sei
+HZ,Hangzhou,144,冷,冷,,len,len53,len53,len
+HZ,Hangzhou,145,热,热,,zɥəʔ,zɥəʔ2,zɥəʔ2,zɥəʔ
+HZ,Hangzhou,146,香,香,,ɕiɑŋ,ɕiɑŋ33,ɕiɑŋ33,ɕiɑŋ
+HZ,Hangzhou,147,臭,臭,,tsˈei,tsˈei445,tsˈei445,tsˈei
+HZ,Hangzhou,148,粗,粗,,tsˈu,tsˈu33,tsˈu33,tsˈu
+HZ,Hangzhou,149,细,细,,ɕi,ɕi445,ɕi445,ɕi
+HZ,Hangzhou,150,长,长,,dzɑŋ,dzɑŋ213,dzɑŋ213,dzɑŋ
+HZ,Hangzhou,151,短,短,,tuõ,tuõ53,tuõ53,tuõ
+HZ,Hangzhou,152,脏,□,,foŋ,foŋ445,foŋ445,foŋ
+HZ,Hangzhou,153,干净,干净,,kẼ dʑin,kẼ33 dʑin13-33,kɤ̃33 dʑin13-33,kɤ̃ dʑin
+HZ,Hangzhou,154,便宜,便宜,,biẼ ȵi,biẼ213-21 ȵi213-13,biɤ̃213-21 ɲi213-13,biɤ̃ ɲi
+HZ,Hangzhou,155,刚(来),刚刚,,kɑŋ kɑŋ,kɑŋ33 kɑŋ33,kɑŋ33 kɑŋ33,kɑŋ kɑŋ
+HZ,Hangzhou,156,刚(合适),刚刚,,kɑŋ kɑŋ,kɑŋ33 kɑŋ33,kɑŋ33 kɑŋ33,kɑŋ kɑŋ
+HZ,Hangzhou,157,正好,刚好,,kɑŋ hɔ,kɑŋ33 hɔ53,kɑŋ33 hɔ53,kɑŋ hɔ
+HZ,Hangzhou,158,和,搭,,tɑʔ,tɑʔ5,tɑʔ5,tɑʔ
+HZ,Hangzhou,159,只,只,,tsəʔ,tsəʔ5,tsəʔ5,tsəʔ
+HZ,Hangzhou,160,从,从,,dzoŋ,dzoŋ213,dzoŋ213,dzoŋ
+HZ,Hangzhou,161,替,拨,,pɑʔ,pɑʔ5,pɑʔ5,pɑʔ
+HZ,Hangzhou,162,拿,驮,,do,do213,do213,do
+HZ,Hangzhou,163,故意,特为,,dəʔ ɦui,dəʔ2 ɦui13,dəʔ2 ɦui13,dəʔ ɦui
+HZ,Hangzhou,164,一,一,,ʔiəʔ,ʔiəʔ5,ʔiəʔ5,ʔiəʔ
+HZ,Hangzhou,165,二,二,,əl,əl445,əl445,əl
+HZ,Hangzhou,166,三,三,,sẼ,sẼ33,sɤ̃33,sɤ̃
+HZ,Hangzhou,167,四,四,,sɿ,sɿ445,sɹ̩445,sɹ̩
+HZ,Hangzhou,168,五,五,,ʔu,ʔu53,ʔu53,ʔu
+HZ,Hangzhou,169,六,六,,loʔ,loʔ2,loʔ2,loʔ
+HZ,Hangzhou,170,七,七,,tɕˈiəʔ,tɕˈiəʔ5,tɕˈiəʔ5,tɕˈiəʔ
+HZ,Hangzhou,171,八,八,,pɑʔ,pɑʔ5,pɑʔ5,pɑʔ
+HZ,Hangzhou,172,九,九,,tɕiø,tɕiø53,tɕiø53,tɕiø
+HZ,Hangzhou,173,十,十,,zəʔ,zəʔ2,zəʔ2,zəʔ
+HZ,Hangzhou,174,十一,十一,,zəʔ ʔiəʔ,zəʔ2 ʔiəʔ5,zəʔ2 ʔiəʔ5,zəʔ ʔiəʔ
+HZ,Hangzhou,175,十二,十二,,zəʔ əl,zəʔ2 əl445,zəʔ2 əl445,zəʔ əl
+HZ,Hangzhou,176,二十,二十,,əl zəʔ,əl445 zəʔ2,əl445 zəʔ2,əl zəʔ
+HZ,Hangzhou,177,二十一,念一,,ȵiẼ ʔiəʔ,ȵiẼ13 ʔiəʔ5,ɲiɤ̃13 ʔiəʔ5,ɲiɤ̃ ʔiəʔ
+HZ,Hangzhou,178,一百二十一,一百念一,,ʔiəʔ pɑʔ niẼ ʔiəʔ,ʔiəʔ5 pɑʔ5 niẼ13 ʔiəʔ5,ʔiəʔ5 pɑʔ5 niɤ̃13 ʔiəʔ5,ʔiəʔ pɑʔ niɤ̃ ʔiəʔ
+HZ,Hangzhou,179,第一,第一,,di ʔiəʔ,di13 ʔiəʔ5,di13 ʔiəʔ5,di ʔiəʔ
+HZ,Hangzhou,180,第二,第二,,di əl,di13 əl445,di13 əl445,di əl
+HZ,Hangzhou,181,两里,两里,,liɑŋ li,liɑŋ53 li53-31,liɑŋ53 li53-31,liɑŋ li
+HZ,Hangzhou,182,二两,二两,,əl liɑŋ,əl445 liɑŋ53-31,əl445 liɑŋ53-31,əl liɑŋ
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,,,,,,,,
