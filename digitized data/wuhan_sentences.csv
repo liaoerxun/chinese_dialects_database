@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+WH,Wuhan,1,谁啊?我是老三。,哪个?我是老三,,na kuo ŋuo sɿ nau san,na42 kuo ŋuo sɿ35 nau42 san55,na42 kuo ŋuo sɹ̩35 nau42 san55,na kuo ŋuo sɹ̩ nau san
+WH,Wuhan,2,老四呢?她正跟一个朋友说着话呢。,老四咧?她在跟一个朋友说话,,nau sɿ nie tˈa tai kən i kuo pˈoŋ iəu suo xua,nau42 sɿ35 nie tˈa55 tai35 kən55 i213-21 kuo pˈoŋ213-21 iəu42 suo213-21 xua35,nau42 sɹ̩35 nie tˈa55 tai35 kən55 i213-21 kuo pˈoŋ213-21 iəu42 suo213-21 xua35,nau sɹ̩ nie tˈa tai kən i kuo pˈoŋ iəu suo xua
+WH,Wuhan,3,她还没说完吗?,她还冇说完,,tˈa xai mau suo uan,tˈa55 xai213-21 mau35 suo213-21 uan213,tˈa55 xai213-21 mau35 suo213-21 uan213,tˈa xai mau suo uan
+WH,Wuhan,4,还没有。大概再有一会儿就说完了。,还冇，大概还有一哈儿就说完了,,xai mau ta kˈai xai iəu i xar tɕiəu suo uan niau,xai213-21 mau35 ta35 kˈai35 xai213-21 iəu42 i213-21 xar tɕiəu35 suo213-21 uan213-21 niau,xai213-21 mau35 ta35 kˈai35 xai213-21 iəu42 i213-21 xar tɕiəu35 suo213-21 uan213-21 niau,xai mau ta kˈai xai iəu i xar tɕiəu suo uan niau
+WH,Wuhan,5,他说马上就走，怎么这半天了还在家里?,他说就走的，么样这半天还冇走,,tˈa suo tɕiəu ti mo iaŋ tsɤ pan tˈiɛn xai mau tsəu,tˈa55 suo213-21 tɕiəu42 ti mo42 iaŋ tsɤ35 pan35 tˈiɛn55 xai213-21 mau35 tsəu42,tˈa55 suo213-21 tɕiəu42 ti mo42 iaŋ tsɤ35 pan35 tˈiɛn55 xai213-21 mau35 tsəu42,tˈa suo tɕiəu ti mo iaŋ tsɤ pan tˈiɛn xai mau tsəu
+WH,Wuhan,6,你到哪儿去?我到城里去。,你到哪里去?我到城里去,,ni tau na ni kˈɯ ŋuo tau tsˈən ni kˈɯ,ni42 tau35 na42 ni kˈɯ ŋuo42 tau35 tsˈən213-21 ni kˈɯ35,ni42 tau35 na42 ni kˈɯ ŋuo42 tau35 tsˈən213-21 ni kˈɯ35,ni tau na ni kˈɯ ŋuo tau tsˈən ni kˈɯ
+WH,Wuhan,7,在那儿，不在这儿。,在那里，不在这里,,tai na ni pu tai tsɤ ni,tai35 na35 ni pu35 tai35 tsɤ35 ni,tai35 na35 ni pu35 tai35 tsɤ35 ni,tai na ni pu tai tsɤ ni
+WH,Wuhan,8,不是那么做，要这么做。,不是那样办，是这样办,,pu sɿ na iaŋ pan sɿ tsɤ iaŋ pan,pu213-21 sɿ35 na35 iaŋ pan35 sɿ35 tsɤ35 iaŋ pan35,pu213-21 sɹ̩35 na35 iaŋ pan35 sɹ̩35 tsɤ35 iaŋ pan35,pu sɹ̩ na iaŋ pan sɹ̩ tsɤ iaŋ pan
+WH,Wuhan,9,太多了，用不着那么多，只要这么多就够了。,太多了，用不倒那样多，光要这么多就够了,,tˈai tuo niau ioŋ pu tau na iaŋ tuo kuaŋ iau tsɤ mo tuo tçiəu kəu niau,tˈai35 tuo55 niau ioŋ35 pu tau na35 iaŋ tuo55 kuaŋ55 iau35 tsɤ35 mo tuo55 tçiəu35 kəu35 niau,tˈai35 tuo55 niau ioŋ35 pu tau na35 iaŋ tuo55 kuaŋ55 iau35 tsɤ35 mo tuo55 tçiəu35 kəu35 niau,tˈai tuo niau ioŋ pu tau na iaŋ tuo kuaŋ iau tsɤ mo tuo tçiəu kəu niau
+WH,Wuhan,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这两个哪个好一点儿,,tsɤ kuo ta na kuo ɕiau tsɤ niaŋ kuo na kuo xau i tier,tsɤ35 kuo ta35 na35 kuo ɕiau42 tsɤ35 niaŋ42 kuo na42 kuo xau42 i213-21 tier,tsɤ35 kuo ta35 na35 kuo ɕiau42 tsɤ35 niaŋ42 kuo na42 kuo xau42 i213-21 tier,tsɤ kuo ta na kuo ɕiau tsɤ niaŋ kuo na kuo xau i tier
+WH,Wuhan,11,这个比那个好。,这个比那个好,,tsɤ kuo pi na kuo xau,tsɤ35 kuo pi42 na35 kuo xau42,tsɤ35 kuo pi42 na35 kuo xau42,tsɤ kuo pi na kuo xau
+WH,Wuhan,12,这些房子不如那些房子好。,这些房子冇得那些房子好,,tsɤ ɕie faŋ tsɿ mau tɤ na ɕie faŋ tsɿ xau,tsɤ35 ɕie35 faŋ231-21 tsɿ mau35 tɤ na35 ɕie55 faŋ213-21 tsɿ xau42,tsɤ35 ɕie35 faŋ231-21 tsɹ̩ mau35 tɤ na35 ɕie55 faŋ213-21 tsɹ̩ xau42,tsɤ ɕie faŋ tsɹ̩ mau tɤ na ɕie faŋ tsɹ̩ xau
+WH,Wuhan,13,这句话用成都话怎么说?,,,,,,
+WH,Wuhan,14,他今年多大岁数了?,他今年几岁了,,tˈa tɕin niɛn tɕi sei niau,tˈa55 tɕin55 niɛn213 tɕi42 sei35 niau,tˈa55 tɕin55 niɛn213 tɕi42 sei35 niau,tˈa tɕin niɛn tɕi sei niau
+WH,Wuhan,15,大概三十来岁吧。,大概三十多岁吧,,ta kˈai san sɿ tuo sei pa,ta35 kˈai35 san35 sɿ213-21 tuo55 sei35 pa,ta35 kˈai35 san35 sɹ̩213-21 tuo55 sei35 pa,ta kˈai san sɹ̩ tuo sei pa
+WH,Wuhan,16,这个东西有多重呢?,这个东西有几重,,tsɤ kuo toŋ ɕi iəu tɕi tsoŋ,tsɤ35 kuo toŋ55 ɕi iəu42 tɕi42 tsoŋ35,tsɤ35 kuo toŋ55 ɕi iəu42 tɕi42 tsoŋ35,tsɤ kuo toŋ ɕi iəu tɕi tsoŋ
+WH,Wuhan,17,有五十斤重呢。,大概有五十多斤吧,,ta kˈai iəu u sɿ tuo tɕin pa,ta35 kˈai35 iəu42 u42 sɿ213-21 tuo55 tɕin55 pa,ta35 kˈai35 iəu42 u42 sɹ̩213-21 tuo55 tɕin55 pa,ta kˈai iəu u sɹ̩ tuo tɕin pa
+WH,Wuhan,18,拿得动吗?,拿不拿得动,,na pu na tɤ toŋ,na213-21 pu na213-21 tɤ toŋ35,na213-21 pu na213-21 tɤ toŋ35,na pu na tɤ toŋ
+WH,Wuhan,19,我拿得动，他拿不动。,我拿得动，他拿不动,,ŋuo na tɤ toŋ tˈa na pu toŋ,ŋuo42 na213-21 tɤ toŋ35 tˈa55 na213-21 pu213 toŋ35,ŋuo42 na213-21 tɤ toŋ35 tˈa55 na213-21 pu213 toŋ35,ŋuo na tɤ toŋ tˈa na pu toŋ
+WH,Wuhan,20,真不轻，重得连我也拿不动。,真不轻，重得我都拿不动了,,tsən pu tɕˈin tsoŋ tɤ ŋuo təu na pu toŋ niau,tsən55 pu tɕˈin55 tsoŋ35 tɤ ŋuo42 təu55 na213-21 pu toŋ35 niau,tsən55 pu tɕˈin55 tsoŋ35 tɤ ŋuo42 təu55 na213-21 pu toŋ35 niau,tsən pu tɕˈin tsoŋ tɤ ŋuo təu na pu toŋ niau
+WH,Wuhan,21,你说得很好，你还会说点什么呢?,你说得蛮好，你还能说点么事,,ni suo tɤ man xau ni xai nən suo tiɛn mo sɿ,ni42 suo213-21 tɤ man213-21 xau42 ni42 xai213-21 nən213-21 suo213-21 tiɛn42 mo42 sɿ,ni42 suo213-21 tɤ man213-21 xau42 ni42 xai213-21 nən213-21 suo213-21 tiɛn42 mo42 sɹ̩,ni suo tɤ man xau ni xai nən suo tiɛn mo sɹ̩
+WH,Wuhan,22,我嘴笨，我说不过他。,我嘴巴笨，说不过他,,ŋuo tsei pa pən suo pu kuo tˈa,ŋuo42 tsei42 pa pən35 suo213-21 pu kuo35 tˈa55,ŋuo42 tsei42 pa pən35 suo213-21 pu kuo35 tˈa55,ŋuo tsei pa pən suo pu kuo tˈa
+WH,Wuhan,23,说了一遍，又说一遍。,说了一遍又一遍,,suo niau i piɛn iəu i piɛn,suo213-21 niau i213-21 piɛn35 iəu35 i213-21 piɛn35,suo213-21 niau i213-21 piɛn35 iəu35 i213-21 piɛn35,suo niau i piɛn iəu i piɛn
+WH,Wuhan,24,请你再说一遍。,请你再说一遍,,tɕˈin ni tsai suo i piɛn,tɕˈin42 ni42 tsai35 suo213-21 i213-21 piɛn35,tɕˈin42 ni42 tsai35 suo213-21 i213-21 piɛn35,tɕˈin ni tsai suo i piɛn
+WH,Wuhan,25,不早了，快去吧。,不早了，快点去吧,,pu tsau niau kˈuai tˈiər kˈɯ pa,pu213-21 tsau42 niau kˈuai35 tˈiər42 kˈɯ35 pa,pu213-21 tsau42 niau kˈuai35 tˈiər42 kˈɯ35 pa,pu tsau niau kˈuai tˈiər kˈɯ pa
+WH,Wuhan,26,现在还早着呢，等一会儿再去吧。,这喒还早咧，等一哈儿再去,,tsən tsan xan tsau nie tən i xar tsai kˈɯ,tsən35 tsan xan213-21 tsau42 nie tən42 i213-21 xar tsai35 kˈɯ35,tsən35 tsan xan213-21 tsau42 nie tən42 i213-21 xar tsai35 kˈɯ35,tsən tsan xan tsau nie tən i xar tsai kˈɯ
+WH,Wuhan,27,吃了饭再去好吗?,吃了饭再去好不好,,tɕˈi niau fan tsai kˈɯ xau pu xau,tɕˈi213-21 niau fan35 tsai35 kˈɯ35 xau42 pu xau42,tɕˈi213-21 niau fan35 tsai35 kˈɯ35 xau42 pu xau42,tɕˈi niau fan tsai kˈɯ xau pu xau
+WH,Wuhan,28,慢慢儿吃啊，不要着急。,慢慢地吃，莫急,,man man ti tɕˈi mo tɕi,man35 man35 ti tɕˈi213 mo213-21 tɕi213,man35 man35 ti tɕˈi213 mo213-21 tɕi213,man man ti tɕˈi mo tɕi
+WH,Wuhan,29,坐着吃比站着吃好些。,坐倒吃比站倒吃好些,,tsuo tau tɕˈi pi tsan tau tɕˈi xau ɕie,tsuo35 tau tɕˈi213-21 pi42 tsan42 tau tɕˈi213-21 xau42 ɕie,tsuo35 tau tɕˈi213-21 pi42 tsan42 tau tɕˈi213-21 xau42 ɕie,tsuo tau tɕˈi pi tsan tau tɕˈi xau ɕie
+WH,Wuhan,30,他吃了饭了，你吃了饭没有呢?,他吃了饭了，你吃了冇,,tˈa tɕˈi niau fan niau ni tɕˈi niau mau,tˈa55 tɕˈi213-21 niau fan35 niau ni42 tɕˈi213-21 niau mau35,tˈa55 tɕˈi213-21 niau fan35 niau ni42 tɕˈi213-21 niau mau35,tˈa tɕˈi niau fan niau ni tɕˈi niau mau
+WH,Wuhan,31,他去过上海，我没有去过。,他去过上海，我冇去过,,tˈa kˈɯ kuo saŋ xai ŋuo mau kˈɯ kuo,tˈa55 kˈɯ35 kuo saŋ35 xai42 ŋuo42 mau35 kˈɯ35 kuo,tˈa55 kˈɯ35 kuo saŋ35 xai42 ŋuo42 mau35 kˈɯ35 kuo,tˈa kˈɯ kuo saŋ xai ŋuo mau kˈɯ kuo
+WH,Wuhan,32,来闻闻这朵花香不香。,来闻下咧朵花香不香,,nai uən xa nɤ tuo xua ɕiaŋ pu ɕiaŋ,nai213-21 uən213-21 xa nɤ35 tuo42 xua55 ɕiaŋ55 pu ɕiaŋ55,nai213-21 uən213-21 xa nɤ35 tuo42 xua55 ɕiaŋ55 pu ɕiaŋ55,nai uən xa nɤ tuo xua ɕiaŋ pu ɕiaŋ
+WH,Wuhan,33,给我一本书。,把本书我,,pa pən ɕy ŋuo,pa42 pən42 ɕy55 ŋuo42,pa42 pən42 ɕy55 ŋuo42,pa pən ɕy ŋuo
+WH,Wuhan,34,我真的没有那本书呀。,我真的冇得那本书嚜,,ŋuo tsən ti mau tɤ na pən ɕy me,ŋuo42 tsən55 ti mau35 tɤ na55 pən42 ɕy55 me,ŋuo42 tsən55 ti mau35 tɤ na55 pən42 ɕy55 me,ŋuo tsən ti mau tɤ na pən ɕy me
+WH,Wuhan,35,你告诉他。,你告信诉他,,ni kau ɕin tˈa,ni42 kau35 ɕin35 tˈa55,ni42 kau35 ɕin35 tˈa55,ni kau ɕin tˈa
+WH,Wuhan,36,好好地走，不要跑。,好好地走，莫跑,,xau xau ti tsəu mo pˈau,xau42 xau42 ti tsəu42 mo213-21 pˈau213,xau42 xau42 ti tsəu42 mo213-21 pˈau213,xau xau ti tsəu mo pˈau
+WH,Wuhan,37,小心跌下去爬不上来。,小心跶下去爬不上来,,ɕiau ɕin ta ɕia kˈɯ pˈa pu saŋ nai,ɕiau42 ɕin55 ta213-21 ɕia kˈɯ pˈa213-21 pu saŋ35 nai,ɕiau42 ɕin55 ta213-21 ɕia kˈɯ pˈa213-21 pu saŋ35 nai,ɕiau ɕin ta ɕia kˈɯ pˈa pu saŋ nai
+WH,Wuhan,38,医生叫你多睡睡。,医生叫你多睡下子,,i sən tɕiau ni tuo suei xa tsɿ,i55 sən tɕiau35 ni42 tuo55 suei35 xa35 tsɿ,i55 sən tɕiau35 ni42 tuo55 suei35 xa35 tsɹ̩,i sən tɕiau ni tuo suei xa tsɹ̩
+WH,Wuhan,39,抽烟或者喝茶都不许。,吃烟、喝茶都不许,,tɕˈi iɛn xuo tsˈa təu pu ɕy,tɕˈi213-21 iɛn55 xuo213-21 tsˈa213-21 təu55 pu ɕy42,tɕˈi213-21 iɛn55 xuo213-21 tsˈa213-21 təu55 pu ɕy42,tɕˈi iɛn xuo tsˈa təu pu ɕy
+WH,Wuhan,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不喜欢,,iɛn ie xau tsˈa ie xau ŋuo təu pu ɕi xuan,iɛn55 ie42 xau42 tsˈa213-21 ie42 xau42 ŋuo42 təu55 pu ɕi42 xuan55,iɛn55 ie42 xau42 tsˈa213-21 ie42 xau42 ŋuo42 təu55 pu ɕi42 xuan55,iɛn ie xau tsˈa ie xau ŋuo təu pu ɕi xuan
+WH,Wuhan,41,不管你去不去，反正我是要去的。,不管你去不去，反正我是一定要去的,,pu kuan ni kˈɯ pu kˈɯ fan tsən ŋuo sɿ i tin iau kˈɯ ti,pu213-21 kuan42 ni42 kˈɯ35 pu kˈɯ35 fan42 tsən35 ŋuo42 sɿ35 i213-21 tin35 iau35 kˈɯ35 ti,pu213-21 kuan42 ni42 kˈɯ35 pu kˈɯ35 fan42 tsən35 ŋuo42 sɹ̩35 i213-21 tin35 iau35 kˈɯ35 ti,pu kuan ni kˈɯ pu kˈɯ fan tsən ŋuo sɹ̩ i tin iau kˈɯ ti
+WH,Wuhan,42,我非去不可。,我非去不可,,ŋuo fei kˈɯ pu kˈuo,ŋuo42 fei55 kˈɯ35 pu213-21 kˈuo42,ŋuo42 fei55 kˈɯ35 pu213-21 kˈuo42,ŋuo fei kˈɯ pu kˈuo
+WH,Wuhan,43,你是哪一年来的?,你哪年来的,,ni na niɛn nai ti,ni42 na42 niɛn213-21 nai213-21 ti,ni42 na42 niɛn213-21 nai213-21 ti,ni na niɛn nai ti
+WH,Wuhan,44,我是前年到的北京。,我是前年到北京的,,ŋuo sɿ tɕˈiɛn niɛn tau pɤ tɕin ti,ŋuo42 sɿ35 tɕˈiɛn213-21 niɛn213-21 tau35 pɤ213-21 tɕin55 ti,ŋuo42 sɹ̩35 tɕˈiɛn213-21 niɛn213-21 tau35 pɤ213-21 tɕin55 ti,ŋuo sɹ̩ tɕˈiɛn niɛn tau pɤ tɕin ti
+WH,Wuhan,45,今天开会谁的主席?,今天开会哪个是主席,,tɕin tˈiɛn kˈai xuei na kuo sɿ tɕy ɕi,tɕin55 tˈiɛn55 kˈai55 xuei35 na42 kuo sɿ35 tɕy42 ɕi,tɕin55 tˈiɛn55 kˈai55 xuei35 na42 kuo sɹ̩35 tɕy42 ɕi,tɕin tˈiɛn kˈai xuei na kuo sɹ̩ tɕy ɕi
+WH,Wuhan,46,你得请我的客。,你该请我的客,,ni kai tɕˈin ŋuo ti kˈɤ,ni42 kai55 tɕˈin42 ŋuo42 ti kˈɤ213,ni42 kai55 tɕˈin42 ŋuo42 ti kˈɤ213,ni kai tɕˈin ŋuo ti kˈɤ
+WH,Wuhan,47,一边走，一边讲。,一路走，一路说,,i nəu tsəu i nəu suo,i213-21 nəu35 tsəu42 i213-21 nəu35 suo213,i213-21 nəu35 tsəu42 i213-21 nəu35 suo213,i nəu tsəu i nəu suo
+WH,Wuhan,48,越走越远，越说越多。,越走越远，越说越多,,ye tsəu ye yɛn ye suo ye tuo,ye213-21 tsəu42 ye213-21 yɛn42 ye213-21 suo213-21 ye213-21 tuo55,ye213-21 tsəu42 ye213-21 yɛn42 ye213-21 suo213-21 ye213-21 tuo55,ye tsəu ye yɛn ye suo ye tuo
+WH,Wuhan,49,把那个东西拿给我。,把那个东西把我,,pa na kuo toŋ ɕi pa ŋuo,pa42 na35 kuo toŋ55 ɕi pa42 ŋuo42,pa42 na35 kuo toŋ55 ɕi pa42 ŋuo42,pa na kuo toŋ ɕi pa ŋuo
+WH,Wuhan,50,有些地方把太阳叫日头。,有些地方把太阳叫日头,,ieu ɕie ti faŋ pa tˈai iaŋ tɕiau ɯ tˈəu,  ieu42 ɕie55 ti35 faŋ pa42 tˈai35 iaŋ tɕiau35 ɯ213-21 tˈəu,  ieu42 ɕie55 ti35 faŋ pa42 tˈai35 iaŋ tɕiau35 ɯ213-21 tˈəu,ieu ɕie ti faŋ pa tˈai iaŋ tɕiau ɯ tˈəu
+WH,Wuhan,51,您贵姓?我姓王。,你家贵姓?我姓王,,ni tɕia kuei ɕin ŋuo ɕin uaŋ,ni42 tɕia55 kuei35 ɕin35 ŋuo42 ɕin35 uaŋ213,ni42 tɕia55 kuei35 ɕin35 ŋuo42 ɕin35 uaŋ213,ni tɕia kuei ɕin ŋuo ɕin uaŋ
+WH,Wuhan,52,你姓王我也姓王，咱们两个人都姓王。,你姓王，我也姓王，我们两个都姓王,,ni ɕin uaŋ ŋuo ie ɕin uaŋ ŋuo mən niaŋ kuo təu ɕin uaŋ,ni42 ɕin35 uaŋ213 ŋuo213-21 ie42 ɕin35 uaŋ213 ŋuo213-21 mən niaŋ42 kuo təu55 ɕin35 uaŋ213,ni42 ɕin35 uaŋ213 ŋuo213-21 ie42 ɕin35 uaŋ213 ŋuo213-21 mən niaŋ42 kuo təu55 ɕin35 uaŋ213,ni ɕin uaŋ ŋuo ie ɕin uaŋ ŋuo mən niaŋ kuo təu ɕin uaŋ
+WH,Wuhan,53,你先去吧，我们等一会儿再去。,你先去吧，我们等一下再去,,ni ɕiɛn kˈɯ pa ŋuo mən tən i xar tsai kˈɯ,ni42 ɕiɛn55 kˈɯ35 pa ŋuo42 mən tən42 i213-21 xar tsai35 kˈɯ35,ni42 ɕiɛn55 kˈɯ35 pa ŋuo42 mən tən42 i213-21 xar tsai35 kˈɯ35,ni ɕiɛn kˈɯ pa ŋuo mən tən i xar tsai kˈɯ
+WH,Wuhan,54,你抽烟不抽?,你吃不吃烟,,ni tɕˈi pu tɕˈi iɛn,ni42 tɕˈi213-21 pu tɕˈi213-21 iɛn55,ni42 tɕˈi213-21 pu tɕˈi213-21 iɛn55,ni tɕˈi pu tɕˈi iɛn
+WH,Wuhan,55,你认得那个人不认得?,你认不认得那个人,,ni zən pu zən tɤ na kuo zən,ni42 zən35 pu zən35 tɤ na35 kuo zən213,ni42 zən35 pu zən35 tɤ na35 kuo zən213,ni zən pu zən tɤ na kuo zən
+WH,Wuhan,,,,,,,,
+WH,Wuhan,,,,,,,,
+WH,Wuhan,,,,,,,,
+WH,Wuhan,,,,,,,,
+WH,Wuhan,,,,,,,,

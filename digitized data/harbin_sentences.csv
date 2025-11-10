@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+HB,Harbin,1,谁啊?我是老三。,谁啊?我，我是小三儿,,ʂei ia uo ʂʅ ɕiau sar,ʂei24 ia uo213 ʂʅ ɕiau213-21 sar44,ʂei24 ia uo213 ʂɻ̩ ɕiau213-21 sar44,ʂei ia uo ʂɻ̩ ɕiau sar
+HB,Harbin,2,老四呢?她正跟一个朋友说着话呢。,老四呢?她正跟一个朋友唠嗑儿呢,,lau sɿ nə tˈa tʂəŋ kən i kɤ pˈəŋ iou lau kˈɤr nə,lau213-21 sɿ53 nə tˈa44 tʂəŋ53 kən44 i44-24 kɤ pˈəŋ24 iou lau53 kˈɤr44 nə,lau213-21 sɹ̩53 nə tˈa44 tʂəŋ53 kən44 i44-24 kɤ pˈəŋ24 iou lau53 kˈɤr44 nə,lau sɹ̩ nə tˈa tʂəŋ kən i kɤ pˈəŋ iou lau kˈɤr nə
+HB,Harbin,3,她还没说完吗?,她还没唠完哪,,tˈa xai mei lau uan na,tˈa44 xai53 mei53 lau53 uan24 na,tˈa44 xai53 mei53 lau53 uan24 na,tˈa xai mei lau uan na
+HB,Harbin,4,还没有。大概再有一会儿就说完了。,还没有。大概再呆一会儿就唠完了,,xai mei iou ta kai tsai tai i xuər tɕiou lau uan lə,xai53 mei24 iou ta53 kai53 tsai53 tai44 i44-53 xuər213 tɕiou53 lau53 uan24 lə,xai53 mei24 iou ta53 kai53 tsai53 tai44 i44-53 xuər213 tɕiou53 lau53 uan24 lə,xai mei iou ta kai tsai tai i xuər tɕiou lau uan lə
+HB,Harbin,5,他说马上就走，怎么这半天了还在家里?,他说马上就走，咋这老半天了还在家呢,,tˈa ʂuo ma ʂaŋ tɕiou tsou tsa tʂɤ lau pan tˈian lə xai tsai tɕia nə,tˈa44 ʂuo44 ma213-21 ʂaŋ53 tɕiou53 tsou213 tsa213 tʂɤ53 lau213 pan53 tˈian44 lə xai53 tsai213 tɕia44 nə,tˈa44 ʂuo44 ma213-21 ʂaŋ53 tɕiou53 tsou213 tsa213 tʂɤ53 lau213 pan53 tˈian44 lə xai53 tsai213 tɕia44 nə,tˈa ʂuo ma ʂaŋ tɕiou tsou tsa tʂɤ lau pan tˈian lə xai tsai tɕia nə
+HB,Harbin,6,你到哪儿去?我到城里去。,你上哪儿去?我上街里,,ni ʂaŋ nar tɕˈy uo ʂaŋ kai li,ni213 ʂaŋ53 nar213 tɕˈy uo213 ʂaŋ53 kai44 li213,ni213 ʂaŋ53 nar213 tɕˈy uo213 ʂaŋ53 kai44 li213,ni ʂaŋ nar tɕˈy uo ʂaŋ kai li
+HB,Harbin,7,在那儿，不在这儿。,在那疙儿，不在这疙儿,,tsai nei kar pu tsai tʂei kar,tsai213-21 nei53 kar44 pu53 tsai213-21 tʂei53 kar44,tsai213-21 nei53 kar44 pu53 tsai213-21 tʂei53 kar44,tsai nei kar pu tsai tʂei kar
+HB,Harbin,8,不是那么做，要这么做。,不是那么做，得这么做,,pu ʂʅ na mɤ tsuo tei tʂɤ mɤ tsuo,pu53-24 ʂʅ53 na53 mɤ tsuo53 tei213 tʂɤ53 mɤ tsuo53,pu53-24 ʂɻ̩53 na53 mɤ tsuo53 tei213 tʂɤ53 mɤ tsuo53,pu ʂɻ̩ na mɤ tsuo tei tʂɤ mɤ tsuo
+HB,Harbin,9,太多了，用不着那么多，只要这么多就够了。,太多了，用不着那老多，只要这些就够了,,tˈai tuo lə yŋ pu tʂau na lau tuo tʂʅ iau tʂɤ ɕiɛ tɕiou kou lə,tˈai53 tuo44 lə yŋ53 pu tʂau24 na53 lau213 tuo44 tʂʅ213-21 iau53 tʂɤ53 ɕiɛ44 tɕiou53 kou53 lə,tˈai53 tuo44 lə yŋ53 pu tʂau24 na53 lau213 tuo44 tʂɻ̩213-21 iau53 tʂɤ53 ɕiɛ44 tɕiou53 kou53 lə,tˈai tuo lə yŋ pu tʂau na lau tuo tʂɻ̩ iau tʂɤ ɕiɛ tɕiou kou lə
+HB,Harbin,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这两个哪个好点儿呢,,tʂei kɤ ta nei kɤ ɕiau tʂɤ liaŋ kɤ nei kɤ xau tiar nə,tʂei53 kɤ ta53 nei53 kɤ ɕiau213 tʂɤ53 liaŋ213-21 kɤ nei213 kɤ53 xau213 tiar213 nə,tʂei53 kɤ ta53 nei53 kɤ ɕiau213 tʂɤ53 liaŋ213-21 kɤ nei213 kɤ53 xau213 tiar213 nə,tʂei kɤ ta nei kɤ ɕiau tʂɤ liaŋ kɤ nei kɤ xau tiar nə
+HB,Harbin,11,这个比那个好。,这个比那个好,,tʂei kɤ pˈi nei kɤ xau,tʂei53 kɤ pˈi213 nei53 kɤ xau213,tʂei53 kɤ pˈi213 nei53 kɤ xau213,tʂei kɤ pˈi nei kɤ xau
+HB,Harbin,12,这些房子不如那些房子好。,这些房子不如那些房子好,,tʂei ɕiɛ faŋ tsɿ pu lu nei ɕiɛ faŋ tsɿ xau,tʂei53 ɕiɛ44 faŋ24 tsɿ pu53 lu24 nei53 ɕiɛ44 faŋ24 tsɿ xau213,tʂei53 ɕiɛ44 faŋ24 tsɹ̩ pu53 lu24 nei53 ɕiɛ44 faŋ24 tsɹ̩ xau213,tʂei ɕiɛ faŋ tsɹ̩ pu lu nei ɕiɛ faŋ tsɹ̩ xau
+HB,Harbin,13,这句话用成都话怎么说?,,,,,,
+HB,Harbin,14,他今年多大岁数了?,他今年多大岁数了,,tˈa tɕin nian tuo ta suei ʂu lə,tˈa44 tɕin44 nian24 tuo24 ta53 suei53 ʂu lə,tˈa44 tɕin44 nian24 tuo24 ta53 suei53 ʂu lə,tˈa tɕin nian tuo ta suei ʂu lə
+HB,Harbin,15,大概三十来岁吧。,大概三十来岁吧,,ta kai san ʂʅ lai suei pa,ta53 kai53 san44 ʂʅ lai suei53 pa,ta53 kai53 san44 ʂɻ̩ lai suei53 pa,ta kai san ʂɻ̩ lai suei pa
+HB,Harbin,16,这个东西有多重呢?,这个东西有多沉呢,,tʂei kɤ tuŋ ɕi iou tuo tʂˈən nə,tʂei53 kɤ tuŋ44 ɕi iou213 tuo24 tʂˈən24 nə,tʂei53 kɤ tuŋ44 ɕi iou213 tuo24 tʂˈən24 nə,tʂei kɤ tuŋ ɕi iou tuo tʂˈən nə
+HB,Harbin,17,有五十斤重呢。,有五十斤沉,,iou u ʂʅ tɕin tʂˈən,iou213 u213-21 ʂʅ tɕin44 tʂˈən24,iou213 u213-21 ʂɻ̩ tɕin44 tʂˈən24,iou u ʂɻ̩ tɕin tʂˈən
+HB,Harbin,18,拿得动吗?,能拿动吗,,nəŋ na tuŋ ma,nəŋ24 na24 tuŋ53 ma,nəŋ24 na24 tuŋ53 ma,nəŋ na tuŋ ma
+HB,Harbin,19,我拿得动，他拿不动。,我能拿动，他拿不动,,uo nəŋ na tuŋ tˈa na pu tuŋ,uo213 nəŋ24 na24 tuŋ53 tˈa44 na24 pu tuŋ53,uo213 nəŋ24 na24 tuŋ53 tˈa44 na24 pu tuŋ53,uo nəŋ na tuŋ tˈa na pu tuŋ
+HB,Harbin,20,真不轻，重得连我也拿不动。,真不轻，沉得连我也拿不动,,tʂən pu tɕˈiŋ tʂˈən ti lian uo iɛ na pu tuŋ,tʂən44 pu tɕˈiŋ44 tʂˈən24 ti lian24 uo213 iɛ213 na24 pu tuŋ53,tʂən44 pu tɕˈiŋ44 tʂˈən24 ti lian24 uo213 iɛ213 na24 pu tuŋ53,tʂən pu tɕˈiŋ tʂˈən ti lian uo iɛ na pu tuŋ
+HB,Harbin,21,你说得很好，你还会说点什么呢?,你说得贼好，你还会说点儿啥呢,,ni ʂuo ti tsei xau ni xai xuei ʂuo tiar ʂa nə,ni213 ʂuo44 ti tsei24 xau213 ni213 xai53 xuei53 ʂuo44 tiar213 ʂa24 nə,ni213 ʂuo44 ti tsei24 xau213 ni213 xai53 xuei53 ʂuo44 tiar213 ʂa24 nə,ni ʂuo ti tsei xau ni xai xuei ʂuo tiar ʂa nə
+HB,Harbin,22,我嘴笨，我说不过他。,我嘴笨，我说不过他,,uo tsuei pən uo ʂuo pu kuo tˈa,uo213 tsuei213 pən53 uo213 ʂuo44 pu kuo53 tˈa,uo213 tsuei213 pən53 uo213 ʂuo44 pu kuo53 tˈa,uo tsuei pən uo ʂuo pu kuo tˈa
+HB,Harbin,23,说了一遍，又说一遍。,说了一遍，又说一遍,,ʂuo lə i pian iou ʂuo i pian,ʂuo44 lə i44-24 pian53 iou53 ʂuo44 i44-24 pian53,ʂuo44 lə i44-24 pian53 iou53 ʂuo44 i44-24 pian53,ʂuo lə i pian iou ʂuo i pian
+HB,Harbin,24,请你再说一遍。,请你再说一遍,,tɕˈiŋ ni tsai ʂuo i pian,tɕˈiŋ213-21 ni213 tsai53 ʂuo44 i pian53,tɕˈiŋ213-21 ni213 tsai53 ʂuo44 i pian53,tɕˈiŋ ni tsai ʂuo i pian
+HB,Harbin,25,不早了，快去吧。,不早了，快去吧,,pi tsau lə kˈuai tɕˈy pa,pi53 tsau213 lə kˈuai53 tɕˈy53 pa,pi53 tsau213 lə kˈuai53 tɕˈy53 pa,pi tsau lə kˈuai tɕˈy pa
+HB,Harbin,26,现在还早着呢，等一会儿再去吧。,现在还早的赫儿呢，等会儿再去吧,,ɕian tsai xai tsau ti xɤr nə təŋ xuər tsai tɕˈy pa,ɕian53 tsai53 xai53 tsau213 ti xɤr53 nə təŋ213 xuər213 tsai53 tɕˈy53 pa,ɕian53 tsai53 xai53 tsau213 ti xɤr53 nə təŋ213 xuər213 tsai53 tɕˈy53 pa,ɕian tsai xai tsau ti xɤr nə təŋ xuər tsai tɕˈy pa
+HB,Harbin,27,吃了饭再去好吗?,吃了饭再去吧,,tʂˈʅ lə fan tsai tɕˈy pa,tʂˈʅ44 lə fan53 tsai53 tɕˈy53 pa,tʂˈɻ̩44 lə fan53 tsai53 tɕˈy53 pa,tʂˈɻ̩ lə fan tsai tɕˈy pa
+HB,Harbin,28,慢慢儿吃啊，不要着急。,慢慢儿吃，别着急,,man mar tʂˈʅ piɛ tʂau tɕi,man53 mar53-44 tʂˈʅ44 piɛ53 tʂau44 tɕi24,man53 mar53-44 tʂˈɻ̩44 piɛ53 tʂau44 tɕi24,man mar tʂˈɻ̩ piɛ tʂau tɕi
+HB,Harbin,29,坐着吃比站着吃好些。,坐着吃比站着吃好,,tsuo tʂau tʂˈʅ pˈi tʂan tʂau tʂˈʅ xau,tsuo53 tʂau tʂˈʅ44 pˈi213 tʂan53 tʂau tʂˈʅ44 xau213,tsuo53 tʂau tʂˈɻ̩44 pˈi213 tʂan53 tʂau tʂˈɻ̩44 xau213,tsuo tʂau tʂˈɻ̩ pˈi tʂan tʂau tʂˈɻ̩ xau
+HB,Harbin,30,他吃了饭了，你吃了饭没有呢?,他吃饭了，你吃饭了没有,,tˈa tʂˈʅ fan lə ni tʂˈʅ fan lə mei iou,tˈa44 tʂˈʅ44 fan53 lə ni213 tʂˈʅ44 fan53 lə mei24 iou,tˈa44 tʂˈɻ̩44 fan53 lə ni213 tʂˈɻ̩44 fan53 lə mei24 iou,tˈa tʂˈɻ̩ fan lə ni tʂˈɻ̩ fan lə mei iou
+HB,Harbin,31,他去过上海，我没有去过。,他去过上海，我没去过,,tˈa tɕˈy kuo ʂaŋ xai uo mei tɕˈy kuo,tˈa44 tɕˈy53 kuo ʂaŋ53 xai213 uo213 mei24 tɕˈy53 kuo,tˈa44 tɕˈy53 kuo ʂaŋ53 xai213 uo213 mei24 tɕˈy53 kuo,tˈa tɕˈy kuo ʂaŋ xai uo mei tɕˈy kuo
+HB,Harbin,32,来闻闻这朵花香不香。,来闻闻这朵花儿香不香,,lai uən uən tʂei tˈuo xuar ɕiaŋ pu ɕiaŋ,lai24 uən24 uən tʂei53 tˈuo213 xuar44 ɕiaŋ44 pu ɕiaŋ44,lai24 uən24 uən tʂei53 tˈuo213 xuar44 ɕiaŋ44 pu ɕiaŋ44,lai uən uən tʂei tˈuo xuar ɕiaŋ pu ɕiaŋ
+HB,Harbin,33,给我一本书。,给我一本儿书,,kei uo i pər ʂu,kei213 uo213 i44-53 pər213 ʂu44,kei213 uo213 i44-53 pər213 ʂu44,kei uo i pər ʂu
+HB,Harbin,34,我真的没有那本书呀。,我真没那本儿书哇,,uo tʂən mei nei pər ʂu ua,uo213 tʂən44 mei24 nei53 pər213 ʂu44 ua,uo213 tʂən44 mei24 nei53 pər213 ʂu44 ua,uo tʂən mei nei pər ʂu ua
+HB,Harbin,35,你告诉他。,你告诉他,,ni kau su tˈa,ni213 kau53 su tˈa44,ni213 kau53 su tˈa44,ni kau su tˈa
+HB,Harbin,36,好好地走，不要跑。,好好儿走，别跑,,xau xaur tsou piɛ pˈau,xau213-21 xaur213-44 tsou213 piɛ53 pˈau213,xau213-21 xaur213-44 tsou213 piɛ53 pˈau213,xau xaur tsou piɛ pˈau
+HB,Harbin,37,小心跌下去爬不上来。,加小心掉下去爬不上来,,tɕia ɕiau ɕin tiau ɕia tɕˈy pˈa pu ʂaŋ lai,tɕia44 ɕiau213-21 ɕin tiau53 ɕia tɕˈy pˈa24 pu ʂaŋ53 lai24,tɕia44 ɕiau213-21 ɕin tiau53 ɕia tɕˈy pˈa24 pu ʂaŋ53 lai24,tɕia ɕiau ɕin tiau ɕia tɕˈy pˈa pu ʂaŋ lai
+HB,Harbin,38,医生叫你多睡睡。,大夫叫你多睡一会儿,,tai fu tɕiau ni tuo ʂuei i xuər,tai53 fu tɕiau53 ni213 tuo44 ʂuei53 i xuər213,tai53 fu tɕiau53 ni213 tuo44 ʂuei53 i xuər213,tai fu tɕiau ni tuo ʂuei i xuər
+HB,Harbin,39,抽烟或者喝茶都不许。,抽烟喝茶都不行,,tʂˈou ian xɤ tʂˈa tou pu ɕiŋ,tʂˈou44 ian44 xɤ44 tʂˈa24 tou44 pu53 ɕiŋ24,tʂˈou44 ian44 xɤ44 tʂˈa24 tou44 pu53 ɕiŋ24,tʂˈou ian xɤ tʂˈa tou pu ɕiŋ
+HB,Harbin,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不得意,,ian iɛ xau tʂˈa iɛ xau uo tou pu tɤ i,ian44 iɛ213 xau213 tʂˈa24 iɛ213 xau213 uo213 tou44 pu53 tɤ24 i,ian44 iɛ213 xau213 tʂˈa24 iɛ213 xau213 uo213 tou44 pu53 tɤ24 i,ian iɛ xau tʂˈa iɛ xau uo tou pu tɤ i
+HB,Harbin,41,不管你去不去，反正我是要去的。,不管你去不去，反正我得去,,pu kuan ni tɕˈy pu tɕˈy fan tʂəŋ uo tei tɕˈy,pu53 kuan213 ni213 tɕˈy53 pu tɕˈy53 fan213-21 tʂəŋ53 uo213 tei213 tɕˈy53,pu53 kuan213 ni213 tɕˈy53 pu tɕˈy53 fan213-21 tʂəŋ53 uo213 tei213 tɕˈy53,pu kuan ni tɕˈy pu tɕˈy fan tʂəŋ uo tei tɕˈy
+HB,Harbin,42,我非去不可。,我非去不治,,uo fei tɕˈy pu tʂʅ,uo213 fei44 tɕˈy53 pu53-24 tʂʅ53,uo213 fei44 tɕˈy53 pu53-24 tʂɻ̩53,uo fei tɕˈy pu tʂɻ̩
+HB,Harbin,43,你是哪一年来的?,你是哪一年来的,,ni ʂʅ nei i nian lai ti,ni213 ʂʅ53 nei213-21 i nian24 lai24 ti,ni213 ʂɻ̩53 nei213-21 i nian24 lai24 ti,ni ʂɻ̩ nei i nian lai ti
+HB,Harbin,44,我是前年到的北京。,我是前年到的北京,,uo ʂʅ tɕˈian nian tau ti pei tɕiŋ,uo213 ʂʅ53 tɕˈian24 nian tau53 ti pei213-21 tɕiŋ44,uo213 ʂɻ̩53 tɕˈian24 nian tau53 ti pei213-21 tɕiŋ44,uo ʂɻ̩ tɕˈian nian tau ti pei tɕiŋ
+HB,Harbin,45,今天开会谁的主席?,今天开会谁是主席,,tɕin tˈian kˈai xuei ʂei ʂʅ tʂu ɕi,tɕin44 tˈian44 kˈai44 xuei53 ʂei24 ʂʅ tʂu213-21 ɕi24,tɕin44 tˈian44 kˈai44 xuei53 ʂei24 ʂɻ̩ tʂu213-21 ɕi24,tɕin tˈian kˈai xuei ʂei ʂɻ̩ tʂu ɕi
+HB,Harbin,46,你得请我的客。,你得请我客儿,,ni tei tɕˈiŋ uo kˈɤr,ni213 tei213 tɕˈiŋ213 uo213 kˈɤr53,ni213 tei213 tɕˈiŋ213 uo213 kˈɤr53,ni tei tɕˈiŋ uo kˈɤr
+HB,Harbin,47,一边走，一边讲。,一边儿走，一边儿说,,i piar tsou i piar ʂuo,i44-53 piar44 tsou213 i44-53 piar44 ʂuo44,i44-53 piar44 tsou213 i44-53 piar44 ʂuo44,i piar tsou i piar ʂuo
+HB,Harbin,48,越走越远，越说越多。,越走越远，越说越多,,yɛ tsou yɛ yan yɛ ʂuo yɛ tuo,yɛ53 tsou213 yɛ53 yan213 yɛ53 ʂuo44 yɛ53 tuo44,yɛ53 tsou213 yɛ53 yan213 yɛ53 ʂuo44 yɛ53 tuo44,yɛ tsou yɛ yan yɛ ʂuo yɛ tuo
+HB,Harbin,49,把那个东西拿给我。,把那个东西拿给我,,pa nei kɤ tuŋ ɕi na kei uo,pa213 nei53 kɤ tuŋ44 ɕi na24 kei uo213,pa213 nei53 kɤ tuŋ44 ɕi na24 kei uo213,pa nei kɤ tuŋ ɕi na kei uo
+HB,Harbin,50,有些地方把太阳叫日头。,有些地方管太阳叫日头,,iou ɕiɛ ti faŋ kuan tˈai iaŋ tɕiau ʐʅ tˈou,iou213-21 ɕiɛ ti53 faŋ kuan213 tˈai53 iaŋ tɕiau53 ʐʅ53 tˈou,iou213-21 ɕiɛ ti53 faŋ kuan213 tˈai53 iaŋ tɕiau53 ʐɻ̩53 tˈou,iou ɕiɛ ti faŋ kuan tˈai iaŋ tɕiau ʐɻ̩ tˈou
+HB,Harbin,51,您贵姓?我姓王。,你贵姓?我免贵姓王,,ni kuei ɕiŋ uo mian kuei ɕiŋ uaŋ,ni213 kuei53 ɕiŋ53 uo213 mian213-21 kuei53 ɕiŋ53 uaŋ24,ni213 kuei53 ɕiŋ53 uo213 mian213-21 kuei53 ɕiŋ53 uaŋ24,ni kuei ɕiŋ uo mian kuei ɕiŋ uaŋ
+HB,Harbin,52,你姓王我也姓王，咱们两个人都姓王。,你姓王，我也姓王，咱俩是一家子,,ni ɕiŋ uaŋ uo iɛ ɕiŋ uaŋ tsan lia ʂʅ i tɕia tsɿ,ni213 ɕiŋ53 uaŋ24 uo213 iɛ213 ɕiŋ53 uaŋ24 tsan24 lia213 ʂʅ i53 tɕia44 tsɿ,ni213 ɕiŋ53 uaŋ24 uo213 iɛ213 ɕiŋ53 uaŋ24 tsan24 lia213 ʂɻ̩ i53 tɕia44 tsɹ̩,ni ɕiŋ uaŋ uo iɛ ɕiŋ uaŋ tsan lia ʂɻ̩ i tɕia tsɹ̩
+HB,Harbin,53,你先去吧，我们等一会儿再去。,你先去吧，我们等一会儿再去,,ni ɕian tɕˈy pa uo mən təŋ i xuər tsai tɕˈy,ni213 ɕian44 tɕˈy53 pa uo213-21 mən təŋ213 i xuər213 tsai53 tɕˈy53,ni213 ɕian44 tɕˈy53 pa uo213-21 mən təŋ213 i xuər213 tsai53 tɕˈy53,ni ɕian tɕˈy pa uo mən təŋ i xuər tsai tɕˈy
+HB,Harbin,54,你抽烟不抽?,你抽不抽烟,,ni tʂˈou pu tʂˈou ian,ni213 tʂˈou44 pu tʂˈou44 ian44,ni213 tʂˈou44 pu tʂˈou44 ian44,ni tʂˈou pu tʂˈou ian
+HB,Harbin,55,你认得那个人不认得?,你认不认得那个人,,ni ʐən pu ʐən ti nei kɤ ʐən,ni213 ʐən53 pu ʐən53 ti nei53 kɤ ʐən24,ni213 ʐən53 pu ʐən53 ti nei53 kɤ ʐən24,ni ʐən pu ʐən ti nei kɤ ʐən
+HB,Harbin,,,,,,,,
+HB,Harbin,,, ,,,,,
+HB,Harbin,,,,,,,,
+HB,Harbin,,,,,,,,
+HB,Harbin,,,,,,,,
