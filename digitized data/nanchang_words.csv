@@ -1,186 +1,186 @@
 dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-NC,Nanchang,1,太阳,太阳,,tˈai iɔŋ,tˈai213 iɔŋ04,tˈai iɔŋ,tˈai213 iɔŋ04
-NC,Nanchang,2,月亮,月光,,ȵyɵʔ kuɔŋ,ȵyɵʔ2 kuɔŋ42,ɲyɵʔ kuɔŋ,ɲyɵʔ2 kuɔŋ42
-NC,Nanchang,3,星星,星子 ,,siɑŋ tsɿ,siɑŋ42 tsɿ02,siɑŋ tsɹ̩,siɑŋ42 tsɹ̩02
-NC,Nanchang,4,打雷,打雷 ,,tɑ lui,tɑ213 lui45,tɑ lui,tɑ213 lui45
-NC,Nanchang,5,闪电,打霍闪,,tɑ fɔʔ sɛn,tɑ213 fɔʔ5 sɛn02,tɑ fɔʔ sɛn,tɑ213 fɔʔ5 sɛn02
-NC,Nanchang,6,下雨,落雨 ,,lɔʔ y,lɔʔ2 y213,lɔʔ y,lɔʔ2 y213
-NC,Nanchang,7,下雪,落雪 ,,lɔʔ ɕyɵʔ,lɔʔ2 ɕyɵʔ5,lɔʔ ɕyɵʔ,lɔʔ2 ɕyɵʔ5
-NC,Nanchang,8,冰雹,雹子 ,,pˈɔʔ tsɿ,pˈɔʔ2 tsɿ02,pˈɔʔ tsɹ̩,pˈɔʔ2 tsɹ̩02
-NC,Nanchang,9,结冰,结冰 ,,tɕiɛʔ pin,tɕiɛʔ5 pin42,tɕiɛʔ pin,tɕiɛʔ5 pin42
-NC,Nanchang,10,刮风,起风 ,,tɕˈi fuŋ,tɕˈi213 fuŋ42,tɕˈi fuŋ,tɕˈi213 fuŋ42
+NC,Nanchang,1,太阳,太阳,,tˈai iɔŋ,tˈai213 iɔŋ04,tʰaiiɔŋ,tʰai213iɔŋ04
+NC,Nanchang,2,月亮,月光,,ȵyɵʔ kuɔŋ,ȵyɵʔ2 kuɔŋ42,ɲyɵʔkuɔŋ,ɲyɵʔ2kuɔŋ42
+NC,Nanchang,3,星星,星子 ,,siɑŋ tsɿ,siɑŋ42 tsɿ02,siɑŋtsɹ̩,siɑŋ42tsɹ̩02
+NC,Nanchang,4,打雷,打雷 ,,tɑ lui,tɑ213 lui45,tɑlui,tɑ213lui45
+NC,Nanchang,5,闪电,打霍闪,,tɑ fɔʔ sɛn,tɑ213 fɔʔ5 sɛn02,tɑfɔʔsɛn,tɑ213fɔʔ5sɛn02
+NC,Nanchang,6,下雨,落雨 ,,lɔʔ y,lɔʔ2 y213,lɔʔy,lɔʔ2y213
+NC,Nanchang,7,下雪,落雪 ,,lɔʔ ɕyɵʔ,lɔʔ2 ɕyɵʔ5,lɔʔɕyɵʔ,lɔʔ2ɕyɵʔ5
+NC,Nanchang,8,冰雹,雹子 ,,pˈɔʔ tsɿ,pˈɔʔ2 tsɿ02,pʰɔʔtsɹ̩,pʰɔʔ2tsɹ̩02
+NC,Nanchang,9,结冰,结冰 ,,tɕiɛʔ pin,tɕiɛʔ5 pin42,tɕiɛʔpin,tɕiɛʔ5pin42
+NC,Nanchang,10,刮风,起风 ,,tɕˈi fuŋ,tɕˈi213 fuŋ42,tɕʰifuŋ,tɕʰi213fuŋ42
 NC,Nanchang,11,虹,虹 ,,kɔŋ,kɔŋ45,kɔŋ,kɔŋ45
-NC,Nanchang,12,端午节,端午,,tɵn u,tɵn42 u213,tɵn u,tɵn42 u213
-NC,Nanchang,13,中秋节,中秋 ,,tsuŋ tɕˈiu,tsuŋ42 tɕˈiu42,tsuŋ tɕˈiu,tsuŋ42 tɕˈiu42
-NC,Nanchang,14,除夕,三十夜晚 ,,san sɨʔ iɑ uan,san42 sɨʔ2 iɑ21 uan213,san sɨʔ iɑ uan,san42 sɨʔ2 iɑ21 uan213
-NC,Nanchang,15,今年,今年 ,,tɕin ȵiɛn,tɕin42 ȵiɛn02,tɕin ɲiɛn,tɕin42 ɲiɛn02
-NC,Nanchang,16,明年,明年 ,,miɑŋ ȵiɛn,miɑŋ45 ȵiɛn04,miɑŋ ɲiɛn,miɑŋ45 ɲiɛn04
-NC,Nanchang,17,去年,旧年 ,,tɕˈiu ȵiɛn,tɕˈiu21 ȵiɛn02,tɕˈiu ɲiɛn,tɕˈiu21 ɲiɛn02
-NC,Nanchang,18,明天,明日,,miɑŋ ȵiʔ,miɑŋ45 ȵiʔ04,miɑŋ ɲiʔ,miɑŋ45 ɲiʔ04
-NC,Nanchang,19,昨天,昨日,,tsˈɔʔ ȵiʔ,tsˈɔʔ2 ȵiʔ02,tsˈɔʔ ɲiʔ,tsˈɔʔ2 ɲiʔ02
-NC,Nanchang,20,今天,今日,,tɕin ȵiʔ,tɕin42 ȵiʔ02,tɕin ɲiʔ,tɕin42 ɲiʔ02
-NC,Nanchang,21,星期天,礼拜 ,,li pai,li213 pai45,li pai,li213 pai45
-NC,Nanchang,22,麦子,麦子 ,,mɑʔ tsɿ,mɑʔ2 tsɿ02,mɑʔ tsɹ̩,mɑʔ2 tsɹ̩02
+NC,Nanchang,12,端午节,端午,,tɵn u,tɵn42 u213,tɵnu,tɵn42u213
+NC,Nanchang,13,中秋节,中秋 ,,tsuŋ tɕˈiu,tsuŋ42 tɕˈiu42,tsuŋtɕʰiu,tsuŋ42tɕʰiu42
+NC,Nanchang,14,除夕,三十夜晚 ,,san sɨʔ iɑ uan,san42 sɨʔ2 iɑ21 uan213,sansɨʔiɑuan,san42sɨʔ2iɑ21uan213
+NC,Nanchang,15,今年,今年 ,,tɕin ȵiɛn,tɕin42 ȵiɛn02,tɕinɲiɛn,tɕin42ɲiɛn02
+NC,Nanchang,16,明年,明年 ,,miɑŋ ȵiɛn,miɑŋ45 ȵiɛn04,miɑŋɲiɛn,miɑŋ45ɲiɛn04
+NC,Nanchang,17,去年,旧年 ,,tɕˈiu ȵiɛn,tɕˈiu21 ȵiɛn02,tɕʰiuɲiɛn,tɕʰiu21ɲiɛn02
+NC,Nanchang,18,明天,明日,,miɑŋ ȵiʔ,miɑŋ45 ȵiʔ04,miɑŋɲiʔ,miɑŋ45ɲiʔ04
+NC,Nanchang,19,昨天,昨日,,tsˈɔʔ ȵiʔ,tsˈɔʔ2 ȵiʔ02,tsʰɔʔɲiʔ,tsʰɔʔ2ɲiʔ02
+NC,Nanchang,20,今天,今日,,tɕin ȵiʔ,tɕin42 ȵiʔ02,tɕinɲiʔ,tɕin42ɲiʔ02
+NC,Nanchang,21,星期天,礼拜 ,,li pai,li213 pai45,lipai,li213pai45
+NC,Nanchang,22,麦子,麦子 ,,mɑʔ tsɿ,mɑʔ2 tsɿ02,mɑʔtsɹ̩,mɑʔ2tsɹ̩02
 NC,Nanchang,23,大米,米 ,,mi,mi213,mi,mi213
-NC,Nanchang,24,蚕豆,蚕豆 ,,tsˈɵn tˈɛu,tsˈɵn24 tˈɛu21,tsˈɵn tˈɛu,tsˈɵn24 tˈɛu21
-NC,Nanchang,25,向日葵,葵花 ,,kˈui fɑ,kˈui24 fɑ42,kˈui fɑ,kˈui24 fɑ42
-NC,Nanchang,26,菠菜,菠菜 ,,po tsˈai,po42 tsˈai02,po tsˈai,po42 tsˈai02
-NC,Nanchang,27,卷心菜,包菜 ,,pɑu tsˈai,pɑu42 tsˈai02,pɑu tsˈai,pɑu42 tsˈai02
-NC,Nanchang,28,西红柿,番茄 ,,fan tɕˈiɑ,fan42 tɕˈiɑ24,fan tɕˈiɑ,fan42 tɕˈiɑ24
-NC,Nanchang,29,茄子,茄子 ,,tɕˈiɑ tsɿ,tɕˈiɑ24 tsɿ04,tɕˈiɑ tsɹ̩,tɕˈiɑ24 tsɹ̩04
-NC,Nanchang,30,白薯,萝卜薯 ,,lo pˈo ɕy,lo45 pˈo04 ɕy45,lo pˈo ɕy,lo45 pˈo04 ɕy45
-NC,Nanchang,31,马铃薯,洋芋头 ,,iɔŋ y tˈɛu,iɔŋ45 y21 tˈɛu02,iɔŋ y tˈɛu,iɔŋ45 y21 tˈɛu02
-NC,Nanchang,32,南瓜,北瓜 ,,pɛʔ kuɑ,pɛʔ5 kuɑ42,pɛʔ kuɑ,pɛʔ5 kuɑ42
+NC,Nanchang,24,蚕豆,蚕豆 ,,tsˈɵn tˈɛu,tsˈɵn24 tˈɛu21,tsʰɵntʰɛu,tsʰɵn24tʰɛu21
+NC,Nanchang,25,向日葵,葵花 ,,kˈui fɑ,kˈui24 fɑ42,kʰuifɑ,kʰui24fɑ42
+NC,Nanchang,26,菠菜,菠菜 ,,po tsˈai,po42 tsˈai02,potsʰai,po42tsʰai02
+NC,Nanchang,27,卷心菜,包菜 ,,pɑu tsˈai,pɑu42 tsˈai02,pɑutsʰai,pɑu42tsʰai02
+NC,Nanchang,28,西红柿,番茄 ,,fan tɕˈiɑ,fan42 tɕˈiɑ24,fantɕʰiɑ,fan42tɕʰiɑ24
+NC,Nanchang,29,茄子,茄子 ,,tɕˈiɑ tsɿ,tɕˈiɑ24 tsɿ04,tɕʰiɑtsɹ̩,tɕʰiɑ24tsɹ̩04
+NC,Nanchang,30,白薯,萝卜薯 ,,lo pˈo ɕy,lo45 pˈo04 ɕy45,lopʰoɕy,lo45pʰo04ɕy45
+NC,Nanchang,31,马铃薯,洋芋头 ,,iɔŋ y tˈɛu,iɔŋ45 y21 tˈɛu02,iɔŋytʰɛu,iɔŋ45y21tʰɛu02
+NC,Nanchang,32,南瓜,北瓜 ,,pɛʔ kuɑ,pɛʔ5 kuɑ42,pɛʔkuɑ,pɛʔ5kuɑ42
 NC,Nanchang,33,猪,猪 ,,tɕy,tɕy42,tɕy,tɕy42
-NC,Nanchang,34,公猪,猪牯里 ,,tɕy ku li,tɕy42 ku02 li02,tɕy ku li,tɕy42 ku02 li02
-NC,Nanchang,35,母猪,猪婆 ,,tɕy pˈo,tɕy42 pˈo02,tɕy pˈo,tɕy42 pˈo02
-NC,Nanchang,36,公鸡,鸡公 ,,tɕi kuŋ,tɕi42 kuŋ42,tɕi kuŋ,tɕi42 kuŋ42
-NC,Nanchang,37,母鸡,鸡婆 ,,tɕi pˈo,tɕi42 pˈo24,tɕi pˈo,tɕi42 pˈo24
-NC,Nanchang,38,麻雀,奸雀子 ,,kan tɕˈiɔʔ tsɿ,kan42 tɕˈiɔʔ02 tsɿ02,kan tɕˈiɔʔ tsɹ̩,kan42 tɕˈiɔʔ02 tsɹ̩02
-NC,Nanchang,39,老鼠,老鼠,,lau ɕy,lau213 ɕy04,lau ɕy,lau213 ɕy04
-NC,Nanchang,40,臭虫,臭虫 ,,tsˈɨu tsˈuŋ,tsˈɨu213 tsˈuŋ04,tsˈɨu tsˈuŋ,tsˈɨu213 tsˈuŋ04
+NC,Nanchang,34,公猪,猪牯里 ,,tɕy ku li,tɕy42 ku02 li02,tɕykuli,tɕy42ku02li02
+NC,Nanchang,35,母猪,猪婆 ,,tɕy pˈo,tɕy42 pˈo02,tɕypʰo,tɕy42pʰo02
+NC,Nanchang,36,公鸡,鸡公 ,,tɕi kuŋ,tɕi42 kuŋ42,tɕikuŋ,tɕi42kuŋ42
+NC,Nanchang,37,母鸡,鸡婆 ,,tɕi pˈo,tɕi42 pˈo24,tɕipʰo,tɕi42pʰo24
+NC,Nanchang,38,麻雀,奸雀子 ,,kan tɕˈiɔʔ tsɿ,kan42 tɕˈiɔʔ02 tsɿ02,kantɕʰiɔʔtsɹ̩,kan42tɕʰiɔʔ02tsɹ̩02
+NC,Nanchang,39,老鼠,老鼠,,lau ɕy,lau213 ɕy04,lauɕy,lau213ɕy04
+NC,Nanchang,40,臭虫,臭虫 ,,tsˈɨu tsˈuŋ,tsˈɨu213 tsˈuŋ04,tsʰɨutsʰuŋ,tsʰɨu213tsʰuŋ04
 NC,Nanchang,41,房子(整),屋 ,,uʔ,uʔ5,uʔ,uʔ5
 NC,Nanchang,42,房子(单),房 ,,fɔŋ,fɔŋ45,fɔŋ,fɔŋ45
-NC,Nanchang,43,窗户,窗子 ,,tsˈɔŋ tsɿ,tsˈɔŋ42 tsɿ02,tsˈɔŋ tsɹ̩,tsˈɔŋ42 tsɹ̩02
-NC,Nanchang,44,门坎,门坎 ,,mɨn kan,mɨn45 kan04,mɨn kan,mɨn45 kan04
-NC,Nanchang,45,厕所,茅缸,,mɑu kɔŋ,mɑu45 kɔŋ42,mɑu kɔŋ,mɑu45 kɔŋ42
-NC,Nanchang,46,厨房,厨房 ,,tɕˈy fɔŋ,tɕˈy24 fɔŋ04,tɕˈy fɔŋ,tɕˈy24 fɔŋ04
-NC,Nanchang,47,烟囱,烟筒 ,,iɛn tˈuŋ,iɛn42 tˈuŋ02,iɛn tˈuŋ,iɛn42 tˈuŋ02
-NC,Nanchang,48,桌子,桌子 ,,tsɔʔ tsɿ,tsɔʔ5 tsɿ02,tsɔʔ tsɹ̩,tsɔʔ5 tsɹ̩02
-NC,Nanchang,49,楼梯,楼梯 ,,lɛu tˈi,lɛu45 tˈi04,lɛu tˈi,lɛu45 tˈi04
-NC,Nanchang,50,头,头,,tˈɛu,tˈɛu24,tˈɛu,tˈɛu24
-NC,Nanchang,51,额头,脑瓜,,lɑu kuɑ,lɑu213 kuɑ04,lɑu kuɑ,lɑu213 kuɑ04
+NC,Nanchang,43,窗户,窗子 ,,tsˈɔŋ tsɿ,tsˈɔŋ42 tsɿ02,tsʰɔŋtsɹ̩,tsʰɔŋ42tsɹ̩02
+NC,Nanchang,44,门坎,门坎 ,,mɨn kan,mɨn45 kan04,mɨnkan,mɨn45kan04
+NC,Nanchang,45,厕所,茅缸,,mɑu kɔŋ,mɑu45 kɔŋ42,mɑukɔŋ,mɑu45kɔŋ42
+NC,Nanchang,46,厨房,厨房 ,,tɕˈy fɔŋ,tɕˈy24 fɔŋ04,tɕʰyfɔŋ,tɕʰy24fɔŋ04
+NC,Nanchang,47,烟囱,烟筒 ,,iɛn tˈuŋ,iɛn42 tˈuŋ02,iɛntʰuŋ,iɛn42tʰuŋ02
+NC,Nanchang,48,桌子,桌子 ,,tsɔʔ tsɿ,tsɔʔ5 tsɿ02,tsɔʔtsɹ̩,tsɔʔ5tsɹ̩02
+NC,Nanchang,49,楼梯,楼梯 ,,lɛu tˈi,lɛu45 tˈi04,lɛutʰi,lɛu45tʰi04
+NC,Nanchang,50,头,头,,tˈɛu,tˈɛu24,tʰɛu,tʰɛu24
+NC,Nanchang,51,额头,脑瓜,,lɑu kuɑ,lɑu213 kuɑ04,lɑukuɑ,lɑu213kuɑ04
 NC,Nanchang,52,脸,脸 ,,liɛn,liɛn213,liɛn,liɛn213
-NC,Nanchang,53,鼻子,鼻公 ,,pˈiʔ kuŋ,pˈiʔ2 kuŋ02,pˈiʔ kuŋ,pˈiʔ2 kuŋ02
+NC,Nanchang,53,鼻子,鼻公 ,,pˈiʔ kuŋ,pˈiʔ2 kuŋ02,pʰiʔkuŋ,pʰiʔ2kuŋ02
 NC,Nanchang,54,脖子,颈 ,,tɕiɑŋ,tɕiɑŋ213,tɕiɑŋ,tɕiɑŋ213
-NC,Nanchang,55,左手,左手 ,,tso sɨu,tso213 sɨu213,tso sɨu,tso213 sɨu213
-NC,Nanchang,56,右手,右手 ,,iu sɨu,iu21 sɨu213,iu sɨu,iu21 sɨu213
-NC,Nanchang,57,拳头,拳头 ,,tɕˈyɵn tˈɛu,tɕˈyɵn24 tˈɛu04,tɕˈyɵn tˈɛu,tɕˈyɵn24 tˈɛu04
-NC,Nanchang,58,手指头,指头子,,tsɨʔ tˈɛu tsɿ,tsɨʔ5 tˈɛu02 tsɿ02,tsɨʔ tˈɛu tsɹ̩,tsɨʔ5 tˈɛu02 tsɹ̩02
-NC,Nanchang,59,指甲,指甲子,,tsɨʔ kaʔ tsɿ,tsɨʔ5 kaʔ02 tsɿ02,tsɨʔ kaʔ tsɹ̩,tsɨʔ5 kaʔ02 tsɹ̩02
-NC,Nanchang,60,膝盖,克膝头子 ,,kˈiɛʔ ɕiʔ tˈɛu tsɿ,kˈiɛʔ5 ɕiʔ5 tˈɛu24 tsɿ04,kˈiɛʔ ɕiʔ tˈɛu tsɹ̩,kˈiɛʔ5 ɕiʔ5 tˈɛu24 tsɹ̩04
+NC,Nanchang,55,左手,左手 ,,tso sɨu,tso213 sɨu213,tsosɨu,tso213sɨu213
+NC,Nanchang,56,右手,右手 ,,iu sɨu,iu21 sɨu213,iusɨu,iu21sɨu213
+NC,Nanchang,57,拳头,拳头 ,,tɕˈyɵn tˈɛu,tɕˈyɵn24 tˈɛu04,tɕʰyɵntʰɛu,tɕʰyɵn24tʰɛu04
+NC,Nanchang,58,手指头,指头子,,tsɨʔ tˈɛu tsɿ,tsɨʔ5 tˈɛu02 tsɿ02,tsɨʔtʰɛutsɹ̩,tsɨʔ5tʰɛu02tsɹ̩02
+NC,Nanchang,59,指甲,指甲子,,tsɨʔ kaʔ tsɿ,tsɨʔ5 kaʔ02 tsɿ02,tsɨʔkaʔtsɹ̩,tsɨʔ5kaʔ02tsɹ̩02
+NC,Nanchang,60,膝盖,克膝头子 ,,kˈiɛʔ ɕiʔ tˈɛu tsɿ,kˈiɛʔ5 ɕiʔ5 tˈɛu24 tsɿ04,kʰiɛʔɕiʔtʰɛutsɹ̩,kʰiɛʔ5ɕiʔ5tʰɛu24tsɹ̩04
 NC,Nanchang,61,腿,脚 ,,tɕiɔʔ,tɕiɔʔ5,tɕiɔʔ,tɕiɔʔ5
 NC,Nanchang,62,父亲,爸 ,,pɑʔ,pɑʔ5,pɑʔ,pɑʔ5
-NC,Nanchang,63,母亲,姆妈 ,,m̩ mɑ,m̩42 mɑ02,m̩ mɑ,m̩42 mɑ02
-NC,Nanchang,64,祖父,公公 ,,kuŋ kuŋ,kuŋ42 kuŋ02,kuŋ kuŋ,kuŋ42 kuŋ02
-NC,Nanchang,65,祖母,婆婆 ,,pˈo pˈo,pˈo24 pˈo04,pˈo pˈo,pˈo24 pˈo04
-NC,Nanchang,66,伯父,大伯,,tˈai pɑʔ,tˈai21 pɑʔ5,tˈai pɑʔ,tˈai21 pɑʔ5
-NC,Nanchang,67,伯母,大妈,,tˈai mɑ,tˈai21 mɑ02,tˈai mɑ,tˈai21 mɑ02
+NC,Nanchang,63,母亲,姆妈 ,,m̩ mɑ,m̩42 mɑ02,m̩mɑ,m̩42mɑ02
+NC,Nanchang,64,祖父,公公 ,,kuŋ kuŋ,kuŋ42 kuŋ02,kuŋkuŋ,kuŋ42kuŋ02
+NC,Nanchang,65,祖母,婆婆 ,,pˈo pˈo,pˈo24 pˈo04,pʰopʰo,pʰo24pʰo04
+NC,Nanchang,66,伯父,大伯,,tˈai pɑʔ,tˈai21 pɑʔ5,tʰaipɑʔ,tʰai21pɑʔ5
+NC,Nanchang,67,伯母,大妈,,tˈai mɑ,tˈai21 mɑ02,tʰaimɑ,tʰai21mɑ02
 NC,Nanchang,68,叔父,叔 ,,suʔ,suʔ5,suʔ,suʔ5
-NC,Nanchang,69,叔母,婶子 ,,sɨn tsɿ,sɨn213 tsɿ04,sɨn tsɹ̩,sɨn213 tsɹ̩04
-NC,Nanchang,70,外祖父,阿公,,ŋɑ kuŋ,ŋɑ42 kuŋ42,ŋɑ kuŋ,ŋɑ42 kuŋ42
-NC,Nanchang,71,外祖母,阿婆 ,,ŋɑ pˈo,ŋɑ42 pˈo02,ŋɑ pˈo,ŋɑ42 pˈo02
-NC,Nanchang,72,舅舅,母舅,,mu tɕˈiu,mu213 tɕˈiu04,mu tɕˈiu,mu213 tɕˈiu04
-NC,Nanchang,73,舅母,舅母,,tɕˈiu mu,tɕˈiu21 mu02,tɕˈiu mu,tɕˈiu21 mu02
-NC,Nanchang,74,丈夫,老公,,lɑu kuŋ,lɑu213 kuŋ04,lɑu kuŋ,lɑu213 kuŋ04
-NC,Nanchang,75,妻子,老婆 ,,lɑu pˈo,lɑu213 pˈo04,lɑu pˈo,lɑu213 pˈo04
+NC,Nanchang,69,叔母,婶子 ,,sɨn tsɿ,sɨn213 tsɿ04,sɨntsɹ̩,sɨn213tsɹ̩04
+NC,Nanchang,70,外祖父,阿公,,ŋɑ kuŋ,ŋɑ42 kuŋ42,ŋɑkuŋ,ŋɑ42kuŋ42
+NC,Nanchang,71,外祖母,阿婆 ,,ŋɑ pˈo,ŋɑ42 pˈo02,ŋɑpʰo,ŋɑ42pʰo02
+NC,Nanchang,72,舅舅,母舅,,mu tɕˈiu,mu213 tɕˈiu04,mutɕʰiu,mu213tɕʰiu04
+NC,Nanchang,73,舅母,舅母,,tɕˈiu mu,tɕˈiu21 mu02,tɕʰiumu,tɕʰiu21mu02
+NC,Nanchang,74,丈夫,老公,,lɑu kuŋ,lɑu213 kuŋ04,lɑukuŋ,lɑu213kuŋ04
+NC,Nanchang,75,妻子,老婆 ,,lɑu pˈo,lɑu213 pˈo04,lɑupʰo,lɑu213pʰo04
 NC,Nanchang,76,儿子,崽,,tsai,tsai213,tsai,tsai213
 NC,Nanchang,77,女儿,女 ,,ȵy,ȵy213,ɲy,ɲy213
-NC,Nanchang,78,早饭,早饭 ,,tsɑu fan,tsɑu213 fan21,tsɑu fan,tsɑu213 fan21
-NC,Nanchang,79,午饭,中饭,,tsuŋ fan,tsuŋ42 fan21,tsuŋ fan,tsuŋ42 fan21
-NC,Nanchang,80,晚饭,夜饭,,iɑ fan,iɑ21 fan21,iɑ fan,iɑ21 fan21
+NC,Nanchang,78,早饭,早饭 ,,tsɑu fan,tsɑu213 fan21,tsɑufan,tsɑu213fan21
+NC,Nanchang,79,午饭,中饭,,tsuŋ fan,tsuŋ42 fan21,tsuŋfan,tsuŋ42fan21
+NC,Nanchang,80,晚饭,夜饭,,iɑ fan,iɑ21 fan21,iɑfan,iɑ21fan21
 NC,Nanchang,81,面条,面 ,,miɛn,miɛn21,miɛn,miɛn21
-NC,Nanchang,82,馒头,馍馍 ,,mo mo,mo45 mo04,mo mo,mo45 mo04
-NC,Nanchang,83,包子,包子 ,,pɑu tsɿ,pɑu42 tsɿ02,pɑu tsɹ̩,pɑu42 tsɹ̩02
-NC,Nanchang,84,馄饨,清汤,,tɕˈin tˈɔŋ,tɕˈin42 tˈɔŋ42,tɕˈin tˈɔŋ,tɕˈin42 tˈɔŋ42
-NC,Nanchang,85,醋,小酒,,ɕiɛu tɕiu,ɕiɛu213 tɕiu04,ɕiɛu tɕiu,ɕiɛu213 tɕiu04
-NC,Nanchang,86,酱油,酱油,,tɕiɔŋ iu,tɕiɔŋ45 iu45,tɕiɔŋ iu,tɕiɔŋ45 iu45
+NC,Nanchang,82,馒头,馍馍 ,,mo mo,mo45 mo04,momo,mo45mo04
+NC,Nanchang,83,包子,包子 ,,pɑu tsɿ,pɑu42 tsɿ02,pɑutsɹ̩,pɑu42tsɹ̩02
+NC,Nanchang,84,馄饨,清汤,,tɕˈin tˈɔŋ,tɕˈin42 tˈɔŋ42,tɕʰintʰɔŋ,tɕʰin42tʰɔŋ42
+NC,Nanchang,85,醋,小酒,,ɕiɛu tɕiu,ɕiɛu213 tɕiu04,ɕiɛutɕiu,ɕiɛu213tɕiu04
+NC,Nanchang,86,酱油,酱油,,tɕiɔŋ iu,tɕiɔŋ45 iu45,tɕiɔŋiu,tɕiɔŋ45iu45
 NC,Nanchang,87,盐,盐 ,,iɛn,iɛn45,iɛn,iɛn45
-NC,Nanchang,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai213 tsɿ04,kˈuai tsɹ̩,kˈuai213 tsɹ̩04
-NC,Nanchang,89,勺儿,勺子 ,,sɔʔ tsɿ,sɔʔ2 tsɿ02,sɔʔ tsɹ̩,sɔʔ2 tsɹ̩02
-NC,Nanchang,90,男人,男个,,lan ko,lan45 ko04,lan ko,lan45 ko04
-NC,Nanchang,91,女人,女个,,ȵy ko,ȵy213 ko04,ɲy ko,ɲy213 ko04
-NC,Nanchang,92,男孩子,男崽子 ,,lan tsai tsɿ,lan45 tsai04 tsɿ04,lan tsai tsɹ̩,lan45 tsai04 tsɹ̩04
-NC,Nanchang,93,女孩子,女崽子,,ȵy tsai tsɿ,ȵy213 tsai04 tsɿ04,ɲy tsai tsɹ̩,ɲy213 tsai04 tsɹ̩04
-NC,Nanchang,94,老头儿,老头子 ,,lɑu tˈɛu tsɿ,lɑu213 tˈɛu24 tsɿ04,lɑu tˈɛu tsɹ̩,lɑu213 tˈɛu24 tsɹ̩04
-NC,Nanchang,95,医生,医生,,i sɛn,i42 sɛn42,i sɛn,i42 sɛn42
-NC,Nanchang,96,厨师,大师傅 ,,tˈai sɿ fu,tˈai21 sɿ42 fu02,tˈai sɹ̩ fu,tˈai21 sɹ̩42 fu02
-NC,Nanchang,97,乞丐,教化子,,kɑu fɑ tsɿ,kɑu45 fɑ04 tsɿ04,kɑu fɑ tsɹ̩,kɑu45 fɑ04 tsɹ̩04
-NC,Nanchang,98,保姆,寄娘 ,,tɕi ȵiɔŋ,tɕi45 ȵiɔŋ04,tɕi ɲiɔŋ,tɕi45 ɲiɔŋ04
-NC,Nanchang,99,病了,病了 ,,pˈiɑŋ liɛu,pˈiɑŋ21 liɛu02,pˈiɑŋ liɛu,pˈiɑŋ21 liɛu02
-NC,Nanchang,100,伤风,伤风 ,,sɔŋ fuŋ,sɔŋ42 fuŋ42,sɔŋ fuŋ,sɔŋ42 fuŋ42
-NC,Nanchang,101,泻肚,泻肚 ,,ɕiɑ tˈu,ɕiɑ45 tˈu21,ɕiɑ tˈu,ɕiɑ45 tˈu21
-NC,Nanchang,102,瘸子,拐子 ,,kuai tsɿ,kuai213 tsɿ04,kuai tsɹ̩,kuai213 tsɹ̩04
-NC,Nanchang,103,驼背,驼子 ,,tˈo tsɿ,tˈo24 tsɿ04,tˈo tsɹ̩,tˈo24 tsɹ̩04
-NC,Nanchang,104,死了,死不了,,sɿ pɨʔ lɛu,sɿ213 pɨʔ04 lɛu04,sɹ̩ pɨʔ lɛu,sɹ̩213 pɨʔ04 lɛu04
-NC,Nanchang,105,看病,看病 ,,kˈɵn pˈiɑŋ,kˈɵn213 pˈiɑŋ21,kˈɵn pˈiɑŋ,kˈɵn213 pˈiɑŋ21
+NC,Nanchang,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai213 tsɿ04,kʰuaitsɹ̩,kʰuai213tsɹ̩04
+NC,Nanchang,89,勺儿,勺子 ,,sɔʔ tsɿ,sɔʔ2 tsɿ02,sɔʔtsɹ̩,sɔʔ2tsɹ̩02
+NC,Nanchang,90,男人,男个,,lan ko,lan45 ko04,lanko,lan45ko04
+NC,Nanchang,91,女人,女个,,ȵy ko,ȵy213 ko04,ɲyko,ɲy213ko04
+NC,Nanchang,92,男孩子,男崽子 ,,lan tsai tsɿ,lan45 tsai04 tsɿ04,lantsaitsɹ̩,lan45tsai04tsɹ̩04
+NC,Nanchang,93,女孩子,女崽子,,ȵy tsai tsɿ,ȵy213 tsai04 tsɿ04,ɲytsaitsɹ̩,ɲy213tsai04tsɹ̩04
+NC,Nanchang,94,老头儿,老头子 ,,lɑu tˈɛu tsɿ,lɑu213 tˈɛu24 tsɿ04,lɑutʰɛutsɹ̩,lɑu213tʰɛu24tsɹ̩04
+NC,Nanchang,95,医生,医生,,i sɛn,i42 sɛn42,isɛn,i42sɛn42
+NC,Nanchang,96,厨师,大师傅 ,,tˈai sɿ fu,tˈai21 sɿ42 fu02,tʰaisɹ̩fu,tʰai21sɹ̩42fu02
+NC,Nanchang,97,乞丐,教化子,,kɑu fɑ tsɿ,kɑu45 fɑ04 tsɿ04,kɑufɑtsɹ̩,kɑu45fɑ04tsɹ̩04
+NC,Nanchang,98,保姆,寄娘 ,,tɕi ȵiɔŋ,tɕi45 ȵiɔŋ04,tɕiɲiɔŋ,tɕi45ɲiɔŋ04
+NC,Nanchang,99,病了,病了 ,,pˈiɑŋ liɛu,pˈiɑŋ21 liɛu02,pʰiɑŋliɛu,pʰiɑŋ21liɛu02
+NC,Nanchang,100,伤风,伤风 ,,sɔŋ fuŋ,sɔŋ42 fuŋ42,sɔŋfuŋ,sɔŋ42fuŋ42
+NC,Nanchang,101,泻肚,泻肚 ,,ɕiɑ tˈu,ɕiɑ45 tˈu21,ɕiɑtʰu,ɕiɑ45tʰu21
+NC,Nanchang,102,瘸子,拐子 ,,kuai tsɿ,kuai213 tsɿ04,kuaitsɹ̩,kuai213tsɹ̩04
+NC,Nanchang,103,驼背,驼子 ,,tˈo tsɿ,tˈo24 tsɿ04,tʰotsɹ̩,tʰo24tsɹ̩04
+NC,Nanchang,104,死了,死不了,,sɿ pɨʔ lɛu,sɿ213 pɨʔ04 lɛu04,sɹ̩pɨʔlɛu,sɹ̩213pɨʔ04lɛu04
+NC,Nanchang,105,看病,看病 ,,kˈɵn pˈiɑŋ,kˈɵn213 pˈiɑŋ21,kʰɵnpʰiɑŋ,kʰɵn213pʰiɑŋ21
 NC,Nanchang,106,我,我 ,,ŋo,ŋo213,ŋo,ŋo213
 NC,Nanchang,107,你,你 ,,n̩,n̩213,n̩,n̩213
 NC,Nanchang,108,他,渠 ,,tɕie,tɕie213,tɕie,tɕie213
-NC,Nanchang,109,我们,我们 ,,ŋo mɨn,ŋo213 mɨn04,ŋo mɨn,ŋo213 mɨn04
-NC,Nanchang,110,你们,你们 ,,n̩ mɨn,n̩213 mɨn04,n̩ mɨn,n̩213 mɨn04
-NC,Nanchang,111,他们,渠们 ,,tɕie mɨn,tɕie213 mɨn04,tɕie mɨn,tɕie213 mɨn04
-NC,Nanchang,112,咱们,我们 ,,ŋo mɨn,ŋo213 mɨn04,ŋo mɨn,ŋo213 mɨn04
-NC,Nanchang,113,自己,自拣 ,,tsˈɿ kan,tsˈɿ21 kan213,tsˈɹ̩ kan,tsˈɹ̩21 kan213
-NC,Nanchang,114,谁,哪个 ,,lɑ ko,lɑ213 ko04,lɑ ko,lɑ213 ko04
-NC,Nanchang,115,什么,什哩 ,,sɨʔ li,sɨʔ5 li02,sɨʔ li,sɨʔ5 li02
-NC,Nanchang,116,这里,箇里 ,,ko li,ko213 li04,ko li,ko213 li04
-NC,Nanchang,117,那里,许里 ,,he li,he213 li04,he li,he213 li04
-NC,Nanchang,118,哪里,哪里 ,,lɑ li,lɑ213 li04,lɑ li,lɑ213 li04
-NC,Nanchang,119,这个,箇只 ,,ko tsɑʔ,ko213 tsɑʔ5,ko tsɑʔ,ko213 tsɑʔ5
-NC,Nanchang,120,那个,许个 ,,he ko,he213 ko04,he ko,he213 ko04
-NC,Nanchang,121,哪一个,哪个,,lɑ ko,lɑ213 ko04,lɑ ko,lɑ213 ko04
-NC,Nanchang,122,怎么样,郎样,,lɔŋ iɔŋ,lɔŋ45 iɔŋ21,lɔŋ iɔŋ,lɔŋ45 iɔŋ21
+NC,Nanchang,109,我们,我们 ,,ŋo mɨn,ŋo213 mɨn04,ŋomɨn,ŋo213mɨn04
+NC,Nanchang,110,你们,你们 ,,n̩ mɨn,n̩213 mɨn04,n̩mɨn,n̩213mɨn04
+NC,Nanchang,111,他们,渠们 ,,tɕie mɨn,tɕie213 mɨn04,tɕiemɨn,tɕie213mɨn04
+NC,Nanchang,112,咱们,我们 ,,ŋo mɨn,ŋo213 mɨn04,ŋomɨn,ŋo213mɨn04
+NC,Nanchang,113,自己,自拣 ,,tsˈɿ kan,tsˈɿ21 kan213,tsʰɹ̩kan,tsʰɹ̩21kan213
+NC,Nanchang,114,谁,哪个 ,,lɑ ko,lɑ213 ko04,lɑko,lɑ213ko04
+NC,Nanchang,115,什么,什哩 ,,sɨʔ li,sɨʔ5 li02,sɨʔli,sɨʔ5li02
+NC,Nanchang,116,这里,箇里 ,,ko li,ko213 li04,koli,ko213li04
+NC,Nanchang,117,那里,许里 ,,he li,he213 li04,heli,he213li04
+NC,Nanchang,118,哪里,哪里 ,,lɑ li,lɑ213 li04,lɑli,lɑ213li04
+NC,Nanchang,119,这个,箇只 ,,ko tsɑʔ,ko213 tsɑʔ5,kotsɑʔ,ko213tsɑʔ5
+NC,Nanchang,120,那个,许个 ,,he ko,he213 ko04,heko,he213ko04
+NC,Nanchang,121,哪一个,哪个,,lɑ ko,lɑ213 ko04,lɑko,lɑ213ko04
+NC,Nanchang,122,怎么样,郎样,,lɔŋ iɔŋ,lɔŋ45 iɔŋ21,lɔŋiɔŋ,lɔŋ45iɔŋ21
 NC,Nanchang,123,一位客人,个,,ko,ko45,ko,ko45
 NC,Nanchang,124,一双鞋,双,,sɔŋ,sɔŋ42,sɔŋ,sɔŋ42
-NC,Nanchang,125,一床被,床,,tsˈɔŋ,tsˈɔŋ24,tsˈɔŋ,tsˈɔŋ24
-NC,Nanchang,126,一辆车,部,,pˈu,pˈu21,pˈu,pˈu21
+NC,Nanchang,125,一床被,床,,tsˈɔŋ,tsˈɔŋ24,tsʰɔŋ,tsʰɔŋ24
+NC,Nanchang,126,一辆车,部,,pˈu,pˈu21,pʰu,pʰu21
 NC,Nanchang,127,一条牛,只,,tsɑʔ,tsɑʔ5,tsɑʔ,tsɑʔ5
 NC,Nanchang,128,一口猪,只,,tsɑʔ,tsɑʔ5,tsɑʔ,tsɑʔ5
-NC,Nanchang,129,听一会儿,一下子,,iʔ hɑ tsɿ,iʔ5 hɑ21 tsɿ02,iʔ hɑ tsɹ̩,iʔ5 hɑ21 tsɹ̩02
+NC,Nanchang,129,听一会儿,一下子,,iʔ hɑ tsɿ,iʔ5 hɑ21 tsɿ02,iʔhɑtsɹ̩,iʔ5hɑ21tsɹ̩02
 NC,Nanchang,130,打一下,下,,ha,ha21,ha,ha21
-NC,Nanchang,131,上头,上头 ,,sɔŋ tˈɛu,sɔŋ21 tˈɛu02,sɔŋ tˈɛu,sɔŋ21 tˈɛu02
-NC,Nanchang,132,下头,下头 ,,ha tˈɛu,ha21 tˈɛu02,ha tˈɛu,ha21 tˈɛu02
-NC,Nanchang,133,左边,左边,,tso piɛn,tso213 piɛn04,tso piɛn,tso213 piɛn04
-NC,Nanchang,134,右边,右边 ,,iu piɛn,iu21 piɛn02,iu piɛn,iu21 piɛn02
-NC,Nanchang,135,当中,当中 ,,tɔŋ tsuŋ,tɔŋ42 tsuŋ42,tɔŋ tsuŋ,tɔŋ42 tsuŋ42
-NC,Nanchang,136,里面,里头,,li tˈɛu,li213 tˈɛu04,li tˈɛu,li213 tˈɛu04
-NC,Nanchang,137,外面,外头 ,,uai tˈɛu,uai21 tˈɛu02,uai tˈɛu,uai21 tˈɛu02
-NC,Nanchang,138,甜,甜 ,,tˈiɛn,tˈiɛn24,tˈiɛn,tˈiɛn24
+NC,Nanchang,131,上头,上头 ,,sɔŋ tˈɛu,sɔŋ21 tˈɛu02,sɔŋtʰɛu,sɔŋ21tʰɛu02
+NC,Nanchang,132,下头,下头 ,,ha tˈɛu,ha21 tˈɛu02,hatʰɛu,ha21tʰɛu02
+NC,Nanchang,133,左边,左边,,tso piɛn,tso213 piɛn04,tsopiɛn,tso213piɛn04
+NC,Nanchang,134,右边,右边 ,,iu piɛn,iu21 piɛn02,iupiɛn,iu21piɛn02
+NC,Nanchang,135,当中,当中 ,,tɔŋ tsuŋ,tɔŋ42 tsuŋ42,tɔŋtsuŋ,tɔŋ42tsuŋ42
+NC,Nanchang,136,里面,里头,,li tˈɛu,li213 tˈɛu04,litʰɛu,li213tʰɛu04
+NC,Nanchang,137,外面,外头 ,,uai tˈɛu,uai21 tˈɛu02,uaitʰɛu,uai21tʰɛu02
+NC,Nanchang,138,甜,甜 ,,tˈiɛn,tˈiɛn24,tʰiɛn,tʰiɛn24
 NC,Nanchang,139,酸,酸,,sɵn,sɵn42,sɵn,sɵn42
 NC,Nanchang,140,咸,咸,,han,han24,han,han24
-NC,Nanchang,141,淡,淡,,tˈan,tˈan21,tˈan,tˈan21
-NC,Nanchang,142,胖,胖,,pˈɔŋ,pˈɔŋ213,pˈɔŋ,pˈɔŋ213
+NC,Nanchang,141,淡,淡,,tˈan,tˈan21,tʰan,tʰan21
+NC,Nanchang,142,胖,胖,,pˈɔŋ,pˈɔŋ213,pʰɔŋ,pʰɔŋ213
 NC,Nanchang,143,瘦,瘦,,sɛu,sɛu45,sɛu,sɛu45
 NC,Nanchang,144,冷,冷,,lɑŋ,lɑŋ213,lɑŋ,lɑŋ213
 NC,Nanchang,145,热,热,,lɛʔ,lɛʔ5,lɛʔ,lɛʔ5
 NC,Nanchang,146,香,香,,ɕiɔŋ,ɕiɔŋ42,ɕiɔŋ,ɕiɔŋ42
-NC,Nanchang,147,臭,臭,,tsˈɨu,tsˈɨu213,tsˈɨu,tsˈɨu213
-NC,Nanchang,148,粗,粗,,tsˈu,tsˈu42,tsˈu,tsˈu42
+NC,Nanchang,147,臭,臭,,tsˈɨu,tsˈɨu213,tsʰɨu,tsʰɨu213
+NC,Nanchang,148,粗,粗,,tsˈu,tsˈu42,tsʰu,tsʰu42
 NC,Nanchang,149,细,细,,ɕi,ɕi45,ɕi,ɕi45
-NC,Nanchang,150,长,长,,tsˈɔŋ,tsˈɔŋ24,tsˈɔŋ,tsˈɔŋ24
+NC,Nanchang,150,长,长,,tsˈɔŋ,tsˈɔŋ24,tsʰɔŋ,tsʰɔŋ24
 NC,Nanchang,151,短,短,,tɵn,tɵn213,tɵn,tɵn213
-NC,Nanchang,152,脏,腌臜 ,,ŋɑ tsɑ,ŋɑ42 tsɑ02,ŋɑ tsɑ,ŋɑ42 tsɑ02
-NC,Nanchang,153,干净,干净 ,,kɵn tɕˈin,kɵn42 tɕˈin02,kɵn tɕˈin,kɵn42 tɕˈin02
-NC,Nanchang,154,便宜,便宜,,pˈiɛn i,pˈiɛn24 i04,pˈiɛn i,pˈiɛn24 i04
+NC,Nanchang,152,脏,腌臜 ,,ŋɑ tsɑ,ŋɑ42 tsɑ02,ŋɑtsɑ,ŋɑ42tsɑ02
+NC,Nanchang,153,干净,干净 ,,kɵn tɕˈin,kɵn42 tɕˈin02,kɵntɕʰin,kɵn42tɕʰin02
+NC,Nanchang,154,便宜,便宜,,pˈiɛn i,pˈiɛn24 i04,pʰiɛni,pʰiɛn24i04
 NC,Nanchang,155,刚(来),刚,,kɔŋ,kɔŋ42,kɔŋ,kɔŋ42
-NC,Nanchang,156,刚(合适),刚刚,,kɔŋ kɔŋ,kɔŋ42 kɔŋ42,kɔŋ kɔŋ,kɔŋ42 kɔŋ42
-NC,Nanchang,157,正好,正好,,tsɨn hɑu,tsɨn45 hɑu213,tsɨn hɑu,tsɨn45 hɑu213
+NC,Nanchang,156,刚(合适),刚刚,,kɔŋ kɔŋ,kɔŋ42 kɔŋ42,kɔŋkɔŋ,kɔŋ42kɔŋ42
+NC,Nanchang,157,正好,正好,,tsɨn hɑu,tsɨn45 hɑu213,tsɨnhɑu,tsɨn45hɑu213
 NC,Nanchang,158,和,跟 ,,kiɛn,kiɛn42,kiɛn,kiɛn42
 NC,Nanchang,159,只,只,,tsɨʔ,tsɨʔ5,tsɨʔ,tsɨʔ5
-NC,Nanchang,160,从,从,,tsˈuŋ,tsˈuŋ24,tsˈuŋ,tsˈuŋ24
+NC,Nanchang,160,从,从,,tsˈuŋ,tsˈuŋ24,tsʰuŋ,tsʰuŋ24
 NC,Nanchang,161,替,帮,,pɔŋ,pɔŋ42,pɔŋ,pɔŋ42
 NC,Nanchang,162,拿,搦 ,,lɑʔ,lɑʔ5,lɑʔ,lɑʔ5
-NC,Nanchang,163,故意,特事,,tˈɛʔ sɿ,tˈɛʔ2 sɿ02,tˈɛʔ sɹ̩,tˈɛʔ2 sɹ̩02
+NC,Nanchang,163,故意,特事,,tˈɛʔ sɿ,tˈɛʔ2 sɿ02,tʰɛʔsɹ̩,tʰɛʔ2sɹ̩02
 NC,Nanchang,164,一,一,,iʔ,iʔ5,iʔ,iʔ5
 NC,Nanchang,165,二,二,,ɵ,ɵ21,ɵ,ɵ21
 NC,Nanchang,166,三,三,,san,san42,san,san42
 NC,Nanchang,167,四,四,,sɿ,sɿ45,sɹ̩,sɹ̩45
 NC,Nanchang,168,五,五,,ŋ̩,ŋ̩213,ŋ̩,ŋ̩213
 NC,Nanchang,169,六,六,,liuʔ,liuʔ2,liuʔ,liuʔ2
-NC,Nanchang,170,七,七,,tɕˈiʔ,tɕˈiʔ5,tɕˈiʔ,tɕˈiʔ5
+NC,Nanchang,170,七,七,,tɕˈiʔ,tɕˈiʔ5,tɕʰiʔ,tɕʰiʔ5
 NC,Nanchang,171,八,八,,paʔ,paʔ5,paʔ,paʔ5
 NC,Nanchang,172,九,九,,tɕiu,tɕiu213,tɕiu,tɕiu213
 NC,Nanchang,173,十,十,,sɨʔ,sɨʔ2,sɨʔ,sɨʔ2
-NC,Nanchang,174,十一,十一,,sɨʔ iʔ,sɨʔ2 iʔ5,sɨʔ iʔ,sɨʔ2 iʔ5
-NC,Nanchang,175,十二,十二,,sɨʔ ɵ,sɨʔ2 ɵ21,sɨʔ ɵ,sɨʔ2 ɵ21
-NC,Nanchang,176,二十,二十,,ɵ sɨʔ,ɵ21 sɨʔ02,ɵ sɨʔ,ɵ21 sɨʔ02
-NC,Nanchang,177,二十一,二十一,,ɵ sɨʔ iʔ,ɵ21 sɨʔ02 iʔ5,ɵ sɨʔ iʔ,ɵ21 sɨʔ02 iʔ5
-NC,Nanchang,178,一百二十,一百二十,,iʔ pɑʔ ɵ sɨʔ,iʔ5 pɑʔ5 ɵ21 sɨʔ02,iʔ pɑʔ ɵ sɨʔ,iʔ5 pɑʔ5 ɵ21 sɨʔ02
-NC,Nanchang,179,第一,第一,,tˈi iʔ,tˈi21 iʔ5,tˈi iʔ,tˈi21 iʔ5
-NC,Nanchang,180,第二,第二,,tˈi ɵ,tˈi21 ɵ21,tˈi ɵ,tˈi21 ɵ21
-NC,Nanchang,181,两里,两里,,liɔŋ li,liɔŋ213-24 li213,liɔŋ li,liɔŋ213-24 li213
-NC,Nanchang,182,二两,二两,,ɵ liɔŋ,ɵ21 liɔŋ213,ɵ liɔŋ,ɵ21 liɔŋ213
+NC,Nanchang,174,十一,十一,,sɨʔ iʔ,sɨʔ2 iʔ5,sɨʔiʔ,sɨʔ2iʔ5
+NC,Nanchang,175,十二,十二,,sɨʔ ɵ,sɨʔ2 ɵ21,sɨʔɵ,sɨʔ2ɵ21
+NC,Nanchang,176,二十,二十,,ɵ sɨʔ,ɵ21 sɨʔ02,ɵsɨʔ,ɵ21sɨʔ02
+NC,Nanchang,177,二十一,二十一,,ɵ sɨʔ iʔ,ɵ21 sɨʔ02 iʔ5,ɵsɨʔiʔ,ɵ21sɨʔ02iʔ5
+NC,Nanchang,178,一百二十,一百二十,,iʔ pɑʔ ɵ sɨʔ,iʔ5 pɑʔ5 ɵ21 sɨʔ02,iʔpɑʔɵsɨʔ,iʔ5pɑʔ5ɵ21sɨʔ02
+NC,Nanchang,179,第一,第一,,tˈi iʔ,tˈi21 iʔ5,tʰiiʔ,tʰi21iʔ5
+NC,Nanchang,180,第二,第二,,tˈi ɵ,tˈi21 ɵ21,tʰiɵ,tʰi21ɵ21
+NC,Nanchang,181,两里,两里,,liɔŋ li,liɔŋ21324 li213,liɔŋli,liɔŋ21324li213
+NC,Nanchang,182,二两,二两,,ɵ liɔŋ,ɵ21 liɔŋ213,ɵliɔŋ,ɵ21liɔŋ213
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,

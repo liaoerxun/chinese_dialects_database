@@ -1,142 +1,142 @@
 dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-TY,Taiyuan,1,太阳,太阳,,tai iɒ̃,tai45 iɒ̃11-53,tai iɒ̃,tai45 iɒ̃11-53
-TY,Taiyuan,2,月亮,月亮,,yəʔ liɒ̃,yəʔ2 liɒ̃45,yəʔ liɒ̃,yəʔ2 liɒ̃45
-TY,Taiyuan,3,星星, 星宿,,ɕi ɕiəu,ɕi11 ɕiəu45,ɕi ɕiəu,ɕi11 ɕiəu45
-TY,Taiyuan,4,打雷,响忽雷,,xiɒ̃ xuəʔ luei,xiɒ̃53 xuəʔ2-54 luei11,xiɒ̃ xuəʔ luei,xiɒ̃53 xuəʔ2-54 luei11
-TY,Taiyuan,5,闪电,打闪,,ta sæ̃,ta53-11 sæ̃53,ta sæ̃,ta53-11 sæ̃53
-TY,Taiyuan,6,下雨,下雨,,xa y,xa45 y53,xa y,xa45 y53
-TY,Taiyuan,7,下雪,下雪,,xa ɕyəʔ,xa45 ɕyəʔ2,xa ɕyəʔ,xa45 ɕyəʔ2
-TY,Taiyuan,8,冰雹,冷弹子 ,,ləŋ tæ̃ tsəʔ,ləŋ53 tæ̃45 tsəʔ,ləŋ tæ̃ tsəʔ,ləŋ53 tæ̃45 tsəʔ
-TY,Taiyuan,9,结冰,冻冰 ,,tuəŋ piəŋ,tuəŋ45 piəŋ11,tuəŋ piəŋ,tuəŋ45 piəŋ11
-TY,Taiyuan,10,刮风,刮风,,kuaʔ fəŋ,kuaʔ2-45 fəŋ11,kuaʔ fəŋ,kuaʔ2-45 fəŋ11
+TY,Taiyuan,1,太阳,太阳,,tai iɒ̃,tai45 iɒ̃1153,taiiɒ̃,tai45iɒ̃1153
+TY,Taiyuan,2,月亮,月亮,,yəʔ liɒ̃,yəʔ2 liɒ̃45,yəʔliɒ̃,yəʔ2liɒ̃45
+TY,Taiyuan,3,星星, 星宿,,ɕi ɕiəu,ɕi11 ɕiəu45,ɕiɕiəu,ɕi11ɕiəu45
+TY,Taiyuan,4,打雷,响忽雷,,xiɒ̃ xuəʔ luei,xiɒ̃53 xuəʔ254 luei11,xiɒ̃xuəʔluei,xiɒ̃53xuəʔ254luei11
+TY,Taiyuan,5,闪电,打闪,,ta sæ̃,ta5311 sæ̃53,tasæ̃,ta5311sæ̃53
+TY,Taiyuan,6,下雨,下雨,,xa y,xa45 y53,xay,xa45y53
+TY,Taiyuan,7,下雪,下雪,,xa ɕyəʔ,xa45 ɕyəʔ2,xaɕyəʔ,xa45ɕyəʔ2
+TY,Taiyuan,8,冰雹,冷弹子 ,,ləŋ tæ̃ tsəʔ,ləŋ53 tæ̃45 tsəʔ,ləŋtæ̃tsəʔ,ləŋ53tæ̃45tsəʔ
+TY,Taiyuan,9,结冰,冻冰 ,,tuəŋ piəŋ,tuəŋ45 piəŋ11,tuəŋpiəŋ,tuəŋ45piəŋ11
+TY,Taiyuan,10,刮风,刮风,,kuaʔ fəŋ,kuaʔ245 fəŋ11,kuaʔfəŋ,kuaʔ245fəŋ11
 TY,Taiyuan,11,虹,虹 ,,tɕiɒ̃,tɕiɒ̃45,tɕiɒ̃,tɕiɒ̃45
-TY,Taiyuan,12,端午节,五月端午 ,,vu yəʔ tuæ̃ vu,vu53 yəʔ2 tuæ̃11 vu53,vu yəʔ tuæ̃ vu,vu53 yəʔ2 tuæ̃11 vu53
-TY,Taiyuan,13,中秋节,八月十五,,paʔ yəʔ səʔ vu,paʔ2-53 yəʔ2 səʔ54-2 vu53,paʔ yəʔ səʔ vu,paʔ2-53 yəʔ2 səʔ54-2 vu53
-TY,Taiyuan,14,除夕,年三十 ,,nie sæ̃ səʔ,nie11 sæ̃11 səʔ54,nie sæ̃ səʔ,nie11 sæ̃11 səʔ54
-TY,Taiyuan,15,今年,今年 ,,tɕiəŋ nie,tɕiəŋ11 nie11,tɕiəŋ nie,tɕiəŋ11 nie11
-TY,Taiyuan,16,明年,明年 ,,miəŋ nie,miəŋ11 nie11,miəŋ nie,miəŋ11 nie11
-TY,Taiyuan,17,去年,年时 ,,nie sɿ,nie11 sɿ11,nie sɹ̩,nie11 sɹ̩11
-TY,Taiyuan,18,明天,早起,,tsau tɕˈi,tsau53-11 tɕˈi53,tsau tɕˈi,tsau53-11 tɕˈi53
-TY,Taiyuan,19,昨天,夜天,,ie tˈie,ie45 tˈie11,ie tˈie,ie45 tˈie11
-TY,Taiyuan,20,今天,今日,,tɕiəŋ zəɿ,tɕiəŋ11 zəɿ2,tɕiəŋ zəɹ̩,tɕiəŋ11 zəɹ̩2
-TY,Taiyuan,21,星期天,礼拜,,li pai,li53 pai45,li pai,li53 pai45
-TY,Taiyuan,22,麦子,麦子,,mieʔ tsəʔ,mieʔ2 tsəʔ,mieʔ tsəʔ,mieʔ2 tsəʔ
-TY,Taiyuan,23,大米,稻子,,tˈau tsəʔ,tˈau45 tsəʔ,tˈau tsəʔ,tˈau45 tsəʔ
-TY,Taiyuan,24,蚕豆,大豆,,ta təu,ta45 təu45,ta təu,ta45 təu45
-TY,Taiyuan,25,向日葵,葵花,,kˈuei xua,kˈuei11 xua11,kˈuei xua,kˈuei11 xua11
-TY,Taiyuan,26,菠菜,青菜 ,,tɕˈi tsˈai,tɕˈi11 tsˈai45,tɕˈi tsˈai,tɕˈi11 tsˈai45
-TY,Taiyuan,27,卷心菜,茴子白,,xuei tsəʔ pai,xuei11 tsəʔ pai11,xuei tsəʔ pai,xuei11 tsəʔ pai11
-TY,Taiyuan,28,西红柿,西番柿,,ɕi fæ̃ sɿ,ɕi11 fæ̃11 sɿ45,ɕi fæ̃ sɹ̩,ɕi11 fæ̃11 sɹ̩45
-TY,Taiyuan,29,茄子,茄子 ,,tɕˈie tsəʔ,tɕˈie11 tsəʔ,tɕˈie tsəʔ,tɕˈie11 tsəʔ
-TY,Taiyuan,30,白薯,红薯 ,,xuəŋ su,xuəŋ11 su53,xuəŋ su,xuəŋ11 su53
-TY,Taiyuan,31,马铃薯,山药蛋,,sæ̃ iəʔ tæ̃,sæ̃11 iəʔ2 tæ̃45,sæ̃ iəʔ tæ̃,sæ̃11 iəʔ2 tæ̃45
-TY,Taiyuan,32,南瓜,南瓜,,næ̃ kua,næ̃11 kua11,næ̃ kua,næ̃11 kua11
+TY,Taiyuan,12,端午节,五月端午 ,,vu yəʔ tuæ̃ vu,vu53 yəʔ2 tuæ̃11 vu53,vuyəʔtuæ̃vu,vu53yəʔ2tuæ̃11vu53
+TY,Taiyuan,13,中秋节,八月十五,,paʔ yəʔ səʔ vu,paʔ253 yəʔ2 səʔ542 vu53,paʔyəʔsəʔvu,paʔ253yəʔ2səʔ542vu53
+TY,Taiyuan,14,除夕,年三十 ,,nie sæ̃ səʔ,nie11 sæ̃11 səʔ54,niesæ̃səʔ,nie11sæ̃11səʔ54
+TY,Taiyuan,15,今年,今年 ,,tɕiəŋ nie,tɕiəŋ11 nie11,tɕiəŋnie,tɕiəŋ11nie11
+TY,Taiyuan,16,明年,明年 ,,miəŋ nie,miəŋ11 nie11,miəŋnie,miəŋ11nie11
+TY,Taiyuan,17,去年,年时 ,,nie sɿ,nie11 sɿ11,niesɹ̩,nie11sɹ̩11
+TY,Taiyuan,18,明天,早起,,tsau tɕˈi,tsau5311 tɕˈi53,tsautɕʰi,tsau5311tɕʰi53
+TY,Taiyuan,19,昨天,夜天,,ie tˈie,ie45 tˈie11,ietʰie,ie45tʰie11
+TY,Taiyuan,20,今天,今日,,tɕiəŋ zəɿ,tɕiəŋ11 zəɿ2,tɕiəŋzəɹ̩,tɕiəŋ11zəɹ̩2
+TY,Taiyuan,21,星期天,礼拜,,li pai,li53 pai45,lipai,li53pai45
+TY,Taiyuan,22,麦子,麦子,,mieʔ tsəʔ,mieʔ2 tsəʔ,mieʔtsəʔ,mieʔ2tsəʔ
+TY,Taiyuan,23,大米,稻子,,tˈau tsəʔ,tˈau45 tsəʔ,tʰautsəʔ,tʰau45tsəʔ
+TY,Taiyuan,24,蚕豆,大豆,,ta təu,ta45 təu45,tatəu,ta45təu45
+TY,Taiyuan,25,向日葵,葵花,,kˈuei xua,kˈuei11 xua11,kʰueixua,kʰuei11xua11
+TY,Taiyuan,26,菠菜,青菜 ,,tɕˈi tsˈai,tɕˈi11 tsˈai45,tɕʰitsʰai,tɕʰi11tsʰai45
+TY,Taiyuan,27,卷心菜,茴子白,,xuei tsəʔ pai,xuei11 tsəʔ pai11,xueitsəʔpai,xuei11tsəʔpai11
+TY,Taiyuan,28,西红柿,西番柿,,ɕi fæ̃ sɿ,ɕi11 fæ̃11 sɿ45,ɕifæ̃sɹ̩,ɕi11fæ̃11sɹ̩45
+TY,Taiyuan,29,茄子,茄子 ,,tɕˈie tsəʔ,tɕˈie11 tsəʔ,tɕʰietsəʔ,tɕʰie11tsəʔ
+TY,Taiyuan,30,白薯,红薯 ,,xuəŋ su,xuəŋ11 su53,xuəŋsu,xuəŋ11su53
+TY,Taiyuan,31,马铃薯,山药蛋,,sæ̃ iəʔ tæ̃,sæ̃11 iəʔ2 tæ̃45,sæ̃iəʔtæ̃,sæ̃11iəʔ2tæ̃45
+TY,Taiyuan,32,南瓜,南瓜,,næ̃ kua,næ̃11 kua11,næ̃kua,næ̃11kua11
 TY,Taiyuan,33,猪,猪 ,,tsu,tsu11,tsu,tsu11
-TY,Taiyuan,34,公猪,公猪,,kuəŋ tsu,kuəŋ11 tsu11,kuəŋ tsu,kuəŋ11 tsu11
-TY,Taiyuan,35,母猪,母猪,,mu tsu,mu53 tsu11,mu tsu,mu53 tsu11
-TY,Taiyuan,36,公鸡,公鸡,,kuəŋ tɕi,kuəŋ11 tɕi11,kuəŋ tɕi,kuəŋ11 tɕi11
-TY,Taiyuan,37,母鸡,草鸡,,tsˈau tɕi,tsˈau53 tɕi11,tsˈau tɕi,tsˈau53 tɕi11
-TY,Taiyuan,38,麻雀,雀儿,,tɕˈyar,tɕˈyar53,tɕˈyar,tɕˈyar53
-TY,Taiyuan,39,老鼠,鷇儿,,ku ər,ku11 ər11,ku ər,ku11 ər11
-TY,Taiyuan,40,臭虫,壁虱,,piəʔ səʔ,piəʔ2-54 səʔ2,piəʔ səʔ,piəʔ2-54 səʔ2
-TY,Taiyuan,41,房子(整),房子 ,,fɒ̃ tsəʔ,fɒ̃11 tsəʔ,fɒ̃ tsəʔ,fɒ̃11 tsəʔ
+TY,Taiyuan,34,公猪,公猪,,kuəŋ tsu,kuəŋ11 tsu11,kuəŋtsu,kuəŋ11tsu11
+TY,Taiyuan,35,母猪,母猪,,mu tsu,mu53 tsu11,mutsu,mu53tsu11
+TY,Taiyuan,36,公鸡,公鸡,,kuəŋ tɕi,kuəŋ11 tɕi11,kuəŋtɕi,kuəŋ11tɕi11
+TY,Taiyuan,37,母鸡,草鸡,,tsˈau tɕi,tsˈau53 tɕi11,tsʰautɕi,tsʰau53tɕi11
+TY,Taiyuan,38,麻雀,雀儿,,tɕˈyar,tɕˈyar53,tɕʰyar,tɕʰyar53
+TY,Taiyuan,39,老鼠,鷇儿,,ku ər,ku11 ər11,kuər,ku11ər11
+TY,Taiyuan,40,臭虫,壁虱,,piəʔ səʔ,piəʔ254 səʔ2,piəʔsəʔ,piəʔ254səʔ2
+TY,Taiyuan,41,房子(整),房子 ,,fɒ̃ tsəʔ,fɒ̃11 tsəʔ,fɒ̃tsəʔ,fɒ̃11tsəʔ
 TY,Taiyuan,42,房子(单),家,,tɕia,tɕia11,tɕia,tɕia11
-TY,Taiyuan,43,窗户,窗户,,tsˈuɒ̃ xu,tsˈuɒ̃11 xu45,tsˈuɒ̃ xu,tsˈuɒ̃11 xu45
-TY,Taiyuan,44,门坎,门限限 ,,məŋ ɕie ɕie,məŋ11 ɕie45 ɕie45-53,məŋ ɕie ɕie,məŋ11 ɕie45 ɕie45-53
-TY,Taiyuan,45,厕所,茅房 ,,mau fɒ̃,mau11 fɒ̃11,mau fɒ̃,mau11 fɒ̃11
-TY,Taiyuan,46,厨房,厨房,,tsˈu fɒ̃,tsˈu11 fɒ̃11,tsˈu fɒ̃,tsˈu11 fɒ̃11
-TY,Taiyuan,47,烟囱,烟洞 ,,ie tuəŋ,ie11 tuəŋ45,ie tuəŋ,ie11 tuəŋ45
-TY,Taiyuan,48,桌子,桌子,,tsuaʔ tsəʔ,tsuaʔ2 tsəʔ,tsuaʔ tsəʔ,tsuaʔ2 tsəʔ
-TY,Taiyuan,49,楼梯,楼梯,,ləu tˈi,ləu11 tˈi11,ləu tˈi,ləu11 tˈi11
-TY,Taiyuan,50,头,得脑,,təʔ nau,təʔ2-54 nau53,təʔ nau,təʔ2-54 nau53
-TY,Taiyuan,51,额头,奔颅,,pəŋ ləu,pəŋ11 ləu11,pəŋ ləu,pəŋ11 ləu11
-TY,Taiyuan,52,脸,眉眼,,mi nie,mi11 nie53,mi nie,mi11 nie53
-TY,Taiyuan,53,鼻子,鼻子,,piəʔ tsəʔ,piəʔ53 tsəʔ,piəʔ tsəʔ,piəʔ53 tsəʔ
-TY,Taiyuan,54,脖子,脖子,,paʔ tsəʔ,paʔ54 tsəʔ,paʔ tsəʔ,paʔ54 tsəʔ
-TY,Taiyuan,55,左手,左手,,tsuɤ səu,tsuɤ53-11 səu53,tsuɤ səu,tsuɤ53-11 səu53
-TY,Taiyuan,56,右手,正手,,tsəŋ səu,tsəŋ45 səu53,tsəŋ səu,tsəŋ45 səu53
-TY,Taiyuan,57,拳头,圪都,,kəʔ tu,kəʔ54 tu11,kəʔ tu,kəʔ54 tu11
-TY,Taiyuan,58,手指头,手指头,,səu tsəʔ tˈəu,səu53 tsəʔ2 tˈəu11-45,səu tsəʔ tˈəu,səu53 tsəʔ2 tˈəu11-45
-TY,Taiyuan,59,指甲,指甲,,tsəʔ tɕiaʔ,tsəʔ2-54 tɕiaʔ2,tsəʔ tɕiaʔ,tsəʔ2-54 tɕiaʔ2
-TY,Taiyuan,60,膝盖,圪地跪,,kəʔ ti kˈuei,kəʔ54 ti45 kˈuei11,kəʔ ti kˈuei,kəʔ54 ti45 kˈuei11
-TY,Taiyuan,61,腿,腿,,tˈuei,tˈuei53,tˈuei,tˈuei53
-TY,Taiyuan,62,父亲,老子,,lau tsəʔ,lau53 tsəʔ,lau tsəʔ,lau53 tsəʔ
+TY,Taiyuan,43,窗户,窗户,,tsˈuɒ̃ xu,tsˈuɒ̃11 xu45,tsʰuɒ̃xu,tsʰuɒ̃11xu45
+TY,Taiyuan,44,门坎,门限限 ,,məŋ ɕie ɕie,məŋ11 ɕie45 ɕie4553,məŋɕieɕie,məŋ11ɕie45ɕie4553
+TY,Taiyuan,45,厕所,茅房 ,,mau fɒ̃,mau11 fɒ̃11,maufɒ̃,mau11fɒ̃11
+TY,Taiyuan,46,厨房,厨房,,tsˈu fɒ̃,tsˈu11 fɒ̃11,tsʰufɒ̃,tsʰu11fɒ̃11
+TY,Taiyuan,47,烟囱,烟洞 ,,ie tuəŋ,ie11 tuəŋ45,ietuəŋ,ie11tuəŋ45
+TY,Taiyuan,48,桌子,桌子,,tsuaʔ tsəʔ,tsuaʔ2 tsəʔ,tsuaʔtsəʔ,tsuaʔ2tsəʔ
+TY,Taiyuan,49,楼梯,楼梯,,ləu tˈi,ləu11 tˈi11,ləutʰi,ləu11tʰi11
+TY,Taiyuan,50,头,得脑,,təʔ nau,təʔ254 nau53,təʔnau,təʔ254nau53
+TY,Taiyuan,51,额头,奔颅,,pəŋ ləu,pəŋ11 ləu11,pəŋləu,pəŋ11ləu11
+TY,Taiyuan,52,脸,眉眼,,mi nie,mi11 nie53,minie,mi11nie53
+TY,Taiyuan,53,鼻子,鼻子,,piəʔ tsəʔ,piəʔ53 tsəʔ,piəʔtsəʔ,piəʔ53tsəʔ
+TY,Taiyuan,54,脖子,脖子,,paʔ tsəʔ,paʔ54 tsəʔ,paʔtsəʔ,paʔ54tsəʔ
+TY,Taiyuan,55,左手,左手,,tsuɤ səu,tsuɤ5311 səu53,tsuɤsəu,tsuɤ5311səu53
+TY,Taiyuan,56,右手,正手,,tsəŋ səu,tsəŋ45 səu53,tsəŋsəu,tsəŋ45səu53
+TY,Taiyuan,57,拳头,圪都,,kəʔ tu,kəʔ54 tu11,kəʔtu,kəʔ54tu11
+TY,Taiyuan,58,手指头,手指头,,səu tsəʔ tˈəu,səu53 tsəʔ2 tˈəu1145,səutsəʔtʰəu,səu53tsəʔ2tʰəu1145
+TY,Taiyuan,59,指甲,指甲,,tsəʔ tɕiaʔ,tsəʔ254 tɕiaʔ2,tsəʔtɕiaʔ,tsəʔ254tɕiaʔ2
+TY,Taiyuan,60,膝盖,圪地跪,,kəʔ ti kˈuei,kəʔ54 ti45 kˈuei11,kəʔtikʰuei,kəʔ54ti45kʰuei11
+TY,Taiyuan,61,腿,腿,,tˈuei,tˈuei53,tʰuei,tʰuei53
+TY,Taiyuan,62,父亲,老子,,lau tsəʔ,lau53 tsəʔ,lautsəʔ,lau53tsəʔ
 TY,Taiyuan,63,母亲,妈 ,,ma,ma11,ma,ma11
-TY,Taiyuan,64,祖父,爷爷 ,,ie ie,ie11 ie11-45,ie ie,ie11 ie11-45
-TY,Taiyuan,65,祖母,奶奶 ,,nai nai,nai53 nai53-11,nai nai,nai53 nai53-11
-TY,Taiyuan,66,伯父,大爷 ,,ta ie,ta45 ie11-53,ta ie,ta45 ie11-53
-TY,Taiyuan,67,伯母,大娘 ,,ta niɒ̃,ta45 niɒ̃11,ta niɒ̃,ta45 niɒ̃11
-TY,Taiyuan,68,叔父,叔叔 ,,suəʔ suəʔ,suəʔ2 suəʔ2,suəʔ suəʔ,suəʔ2 suəʔ2
-TY,Taiyuan,69,叔母,婶婶 ,,səŋ səŋ,səŋ53 səŋ53-11,səŋ səŋ,səŋ53 səŋ53-11
-TY,Taiyuan,70,外祖父,姥爷 ,,lau ie,lau53 ie11,lau ie,lau53 ie11
-TY,Taiyuan,71,外祖母,姥娘 ,,lau niɒ̃,lau53 niɒ̃11,lau niɒ̃,lau53 niɒ̃11
-TY,Taiyuan,72,舅舅,舅舅 ,,tɕiəu tɕiəu,tɕiəu45 tɕiəu45-53,tɕiəu tɕiəu,tɕiəu45 tɕiəu45-53
-TY,Taiyuan,73,舅母,妗妗 ,,tɕiəŋ tɕiəŋ,tɕiəŋ45 tɕiəŋ45-53,tɕiəŋ tɕiəŋ,tɕiəŋ45 tɕiəŋ45-53
-TY,Taiyuan,74,丈夫,老汉,,lau xæ̃,lau53 xæ̃45,lau xæ̃,lau53 xæ̃45
-TY,Taiyuan,75,妻子,老婆,,lau pˈɤ,lau53 pˈɤ11,lau pˈɤ,lau53 pˈɤ11
-TY,Taiyuan,76,儿子,小子 ,,ɕiau tsəʔ,ɕiau53 tsəʔ,ɕiau tsəʔ,ɕiau53 tsəʔ
-TY,Taiyuan,77,女儿,闺女 ,,kuei ny,kuei11 ny53-45,kuei ny,kuei11 ny53-45
-TY,Taiyuan,78,早饭,早清饭 ,,tsau tɕˈiəŋ fæ̃,tsau53 tɕˈiəŋ11 fæ̃45,tsau tɕˈiəŋ fæ̃,tsau53 tɕˈiəŋ11 fæ̃45
-TY,Taiyuan,79,午饭,晌午饭 ,,sɒ̃ vu fæ̃,sɒ̃53-11 vu53 fæ̃45,sɒ̃ vu fæ̃,sɒ̃53-11 vu53 fæ̃45
-TY,Taiyuan,80,晚饭,黑夜饭 ,,xəʔ ie fæ̃,xəʔ2 ie45 fæ̃45,xəʔ ie fæ̃,xəʔ2 ie45 fæ̃45
+TY,Taiyuan,64,祖父,爷爷 ,,ie ie,ie11 ie1145,ieie,ie11ie1145
+TY,Taiyuan,65,祖母,奶奶 ,,nai nai,nai53 nai5311,nainai,nai53nai5311
+TY,Taiyuan,66,伯父,大爷 ,,ta ie,ta45 ie1153,taie,ta45ie1153
+TY,Taiyuan,67,伯母,大娘 ,,ta niɒ̃,ta45 niɒ̃11,taniɒ̃,ta45niɒ̃11
+TY,Taiyuan,68,叔父,叔叔 ,,suəʔ suəʔ,suəʔ2 suəʔ2,suəʔsuəʔ,suəʔ2suəʔ2
+TY,Taiyuan,69,叔母,婶婶 ,,səŋ səŋ,səŋ53 səŋ5311,səŋsəŋ,səŋ53səŋ5311
+TY,Taiyuan,70,外祖父,姥爷 ,,lau ie,lau53 ie11,lauie,lau53ie11
+TY,Taiyuan,71,外祖母,姥娘 ,,lau niɒ̃,lau53 niɒ̃11,launiɒ̃,lau53niɒ̃11
+TY,Taiyuan,72,舅舅,舅舅 ,,tɕiəu tɕiəu,tɕiəu45 tɕiəu4553,tɕiəutɕiəu,tɕiəu45tɕiəu4553
+TY,Taiyuan,73,舅母,妗妗 ,,tɕiəŋ tɕiəŋ,tɕiəŋ45 tɕiəŋ4553,tɕiəŋtɕiəŋ,tɕiəŋ45tɕiəŋ4553
+TY,Taiyuan,74,丈夫,老汉,,lau xæ̃,lau53 xæ̃45,lauxæ̃,lau53xæ̃45
+TY,Taiyuan,75,妻子,老婆,,lau pˈɤ,lau53 pˈɤ11,laupʰɤ,lau53pʰɤ11
+TY,Taiyuan,76,儿子,小子 ,,ɕiau tsəʔ,ɕiau53 tsəʔ,ɕiautsəʔ,ɕiau53tsəʔ
+TY,Taiyuan,77,女儿,闺女 ,,kuei ny,kuei11 ny5345,kueiny,kuei11ny5345
+TY,Taiyuan,78,早饭,早清饭 ,,tsau tɕˈiəŋ fæ̃,tsau53 tɕˈiəŋ11 fæ̃45,tsautɕʰiəŋfæ̃,tsau53tɕʰiəŋ11fæ̃45
+TY,Taiyuan,79,午饭,晌午饭 ,,sɒ̃ vu fæ̃,sɒ̃5311 vu53 fæ̃45,sɒ̃vufæ̃,sɒ̃5311vu53fæ̃45
+TY,Taiyuan,80,晚饭,黑夜饭 ,,xəʔ ie fæ̃,xəʔ2 ie45 fæ̃45,xəʔiefæ̃,xəʔ2ie45fæ̃45
 TY,Taiyuan,81,面条,面,,mie,mie45,mie,mie45
-TY,Taiyuan,82,馒头,馍馍 ,,mɤ mɤ,mɤ11 mɤ11-45,mɤ mɤ,mɤ11 mɤ11-45
-TY,Taiyuan,83,包子,包子,,pau tsəʔ,pau11 tsəʔ,pau tsəʔ,pau11 tsəʔ
-TY,Taiyuan,84,馄饨,馄饨,,xuəŋ tuəŋ,xuəŋ11 tuəŋ11-45,xuəŋ tuəŋ,xuəŋ11 tuəŋ11-45
-TY,Taiyuan,85,醋,醋,,tsˈu,tsˈu45,tsˈu,tsˈu45
-TY,Taiyuan,86,酱油,酱油,,tɕiɒ̃ iəu,tɕiɒ̃45 iəu11,tɕiɒ̃ iəu,tɕiɒ̃45 iəu11
-TY,Taiyuan,87,盐,咸盐,,ɕie ie,ɕie11 ie11,ɕie ie,ɕie11 ie11
-TY,Taiyuan,88,筷子,筷子,,kˈuai tsəʔ,kˈuai45 tsəʔ,kˈuai tsəʔ,kˈuai45 tsəʔ
-TY,Taiyuan,89,勺儿,调羹,,tˈiau kəŋ,tˈiau11 kəŋ11,tˈiau kəŋ,tˈiau11 kəŋ11
-TY,Taiyuan,90,男人,男的,,næ̃ təʔ,næ̃11 təʔ,næ̃ təʔ,næ̃11 təʔ
-TY,Taiyuan,91,女人,女的,,ny təʔ,ny53 təʔ,ny təʔ,ny53 təʔ
-TY,Taiyuan,92,男孩子,男娃娃,,næ̃ va va,næ̃11 va11 va11-45,næ̃ va va,næ̃11 va11 va11-45
-TY,Taiyuan,93,女孩子,女娃娃,,ny va va,ny53 va11 va11-45,ny va va,ny53 va11 va11-45
-TY,Taiyuan,94,老头儿,老汉汉 ,,lau xæ̃ xæ̃,lau53 xæ̃45 xæ̃45-53,lau xæ̃ xæ̃,lau53 xæ̃45 xæ̃45-53
-TY,Taiyuan,95,医生,先生,,ɕie səŋ,ɕie11 səŋ11,ɕie səŋ,ɕie11 səŋ11
-TY,Taiyuan,96,厨师,厨子 ,,tsˈu tsəʔ,tsˈu11 tsəʔ,tsˈu tsəʔ,tsˈu11 tsəʔ
-TY,Taiyuan,97,乞丐,叫花子 ,,tɕiau xua tsəʔ,tɕiau45 xua11 tsəʔ,tɕiau xua tsəʔ,tɕiau45 xua11 tsəʔ
-TY,Taiyuan,98,保姆,保姆 ,,pau mu,pau53-11 mu53,pau mu,pau53-11 mu53
-TY,Taiyuan,99,病了,病咧,,pi lie,pi45 lie53,pi lie,pi45 lie53
-TY,Taiyuan,100,伤风,拍住咧 ,,pˈiəʔ tsu lie,pˈiəʔ2 tsu45 lie53,pˈiəʔ tsu lie,pˈiəʔ2 tsu45 lie53
-TY,Taiyuan,101,泻肚,蹿稀,,tsˈuæ̃ ɕi,tsˈuæ̃45 ɕi11,tsˈuæ̃ ɕi,tsˈuæ̃45 ɕi11
-TY,Taiyuan,102,瘸子,拐子,,kuai tsəʔ,kuai53 tsəʔ,kuai tsəʔ,kuai53 tsəʔ
-TY,Taiyuan,103,驼背,背锅锅,,pei kuɤ kuɤ,pei11 kuɤ11 kuɤ11-45,pei kuɤ kuɤ,pei11 kuɤ11 kuɤ11-45
-TY,Taiyuan,104,死了,死咧,,sɿ lie,sɿ53 lie11,sɹ̩ lie,sɹ̩53 lie11
-TY,Taiyuan,105,看病,看病 ,,kæ̃ piəŋ,kæ̃45 piəŋ45,kæ̃ piəŋ,kæ̃45 piəŋ45
+TY,Taiyuan,82,馒头,馍馍 ,,mɤ mɤ,mɤ11 mɤ1145,mɤmɤ,mɤ11mɤ1145
+TY,Taiyuan,83,包子,包子,,pau tsəʔ,pau11 tsəʔ,pautsəʔ,pau11tsəʔ
+TY,Taiyuan,84,馄饨,馄饨,,xuəŋ tuəŋ,xuəŋ11 tuəŋ1145,xuəŋtuəŋ,xuəŋ11tuəŋ1145
+TY,Taiyuan,85,醋,醋,,tsˈu,tsˈu45,tsʰu,tsʰu45
+TY,Taiyuan,86,酱油,酱油,,tɕiɒ̃ iəu,tɕiɒ̃45 iəu11,tɕiɒ̃iəu,tɕiɒ̃45iəu11
+TY,Taiyuan,87,盐,咸盐,,ɕie ie,ɕie11 ie11,ɕieie,ɕie11ie11
+TY,Taiyuan,88,筷子,筷子,,kˈuai tsəʔ,kˈuai45 tsəʔ,kʰuaitsəʔ,kʰuai45tsəʔ
+TY,Taiyuan,89,勺儿,调羹,,tˈiau kəŋ,tˈiau11 kəŋ11,tʰiaukəŋ,tʰiau11kəŋ11
+TY,Taiyuan,90,男人,男的,,næ̃ təʔ,næ̃11 təʔ,næ̃təʔ,næ̃11təʔ
+TY,Taiyuan,91,女人,女的,,ny təʔ,ny53 təʔ,nytəʔ,ny53təʔ
+TY,Taiyuan,92,男孩子,男娃娃,,næ̃ va va,næ̃11 va11 va1145,næ̃vava,næ̃11va11va1145
+TY,Taiyuan,93,女孩子,女娃娃,,ny va va,ny53 va11 va1145,nyvava,ny53va11va1145
+TY,Taiyuan,94,老头儿,老汉汉 ,,lau xæ̃ xæ̃,lau53 xæ̃45 xæ̃4553,lauxæ̃xæ̃,lau53xæ̃45xæ̃4553
+TY,Taiyuan,95,医生,先生,,ɕie səŋ,ɕie11 səŋ11,ɕiesəŋ,ɕie11səŋ11
+TY,Taiyuan,96,厨师,厨子 ,,tsˈu tsəʔ,tsˈu11 tsəʔ,tsʰutsəʔ,tsʰu11tsəʔ
+TY,Taiyuan,97,乞丐,叫花子 ,,tɕiau xua tsəʔ,tɕiau45 xua11 tsəʔ,tɕiauxuatsəʔ,tɕiau45xua11tsəʔ
+TY,Taiyuan,98,保姆,保姆 ,,pau mu,pau5311 mu53,paumu,pau5311mu53
+TY,Taiyuan,99,病了,病咧,,pi lie,pi45 lie53,pilie,pi45lie53
+TY,Taiyuan,100,伤风,拍住咧 ,,pˈiəʔ tsu lie,pˈiəʔ2 tsu45 lie53,pʰiəʔtsulie,pʰiəʔ2tsu45lie53
+TY,Taiyuan,101,泻肚,蹿稀,,tsˈuæ̃ ɕi,tsˈuæ̃45 ɕi11,tsʰuæ̃ɕi,tsʰuæ̃45ɕi11
+TY,Taiyuan,102,瘸子,拐子,,kuai tsəʔ,kuai53 tsəʔ,kuaitsəʔ,kuai53tsəʔ
+TY,Taiyuan,103,驼背,背锅锅,,pei kuɤ kuɤ,pei11 kuɤ11 kuɤ1145,peikuɤkuɤ,pei11kuɤ11kuɤ1145
+TY,Taiyuan,104,死了,死咧,,sɿ lie,sɿ53 lie11,sɹ̩lie,sɹ̩53lie11
+TY,Taiyuan,105,看病,看病 ,,kæ̃ piəŋ,kæ̃45 piəŋ45,kæ̃piəŋ,kæ̃45piəŋ45
 TY,Taiyuan,106,我,我,,ɣɤ,ɣɤ53,ɣɤ,ɣɤ53
 TY,Taiyuan,107,你,你 ,,ni,ni53,ni,ni53
-TY,Taiyuan,108,他,他 ,,tˈa,tˈa11,tˈa,tˈa11
-TY,Taiyuan,109,我们,我们,,ɣɤ məʔ,ɣɤ53 məʔ,ɣɤ məʔ,ɣɤ53 məʔ
-TY,Taiyuan,110,你们,你们,,ni məʔ,ni53 məʔ,ni məʔ,ni53 məʔ
-TY,Taiyuan,111,他们,他们,,tˈa məʔ,tˈa11 məʔ,tˈa məʔ,tˈa11 məʔ
-TY,Taiyuan,112,咱们,咱们,,tsa məʔ,tsa53 məʔ,tsa məʔ,tsa53 məʔ
-TY,Taiyuan,113,自己,自家,,tsɿ tɕia,tsɿ45 tɕia53,tsɹ̩ tɕia,tsɹ̩45 tɕia53
+TY,Taiyuan,108,他,他 ,,tˈa,tˈa11,tʰa,tʰa11
+TY,Taiyuan,109,我们,我们,,ɣɤ məʔ,ɣɤ53 məʔ,ɣɤməʔ,ɣɤ53məʔ
+TY,Taiyuan,110,你们,你们,,ni məʔ,ni53 məʔ,niməʔ,ni53məʔ
+TY,Taiyuan,111,他们,他们,,tˈa məʔ,tˈa11 məʔ,tʰaməʔ,tʰa11məʔ
+TY,Taiyuan,112,咱们,咱们,,tsa məʔ,tsa53 məʔ,tsaməʔ,tsa53məʔ
+TY,Taiyuan,113,自己,自家,,tsɿ tɕia,tsɿ45 tɕia53,tsɹ̩tɕia,tsɹ̩45tɕia53
 TY,Taiyuan,114,谁,谁,,suei,suei11,suei,suei11
 TY,Taiyuan,115,什么,甚 ,,səŋ,səŋ45,səŋ,səŋ45
-TY,Taiyuan,116,这里,这里,,tsəʔ lɤ,tsəʔ2 lɤ,tsəʔ lɤ,tsəʔ2 lɤ
-TY,Taiyuan,117,那里,兀里,,vəʔ lɤ,vəʔ2 lɤ,vəʔ lɤ,vəʔ2 lɤ
-TY,Taiyuan,118,哪里,哪里,,na lɤ,na53 lɤ,na lɤ,na53 lɤ
+TY,Taiyuan,116,这里,这里,,tsəʔ lɤ,tsəʔ2 lɤ,tsəʔlɤ,tsəʔ2lɤ
+TY,Taiyuan,117,那里,兀里,,vəʔ lɤ,vəʔ2 lɤ,vəʔlɤ,vəʔ2lɤ
+TY,Taiyuan,118,哪里,哪里,,na lɤ,na53 lɤ,nalɤ,na53lɤ
 TY,Taiyuan,119,这个,□[口宰],,tsai,tsai53,tsai,tsai53
 TY,Taiyuan,120,那个,𠰻,,vai,vai53,vai,vai53
-TY,Taiyuan,121,哪一个,哪块,,na kuai,na53 kuai45,na kuai,na53 kuai45
-TY,Taiyuan,122,怎么样,咋地,,tsaʔ ti,tsaʔ2 ti45,tsaʔ ti,tsaʔ2 ti45
+TY,Taiyuan,121,哪一个,哪块,,na kuai,na53 kuai45,nakuai,na53kuai45
+TY,Taiyuan,122,怎么样,咋地,,tsaʔ ti,tsaʔ2 ti45,tsaʔti,tsaʔ2ti45
 TY,Taiyuan,123,一位客人,块 ,,kuai,kuai45,kuai,kuai45
 TY,Taiyuan,124,一双鞋,对,,tuei,tuei45,tuei,tuei45
 TY,Taiyuan,125,一床被,块,,tuei,tuei45,tuei,tuei45
 TY,Taiyuan,126,一辆车,挂,,kua,kua45,kua,kua45
 TY,Taiyuan,127,一条牛,块,,tuei,tuei45,tuei,tuei45
 TY,Taiyuan,128,一口猪,块,,tuei,tuei45,tuei,tuei45
-TY,Taiyuan,129,听一会儿,听 一 阵 阵 ,,tˈiəŋ iəʔ tsəŋ tsəŋ,tˈiəŋ11 iəʔ2 tsəŋ45 tsəŋ45-53,tˈiəŋ iəʔ tsəŋ tsəŋ,tˈiəŋ11 iəʔ2 tsəŋ45 tsəŋ45-53
-TY,Taiyuan,130,打一下,打一下,,ta iəʔ xa,ta53 iəʔ2 xa45,ta iəʔ xa,ta53 iəʔ2 xa45
-TY,Taiyuan,131,上头,脑头,,nau tˈəu,nau53 tˈəu11,nau tˈəu,nau53 tˈəu11
-TY,Taiyuan,132,下头,下头,,xa tˈəu,xa45 tˈəu53,xa tˈəu,xa45 tˈəu53
-TY,Taiyuan,133,左边,左半切,,tsɤ pæ̃ tɕˈiəʔ,tsɤ53 pæ̃45 tɕˈiəʔ2,tsɤ pæ̃ tɕˈiəʔ,tsɤ53 pæ̃45 tɕˈiəʔ2
-TY,Taiyuan,134,右边,右半切,,iəu pæ̃ tɕˈiəʔ,iəu45 pæ̃45 tɕˈiəʔ2,iəu pæ̃ tɕˈiəʔ,iəu45 pæ̃45 tɕˈiəʔ2
-TY,Taiyuan,135,当中,当中间儿,,tɒ̃ tsuəŋ tɕiar,tɒ̃11 tsuəŋ11 tɕiar11,tɒ̃ tsuəŋ tɕiar,tɒ̃11 tsuəŋ11 tɕiar11
-TY,Taiyuan,136,里面,里头,,li tˈəu,li53 tˈəu11,li tˈəu,li53 tˈəu11
-TY,Taiyuan,137,外面,外头,,vai tˈəu,vai45 tˈəu53,vai tˈəu,vai45 tˈəu53
-TY,Taiyuan,138,甜,甜,,tˈie,tˈie11,tˈie,tˈie11
+TY,Taiyuan,129,听一会儿,听 一 阵 阵 ,,tˈiəŋ iəʔ tsəŋ tsəŋ,tˈiəŋ11 iəʔ2 tsəŋ45 tsəŋ4553,tʰiəŋiəʔtsəŋtsəŋ,tʰiəŋ11iəʔ2tsəŋ45tsəŋ4553
+TY,Taiyuan,130,打一下,打一下,,ta iəʔ xa,ta53 iəʔ2 xa45,taiəʔxa,ta53iəʔ2xa45
+TY,Taiyuan,131,上头,脑头,,nau tˈəu,nau53 tˈəu11,nautʰəu,nau53tʰəu11
+TY,Taiyuan,132,下头,下头,,xa tˈəu,xa45 tˈəu53,xatʰəu,xa45tʰəu53
+TY,Taiyuan,133,左边,左半切,,tsɤ pæ̃ tɕˈiəʔ,tsɤ53 pæ̃45 tɕˈiəʔ2,tsɤpæ̃tɕʰiəʔ,tsɤ53pæ̃45tɕʰiəʔ2
+TY,Taiyuan,134,右边,右半切,,iəu pæ̃ tɕˈiəʔ,iəu45 pæ̃45 tɕˈiəʔ2,iəupæ̃tɕʰiəʔ,iəu45pæ̃45tɕʰiəʔ2
+TY,Taiyuan,135,当中,当中间儿,,tɒ̃ tsuəŋ tɕiar,tɒ̃11 tsuəŋ11 tɕiar11,tɒ̃tsuəŋtɕiar,tɒ̃11tsuəŋ11tɕiar11
+TY,Taiyuan,136,里面,里头,,li tˈəu,li53 tˈəu11,litʰəu,li53tʰəu11
+TY,Taiyuan,137,外面,外头,,vai tˈəu,vai45 tˈəu53,vaitʰəu,vai45tʰəu53
+TY,Taiyuan,138,甜,甜,,tˈie,tˈie11,tʰie,tʰie11
 TY,Taiyuan,139,酸,酸,,suæ̃,suæ̃11,suæ̃,suæ̃11
 TY,Taiyuan,140,咸,咸,,ɕie,ɕie11,ɕie,ɕie11
 TY,Taiyuan,141,淡,寡,,kua,kua53,kua,kua53
@@ -145,39 +145,39 @@ TY,Taiyuan,143,瘦,瘦,,səu,səu45,səu,səu45
 TY,Taiyuan,144,冷,冻 ,,tuəŋ,tuəŋ45,tuəŋ,tuəŋ45
 TY,Taiyuan,145,热,热 ,,zaʔ,zaʔ2,zaʔ,zaʔ2
 TY,Taiyuan,146,香,香,,ɕiɒ̃,ɕiɒ̃11,ɕiɒ̃,ɕiɒ̃11
-TY,Taiyuan,147,臭,臭,,tsˈəu,tsˈəu45,tsˈəu,tsˈəu45
-TY,Taiyuan,148,粗,粗,,tsˈu,tsˈu11,tsˈu,tsˈu11
+TY,Taiyuan,147,臭,臭,,tsˈəu,tsˈəu45,tsʰəu,tsʰəu45
+TY,Taiyuan,148,粗,粗,,tsˈu,tsˈu11,tsʰu,tsʰu11
 TY,Taiyuan,149,细,细,,ɕi,ɕi11,ɕi,ɕi11
-TY,Taiyuan,150,长,长,,tsˈɒ̃,tsˈɒ̃11,tsˈɒ̃,tsˈɒ̃11
+TY,Taiyuan,150,长,长,,tsˈɒ̃,tsˈɒ̃11,tsʰɒ̃,tsʰɒ̃11
 TY,Taiyuan,151,短,短,,tuæ̃,tuæ̃53,tuæ̃,tuæ̃53
-TY,Taiyuan,152,脏,日脏,,zəʔ tsɒ̃,zəʔ2-54 tsɒ̃11,zəʔ tsɒ̃,zəʔ2-54 tsɒ̃11
-TY,Taiyuan,153,干净,干净 ,,kæ̃ tɕiəŋ,kæ̃11 tɕiəŋ45,kæ̃ tɕiəŋ,kæ̃11 tɕiəŋ45
+TY,Taiyuan,152,脏,日脏,,zəʔ tsɒ̃,zəʔ254 tsɒ̃11,zəʔtsɒ̃,zəʔ254tsɒ̃11
+TY,Taiyuan,153,干净,干净 ,,kæ̃ tɕiəŋ,kæ̃11 tɕiəŋ45,kæ̃tɕiəŋ,kæ̃11tɕiəŋ45
 TY,Taiyuan,154,便宜,贱,,tɕie,tɕie45,tɕie,tɕie45
 TY,Taiyuan,155,刚(来),刚,,tɕiɒ̃,tɕiɒ̃11,tɕiɒ̃,tɕiɒ̃11
-TY,Taiyuan,156,刚(合适),刚好,,tɕiɒ̃ tɕiɒ̃,tɕiɒ̃11 tɕiɒ̃11-45,tɕiɒ̃ tɕiɒ̃,tɕiɒ̃11 tɕiɒ̃11-45
-TY,Taiyuan,157,正好,正好好,,tsəŋ xau xau,tsəŋ45 xau53 xau53-11,tsəŋ xau xau,tsəŋ45 xau53 xau53-11
+TY,Taiyuan,156,刚(合适),刚好,,tɕiɒ̃ tɕiɒ̃,tɕiɒ̃11 tɕiɒ̃1145,tɕiɒ̃tɕiɒ̃,tɕiɒ̃11tɕiɒ̃1145
+TY,Taiyuan,157,正好,正好好,,tsəŋ xau xau,tsəŋ45 xau53 xau5311,tsəŋxauxau,tsəŋ45xau53xau5311
 TY,Taiyuan,158,和,和,,xuɤ,xuɤ11,xuɤ,xuɤ11
 TY,Taiyuan,159,只,光,,kuɒ̃,kuɒ̃11,kuɒ̃,kuɒ̃11
-TY,Taiyuan,160,从,从,,tsˈuəŋ,tsˈuəŋ11,tsˈuəŋ,tsˈuəŋ11
-TY,Taiyuan,161,替,替,,tˈi,tˈi45,tˈi,tˈi45
+TY,Taiyuan,160,从,从,,tsˈuəŋ,tsˈuəŋ11,tsʰuəŋ,tsʰuəŋ11
+TY,Taiyuan,161,替,替,,tˈi,tˈi45,tʰi,tʰi45
 TY,Taiyuan,162,拿,拿 ,,na,na11,na,na11
-TY,Taiyuan,163,故意,专意,,tsuæ̃ i,tsuæ̃11 i45,tsuæ̃ i,tsuæ̃11 i45
+TY,Taiyuan,163,故意,专意,,tsuæ̃ i,tsuæ̃11 i45,tsuæ̃i,tsuæ̃11i45
 TY,Taiyuan,164,一,一,,iəʔ,iəʔ2,iəʔ,iəʔ2
 TY,Taiyuan,165,二,二,,ər,ər45,ər,ər45
 TY,Taiyuan,166,三,三,,sæ̃,sæ̃11,sæ̃,sæ̃11
 TY,Taiyuan,167,四,四,,sɿ,sɿ45,sɹ̩,sɹ̩45
 TY,Taiyuan,168,五,五,,vu,vu53,vu,vu53
 TY,Taiyuan,169,六,六,,liəu,liəu45,liəu,liəu45
-TY,Taiyuan,170,七,七,,tɕˈiəʔ,tɕˈiəʔ2,tɕˈiəʔ,tɕˈiəʔ2
+TY,Taiyuan,170,七,七,,tɕˈiəʔ,tɕˈiəʔ2,tɕʰiəʔ,tɕʰiəʔ2
 TY,Taiyuan,171,八,八,,paʔ,paʔ2,paʔ,paʔ2
 TY,Taiyuan,172,九,九,,tɕiəu,tɕiəu53,tɕiəu,tɕiəu53
 TY,Taiyuan,173,十,十,,səʔ,səʔ2,səʔ,səʔ2
-TY,Taiyuan,174,十一,十一,,səʔ iəʔ,səʔ2 iəʔ2,səʔ iəʔ,səʔ2 iəʔ2
-TY,Taiyuan,175,十二,十二,,səʔ ər,səʔ2 ər45,səʔ ər,səʔ2 ər45
-TY,Taiyuan,176,二十,二十,,ər səʔ,ər45 səʔ2,ər səʔ,ər45 səʔ2
-TY,Taiyuan,177,二十一,二十一,,ər səʔ iəʔ,ər45 səʔ2 iəʔ2,ər səʔ iəʔ,ər45 səʔ2 iəʔ2
-TY,Taiyuan,178,一百二十一,一百二十一,,iəʔ pai ər səʔ iəʔ,iəʔ2 pai53 ər45 səʔ2 iəʔ2,iəʔ pai ər səʔ iəʔ,iəʔ2 pai53 ər45 səʔ2 iəʔ2
-TY,Taiyuan,179,第一,第一,,ti iəʔ,ti45 iəʔ2,ti iəʔ,ti45 iəʔ2
-TY,Taiyuan,180,第二,第二,,ti ər,ti45 ər45,ti ər,ti45 ər45
-TY,Taiyuan,181,两里,两里,,ər li,ər45 li53,ər li,ər45 li53
-TY,Taiyuan,182,二两,二两,,liɒ̃ li,liɒ̃53-11 li53,liɒ̃ li,liɒ̃53-11 li53
+TY,Taiyuan,174,十一,十一,,səʔ iəʔ,səʔ2 iəʔ2,səʔiəʔ,səʔ2iəʔ2
+TY,Taiyuan,175,十二,十二,,səʔ ər,səʔ2 ər45,səʔər,səʔ2ər45
+TY,Taiyuan,176,二十,二十,,ər səʔ,ər45 səʔ2,ərsəʔ,ər45səʔ2
+TY,Taiyuan,177,二十一,二十一,,ər səʔ iəʔ,ər45 səʔ2 iəʔ2,ərsəʔiəʔ,ər45səʔ2iəʔ2
+TY,Taiyuan,178,一百二十一,一百二十一,,iəʔ pai ər səʔ iəʔ,iəʔ2 pai53 ər45 səʔ2 iəʔ2,iəʔpaiərsəʔiəʔ,iəʔ2pai53ər45səʔ2iəʔ2
+TY,Taiyuan,179,第一,第一,,ti iəʔ,ti45 iəʔ2,tiiəʔ,ti45iəʔ2
+TY,Taiyuan,180,第二,第二,,ti ər,ti45 ər45,tiər,ti45ər45
+TY,Taiyuan,181,两里,两里,,ər li,ər45 li53,ərli,ər45li53
+TY,Taiyuan,182,二两,二两,,liɒ̃ li,liɒ̃5311 li53,liɒ̃li,liɒ̃5311li53

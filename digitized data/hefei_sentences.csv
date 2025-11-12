@@ -1,59 +1,59 @@
 dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
-HF,Hefei,1,谁啊?我是老三。,哈个?我是老三,,xa kə ʊ ʂʅ lɔ sæ̃,xa24 kə ʊ24 ʂʅ53 lɔ24 sæ̃21,xa24 kə ʊ24 ʂɻ̩53 lɔ24 sæ̃21,xa kə ʊ ʂɻ̩ lɔ sæ̃
-HF,Hefei,2,老四呢?她正跟一个朋友说着话呢。,老四在哪格子?她跟一个朋友讲着话在,,lɔ sʅ tsE la kə tsə tˈa kən iəʔ kə pˈən iɯ tɕiɑ̃ tʂʅ xua tsE,lɔ24 sʅ53 tsE53 la24 kə tsə tˈa21-24 kən21 iəʔ5 kə pˈən55 iɯ tɕiɑ̃24 tʂʅ xua53 tsE,lɔ24 sɻ̩53 tsɤ53 la24 kə tsə tˈa21-24 kən21 iəʔ5 kə pˈən55 iɯ tɕiɑ̃24 tʂɻ̩ xua53 tsɤ,lɔ sɻ̩ tsɤ la kə tsə tˈa kən iəʔ kə pˈən iɯ tɕiɑ̃ tʂɻ̩ xua tsɤ
-HF,Hefei,3,她还没说完吗?,她可是还没讲完,,tˈa kˈə ʂʅ xE me tɕiɑ̃ ʊ̃,tˈa21 kˈə24 ʂʅ53 xE55 me53 tɕiɑ̃24 ʊ̃55,tˈa21 kˈə24 ʂɻ̩53 xɤ55 me53 tɕiɑ̃24 ʊ̃55,tˈa kˈə ʂɻ̩ xɤ me tɕiɑ̃ ʊ̃
-HF,Hefei,4,还没有。大概再有一会儿就说完了。,还没。大约摸再有一霎就中了,,xE me ta yeʔ mɐʔ tsE iɯ iəʔ ʂɐʔ tɕiɯ tʂəŋ lə,xE55 me53 ta53 yeʔ5-2 mɐʔ5 tsE53 iɯ24 iəʔ5-2 ʂɐʔ5 tɕiɯ53 tʂəŋ21 lə,xɤ55 me53 ta53 yeʔ5-2 mɐʔ5 tsɤ53 iɯ24 iəʔ5-2 ʂɐʔ5 tɕiɯ53 tʂəŋ21 lə,xɤ me ta yeʔ mɐʔ tsɤ iɯ iəʔ ʂɐʔ tɕiɯ tʂəŋ lə
-HF,Hefei,5,他说马上就走，怎么这半天了还在家里?,他讲马上就走，奖搞第半天还在家里头,,tˈa tɕiɑ̃ ma ʂɑ̃ tɕiɯ tsɯ tɕiɑ̃ kɔ ti pʊ̃ tˈiɪ̃ xE tɕia zɿ tˈɯ,tˈa21 tɕiɑ̃24 ma24 ʂɑ̃53 tɕiɯ53 tsɯ24 tɕiɑ̃24 kɔ24 ti53 pʊ̃53 tˈiɪ̃21 xE55 tɕia21 zɿ24 tˈɯ,tˈa21 tɕiɑ̃24 ma24 ʂɑ̃53 tɕiɯ53 tsɯ24 tɕiɑ̃24 kɔ24 ti53 pʊ̃53 tˈiɪ̃21 xɤ55 tɕia21 zɹ̩24 tˈɯ,tˈa tɕiɑ̃ ma ʂɑ̃ tɕiɯ tsɯ tɕiɑ̃ kɔ ti pʊ̃ tˈiɪ̃ xɤ tɕia zɹ̩ tˈɯ
-HF,Hefei,6,你到哪儿去?我到城里去。,你到哪块去?我到街上去,,li tɔ la kˈiE tsˈɥ ʊ tɔ tɕiE ʂɑ̃ tsˈɥ,li24 tɔ53 la24 kˈiE53 tsˈɥ53 ʊ24 tɔ53 tɕiE21 ʂɑ̃ tsˈɥ53,li24 tɔ53 la24 kˈuɤ53 tsˈɥ53 ʊ24 tɔ53 tɕiɤ21 ʂɑ̃ tsˈɥ53,li tɔ la kˈiɤ tsˈɥ ʊ tɔ tɕiɤ ʂɑ̃ tsˈɥ
-HF,Hefei,7,在那儿，不在这儿。,在那奥子，不在第奥子,,tsE la ɔ tsə pəʔ tsE ti ɔ tsə,tsE53 la53 ɔ tsə pəʔ5 tsE53 ti53 ɔ tsə,tsɤ53 la53 ɔ tsə pəʔ5 tsɤ53 ti53 ɔ tsə,tsɤ la ɔ tsə pəʔ tsɤ ti ɔ tsə
-HF,Hefei,8,不是那么做，要这么做。,不是那样搞，要第样搞,,pəʔ ʂʅ la iɑ̃ kɔ iɔ ti iɑ̃ kɔ,pəʔ5 ʂʅ53 la53 iɑ̃53 kɔ24 iɔ53 ti53 iɑ̃53 kɔ24,pəʔ5 ʂɻ̩53 la53 iɑ̃53 kɔ24 iɔ53 ti53 iɑ̃53 kɔ24,pəʔ ʂɻ̩ la iɑ̃ kɔ iɔ ti iɑ̃ kɔ
-HF,Hefei,9,太多了，用不着那么多，只要这么多就够了。,太多之，用不着那样多，只要第一毫就够之,,tˈE tʊ tʂə iŋ pəʔ tʂuɐʔ la iɑ̃ tʊ tʂəʔ iɔ ti iəʔ xɔ tɕiɯ kɯ tʂə,tˈE53 tʊ21 tʂə iŋ53 pəʔ5-2 tʂuɐʔ5 la53 iɑ̃53 tʊ21 tʂəʔ5 iɔ53 ti53 iəʔ5-2 xɔ55 tɕiɯ53 kɯ53 tʂə,tˈɤ53 tʊ21 tʂə iŋ53 pəʔ5-2 tʂuɐʔ5 la53 iɑ̃53 tʊ21 tʂəʔ5 iɔ53 ti53 iəʔ5-2 xɔ55 tɕiɯ53 kɯ53 tʂə,tˈɤ tʊ tʂə iŋ pəʔ tʂuɐʔ la iɑ̃ tʊ tʂəʔ iɔ ti iəʔ xɔ tɕiɯ kɯ tʂə
-HF,Hefei,10,这个大，那个小，这两个哪一个好一点呢?,第个大，那个小，第两个哈个好毫子,,ti kə ta la kə ɕiɔ ti liɑ̃ kə xa kə xɔ xɔ tsə,ti53 kə ta53 la53 kə ɕiɔ24 ti53 liɑ̃24 kə xa24 kə xɔ24 xɔ55 tsə,ti53 kə ta53 la53 kə ɕiɔ24 ti53 liɑ̃24 kə xa24 kə xɔ24 xɔ55 tsə,ti kə ta la kə ɕiɔ ti liɑ̃ kə xa kə xɔ xɔ tsə
-HF,Hefei,11,这个比那个好。,第个比那个好,,ti kə pɿ la kə xɔ,ti53 kə pɿ24 la53 kə xɔ24,ti53 kə pɹ̩24 la53 kə xɔ24,ti kə pɹ̩ la kə xɔ
-HF,Hefei,12,这些房子不如那些房子好。,第些房子不及那些房子好,,ti sɿ fɑ̃ tsə pəʔ tɕiəʔ la sɿ fɑ̃ tsə xɔ,ti53 sɿ fɑ̃55 tsə pəʔ5-2 tɕiəʔ5 la53 sɿ fɑ̃55 tsə xɔ24,ti53 sɹ̩ fɑ̃55 tsə pəʔ5-2 tɕiəʔ5 la53 sɹ̩ fɑ̃55 tsə xɔ24,ti sɹ̩ fɑ̃ tsə pəʔ tɕiəʔ la sɹ̩ fɑ̃ tsə xɔ
+HF,Hefei,1,谁啊?我是老三。,哈个?我是老三,,xa kə ʊ ʂʅ lɔ sæ̃,xa24 kə ʊ24 ʂʅ53 lɔ24 sæ̃21,xa24kəʊ24ʂɻ̩53lɔ24sæ̃21,xakəʊʂɻ̩lɔsæ̃
+HF,Hefei,2,老四呢?她正跟一个朋友说着话呢。,老四在哪格子?她跟一个朋友讲着话在,,lɔ sʅ tsE la kə tsə tˈa kən iəʔ kə pˈən iɯ tɕiɑ̃ tʂʅ xua tsE,lɔ24 sʅ53 tsE53 la24 kə tsə tˈa2124 kən21 iəʔ5 kə pˈən55 iɯ tɕiɑ̃24 tʂʅ xua53 tsE,lɔ24sɻ̩53tsɤ53la24kətsətʰa2124kən21iəʔ5kəpʰən55iɯtɕiɑ̃24tʂɻ̩xua53tsɤ,lɔsɻ̩tsɤlakətsətʰakəniəʔkəpʰəniɯtɕiɑ̃tʂɻ̩xuatsɤ
+HF,Hefei,3,她还没说完吗?,她可是还没讲完,,tˈa kˈə ʂʅ xE me tɕiɑ̃ ʊ̃,tˈa21 kˈə24 ʂʅ53 xE55 me53 tɕiɑ̃24 ʊ̃55,tʰa21kʰə24ʂɻ̩53xɤ55me53tɕiɑ̃24ʊ̃55,tʰakʰəʂɻ̩xɤmetɕiɑ̃ʊ̃
+HF,Hefei,4,还没有。大概再有一会儿就说完了。,还没。大约摸再有一霎就中了,,xE me ta yeʔ mɐʔ tsE iɯ iəʔ ʂɐʔ tɕiɯ tʂəŋ lə,xE55 me53 ta53 yeʔ52 mɐʔ5 tsE53 iɯ24 iəʔ52 ʂɐʔ5 tɕiɯ53 tʂəŋ21 lə,xɤ55me53ta53yeʔ52mɐʔ5tsɤ53iɯ24iəʔ52ʂɐʔ5tɕiɯ53tʂəŋ21lə,xɤmetayeʔmɐʔtsɤiɯiəʔʂɐʔtɕiɯtʂəŋlə
+HF,Hefei,5,他说马上就走，怎么这半天了还在家里?,他讲马上就走，奖搞第半天还在家里头,,tˈa tɕiɑ̃ ma ʂɑ̃ tɕiɯ tsɯ tɕiɑ̃ kɔ ti pʊ̃ tˈiɪ̃ xE tɕia zɿ tˈɯ,tˈa21 tɕiɑ̃24 ma24 ʂɑ̃53 tɕiɯ53 tsɯ24 tɕiɑ̃24 kɔ24 ti53 pʊ̃53 tˈiɪ̃21 xE55 tɕia21 zɿ24 tˈɯ,tʰa21tɕiɑ̃24ma24ʂɑ̃53tɕiɯ53tsɯ24tɕiɑ̃24kɔ24ti53pʊ̃53tʰiɪ̃21xɤ55tɕia21zɹ̩24tʰɯ,tʰatɕiɑ̃maʂɑ̃tɕiɯtsɯtɕiɑ̃kɔtipʊ̃tʰiɪ̃xɤtɕiazɹ̩tʰɯ
+HF,Hefei,6,你到哪儿去?我到城里去。,你到哪块去?我到街上去,,li tɔ la kˈiE tsˈɥ ʊ tɔ tɕiE ʂɑ̃ tsˈɥ,li24 tɔ53 la24 kˈiE53 tsˈɥ53 ʊ24 tɔ53 tɕiE21 ʂɑ̃ tsˈɥ53,li24tɔ53la24kʰiɤ53tsʰɥ53ʊ24tɔ53tɕiɤ21ʂɑ̃tsʰɥ53,litɔlakʰiɤtsʰɥʊtɔtɕiɤʂɑ̃tsʰɥ
+HF,Hefei,7,在那儿，不在这儿。,在那奥子，不在第奥子,,tsE la ɔ tsə pəʔ tsE ti ɔ tsə,tsE53 la53 ɔ tsə pəʔ5 tsE53 ti53 ɔ tsə,tsɤ53la53ɔtsəpəʔ5tsɤ53ti53ɔtsə,tsɤlaɔtsəpəʔtsɤtiɔtsə
+HF,Hefei,8,不是那么做，要这么做。,不是那样搞，要第样搞,,pəʔ ʂʅ la iɑ̃ kɔ iɔ ti iɑ̃ kɔ,pəʔ5 ʂʅ53 la53 iɑ̃53 kɔ24 iɔ53 ti53 iɑ̃53 kɔ24,pəʔ5ʂɻ̩53la53iɑ̃53kɔ24iɔ53ti53iɑ̃53kɔ24,pəʔʂɻ̩laiɑ̃kɔiɔtiiɑ̃kɔ
+HF,Hefei,9,太多了，用不着那么多，只要这么多就够了。,太多之，用不着那样多，只要第一毫就够之,,tˈE tʊ tʂə iŋ pəʔ tʂuɐʔ la iɑ̃ tʊ tʂəʔ iɔ ti iəʔ xɔ tɕiɯ kɯ tʂə,tˈE53 tʊ21 tʂə iŋ53 pəʔ52 tʂuɐʔ5 la53 iɑ̃53 tʊ21 tʂəʔ5 iɔ53 ti53 iəʔ52 xɔ55 tɕiɯ53 kɯ53 tʂə,tʰɤ53tʊ21tʂəiŋ53pəʔ52tʂuɐʔ5la53iɑ̃53tʊ21tʂəʔ5iɔ53ti53iəʔ52xɔ55tɕiɯ53kɯ53tʂə,tʰɤtʊtʂəiŋpəʔtʂuɐʔlaiɑ̃tʊtʂəʔiɔtiiəʔxɔtɕiɯkɯtʂə
+HF,Hefei,10,这个大，那个小，这两个哪一个好一点呢?,第个大，那个小，第两个哈个好毫子,,ti kə ta la kə ɕiɔ ti liɑ̃ kə xa kə xɔ xɔ tsə,ti53 kə ta53 la53 kə ɕiɔ24 ti53 liɑ̃24 kə xa24 kə xɔ24 xɔ55 tsə,ti53kəta53la53kəɕiɔ24ti53liɑ̃24kəxa24kəxɔ24xɔ55tsə,tikətalakəɕiɔtiliɑ̃kəxakəxɔxɔtsə
+HF,Hefei,11,这个比那个好。,第个比那个好,,ti kə pɿ la kə xɔ,ti53 kə pɿ24 la53 kə xɔ24,ti53kəpɹ̩24la53kəxɔ24,tikəpɹ̩lakəxɔ
+HF,Hefei,12,这些房子不如那些房子好。,第些房子不及那些房子好,,ti sɿ fɑ̃ tsə pəʔ tɕiəʔ la sɿ fɑ̃ tsə xɔ,ti53 sɿ fɑ̃55 tsə pəʔ52 tɕiəʔ5 la53 sɿ fɑ̃55 tsə xɔ24,ti53sɹ̩fɑ̃55tsəpəʔ52tɕiəʔ5la53sɹ̩fɑ̃55tsəxɔ24,tisɹ̩fɑ̃tsəpəʔtɕiəʔlasɹ̩fɑ̃tsəxɔ
 HF,Hefei,13,这句话用成都话怎么说?,,,,,,
-HF,Hefei,14,他今年多大岁数了?,他今年好大岁数了,,tˈa tɕin liɪ̃ xɔ ta se sʊ lə,tˈa21-24 tɕin21 liɪ̃55 xɔ24 ta53 se53 sʊ53 lə,tˈa21-24 tɕin21 liɪ̃55 xɔ24 ta53 se53 sʊ53 lə,tˈa tɕin liɪ̃ xɔ ta se sʊ lə
-HF,Hefei,15,大概三十来岁吧。,大约摸三十望岁吧,,ta yɐʔ mɐʔ sæ̃ ʂəʔ uɑ̃ se pa,ta53 yɐʔ5-2 mɐʔ5 sæ̃21 ʂəʔ5 uɑ̃53 se53 pa,ta53 yɐʔ5-2 mɐʔ5 sæ̃21 ʂəʔ5 uɑ̃53 se53 pa,ta yɐʔ mɐʔ sæ̃ ʂəʔ uɑ̃ se pa
-HF,Hefei,16,这个东西有多重呢?,第个东西子有好重啊,,ti kə təŋ sɿ tsə iɯ xɔ tʂəŋ a,ti53 kə təŋ21 sɿ tsə iɯ24 xɔ24 tʂəŋ53 a,ti53 kə təŋ21 sɹ̩ tsə iɯ24 xɔ24 tʂəŋ53 a,ti kə təŋ sɹ̩ tsə iɯ xɔ tʂəŋ a
-HF,Hefei,17,有五十斤重呢。,有五十斤重哦,,iɯ u ʂəʔ tɕin tʂəŋ ʊ,iɯ24 u24 ʂəʔ5 tɕin21 tʂəŋ53 ʊ,iɯ24 u24 ʂəʔ5 tɕin21 tʂəŋ53 ʊ,iɯ u ʂəʔ tɕin tʂəŋ ʊ
-HF,Hefei,18,拿得动吗?,可拿动啊,,kˈə la təŋ a,kˈə24 la55 təŋ53 a,kˈə24 la55 təŋ53 a,kˈə la təŋ a
-HF,Hefei,19,我拿得动，他拿不动。,我拿动，他拿不动,,ʊ la təŋ tˈa la pəʔ təŋ,ʊ24 la55 təŋ53 tˈa21 la55 pəʔ təŋ53,ʊ24 la55 təŋ53 tˈa21 la55 pəʔ təŋ53,ʊ la təŋ tˈa la pəʔ təŋ
-HF,Hefei,20,真不轻，重得连我也拿不动。,真不轻，连我都拿不动,,tʂən pəʔ tɕˈin liɪ̃ ʊ tɯ la pəʔ təŋ,tʂən21 pəʔ5 tɕˈin21 liɪ̃55 ʊ24 tɯ21 la55 pəʔ təŋ53,tʂən21 pəʔ5 tɕˈin21 liɪ̃55 ʊ24 tɯ21 la55 pəʔ təŋ53,tʂən pəʔ tɕˈin liɪ̃ ʊ tɯ la pəʔ təŋ
-HF,Hefei,21,你说得很好，你还会说点什么呢?,你讲的好很，你还能讲毫哄个呢,,li tɕiɑ̃ tiəʔ xɔ xən li xE lən tɕiɑ̃ xɔ xəŋ kə lə,li24 tɕiɑ̃24 tiəʔ xɔ24 xən24 li24 xE lən55 tɕiɑ̃24 xɔ xəŋ53 kə lə,li24 tɕiɑ̃24 tiəʔ xɔ24 xən24 li24 xɤ lən55 tɕiɑ̃24 xɔ xəŋ53 kə lə,li tɕiɑ̃ tiəʔ xɔ xən li xɤ lən tɕiɑ̃ xɔ xəŋ kə lə
-HF,Hefei,22,我嘴笨，我说不过他。,我嘴笨，我讲不过他,,ʊ tse pən ʊ tɕiɑ̃ pəʔ kʊ tˈa,ʊ24 tse24 pən53 ʊ24 tɕiɑ̃24 pəʔ kʊ53 tˈa21,ʊ24 tse24 pən53 ʊ24 tɕiɑ̃24 pəʔ kʊ53 tˈa21,ʊ tse pən ʊ tɕiɑ̃ pəʔ kʊ tˈa
-HF,Hefei,23,说了一遍，又说一遍。,讲之一遍，又讲一遍,,tɕiɑ̃ tʂə iəʔ piɪ̃ iɯ tɕiɑ̃ iəʔ piɪ̃,tɕiɑ̃24 tʂə iəʔ5 piɪ̃53 iɯ53 tɕiɑ̃24 iəʔ piɪ̃53,tɕiɑ̃24 tʂə iəʔ5 piɪ̃53 iɯ53 tɕiɑ̃24 iəʔ piɪ̃53,tɕiɑ̃ tʂə iəʔ piɪ̃ iɯ tɕiɑ̃ iəʔ piɪ̃
-HF,Hefei,24,请你再说一遍。,请你再讲一遍,,tɕˈin li tsE tɕiɑ̃ iəʔ piɪ̃,tɕˈin24 li24 tsE53 tɕiɑ̃24 iəʔ5 piɪ̃53,tɕˈin24 li24 tsɤ53 tɕiɑ̃24 iəʔ5 piɪ̃53,tɕˈin li tsɤ tɕiɑ̃ iəʔ piɪ̃
-HF,Hefei,25,不早了，快去吧。,不早了，快毫去吧,,pəʔ tsɔ lə kˈuE xɔ tsˈɥ pa,"pəʔ5-2 tsɔ24 lə kˈuE53 xɔ tsˈɥ53 pa ","pəʔ5-2 tsɔ24 lə kˈuɤ53 xɔ tsˈɥ53 pa ",pəʔ tsɔ lə kˈuɤ xɔ tsˈɥ pa
-HF,Hefei,26,现在还早着呢，等一会儿再去吧。,丈个还早很，等一霎再去吧,,tʂɑ̃ kə xE tsɔ xən tən iəʔ ʂɐʔ tsE tsɥ pa,tʂɑ̃53 kə xE55 tsɔ24 xən24 tən24 iəʔ5-2 ʂɐʔ5 tsE53 tsɥ53 pa,tʂɑ̃53 kə xɤ55 tsɔ24 xən24 tən24 iəʔ5-2 ʂɐʔ5 tsɤ53 tsɥ53 pa,tʂɑ̃ kə xɤ tsɔ xən tən iəʔ ʂɐʔ tsɤ tsɥ pa
-HF,Hefei,27,吃了饭再去好吗?,吃过饭再去可好,,tɕˈiəʔ kʊ fæ̃ tsE tsˈɥ kˈə xɔ,tɕˈiəʔ5 kʊ53 fæ̃53 tsE53 tsˈɥ53 kˈə24 xɔ24,tɕˈiəʔ5 kʊ53 fæ̃53 tsɤ53 tsˈɥ53 kˈə24 xɔ24,tɕˈiəʔ kʊ fæ̃ tsɤ tsˈɥ kˈə xɔ
-HF,Hefei,28,慢慢儿吃啊，不要着急。,慢毫吃，不要着急,,mæ̃ xɔ tɕˈiəʔ pəʔ iɔ tʂuɐʔ tɕiəʔ,mæ̃53 xɔ tɕˈiəʔ5 pəʔ5 iɔ53 tʂuɐʔ5-2 tɕiəʔ5,mæ̃53 xɔ tɕˈiəʔ5 pəʔ5 iɔ53 tʂuɐʔ5-2 tɕiəʔ5,mæ̃ xɔ tɕˈiəʔ pəʔ iɔ tʂuɐʔ tɕiəʔ
-HF,Hefei,29,坐着吃比站着吃好些。,坐到吃比站到吃好些,,tsʊ tɔ tɕˈiəʔ pɿ tʂæ̃ tɔ tɕˈiəʔ xɔ sɿ,tsʊ53 tɔ53 tɕˈiəʔ5 pɿ24 tʂæ̃53 tɔ53 tɕˈiəʔ5 xɔ24 sɿ,tsʊ53 tɔ53 tɕˈiəʔ5 pɹ̩24 tʂæ̃53 tɔ53 tɕˈiəʔ5 xɔ24 sɹ̩,tsʊ tɔ tɕˈiəʔ pɹ̩ tʂæ̃ tɔ tɕˈiəʔ xɔ sɹ̩
-HF,Hefei,30,他吃了饭了，你吃了饭没有呢?,他吃过饭了，你可吃过之,,tˈa tɕˈiəʔ kʊ fæ̃ lə li kˈə tɕˈiəʔ kʊ tʂə,tˈa21 tɕˈiəʔ5 kʊ53 fæ̃53 lə li24 kˈə24 tɕˈiəʔ5 kʊ53 tʂə,tˈa21 tɕˈiəʔ5 kʊ53 fæ̃53 lə li24 kˈə24 tɕˈiəʔ5 kʊ53 tʂə,tˈa tɕˈiəʔ kʊ fæ̃ lə li kˈə tɕˈiəʔ kʊ tʂə
-HF,Hefei,31,他去过上海，我没有去过。,他到过上海，我没有到过,,tˈa tɔ kʊ ʂɑ̃ xE ʊ mɐʔ iɯ tɔ kʊ,tˈa21-24 tɔ53 kʊ53 ʂɑ̃ xE24 ʊ24 mɐʔ5-2 iɯ24 tɔ53 kʊ53,tˈa21-24 tɔ53 kʊ53 ʂɑ̃ xɤ24 ʊ24 mɐʔ5-2 iɯ24 tɔ53 kʊ53,tˈa tɔ kʊ ʂɑ̃ xɤ ʊ mɐʔ iɯ tɔ kʊ
-HF,Hefei,32,来闻闻这朵花香不香。,来闻闻第朵花可香,,lE uən uən ti tʊ xua kˈə ɕiɑ̃,lE55 uən55 uən ti53 tʊ24 xua21 kˈə24 ɕiɑ̃21,lɤ55 uən55 uən ti53 tʊ24 xua21 kˈə24 ɕiɑ̃21,lɤ uən uən ti tʊ xua kˈə ɕiɑ̃
-HF,Hefei,33,给我一本书。,给我一本书,,ke ʊ iəʔ pən ʂu,ke24 ʊ24 iəʔ5-2 pən24 ʂu21,ke24 ʊ24 iəʔ5-2 pən24 ʂu21,ke ʊ iəʔ pən ʂu
-HF,Hefei,34,我真的没有那本书呀。,我真的没有那本书,,ʊ tʂən tiəʔ mɐʔ iɯ la pən ʂu,ʊ24 tʂən21 tiəʔ mɐʔ5-2 iɯ24 la53 pən24 ʂu21,ʊ24 tʂən21 tiəʔ mɐʔ5-2 iɯ24 la53 pən24 ʂu21,ʊ tʂən tiəʔ mɐʔ iɯ la pən ʂu
-HF,Hefei,35,你告诉他。,你跟他讲,,li kən tˈa tɕiɑ̃,li24 kən21-24 tˈa21 tɕiɑ̃24,li24 kən21-24 tˈa21 tɕiɑ̃24,li kən tˈa tɕiɑ̃
-HF,Hefei,36,好好地走，不要跑。,好好走，不要跑,,xɔ xɔ tsɯ pəʔ iɔ pˈɔ,xɔ24 xɔ24 tsɯ24 pəʔ5 iɔ53 pˈɔ55,xɔ24 xɔ24 tsɯ24 pəʔ5 iɔ53 pˈɔ55,xɔ xɔ tsɯ pəʔ iɔ pˈɔ
-HF,Hefei,37,小心跌下去爬不上来。,小心掉下去爬不上来,,ɕiɔ ɕin tiɔ ɕia tsˈɥ pˈa pəʔ ʂɑ̃ lE,ɕiɔ24 ɕin21 tiɔ53 ɕia tsˈɥ pˈa55 pəʔ ʂɑ̃53 lE,ɕiɔ24 ɕin21 tiɔ53 ɕia tsˈɥ pˈa55 pəʔ ʂɑ̃53 lɤ,ɕiɔ ɕin tiɔ ɕia tsˈɥ pˈa pəʔ ʂɑ̃ lɤ
-HF,Hefei,38,医生叫你多睡睡。,医生叫你多睡睡,,zɿ sən tɕiɔ li tʊ ʂue ʂue,zɿ21 sən tɕiɔ53 li24 tʊ21-24 ʂue53 ʂue,zɹ̩21 sən tɕiɔ53 li24 tʊ21-24 ʂue53 ʂue,zɹ̩ sən tɕiɔ li tʊ ʂue ʂue
-HF,Hefei,39,抽烟或者喝茶都不许。,吃烟跟喝茶都不许,,tɕˈiəʔ iɪ̃ kən xɐʔ tʂˈa tɯ pəʔ sɥ,tɕˈiəʔ5 iɪ̃21 kən21 xɐʔ5-2 tʂˈa55 tɯ24 pəʔ5-2 sɥ24,tɕˈiəʔ5 iɪ̃21 kən21 xɐʔ5-2 tʂˈa55 tɯ24 pəʔ5-2 sɥ24,tɕˈiəʔ iɪ̃ kən xɐʔ tʂˈa tɯ pəʔ sɥ
-HF,Hefei,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不喜欢,,iɪ̃ iE xɔ tʂˈa iE xɔ ʊ tɯ pəʔ sɿ xʊ̃,iɪ̃21 iE24 xɔ24 tʂˈa55 iE24 xɔ24 ʊ24 tɯ24 pəʔ5-2 sɿ24 xʊ̃,iɪ̃21 iɤ24 xɔ24 tʂˈa55 iɤ24 xɔ24 ʊ24 tɯ24 pəʔ5-2 sɹ̩24 xʊ̃,iɪ̃ iɤ xɔ tʂˈa iɤ xɔ ʊ tɯ pəʔ sɹ̩ xʊ̃
-HF,Hefei,41,不管你去不去，反正我是要去的。,管你去不去，我高低是要去的,,kʊ̃ li tsˈɥ pəʔ tsˈɥ ʊ kɔ tsɿ ʂʅ iɔ tsˈɥ tiəʔ,kʊ̃24 li24 tsˈɥ53 pəʔ tsˈɥ53 ʊ24 kɔ21-24 tsɿ21 ʂʅ53 iɔ53 tsˈɥ53 tiəʔ,kʊ̃24 li24 tsˈɥ53 pəʔ tsˈɥ53 ʊ24 kɔ21-24 tsɹ̩21 ʂɻ̩53 iɔ53 tsˈɥ53 tiəʔ,kʊ̃ li tsˈɥ pəʔ tsˈɥ ʊ kɔ tsɹ̩ ʂɻ̩ iɔ tsˈɥ tiəʔ
-HF,Hefei,42,我非去不可。,我非要去,,ʊ fe iɔ tsˈɥ,ʊ24 fe21-24 iɔ53 tsˈɥ53,ʊ24 fe21-24 iɔ53 tsˈɥ53,ʊ fe iɔ tsˈɥ
-HF,Hefei,43,你是哪一年来的?,你是哪一年来的,,li ʂʅ la iəʔ liɪ̃ lE tiəʔ,li24 ʂʅ53 la24 iəʔ5-2 liɪ̃55 lE55 tiəʔ,li24 ʂɻ̩53 la24 iəʔ5-2 liɪ̃55 lɤ55 tiəʔ,li ʂɻ̩ la iəʔ liɪ̃ lɤ tiəʔ
-HF,Hefei,44,我是前年到的北京。,我是前年到北京的,,ʊ ʂʅ tɕˈiɪ̃ liɪ̃ tɔ pɐʔ tɕin tiəʔ,ʊ24 ʂʅ53 tɕˈiɪ̃55 liɪ̃55 tɔ53 pɐʔ5 tɕin21 tiəʔ,ʊ24 ʂɻ̩53 tɕˈiɪ̃55 liɪ̃55 tɔ53 pɐʔ5 tɕin21 tiəʔ,ʊ ʂɻ̩ tɕˈiɪ̃ liɪ̃ tɔ pɐʔ tɕin tiəʔ
-HF,Hefei,45,今天开会谁的主席?,皆个开会，哈个做主席,,tɕiE kə kˈE xue xa kə tsʊ tʂu ɕiəʔ,tɕiE21 kə kˈE21-24 xue21 xa24 kə tsʊ53 tʂu24 ɕiəʔ5,tɕiɤ21 kə kˈɤ21-24 xue21 xa24 kə tsʊ53 tʂu24 ɕiəʔ5,tɕiɤ kə kˈɤ xue xa kə tsʊ tʂu ɕiəʔ
-HF,Hefei,46,你得请我的客。,你要请我客,,li iɔ tɕˈin ʊ kˈɐʔ,li24 iɔ53 tɕˈin24 ʊ24 kˈɐʔ5,li24 iɔ53 tɕˈin24 ʊ24 kˈɐʔ5,li iɔ tɕˈin ʊ kˈɐʔ
-HF,Hefei,47,一边走，一边讲。,一边走，一边讲,,iəʔ piɪ̃ tsɯ iəʔ piɪ̃ tɕiɑ̃,iəʔ5 piɪ̃21 tsɯ24 iəʔ5 piɪ̃21 tɕiɑ̃,iəʔ5 piɪ̃21 tsɯ24 iəʔ5 piɪ̃21 tɕiɑ̃,iəʔ piɪ̃ tsɯ iəʔ piɪ̃ tɕiɑ̃
-HF,Hefei,48,越走越远，越说越多。,越走越远，越讲越多,,yɐʔ tsɯ yɐʔ yɪ̃ yɐʔ tɕiɑ̃ yɐʔ tʊ,yɐʔ5-2 tsɯ24 yɐʔ5-2 yɪ̃24 yɐʔ5-2 tɕiɑ̃ yɐʔ tʊ21,yɐʔ5-2 tsɯ24 yɐʔ5-2 yɪ̃24 yɐʔ5-2 tɕiɑ̃ yɐʔ tʊ21,yɐʔ tsɯ yɐʔ yɪ̃ yɐʔ tɕiɑ̃ yɐʔ tʊ
-HF,Hefei,49,把那个东西拿给我。,把那个东西子递给我,,pa la kə təŋ sɿ tsə tsɿ ke ʊ,pa24 la53 kə təŋ21 sɿ tsə tsɿ53 ke24 ʊ24,pa24 la53 kə təŋ21 sɹ̩ tsə tsɹ̩53 ke24 ʊ24,pa la kə təŋ sɹ̩ tsə tsɹ̩ ke ʊ
-HF,Hefei,50,有些地方把太阳叫日头。,有些地方把太阳叫日头,,iɯ sɿ tsɿ fɑ̃ pa tˈE iɑ̃ tɕiɔ ʐəʔ tˈɯ,iɯ24 sɿ tsɿ53 fɑ̃21 pa24 tˈE53 iɑ̃ tɕiɔ53 ʐəʔ tˈɯ,iɯ24 sɹ̩ tsɹ̩53 fɑ̃21 pa24 tˈɤ53 iɑ̃ tɕiɔ53 ʐəʔ tˈɯ,iɯ sɹ̩ tsɹ̩ fɑ̃ pa tˈɤ iɑ̃ tɕiɔ ʐəʔ tˈɯ
-HF,Hefei,51,您贵姓?我姓王。,你贵姓，我姓王,,li kue ɕin ʊ ɕin uɑ̃,li24 kue53 ɕin53 ʊ24 ɕin53 uɑ̃55,li24 kue53 ɕin53 ʊ24 ɕin53 uɑ̃55,li kue ɕin ʊ ɕin uɑ̃
-HF,Hefei,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，我两个都姓王,,li ɕin uɑ̃ ʊ iE ɕin uɑ̃ ʊ liɑ̃ kə tɯ ɕin uɑ̃,li24 ɕin53 uɑ̃55 ʊ24 iE24 ɕin53 uɑ̃55 ʊ24 liɑ̃24 kə tɯ21-24 ɕin53 uɑ̃55,li24 ɕin53 uɑ̃55 ʊ24 iɤ24 ɕin53 uɑ̃55 ʊ24 liɑ̃24 kə tɯ21-24 ɕin53 uɑ̃55,li ɕin uɑ̃ ʊ iɤ ɕin uɑ̃ ʊ liɑ̃ kə tɯ ɕin uɑ̃
-HF,Hefei,53,你先去吧，我们等一会儿再去。,你先去吧，我们等一霎子再去,,li tɕˈiɪ̃ tsˈɥ pa ʊ mən tən iəʔ ʂɐʔ tsə tsE tsˈɥ,li24 tɕˈiɪ̃21-24 tsˈɥ53 pa ʊ24 mən tən24 iəʔ5-2 ʂɐʔ5 tsə tsE53 tsˈɥ53,li24 tɕˈiɪ̃21-24 tsˈɥ53 pa ʊ24 mən tən24 iəʔ5-2 ʂɐʔ5 tsə tsɤ53 tsˈɥ53,li tɕˈiɪ̃ tsˈɥ pa ʊ mən tən iəʔ ʂɐʔ tsə tsɤ tsˈɥ
-HF,Hefei,54,你抽烟不抽?,你可吃烟,,li kˈə tɕˈiəʔ iɪ̃,li24 kˈə tɕˈiəʔ5 iɪ̃21,li24 kˈə tɕˈiəʔ5 iɪ̃21,li kˈə tɕˈiəʔ iɪ̃
-HF,Hefei,55,你认得那个人不认得?,你可认得那个人,,li kˈə ʐən tɐʔ la kə ʐən,li24 kˈə ʐən53 tɐʔ5 la53 kə ʐən55,li24 kˈə ʐən53 tɐʔ5 la53 kə ʐən55,li kˈə ʐən tɐʔ la kə ʐən
+HF,Hefei,14,他今年多大岁数了?,他今年好大岁数了,,tˈa tɕin liɪ̃ xɔ ta se sʊ lə,tˈa2124 tɕin21 liɪ̃55 xɔ24 ta53 se53 sʊ53 lə,tʰa2124tɕin21liɪ̃55xɔ24ta53se53sʊ53lə,tʰatɕinliɪ̃xɔtasesʊlə
+HF,Hefei,15,大概三十来岁吧。,大约摸三十望岁吧,,ta yɐʔ mɐʔ sæ̃ ʂəʔ uɑ̃ se pa,ta53 yɐʔ52 mɐʔ5 sæ̃21 ʂəʔ5 uɑ̃53 se53 pa,ta53yɐʔ52mɐʔ5sæ̃21ʂəʔ5uɑ̃53se53pa,tayɐʔmɐʔsæ̃ʂəʔuɑ̃sepa
+HF,Hefei,16,这个东西有多重呢?,第个东西子有好重啊,,ti kə təŋ sɿ tsə iɯ xɔ tʂəŋ a,ti53 kə təŋ21 sɿ tsə iɯ24 xɔ24 tʂəŋ53 a,ti53kətəŋ21sɹ̩tsəiɯ24xɔ24tʂəŋ53a,tikətəŋsɹ̩tsəiɯxɔtʂəŋa
+HF,Hefei,17,有五十斤重呢。,有五十斤重哦,,iɯ u ʂəʔ tɕin tʂəŋ ʊ,iɯ24 u24 ʂəʔ5 tɕin21 tʂəŋ53 ʊ,iɯ24u24ʂəʔ5tɕin21tʂəŋ53ʊ,iɯuʂəʔtɕintʂəŋʊ
+HF,Hefei,18,拿得动吗?,可拿动啊,,kˈə la təŋ a,kˈə24 la55 təŋ53 a,kʰə24la55təŋ53a,kʰəlatəŋa
+HF,Hefei,19,我拿得动，他拿不动。,我拿动，他拿不动,,ʊ la təŋ tˈa la pəʔ təŋ,ʊ24 la55 təŋ53 tˈa21 la55 pəʔ təŋ53,ʊ24la55təŋ53tʰa21la55pəʔtəŋ53,ʊlatəŋtʰalapəʔtəŋ
+HF,Hefei,20,真不轻，重得连我也拿不动。,真不轻，连我都拿不动,,tʂən pəʔ tɕˈin liɪ̃ ʊ tɯ la pəʔ təŋ,tʂən21 pəʔ5 tɕˈin21 liɪ̃55 ʊ24 tɯ21 la55 pəʔ təŋ53,tʂən21pəʔ5tɕʰin21liɪ̃55ʊ24tɯ21la55pəʔtəŋ53,tʂənpəʔtɕʰinliɪ̃ʊtɯlapəʔtəŋ
+HF,Hefei,21,你说得很好，你还会说点什么呢?,你讲的好很，你还能讲毫哄个呢,,li tɕiɑ̃ tiəʔ xɔ xən li xE lən tɕiɑ̃ xɔ xəŋ kə lə,li24 tɕiɑ̃24 tiəʔ xɔ24 xən24 li24 xE lən55 tɕiɑ̃24 xɔ xəŋ53 kə lə,li24tɕiɑ̃24tiəʔxɔ24xən24li24xɤlən55tɕiɑ̃24xɔxəŋ53kələ,litɕiɑ̃tiəʔxɔxənlixɤləntɕiɑ̃xɔxəŋkələ
+HF,Hefei,22,我嘴笨，我说不过他。,我嘴笨，我讲不过他,,ʊ tse pən ʊ tɕiɑ̃ pəʔ kʊ tˈa,ʊ24 tse24 pən53 ʊ24 tɕiɑ̃24 pəʔ kʊ53 tˈa21,ʊ24tse24pən53ʊ24tɕiɑ̃24pəʔkʊ53tʰa21,ʊtsepənʊtɕiɑ̃pəʔkʊtʰa
+HF,Hefei,23,说了一遍，又说一遍。,讲之一遍，又讲一遍,,tɕiɑ̃ tʂə iəʔ piɪ̃ iɯ tɕiɑ̃ iəʔ piɪ̃,tɕiɑ̃24 tʂə iəʔ5 piɪ̃53 iɯ53 tɕiɑ̃24 iəʔ piɪ̃53,tɕiɑ̃24tʂəiəʔ5piɪ̃53iɯ53tɕiɑ̃24iəʔpiɪ̃53,tɕiɑ̃tʂəiəʔpiɪ̃iɯtɕiɑ̃iəʔpiɪ̃
+HF,Hefei,24,请你再说一遍。,请你再讲一遍,,tɕˈin li tsE tɕiɑ̃ iəʔ piɪ̃,tɕˈin24 li24 tsE53 tɕiɑ̃24 iəʔ5 piɪ̃53,tɕʰin24li24tsɤ53tɕiɑ̃24iəʔ5piɪ̃53,tɕʰinlitsɤtɕiɑ̃iəʔpiɪ̃
+HF,Hefei,25,不早了，快去吧。,不早了，快毫去吧,,pəʔ tsɔ lə kˈuE xɔ tsˈɥ pa,pəʔ52 tsɔ24 lə kˈuE53 xɔ tsˈɥ53 pa,pəʔ52tsɔ24ləkʰuɤ53xɔtsʰɥ53pa,pəʔtsɔləkʰuɤxɔtsʰɥpa
+HF,Hefei,26,现在还早着呢，等一会儿再去吧。,丈个还早很，等一霎再去吧,,tʂɑ̃ kə xE tsɔ xən tən iəʔ ʂɐʔ tsE tsɥ pa,tʂɑ̃53 kə xE55 tsɔ24 xən24 tən24 iəʔ52 ʂɐʔ5 tsE53 tsɥ53 pa,tʂɑ̃53kəxɤ55tsɔ24xən24tən24iəʔ52ʂɐʔ5tsɤ53tsɥ53pa,tʂɑ̃kəxɤtsɔxəntəniəʔʂɐʔtsɤtsɥpa
+HF,Hefei,27,吃了饭再去好吗?,吃过饭再去可好,,tɕˈiəʔ kʊ fæ̃ tsE tsˈɥ kˈə xɔ,tɕˈiəʔ5 kʊ53 fæ̃53 tsE53 tsˈɥ53 kˈə24 xɔ24,tɕʰiəʔ5kʊ53fæ̃53tsɤ53tsʰɥ53kʰə24xɔ24,tɕʰiəʔkʊfæ̃tsɤtsʰɥkʰəxɔ
+HF,Hefei,28,慢慢儿吃啊，不要着急。,慢毫吃，不要着急,,mæ̃ xɔ tɕˈiəʔ pəʔ iɔ tʂuɐʔ tɕiəʔ,mæ̃53 xɔ tɕˈiəʔ5 pəʔ5 iɔ53 tʂuɐʔ52 tɕiəʔ5,mæ̃53xɔtɕʰiəʔ5pəʔ5iɔ53tʂuɐʔ52tɕiəʔ5,mæ̃xɔtɕʰiəʔpəʔiɔtʂuɐʔtɕiəʔ
+HF,Hefei,29,坐着吃比站着吃好些。,坐到吃比站到吃好些,,tsʊ tɔ tɕˈiəʔ pɿ tʂæ̃ tɔ tɕˈiəʔ xɔ sɿ,tsʊ53 tɔ53 tɕˈiəʔ5 pɿ24 tʂæ̃53 tɔ53 tɕˈiəʔ5 xɔ24 sɿ,tsʊ53tɔ53tɕʰiəʔ5pɹ̩24tʂæ̃53tɔ53tɕʰiəʔ5xɔ24sɹ̩,tsʊtɔtɕʰiəʔpɹ̩tʂæ̃tɔtɕʰiəʔxɔsɹ̩
+HF,Hefei,30,他吃了饭了，你吃了饭没有呢?,他吃过饭了，你可吃过之,,tˈa tɕˈiəʔ kʊ fæ̃ lə li kˈə tɕˈiəʔ kʊ tʂə,tˈa21 tɕˈiəʔ5 kʊ53 fæ̃53 lə li24 kˈə24 tɕˈiəʔ5 kʊ53 tʂə,tʰa21tɕʰiəʔ5kʊ53fæ̃53ləli24kʰə24tɕʰiəʔ5kʊ53tʂə,tʰatɕʰiəʔkʊfæ̃ləlikʰətɕʰiəʔkʊtʂə
+HF,Hefei,31,他去过上海，我没有去过。,他到过上海，我没有到过,,tˈa tɔ kʊ ʂɑ̃ xE ʊ mɐʔ iɯ tɔ kʊ,tˈa2124 tɔ53 kʊ53 ʂɑ̃ xE24 ʊ24 mɐʔ52 iɯ24 tɔ53 kʊ53,tʰa2124tɔ53kʊ53ʂɑ̃xɤ24ʊ24mɐʔ52iɯ24tɔ53kʊ53,tʰatɔkʊʂɑ̃xɤʊmɐʔiɯtɔkʊ
+HF,Hefei,32,来闻闻这朵花香不香。,来闻闻第朵花可香,,lE uən uən ti tʊ xua kˈə ɕiɑ̃,lE55 uən55 uən ti53 tʊ24 xua21 kˈə24 ɕiɑ̃21,lɤ55uən55uənti53tʊ24xua21kʰə24ɕiɑ̃21,lɤuənuəntitʊxuakʰəɕiɑ̃
+HF,Hefei,33,给我一本书。,给我一本书,,ke ʊ iəʔ pən ʂu,ke24 ʊ24 iəʔ52 pən24 ʂu21,ke24ʊ24iəʔ52pən24ʂu21,keʊiəʔpənʂu
+HF,Hefei,34,我真的没有那本书呀。,我真的没有那本书,,ʊ tʂən tiəʔ mɐʔ iɯ la pən ʂu,ʊ24 tʂən21 tiəʔ mɐʔ52 iɯ24 la53 pən24 ʂu21,ʊ24tʂən21tiəʔmɐʔ52iɯ24la53pən24ʂu21,ʊtʂəntiəʔmɐʔiɯlapənʂu
+HF,Hefei,35,你告诉他。,你跟他讲,,li kən tˈa tɕiɑ̃,li24 kən2124 tˈa21 tɕiɑ̃24,li24kən2124tʰa21tɕiɑ̃24,likəntʰatɕiɑ̃
+HF,Hefei,36,好好地走，不要跑。,好好走，不要跑,,xɔ xɔ tsɯ pəʔ iɔ pˈɔ,xɔ24 xɔ24 tsɯ24 pəʔ5 iɔ53 pˈɔ55,xɔ24xɔ24tsɯ24pəʔ5iɔ53pʰɔ55,xɔxɔtsɯpəʔiɔpʰɔ
+HF,Hefei,37,小心跌下去爬不上来。,小心掉下去爬不上来,,ɕiɔ ɕin tiɔ ɕia tsˈɥ pˈa pəʔ ʂɑ̃ lE,ɕiɔ24 ɕin21 tiɔ53 ɕia tsˈɥ pˈa55 pəʔ ʂɑ̃53 lE,ɕiɔ24ɕin21tiɔ53ɕiatsʰɥpʰa55pəʔʂɑ̃53lɤ,ɕiɔɕintiɔɕiatsʰɥpʰapəʔʂɑ̃lɤ
+HF,Hefei,38,医生叫你多睡睡。,医生叫你多睡睡,,zɿ sən tɕiɔ li tʊ ʂue ʂue,zɿ21 sən tɕiɔ53 li24 tʊ2124 ʂue53 ʂue,zɹ̩21səntɕiɔ53li24tʊ2124ʂue53ʂue,zɹ̩səntɕiɔlitʊʂueʂue
+HF,Hefei,39,抽烟或者喝茶都不许。,吃烟跟喝茶都不许,,tɕˈiəʔ iɪ̃ kən xɐʔ tʂˈa tɯ pəʔ sɥ,tɕˈiəʔ5 iɪ̃21 kən21 xɐʔ52 tʂˈa55 tɯ24 pəʔ52 sɥ24,tɕʰiəʔ5iɪ̃21kən21xɐʔ52tʂʰa55tɯ24pəʔ52sɥ24,tɕʰiəʔiɪ̃kənxɐʔtʂʰatɯpəʔsɥ
+HF,Hefei,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不喜欢,,iɪ̃ iE xɔ tʂˈa iE xɔ ʊ tɯ pəʔ sɿ xʊ̃,iɪ̃21 iE24 xɔ24 tʂˈa55 iE24 xɔ24 ʊ24 tɯ24 pəʔ52 sɿ24 xʊ̃,iɪ̃21iɤ24xɔ24tʂʰa55iɤ24xɔ24ʊ24tɯ24pəʔ52sɹ̩24xʊ̃,iɪ̃iɤxɔtʂʰaiɤxɔʊtɯpəʔsɹ̩xʊ̃
+HF,Hefei,41,不管你去不去，反正我是要去的。,管你去不去，我高低是要去的,,kʊ̃ li tsˈɥ pəʔ tsˈɥ ʊ kɔ tsɿ ʂʅ iɔ tsˈɥ tiəʔ,kʊ̃24 li24 tsˈɥ53 pəʔ tsˈɥ53 ʊ24 kɔ2124 tsɿ21 ʂʅ53 iɔ53 tsˈɥ53 tiəʔ,kʊ̃24li24tsʰɥ53pəʔtsʰɥ53ʊ24kɔ2124tsɹ̩21ʂɻ̩53iɔ53tsʰɥ53tiəʔ,kʊ̃litsʰɥpəʔtsʰɥʊkɔtsɹ̩ʂɻ̩iɔtsʰɥtiəʔ
+HF,Hefei,42,我非去不可。,我非要去,,ʊ fe iɔ tsˈɥ,ʊ24 fe2124 iɔ53 tsˈɥ53,ʊ24fe2124iɔ53tsʰɥ53,ʊfeiɔtsʰɥ
+HF,Hefei,43,你是哪一年来的?,你是哪一年来的,,li ʂʅ la iəʔ liɪ̃ lE tiəʔ,li24 ʂʅ53 la24 iəʔ52 liɪ̃55 lE55 tiəʔ,li24ʂɻ̩53la24iəʔ52liɪ̃55lɤ55tiəʔ,liʂɻ̩laiəʔliɪ̃lɤtiəʔ
+HF,Hefei,44,我是前年到的北京。,我是前年到北京的,,ʊ ʂʅ tɕˈiɪ̃ liɪ̃ tɔ pɐʔ tɕin tiəʔ,ʊ24 ʂʅ53 tɕˈiɪ̃55 liɪ̃55 tɔ53 pɐʔ5 tɕin21 tiəʔ,ʊ24ʂɻ̩53tɕʰiɪ̃55liɪ̃55tɔ53pɐʔ5tɕin21tiəʔ,ʊʂɻ̩tɕʰiɪ̃liɪ̃tɔpɐʔtɕintiəʔ
+HF,Hefei,45,今天开会谁的主席?,皆个开会，哈个做主席,,tɕiE kə kˈE xue xa kə tsʊ tʂu ɕiəʔ,tɕiE21 kə kˈE2124 xue21 xa24 kə tsʊ53 tʂu24 ɕiəʔ5,tɕiɤ21kəkʰɤ2124xue21xa24kətsʊ53tʂu24ɕiəʔ5,tɕiɤkəkʰɤxuexakətsʊtʂuɕiəʔ
+HF,Hefei,46,你得请我的客。,你要请我客,,li iɔ tɕˈin ʊ kˈɐʔ,li24 iɔ53 tɕˈin24 ʊ24 kˈɐʔ5,li24iɔ53tɕʰin24ʊ24kʰɐʔ5,liiɔtɕʰinʊkʰɐʔ
+HF,Hefei,47,一边走，一边讲。,一边走，一边讲,,iəʔ piɪ̃ tsɯ iəʔ piɪ̃ tɕiɑ̃,iəʔ5 piɪ̃21 tsɯ24 iəʔ5 piɪ̃21 tɕiɑ̃,iəʔ5piɪ̃21tsɯ24iəʔ5piɪ̃21tɕiɑ̃,iəʔpiɪ̃tsɯiəʔpiɪ̃tɕiɑ̃
+HF,Hefei,48,越走越远，越说越多。,越走越远，越讲越多,,yɐʔ tsɯ yɐʔ yɪ̃ yɐʔ tɕiɑ̃ yɐʔ tʊ,yɐʔ52 tsɯ24 yɐʔ52 yɪ̃24 yɐʔ52 tɕiɑ̃ yɐʔ tʊ21,yɐʔ52tsɯ24yɐʔ52yɪ̃24yɐʔ52tɕiɑ̃yɐʔtʊ21,yɐʔtsɯyɐʔyɪ̃yɐʔtɕiɑ̃yɐʔtʊ
+HF,Hefei,49,把那个东西拿给我。,把那个东西子递给我,,pa la kə təŋ sɿ tsə tsɿ ke ʊ,pa24 la53 kə təŋ21 sɿ tsə tsɿ53 ke24 ʊ24,pa24la53kətəŋ21sɹ̩tsətsɹ̩53ke24ʊ24,palakətəŋsɹ̩tsətsɹ̩keʊ
+HF,Hefei,50,有些地方把太阳叫日头。,有些地方把太阳叫日头,,iɯ sɿ tsɿ fɑ̃ pa tˈE iɑ̃ tɕiɔ ʐəʔ tˈɯ,iɯ24 sɿ tsɿ53 fɑ̃21 pa24 tˈE53 iɑ̃ tɕiɔ53 ʐəʔ tˈɯ,iɯ24sɹ̩tsɹ̩53fɑ̃21pa24tʰɤ53iɑ̃tɕiɔ53ʐəʔtʰɯ,iɯsɹ̩tsɹ̩fɑ̃patʰɤiɑ̃tɕiɔʐəʔtʰɯ
+HF,Hefei,51,您贵姓?我姓王。,你贵姓，我姓王,,li kue ɕin ʊ ɕin uɑ̃,li24 kue53 ɕin53 ʊ24 ɕin53 uɑ̃55,li24kue53ɕin53ʊ24ɕin53uɑ̃55,likueɕinʊɕinuɑ̃
+HF,Hefei,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，我两个都姓王,,li ɕin uɑ̃ ʊ iE ɕin uɑ̃ ʊ liɑ̃ kə tɯ ɕin uɑ̃,li24 ɕin53 uɑ̃55 ʊ24 iE24 ɕin53 uɑ̃55 ʊ24 liɑ̃24 kə tɯ2124 ɕin53 uɑ̃55,li24ɕin53uɑ̃55ʊ24iɤ24ɕin53uɑ̃55ʊ24liɑ̃24kətɯ2124ɕin53uɑ̃55,liɕinuɑ̃ʊiɤɕinuɑ̃ʊliɑ̃kətɯɕinuɑ̃
+HF,Hefei,53,你先去吧，我们等一会儿再去。,你先去吧，我们等一霎子再去,,li tɕˈiɪ̃ tsˈɥ pa ʊ mən tən iəʔ ʂɐʔ tsə tsE tsˈɥ,li24 tɕˈiɪ̃2124 tsˈɥ53 pa ʊ24 mən tən24 iəʔ52 ʂɐʔ5 tsə tsE53 tsˈɥ53,li24tɕʰiɪ̃2124tsʰɥ53paʊ24məntən24iəʔ52ʂɐʔ5tsətsɤ53tsʰɥ53,litɕʰiɪ̃tsʰɥpaʊməntəniəʔʂɐʔtsətsɤtsʰɥ
+HF,Hefei,54,你抽烟不抽?,你可吃烟,,li kˈə tɕˈiəʔ iɪ̃,li24 kˈə tɕˈiəʔ5 iɪ̃21,li24kʰətɕʰiəʔ5iɪ̃21,likʰətɕʰiəʔiɪ̃
+HF,Hefei,55,你认得那个人不认得?,你可认得那个人,,li kˈə ʐən tɐʔ la kə ʐən,li24 kˈə ʐən53 tɐʔ5 la53 kə ʐən55,li24kʰəʐən53tɐʔ5la53kəʐən55,likʰəʐəntɐʔlakəʐən
 HF,Hefei,,,,,,,,
 HF,Hefei,,,,,,,,
 HF,Hefei,,,,,,,,

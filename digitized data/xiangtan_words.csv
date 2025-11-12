@@ -1,126 +1,126 @@
 dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-XT,Xiangtan,1,太阳,太阳 ,,tˈai ian,tˈai55 ian12,tˈai ian,tˈai55 ian12
-XT,Xiangtan,2,月亮,月亮 ,,yæ nian,yæ24 nian55,yæ nian,yæ24 nian55
-XT,Xiangtan,3,星星,星子 ,,sian tsɿ,sian33 tsɿ33,sian tsɹ̩,sian33 tsɹ̩33
-XT,Xiangtan,4,打雷,打雷 ,,tɒ nəi,tɒ42 nəi12,tɒ nəi,tɒ42 nəi12
-XT,Xiangtan,5,闪电,扯发闪 ,,tʂˈɒ ɸɒ ɕyẽ,tʂˈɒ42 ɸɒ24 ɕyẽ42,tʂˈɒ ɸɒ ɕyẽ,tʂˈɒ42 ɸɒ24 ɕyẽ42
-XT,Xiangtan,6,下雨,落雨 ,,no y,no24 y42,no y,no24 y42
-XT,Xiangtan,7,下雪,落雪 ,,no sie,no24 sie24,no sie,no24 sie24
-XT,Xiangtan,8,冰雹,雪籽子 ,,sie tsɿ tsɿ,sie24 tsɿ42 tsɿ33,sie tsɹ̩ tsɹ̩,sie24 tsɹ̩42 tsɹ̩33
-XT,Xiangtan,9,结冰,结构 ,,tɕie kəɯ,tɕie24 kəɯ55,tɕie kəɯ,tɕie24 kəɯ55
-XT,Xiangtan,10,刮风,起风 ,,tɕˈi ɸən,tɕˈi42 ɸən33,tɕˈi ɸən,tɕˈi42 ɸən33
+XT,Xiangtan,1,太阳,太阳 ,,tˈai ian,tˈai55 ian12,tʰaiian,tʰai55ian12
+XT,Xiangtan,2,月亮,月亮 ,,yæ nian,yæ24 nian55,yænian,yæ24nian55
+XT,Xiangtan,3,星星,星子 ,,sian tsɿ,sian33 tsɿ33,siantsɹ̩,sian33tsɹ̩33
+XT,Xiangtan,4,打雷,打雷 ,,tɒ nəi,tɒ42 nəi12,tɒnəi,tɒ42nəi12
+XT,Xiangtan,5,闪电,扯发闪 ,,tʂˈɒ ɸɒ ɕyẽ,tʂˈɒ42 ɸɒ24 ɕyẽ42,tʂʰɒɸɒɕyẽ,tʂʰɒ42ɸɒ24ɕyẽ42
+XT,Xiangtan,6,下雨,落雨 ,,no y,no24 y42,noy,no24y42
+XT,Xiangtan,7,下雪,落雪 ,,no sie,no24 sie24,nosie,no24sie24
+XT,Xiangtan,8,冰雹,雪籽子 ,,sie tsɿ tsɿ,sie24 tsɿ42 tsɿ33,sietsɹ̩tsɹ̩,sie24tsɹ̩42tsɹ̩33
+XT,Xiangtan,9,结冰,结构 ,,tɕie kəɯ,tɕie24 kəɯ55,tɕiekəɯ,tɕie24kəɯ55
+XT,Xiangtan,10,刮风,起风 ,,tɕˈi ɸən,tɕˈi42 ɸən33,tɕʰiɸən,tɕʰi42ɸən33
 XT,Xiangtan,11,虹,虹,,kɔn,kɔn55,kɔn,kɔn55
-XT,Xiangtan,12,端午节,端午日 ,,tɔn u i,tɔn33 u42 i24,tɔn u i,tɔn33 u42 i24
-XT,Xiangtan,13,中秋节,中秋日,,tʂən tsˈiəɯ i,tʂən33 tsˈiəɯ33 i24,tʂən tsˈiəɯ i,tʂən33 tsˈiəɯ33 i24
-XT,Xiangtan,14,除夕,大年三十,,dai ȵiẽ san ʂʅ,dai21 ȵiẽ12 san33 ʂʅ55,dai ɲiẽ san ʂɻ̩,dai21 ɲiẽ12 san33 ʂɻ̩55
-XT,Xiangtan,15,今年,今年子 ,,tɕin ȵiẽ tsɿ,tɕin33 ȵiẽ12 tsɿ33,tɕin ɲiẽ tsɹ̩,tɕin33 ɲiẽ12 tsɹ̩33
-XT,Xiangtan,16,明年,明年子 ,,min ȵiẽ tsɿ,min12 ȵiẽ12 tsɿ33,min ɲiẽ tsɹ̩,min12 ɲiẽ12 tsɹ̩33
-XT,Xiangtan,17,去年,去年子 ,,tɕˈy ȵiẽ tsɿ, tɕˈy55 ȵiẽ12 tsɿ33,tɕˈy ɲiẽ tsɹ̩, tɕˈy55 ɲiẽ12 tsɹ̩33
-XT,Xiangtan,18,明天,明日子 ,,mai i tsɿ,mai12 i24 tsɿ33,mai i tsɹ̩,mai12 i24 tsɹ̩33
-XT,Xiangtan,19,昨天,昨日子 ,,dzo i tsɿ,dzo12 i24 tsɿ33,dzo i tsɹ̩,dzo12 i24 tsɹ̩33
-XT,Xiangtan,20,今天,今日子 ,,tɕin i tsɿ,tɕin33 i24 tsɿ33,tɕin i tsɹ̩,tɕin33 i24 tsɹ̩33
-XT,Xiangtan,21,星期天,星期日 ,,sin dʑi i,sin33 dʑi12 i24,sin dʑi i,sin33 dʑi12 i24
-XT,Xiangtan,22,麦子,麦子,,mai tsɿ,mai24 tsɿ33,mai tsɹ̩,mai24 tsɹ̩33
-XT,Xiangtan,23,大米,大米 ,,dai mi,dai21 mi42,dai mi,dai21 mi42
-XT,Xiangtan,24,蚕豆,豌豆 ,,uan dəɯ,uan33 dəɯ21,uan dəɯ,uan33 dəɯ21
-XT,Xiangtan,25,向日葵,转日莲 ,,tɕyẽ i niẽ,tɕyẽ42 i24 niẽ12,tɕyẽ i niẽ,tɕyẽ42 i24 niẽ12
-XT,Xiangtan,26,菠菜,菠菜 ,,po tsˈai,po33 tsˈai55,po tsˈai,po33 tsˈai55
-XT,Xiangtan,27,卷心菜,包菜 ,,paɯ tsˈai,paɯ33 tsˈai55,paɯ tsˈai,paɯ33 tsˈai55
-XT,Xiangtan,28,西红柿,西红柿 ,,si ɦən sɿ,si33 ɦən12 sɿ21,si ɦən sɹ̩,si33 ɦən12 sɹ̩21
-XT,Xiangtan,29,茄子,茄子 ,,dʑyɒ tsɿ,dʑyɒ12 tsɿ33,dʑyɒ tsɹ̩,dʑyɒ12 tsɹ̩33
-XT,Xiangtan,30,白薯,脚板薯 ,,tɕio pan ɕy,tɕio24 pan42 ɕy12,tɕio pan ɕy,tɕio24 pan42 ɕy12
-XT,Xiangtan,31,马铃薯,洋芋头 ,,ian y dəɯ,ian12 y21 dəɯ12,ian y dəɯ,ian12 y21 dəɯ12
-XT,Xiangtan,32,南瓜,南瓜 ,,nan kuɒ,nan12 kuɒ33,nan kuɒ,nan12 kuɒ33
+XT,Xiangtan,12,端午节,端午日 ,,tɔn u i,tɔn33 u42 i24,tɔnui,tɔn33u42i24
+XT,Xiangtan,13,中秋节,中秋日,,tʂən tsˈiəɯ i,tʂən33 tsˈiəɯ33 i24,tʂəntsʰiəɯi,tʂən33tsʰiəɯ33i24
+XT,Xiangtan,14,除夕,大年三十,,dai ȵiẽ san ʂʅ,dai21 ȵiẽ12 san33 ʂʅ55,daiɲiẽsanʂɻ̩,dai21ɲiẽ12san33ʂɻ̩55
+XT,Xiangtan,15,今年,今年子 ,,tɕin ȵiẽ tsɿ,tɕin33 ȵiẽ12 tsɿ33,tɕinɲiẽtsɹ̩,tɕin33ɲiẽ12tsɹ̩33
+XT,Xiangtan,16,明年,明年子 ,,min ȵiẽ tsɿ,min12 ȵiẽ12 tsɿ33,minɲiẽtsɹ̩,min12ɲiẽ12tsɹ̩33
+XT,Xiangtan,17,去年,去年子 ,,tɕˈy ȵiẽ tsɿ,tɕˈy55 ȵiẽ12 tsɿ33,tɕʰyɲiẽtsɹ̩,tɕʰy55ɲiẽ12tsɹ̩33
+XT,Xiangtan,18,明天,明日子 ,,mai i tsɿ,mai12 i24 tsɿ33,maiitsɹ̩,mai12i24tsɹ̩33
+XT,Xiangtan,19,昨天,昨日子 ,,dzo i tsɿ,dzo12 i24 tsɿ33,dzoitsɹ̩,dzo12i24tsɹ̩33
+XT,Xiangtan,20,今天,今日子 ,,tɕin i tsɿ,tɕin33 i24 tsɿ33,tɕinitsɹ̩,tɕin33i24tsɹ̩33
+XT,Xiangtan,21,星期天,星期日 ,,sin dʑi i,sin33 dʑi12 i24,sindʑii,sin33dʑi12i24
+XT,Xiangtan,22,麦子,麦子,,mai tsɿ,mai24 tsɿ33,maitsɹ̩,mai24tsɹ̩33
+XT,Xiangtan,23,大米,大米 ,,dai mi,dai21 mi42,daimi,dai21mi42
+XT,Xiangtan,24,蚕豆,豌豆 ,,uan dəɯ,uan33 dəɯ21,uandəɯ,uan33dəɯ21
+XT,Xiangtan,25,向日葵,转日莲 ,,tɕyẽ i niẽ,tɕyẽ42 i24 niẽ12,tɕyẽiniẽ,tɕyẽ42i24niẽ12
+XT,Xiangtan,26,菠菜,菠菜 ,,po tsˈai,po33 tsˈai55,potsʰai,po33tsʰai55
+XT,Xiangtan,27,卷心菜,包菜 ,,paɯ tsˈai,paɯ33 tsˈai55,paɯtsʰai,paɯ33tsʰai55
+XT,Xiangtan,28,西红柿,西红柿 ,,si ɦən sɿ,si33 ɦən12 sɿ21,siɦənsɹ̩,si33ɦən12sɹ̩21
+XT,Xiangtan,29,茄子,茄子 ,,dʑyɒ tsɿ,dʑyɒ12 tsɿ33,dʑyɒtsɹ̩,dʑyɒ12tsɹ̩33
+XT,Xiangtan,30,白薯,脚板薯 ,,tɕio pan ɕy,tɕio24 pan42 ɕy12,tɕiopanɕy,tɕio24pan42ɕy12
+XT,Xiangtan,31,马铃薯,洋芋头 ,,ian y dəɯ,ian12 y21 dəɯ12,ianydəɯ,ian12y21dəɯ12
+XT,Xiangtan,32,南瓜,南瓜 ,,nan kuɒ,nan12 kuɒ33,nankuɒ,nan12kuɒ33
 XT,Xiangtan,33,猪,猪 ,,tɕy,tɕy33,tɕy,tɕy33
-XT,Xiangtan,34,公猪,脚猪子,,tɕio tɕy tsɿ,tɕio24 tɕy33 tsɿ33,tɕio tɕy tsɹ̩,tɕio24 tɕy33 tsɹ̩33
-XT,Xiangtan,35,母猪,猪婆子,,tɕy bo tsɿ,tɕy33 bo12 tsɿ33,tɕy bo tsɹ̩,tɕy33 bo12 tsɹ̩33
-XT,Xiangtan,36,公鸡,叫鸡 ,,tɕiaɯ tɕi,tɕiaɯ55 tɕi33,tɕiaɯ tɕi,tɕiaɯ55 tɕi33
-XT,Xiangtan,37,母鸡,鸡婆 ,,tɕi bo,tɕi33 bo12,tɕi bo,tɕi33 bo12
-XT,Xiangtan,38,麻雀,麻雀子 ,,mɒ tsˈio tsɿ,mɒ12 tsˈio24 tsɿ33,mɒ tsˈio tsɹ̩,mɒ12 tsˈio24 tsɹ̩33
-XT,Xiangtan,39,老鼠,老鼠子 ,,naɯ ɕy tsɿ,naɯ42 ɕy55 tsɿ33,naɯ ɕy tsɹ̩,naɯ42 ɕy55 tsɹ̩33
-XT,Xiangtan,40,臭虫,臭虫 ,,tʂˈəɯ dʐən,tʂˈəɯ55 dʐən12,tʂˈəɯ dʐən,tʂˈəɯ55 dʐən12
+XT,Xiangtan,34,公猪,脚猪子,,tɕio tɕy tsɿ,tɕio24 tɕy33 tsɿ33,tɕiotɕytsɹ̩,tɕio24tɕy33tsɹ̩33
+XT,Xiangtan,35,母猪,猪婆子,,tɕy bo tsɿ,tɕy33 bo12 tsɿ33,tɕybotsɹ̩,tɕy33bo12tsɹ̩33
+XT,Xiangtan,36,公鸡,叫鸡 ,,tɕiaɯ tɕi,tɕiaɯ55 tɕi33,tɕiaɯtɕi,tɕiaɯ55tɕi33
+XT,Xiangtan,37,母鸡,鸡婆 ,,tɕi bo,tɕi33 bo12,tɕibo,tɕi33bo12
+XT,Xiangtan,38,麻雀,麻雀子 ,,mɒ tsˈio tsɿ,mɒ12 tsˈio24 tsɿ33,mɒtsʰiotsɹ̩,mɒ12tsʰio24tsɹ̩33
+XT,Xiangtan,39,老鼠,老鼠子 ,,naɯ ɕy tsɿ,naɯ42 ɕy55 tsɿ33,naɯɕytsɹ̩,naɯ42ɕy55tsɹ̩33
+XT,Xiangtan,40,臭虫,臭虫 ,,tʂˈəɯ dʐən,tʂˈəɯ55 dʐən12,tʂʰəɯdʐən,tʂʰəɯ55dʐən12
 XT,Xiangtan,41,房子(整),屋 ,,u,u24,u,u24
-XT,Xiangtan,42,房子(单),房间 ,,ɸɔn kan,ɸɔn12 kan33,ɸɔn kan,ɸɔn12 kan33
-XT,Xiangtan,43,窗户,窗子 ,,tʂˈɔn tsɿ,tʂˈɔn33 tsɿ33,tʂˈɔn tsɹ̩,tʂˈɔn33 tsɹ̩33
-XT,Xiangtan,44,门坎,门坎 ,,mən kˈan,mən12 kˈan42,mən kˈan,mən12 kˈan42
-XT,Xiangtan,45,厕所,茅厕屋 ,,maɯ sɿ u,maɯ12 sɿ55 u24,maɯ sɹ̩ u,maɯ12 sɹ̩55 u24
-XT,Xiangtan,46,厨房,灶屋 ,,tsaɯ u,tsaɯ55 u24,tsaɯ u,tsaɯ55 u24
-XT,Xiangtan,47,烟囱,烟筒 ,,iẽ dən,iẽ33 dən12,iẽ dən,iẽ33 dən12
-XT,Xiangtan,48,桌子,桌子 ,,tso tsɿ,tso24 tsɿ33,tso tsɹ̩,tso24 tsɹ̩33
-XT,Xiangtan,49,楼梯,楼梯 ,,nəɯ tˈi,nəɯ12 tˈi33,nəɯ tˈi,nəɯ12 tˈi33
-XT,Xiangtan,50,头,脑壳 ,,naɯ kˈo,naɯ42 kˈo24,naɯ kˈo,naɯ42 kˈo24
-XT,Xiangtan,51,额头,脑门 ,,naɯ mən,naɯ42 mən12,naɯ mən,naɯ42 mən12
-XT,Xiangtan,52,脸,脸拐 ,,niẽ kuai,niẽ42 kuai42,niẽ kuai,niẽ42 kuai42
-XT,Xiangtan,53,鼻子,鼻筒 ,,pˈi dən,pˈi55 dən12,pˈi dən,pˈi55 dən12
-XT,Xiangtan,54,脖子,颈弓 ,,tɕian kən,tɕian42 kən33,tɕian kən,tɕian42 kən33
-XT,Xiangtan,55,左手,左手 ,,tso ʂəɯ,tso42 ʂəɯ42,tso ʂəɯ,tso42 ʂəɯ42
-XT,Xiangtan,56,右手,右手 ,,iəɯ ʂəɯ,iəɯ21 ʂəɯ42,iəɯ ʂəɯ,iəɯ21 ʂəɯ42
-XT,Xiangtan,57,拳头,它兴 ,,do ɕin,do12 ɕin55,do ɕin,do12 ɕin55
-XT,Xiangtan,58,手指头,手指脑 ,,ʂəɯ tʂʅ naɯ,ʂəɯ42 tʂʅ55 naɯ42,ʂəɯ tʂɻ̩ naɯ,ʂəɯ42 tʂɻ̩55 naɯ42
-XT,Xiangtan,59,指甲,指甲,,tʂʅ kɒ,tʂʅ42 kɒ24,tʂɻ̩ kɒ,tʂɻ̩42 kɒ24
-XT,Xiangtan,60,膝盖,膝头股 ,,ɕi dəɯ ku,ɕi24 dəɯ12 ku42,ɕi dəɯ ku,ɕi24 dəɯ12 ku42
-XT,Xiangtan,61,腿,腿把子 ,,tˈəi pɒ tsɿ,tˈəi42 pɒ55 tsɿ33,tˈəi pɒ tsɹ̩,tˈəi42 pɒ55 tsɹ̩33
-XT,Xiangtan,62,父亲,爹爹 ,,tie tie,tie33 tie33,tie tie,tie33 tie33
-XT,Xiangtan,63,母亲,姆妈 ,,m̩ mɒ,m̩42 mɒ33,m̩ mɒ,m̩42 mɒ33
-XT,Xiangtan,64,祖父,公公 ,,kən kən,kən33 kən33,kən kən,kən33 kən33
-XT,Xiangtan,65,祖母,娭毑 ,,ŋai dʑi,ŋai33 dʑi21,ŋai dʑi,ŋai33 dʑi21
-XT,Xiangtan,66,伯父,伯伯 ,,pɒ pɒ,pɒ24 pɒ55,pɒ pɒ,pɒ24 pɒ55
-XT,Xiangtan,67,伯母,伯毑 ,,pɒ dʑi,pɒ24 dʑi21,pɒ dʑi,pɒ24 dʑi21
-XT,Xiangtan,68,叔父,叔叔 ,,ʂəɯ ʂəɯ,ʂəɯ24 ʂəɯ55,ʂəɯ ʂəɯ,ʂəɯ24 ʂəɯ55
-XT,Xiangtan,69,叔母,婶毑 ,,ʂən dʑi,ʂən42 dʑi21,ʂən dʑi,ʂən42 dʑi21
-XT,Xiangtan,70,外祖父,外公 ,,uai kən,uai42 kən33,uai kən,uai42 kən33
-XT,Xiangtan,71,外祖母,外婆 ,,uai bo,uai42 bo12,uai bo,uai42 bo12
-XT,Xiangtan,72,舅舅,舅爷 ,,dʑiəɯ iɒ,dʑiəɯ21 iɒ12,dʑiəɯ iɒ,dʑiəɯ21 iɒ12
-XT,Xiangtan,73,舅母,舅娘,,dʑiəɯ ȵian,dʑiəɯ21 ȵian12,dʑiəɯ ɲian,dʑiəɯ21 ɲian12
-XT,Xiangtan,74,丈夫,爱人 ,,ŋai in,ŋai55 in12,ŋai in,ŋai55 in12
-XT,Xiangtan,75,妻子,爱人 ,,ŋai in,ŋai55 in12,ŋai in,ŋai55 in12
+XT,Xiangtan,42,房子(单),房间 ,,ɸɔn kan,ɸɔn12 kan33,ɸɔnkan,ɸɔn12kan33
+XT,Xiangtan,43,窗户,窗子 ,,tʂˈɔn tsɿ,tʂˈɔn33 tsɿ33,tʂʰɔntsɹ̩,tʂʰɔn33tsɹ̩33
+XT,Xiangtan,44,门坎,门坎 ,,mən kˈan,mən12 kˈan42,mənkʰan,mən12kʰan42
+XT,Xiangtan,45,厕所,茅厕屋 ,,maɯ sɿ u,maɯ12 sɿ55 u24,maɯsɹ̩u,maɯ12sɹ̩55u24
+XT,Xiangtan,46,厨房,灶屋 ,,tsaɯ u,tsaɯ55 u24,tsaɯu,tsaɯ55u24
+XT,Xiangtan,47,烟囱,烟筒 ,,iẽ dən,iẽ33 dən12,iẽdən,iẽ33dən12
+XT,Xiangtan,48,桌子,桌子 ,,tso tsɿ,tso24 tsɿ33,tsotsɹ̩,tso24tsɹ̩33
+XT,Xiangtan,49,楼梯,楼梯 ,,nəɯ tˈi,nəɯ12 tˈi33,nəɯtʰi,nəɯ12tʰi33
+XT,Xiangtan,50,头,脑壳 ,,naɯ kˈo,naɯ42 kˈo24,naɯkʰo,naɯ42kʰo24
+XT,Xiangtan,51,额头,脑门 ,,naɯ mən,naɯ42 mən12,naɯmən,naɯ42mən12
+XT,Xiangtan,52,脸,脸拐 ,,niẽ kuai,niẽ42 kuai42,niẽkuai,niẽ42kuai42
+XT,Xiangtan,53,鼻子,鼻筒 ,,pˈi dən,pˈi55 dən12,pʰidən,pʰi55dən12
+XT,Xiangtan,54,脖子,颈弓 ,,tɕian kən,tɕian42 kən33,tɕiankən,tɕian42kən33
+XT,Xiangtan,55,左手,左手 ,,tso ʂəɯ,tso42 ʂəɯ42,tsoʂəɯ,tso42ʂəɯ42
+XT,Xiangtan,56,右手,右手 ,,iəɯ ʂəɯ,iəɯ21 ʂəɯ42,iəɯʂəɯ,iəɯ21ʂəɯ42
+XT,Xiangtan,57,拳头,它兴 ,,do ɕin,do12 ɕin55,doɕin,do12ɕin55
+XT,Xiangtan,58,手指头,手指脑 ,,ʂəɯ tʂʅ naɯ,ʂəɯ42 tʂʅ55 naɯ42,ʂəɯtʂɻ̩naɯ,ʂəɯ42tʂɻ̩55naɯ42
+XT,Xiangtan,59,指甲,指甲,,tʂʅ kɒ,tʂʅ42 kɒ24,tʂɻ̩kɒ,tʂɻ̩42kɒ24
+XT,Xiangtan,60,膝盖,膝头股 ,,ɕi dəɯ ku,ɕi24 dəɯ12 ku42,ɕidəɯku,ɕi24dəɯ12ku42
+XT,Xiangtan,61,腿,腿把子 ,,tˈəi pɒ tsɿ,tˈəi42 pɒ55 tsɿ33,tʰəipɒtsɹ̩,tʰəi42pɒ55tsɹ̩33
+XT,Xiangtan,62,父亲,爹爹 ,,tie tie,tie33 tie33,tietie,tie33tie33
+XT,Xiangtan,63,母亲,姆妈 ,,m̩ mɒ,m̩42 mɒ33,m̩mɒ,m̩42mɒ33
+XT,Xiangtan,64,祖父,公公 ,,kən kən,kən33 kən33,kənkən,kən33kən33
+XT,Xiangtan,65,祖母,娭毑 ,,ŋai dʑi,ŋai33 dʑi21,ŋaidʑi,ŋai33dʑi21
+XT,Xiangtan,66,伯父,伯伯 ,,pɒ pɒ,pɒ24 pɒ55,pɒpɒ,pɒ24pɒ55
+XT,Xiangtan,67,伯母,伯毑 ,,pɒ dʑi,pɒ24 dʑi21,pɒdʑi,pɒ24dʑi21
+XT,Xiangtan,68,叔父,叔叔 ,,ʂəɯ ʂəɯ,ʂəɯ24 ʂəɯ55,ʂəɯʂəɯ,ʂəɯ24ʂəɯ55
+XT,Xiangtan,69,叔母,婶毑 ,,ʂən dʑi,ʂən42 dʑi21,ʂəndʑi,ʂən42dʑi21
+XT,Xiangtan,70,外祖父,外公 ,,uai kən,uai42 kən33,uaikən,uai42kən33
+XT,Xiangtan,71,外祖母,外婆 ,,uai bo,uai42 bo12,uaibo,uai42bo12
+XT,Xiangtan,72,舅舅,舅爷 ,,dʑiəɯ iɒ,dʑiəɯ21 iɒ12,dʑiəɯiɒ,dʑiəɯ21iɒ12
+XT,Xiangtan,73,舅母,舅娘,,dʑiəɯ ȵian,dʑiəɯ21 ȵian12,dʑiəɯɲian,dʑiəɯ21ɲian12
+XT,Xiangtan,74,丈夫,爱人 ,,ŋai in,ŋai55 in12,ŋaiin,ŋai55in12
+XT,Xiangtan,75,妻子,爱人 ,,ŋai in,ŋai55 in12,ŋaiin,ŋai55in12
 XT,Xiangtan,76,儿子,崽 ,,tsai,tsai42,tsai,tsai42
-XT,Xiangtan,77,女儿,女崽唧 ,,ȵy tsai dʑi,ȵy42 tsai42 dʑi21,ɲy tsai dʑi,ɲy42 tsai42 dʑi21
-XT,Xiangtan,78,早饭,早饭 ,,tsaɯ ɸan,tsaɯ42 ɸan21,tsaɯ ɸan,tsaɯ42 ɸan21
-XT,Xiangtan,79,午饭,中午饭 ,,tʂən u ɸan,tʂən33 u42 ɸan21,tʂən u ɸan,tʂən33 u42 ɸan21
-XT,Xiangtan,80,晚饭,夜饭 ,,iɒ ɸan,iɒ21 ɸan21,iɒ ɸan,iɒ21 ɸan21
+XT,Xiangtan,77,女儿,女崽唧 ,,ȵy tsai dʑi,ȵy42 tsai42 dʑi21,ɲytsaidʑi,ɲy42tsai42dʑi21
+XT,Xiangtan,78,早饭,早饭 ,,tsaɯ ɸan,tsaɯ42 ɸan21,tsaɯɸan,tsaɯ42ɸan21
+XT,Xiangtan,79,午饭,中午饭 ,,tʂən u ɸan,tʂən33 u42 ɸan21,tʂənuɸan,tʂən33u42ɸan21
+XT,Xiangtan,80,晚饭,夜饭 ,,iɒ ɸan,iɒ21 ɸan21,iɒɸan,iɒ21ɸan21
 XT,Xiangtan,81,面条,面 ,,miẽ,miẽ21,miẽ,miẽ21
 XT,Xiangtan,82,馒头,馍馍 ,,momo,mo12mo33,momo,mo12mo33
-XT,Xiangtan,83,包子,包子 ,,paɯ tsɿ,paɯ33 tsɿ33,paɯ tsɹ̩,paɯ33 tsɹ̩33
-XT,Xiangtan,84,馄饨,馄饨 ,,ɸən tən,ɸən12 tən33,ɸən tən,ɸən12 tən33
-XT,Xiangtan,85,醋,醋 ,,tsˈəɯ,tsˈəɯ55,tsˈəɯ,tsˈəɯ55
-XT,Xiangtan,86,酱油,酱油,,tsian iəɯ,tsian55 iəɯ12,tsian iəɯ,tsian55 iəɯ12
+XT,Xiangtan,83,包子,包子 ,,paɯ tsɿ,paɯ33 tsɿ33,paɯtsɹ̩,paɯ33tsɹ̩33
+XT,Xiangtan,84,馄饨,馄饨 ,,ɸən tən,ɸən12 tən33,ɸəntən,ɸən12tən33
+XT,Xiangtan,85,醋,醋 ,,tsˈəɯ,tsˈəɯ55,tsʰəɯ,tsʰəɯ55
+XT,Xiangtan,86,酱油,酱油,,tsian iəɯ,tsian55 iəɯ12,tsianiəɯ,tsian55iəɯ12
 XT,Xiangtan,87,盐,盐 ,,iẽ,iẽ12,iẽ,iẽ12
-XT,Xiangtan,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai55 tsɿ33,kˈuai tsɹ̩,kˈuai55 tsɹ̩33
-XT,Xiangtan,89,勺儿,调羹 ,,diaɯ kən,diaɯ12 kən33,diaɯ kən,diaɯ12 kən33
-XT,Xiangtan,90,男人,男人家 ,,nan in kɒ,nan12 in12 kɒ33,nan in kɒ,nan12 in12 kɒ33
-XT,Xiangtan,91,女人,女人家 ,,ȵy in kɒ,ȵy42 in12 kɒ33,ɲy in kɒ,ɲy42 in12 kɒ33
-XT,Xiangtan,92,男孩子,伢唧 ,,ŋɒ dʑi,ŋɒ12 dʑi21,ŋɒ dʑi,ŋɒ12 dʑi21
-XT,Xiangtan,93,女孩子,妹唧 ,,məi dʑi,məi21 dʑi21,məi dʑi,məi21 dʑi21
-XT,Xiangtan,94,老头儿,老倌子 ,,naɯ kɔn tsɿ,naɯ42 kɔn33 tsɿ33,naɯ kɔn tsɹ̩,naɯ42 kɔn33 tsɹ̩33
-XT,Xiangtan,95,医生,医生 ,,i sən,i33 sən33,i sən,i33 sən33
-XT,Xiangtan,96,厨师,厨师 ,,dʑy sɿ,dʑy33 sɿ33,dʑy sɹ̩,dʑy33 sɹ̩33
-XT,Xiangtan,97,乞丐,告化子,,kaɯ ɸɒ tsɿ,kaɯ55 ɸɒ55 tsɿ33,kaɯ ɸɒ tsɹ̩,kaɯ55 ɸɒ55 tsɹ̩33
-XT,Xiangtan,98,保姆,保姆 ,,paɯ mo,paɯ42 mo42,paɯ mo,paɯ42 mo42
-XT,Xiangtan,99,病了,着病 ,,tʂo bian,tʂo55 bian21,tʂo bian,tʂo55 bian21
-XT,Xiangtan,100,伤风,凉哒 ,,nian tɒ,nian12 tɒ42,nian tɒ,nian12 tɒ42
-XT,Xiangtan,101,泻肚,肚子屙 ,,təɯ tsɿ o,təɯ42 tsɿ33 o33,təɯ tsɹ̩ o,təɯ42 tsɹ̩33 o33
-XT,Xiangtan,102,瘸子,拜子,,pai tsɿ,pai33 tsɿ33,pai tsɹ̩,pai33 tsɹ̩33
-XT,Xiangtan,103,驼背,驼子 ,,do tsɿ,do12 tsɿ33,do tsɹ̩,do12 tsɹ̩33
-XT,Xiangtan,104,死了,老哒 ,,naɯ tɒ,naɯ42 tɒ42,naɯ tɒ,naɯ42 tɒ42
-XT,Xiangtan,105,看病,看病 ,,kˈan bian,kˈan55 bian21,kˈan bian,kˈan55 bian21
+XT,Xiangtan,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai55 tsɿ33,kʰuaitsɹ̩,kʰuai55tsɹ̩33
+XT,Xiangtan,89,勺儿,调羹 ,,diaɯ kən,diaɯ12 kən33,diaɯkən,diaɯ12kən33
+XT,Xiangtan,90,男人,男人家 ,,nan in kɒ,nan12 in12 kɒ33,naninkɒ,nan12in12kɒ33
+XT,Xiangtan,91,女人,女人家 ,,ȵy in kɒ,ȵy42 in12 kɒ33,ɲyinkɒ,ɲy42in12kɒ33
+XT,Xiangtan,92,男孩子,伢唧 ,,ŋɒ dʑi,ŋɒ12 dʑi21,ŋɒdʑi,ŋɒ12dʑi21
+XT,Xiangtan,93,女孩子,妹唧 ,,məi dʑi,məi21 dʑi21,məidʑi,məi21dʑi21
+XT,Xiangtan,94,老头儿,老倌子 ,,naɯ kɔn tsɿ,naɯ42 kɔn33 tsɿ33,naɯkɔntsɹ̩,naɯ42kɔn33tsɹ̩33
+XT,Xiangtan,95,医生,医生 ,,i sən,i33 sən33,isən,i33sən33
+XT,Xiangtan,96,厨师,厨师 ,,dʑy sɿ,dʑy33 sɿ33,dʑysɹ̩,dʑy33sɹ̩33
+XT,Xiangtan,97,乞丐,告化子,,kaɯ ɸɒ tsɿ,kaɯ55 ɸɒ55 tsɿ33,kaɯɸɒtsɹ̩,kaɯ55ɸɒ55tsɹ̩33
+XT,Xiangtan,98,保姆,保姆 ,,paɯ mo,paɯ42 mo42,paɯmo,paɯ42mo42
+XT,Xiangtan,99,病了,着病 ,,tʂo bian,tʂo55 bian21,tʂobian,tʂo55bian21
+XT,Xiangtan,100,伤风,凉哒 ,,nian tɒ,nian12 tɒ42,niantɒ,nian12tɒ42
+XT,Xiangtan,101,泻肚,肚子屙 ,,təɯ tsɿ o,təɯ42 tsɿ33 o33,təɯtsɹ̩o,təɯ42tsɹ̩33o33
+XT,Xiangtan,102,瘸子,拜子,,pai tsɿ,pai33 tsɿ33,paitsɹ̩,pai33tsɹ̩33
+XT,Xiangtan,103,驼背,驼子 ,,do tsɿ,do12 tsɿ33,dotsɹ̩,do12tsɹ̩33
+XT,Xiangtan,104,死了,老哒 ,,naɯ tɒ,naɯ42 tɒ42,naɯtɒ,naɯ42tɒ42
+XT,Xiangtan,105,看病,看病 ,,kˈan bian,kˈan55 bian21,kʰanbian,kʰan55bian21
 XT,Xiangtan,106,我,我,,ŋo,ŋo42,ŋo,ŋo42
 XT,Xiangtan,107,你,你 ,,ni,ni42,ni,ni42
-XT,Xiangtan,108,他,他 ,,tˈɒ,tˈɒ33,tˈɒ,tˈɒ33
-XT,Xiangtan,109,我们,我人 ,,ŋo in,ŋo42 in12,ŋo in,ŋo42 in12
-XT,Xiangtan,110,你们,你人 ,,ȵi in,ȵi42 in12,ɲi in,ɲi42 in12
-XT,Xiangtan,111,他们,他人 ,,tˈɒ in,tˈɒ33 in12,tˈɒ in,tˈɒ33 in12
-XT,Xiangtan,112,咱们,我人 ,,ŋo in,ŋo42 in12,ŋo in,ŋo42 in12
-XT,Xiangtan,113,自己,自家 ,,dzɿ kɒ,dzɿ21 kɒ33,dzɹ̩ kɒ,dzɹ̩21 kɒ33
-XT,Xiangtan,114,谁,哪个 ,,nɒ ko,nɒ42 ko55,nɒ ko,nɒ42 ko55
-XT,Xiangtan,115,什么,什么 ,,ʂən mo,ʂən42 mo33,ʂən mo,ʂən42 mo33
-XT,Xiangtan,116,这里,咯当 ,,ko tɔn,ko24 tɔn55,ko tɔn,ko24 tɔn55
-XT,Xiangtan,117,那里,那当 ,,nɒ tɔn,nɒ24 tɔn55,nɒ tɔn,nɒ24 tɔn55
-XT,Xiangtan,118,哪里,哪当 ,,nɒ tɔn,nɒ42 tɔn55,nɒ tɔn,nɒ42 tɔn55
-XT,Xiangtan,119,这个,咯个,,ko ko,ko24 ko55,ko ko,ko24 ko55
-XT,Xiangtan,120,那个,那个 ,,nɒ ko,nɒ24 ko55,nɒ ko,nɒ24 ko55
-XT,Xiangtan,121,哪一个,哪一个 ,,nɒ i ko,nɒ42 i24 ko55,nɒ i ko,nɒ42 i24 ko55
-XT,Xiangtan,122,怎么样,台解 ,,i kai,i12 kai42,i kai,i12 kai42
+XT,Xiangtan,108,他,他 ,,tˈɒ,tˈɒ33,tʰɒ,tʰɒ33
+XT,Xiangtan,109,我们,我人 ,,ŋo in,ŋo42 in12,ŋoin,ŋo42in12
+XT,Xiangtan,110,你们,你人 ,,ȵi in,ȵi42 in12,ɲiin,ɲi42in12
+XT,Xiangtan,111,他们,他人 ,,tˈɒ in,tˈɒ33 in12,tʰɒin,tʰɒ33in12
+XT,Xiangtan,112,咱们,我人 ,,ŋo in,ŋo42 in12,ŋoin,ŋo42in12
+XT,Xiangtan,113,自己,自家 ,,dzɿ kɒ,dzɿ21 kɒ33,dzɹ̩kɒ,dzɹ̩21kɒ33
+XT,Xiangtan,114,谁,哪个 ,,nɒ ko,nɒ42 ko55,nɒko,nɒ42ko55
+XT,Xiangtan,115,什么,什么 ,,ʂən mo,ʂən42 mo33,ʂənmo,ʂən42mo33
+XT,Xiangtan,116,这里,咯当 ,,ko tɔn,ko24 tɔn55,kotɔn,ko24tɔn55
+XT,Xiangtan,117,那里,那当 ,,nɒ tɔn,nɒ24 tɔn55,nɒtɔn,nɒ24tɔn55
+XT,Xiangtan,118,哪里,哪当 ,,nɒ tɔn,nɒ42 tɔn55,nɒtɔn,nɒ42tɔn55
+XT,Xiangtan,119,这个,咯个,,ko ko,ko24 ko55,koko,ko24ko55
+XT,Xiangtan,120,那个,那个 ,,nɒ ko,nɒ24 ko55,nɒko,nɒ24ko55
+XT,Xiangtan,121,哪一个,哪一个 ,,nɒ i ko,nɒ42 i24 ko55,nɒiko,nɒ42i24ko55
+XT,Xiangtan,122,怎么样,台解 ,,i kai,i12 kai42,ikai,i12kai42
 XT,Xiangtan,123,一位客人,隻,,tʂɒ,tʂɒ24,tʂɒ,tʂɒ24
 XT,Xiangtan,124,一双鞋,双 ,,sɔn,sɔn33,sɔn,sɔn33
 XT,Xiangtan,125,一床被,床,,dzɔn,dzɔn12,dzɔn,dzɔn12
@@ -129,13 +129,13 @@ XT,Xiangtan,127,一条牛,隻,,tʂɒ,tʂɒ24,tʂɒ,tʂɒ24
 XT,Xiangtan,128,一口猪,隻,,tʂɒ,tʂɒ24,tʂɒ,tʂɒ24
 XT,Xiangtan,129,听一会儿,听一下,,ɦɒ,ɦɒ21,ɦɒ,ɦɒ21
 XT,Xiangtan,130,打一下,打一下,,ɦɒ,ɦɒ21,ɦɒ,ɦɒ21
-XT,Xiangtan,131,上头,上头 ,,ʂɔn dəɯ,ʂɔn21 dəɯ12,ʂɔn dəɯ,ʂɔn21 dəɯ12
-XT,Xiangtan,132,下头,下头 ,,ɦɒ dəɯ,ɦɒ21 dəɯ12,ɦɒ dəɯ,ɦɒ21 dəɯ12
-XT,Xiangtan,133,左边,左边 ,,tso piẽ,tso42 piẽ33,tso piẽ,tso42 piẽ33
-XT,Xiangtan,134,右边,右边 ,,iəɯ piẽ,iəɯ21 piẽ33,iəɯ piẽ,iəɯ21 piẽ33
-XT,Xiangtan,135,当中,中间 ,,tʂən kan,tʂən33 kan33,tʂən kan,tʂən33 kan33
-XT,Xiangtan,136,里面,里头 ,,ni dəɯ,ni42 dəɯ12,ni dəɯ,ni42 dəɯ12
-XT,Xiangtan,137,外面,外头 ,,uai dəɯ,uai42 dəɯ12,uai dəɯ,uai42 dəɯ12
+XT,Xiangtan,131,上头,上头 ,,ʂɔn dəɯ,ʂɔn21 dəɯ12,ʂɔndəɯ,ʂɔn21dəɯ12
+XT,Xiangtan,132,下头,下头 ,,ɦɒ dəɯ,ɦɒ21 dəɯ12,ɦɒdəɯ,ɦɒ21dəɯ12
+XT,Xiangtan,133,左边,左边 ,,tso piẽ,tso42 piẽ33,tsopiẽ,tso42piẽ33
+XT,Xiangtan,134,右边,右边 ,,iəɯ piẽ,iəɯ21 piẽ33,iəɯpiẽ,iəɯ21piẽ33
+XT,Xiangtan,135,当中,中间 ,,tʂən kan,tʂən33 kan33,tʂənkan,tʂən33kan33
+XT,Xiangtan,136,里面,里头 ,,ni dəɯ,ni42 dəɯ12,nidəɯ,ni42dəɯ12
+XT,Xiangtan,137,外面,外头 ,,uai dəɯ,uai42 dəɯ12,uaidəɯ,uai42dəɯ12
 XT,Xiangtan,138,甜,甜 ,,diẽ,diẽ12,diẽ,diẽ12
 XT,Xiangtan,139,酸,酸 ,,sɔn,sɔn33,sɔn,sɔn33
 XT,Xiangtan,140,咸,咸 ,,ɦan,ɦan12,ɦan,ɦan12
@@ -145,42 +145,42 @@ XT,Xiangtan,143,瘦,瘦 ,,səɯ,səɯ55,səɯ,səɯ55
 XT,Xiangtan,144,冷,冷 ,,nən,nən42,nən,nən42
 XT,Xiangtan,145,热,热 ,,ie,ie24,ie,ie24
 XT,Xiangtan,146,香,香 ,,sian,sian33,sian,sian33
-XT,Xiangtan,147,臭,臭 ,,tʂˈəɯ,tʂˈəɯ55,tʂˈəɯ,tʂˈəɯ55
-XT,Xiangtan,148,粗,粗 ,,tsˈəɯ,tsˈəɯ33,tsˈəɯ,tsˈəɯ33
+XT,Xiangtan,147,臭,臭 ,,tʂˈəɯ,tʂˈəɯ55,tʂʰəɯ,tʂʰəɯ55
+XT,Xiangtan,148,粗,粗 ,,tsˈəɯ,tsˈəɯ33,tsʰəɯ,tsʰəɯ33
 XT,Xiangtan,149,细,细,,si,si55,si,si55
 XT,Xiangtan,150,长,长 ,,dʐɔn,dʐɔn12,dʐɔn,dʐɔn12
 XT,Xiangtan,151,短,短,,tɔn,tɔn42,tɔn,tɔn42
-XT,Xiangtan,152,脏,邋遢 ,,nɒ tˈɒ,nɒ24 tˈɒ55,nɒ tˈɒ,nɒ24 tˈɒ55
-XT,Xiangtan,153,干净,索里 ,,so ni,so24 ni42,so ni,so24 ni42
-XT,Xiangtan,154,便宜,便宜 ,,biẽ ȵi,biẽ12 ȵi24,biẽ ɲi,biẽ12 ɲi24
+XT,Xiangtan,152,脏,邋遢 ,,nɒ tˈɒ,nɒ24 tˈɒ55,nɒtʰɒ,nɒ24tʰɒ55
+XT,Xiangtan,153,干净,索里 ,,so ni,so24 ni42,soni,so24ni42
+XT,Xiangtan,154,便宜,便宜 ,,biẽ ȵi,biẽ12 ȵi24,biẽɲi,biẽ12ɲi24
 XT,Xiangtan,155,刚(来),才 ,,dzai,dzai12,dzai,dzai12
 XT,Xiangtan,156,刚(合适),正 ,,tʂən,tʂən55,tʂən,tʂən55
-XT,Xiangtan,157,正好,正好 ,,tʂən haɯ,tʂən55 haɯ42,tʂən haɯ,tʂən55 haɯ42
+XT,Xiangtan,157,正好,正好 ,,tʂən haɯ,tʂən55 haɯ42,tʂənhaɯ,tʂən55haɯ42
 XT,Xiangtan,158,和,和 ,,ɦo,ɦo12,ɦo,ɦo12
 XT,Xiangtan,159,只,只 ,,tsɿ,tsɿ24,tsɹ̩,tsɹ̩24
 XT,Xiangtan,160,从,从,,dzən,dzən12,dzən,dzən12
 XT,Xiangtan,161,替,给 ,,ke,ke24,ke,ke24
 XT,Xiangtan,162,拿,拿,,nɒ,nɒ33,nɒ,nɒ33
-XT,Xiangtan,163,故意,竟为 ,,tɕin uəi,tɕin55 uəi21,tɕin uəi,tɕin55 uəi21
+XT,Xiangtan,163,故意,竟为 ,,tɕin uəi,tɕin55 uəi21,tɕinuəi,tɕin55uəi21
 XT,Xiangtan,164,一,一 ,,i,i24,i,i24
 XT,Xiangtan,165,二,二,,e,e21,e,e21
 XT,Xiangtan,166,三,三,,san,san33,san,san33
 XT,Xiangtan,167,四, 四,,sɿ,sɿ55,sɹ̩,sɹ̩55
 XT,Xiangtan,168,五,五,,u,u42,u,u42
 XT,Xiangtan,169,六,六,,nəɯ,nəɯ24,nəɯ,nəɯ24
-XT,Xiangtan,170,七,七,,tsˈi,tsˈi24,tsˈi,tsˈi24
+XT,Xiangtan,170,七,七,,tsˈi,tsˈi24,tsʰi,tsʰi24
 XT,Xiangtan,171,八,八,,pɒ,pɒ24,pɒ,pɒ24
 XT,Xiangtan,172,九,九,,tɕiəɯ,tɕiəɯ42,tɕiəɯ,tɕiəɯ42
 XT,Xiangtan,173,十,十,,ʂʅ,ʂʅ55,ʂɻ̩,ʂɻ̩55
-XT,Xiangtan,174,十一,十一,,ʂʅ i,ʂʅ55 i24,ʂɻ̩ i,ʂɻ̩55 i24
-XT,Xiangtan,175,十二,十二,,ʂʅ e,ʂʅ55 e21,ʂɻ̩ e,ʂɻ̩55 e21
-XT,Xiangtan,176,二十,二十,,e ʂʅ,e21 ʂʅ55,e ʂɻ̩,e21 ʂɻ̩55
-XT,Xiangtan,177,二十一,二十一,,e ʂʅ i,e21 ʂʅ55 i24,e ʂɻ̩ i,e21 ʂɻ̩55 i24
+XT,Xiangtan,174,十一,十一,,ʂʅ i,ʂʅ55 i24,ʂɻ̩i,ʂɻ̩55i24
+XT,Xiangtan,175,十二,十二,,ʂʅ e,ʂʅ55 e21,ʂɻ̩e,ʂɻ̩55e21
+XT,Xiangtan,176,二十,二十,,e ʂʅ,e21 ʂʅ55,eʂɻ̩,e21ʂɻ̩55
+XT,Xiangtan,177,二十一,二十一,,e ʂʅ i,e21 ʂʅ55 i24,eʂɻ̩i,e21ʂɻ̩55i24
 XT,Xiangtan,178,一百二十,,,,,,
-XT,Xiangtan,179,第一,第一,,di i,di21 i24,di i,di21 i24
-XT,Xiangtan,180,第二,第二,,di e,di21 e21,di e,di21 e21
-XT,Xiangtan,181,两里,两里,,nian ni,nian42 ni42,nian ni,nian42 ni42
-XT,Xiangtan,182,二两,二两,,e nian,e21 nian42,e nian,e21 nian42
+XT,Xiangtan,179,第一,第一,,di i,di21 i24,dii,di21i24
+XT,Xiangtan,180,第二,第二,,di e,di21 e21,die,di21e21
+XT,Xiangtan,181,两里,两里,,nian ni,nian42 ni42,nianni,nian42ni42
+XT,Xiangtan,182,二两,二两,,e nian,e21 nian42,enian,e21nian42
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,

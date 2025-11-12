@@ -1,109 +1,109 @@
 dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-TB,Taibei,1,太阳,太阳 ,,tˈai iɔŋ,tˈai11-53 iɔŋ24,tˈai iɔŋ,tˈai11-53 iɔŋ24
-TB,Taibei,2,月亮,月娘 ,,geʔ liũ,geʔ44-32 liũ24,geʔ liũ,geʔ44-32 liũ24
-TB,Taibei,3,星星,天星,,tˈĩ tsˈĩ,tˈĩ44-33 tsˈĩ44,tˈĩ tsˈĩ,tˈĩ44-33 tsˈĩ44
-TB,Taibei,4,打雷,陈雷 ,,tan lui,tan24-11 lui24,tan lui,tan24-11 lui24
-TB,Taibei,5,闪电,闪电 ,,siam tian,siam53-55 tian33,siam tian,siam53-55 tian33
-TB,Taibei,6,下雨,落雨,,lɔʔ hɔ,lɔʔ44-32 hɔ33,lɔʔ hɔ,lɔʔ44-32 hɔ33
-TB,Taibei,7,下雪,落雪 ,,lɔʔ seʔ,lɔʔ44-32 seʔ32,lɔʔ seʔ,lɔʔ44-32 seʔ32
-TB,Taibei,8,冰雹,冰雹 ,,piŋ pˈauʔ,piŋ44-33 pˈauʔ44,piŋ pˈauʔ,piŋ44-33 pˈauʔ44
-TB,Taibei,9,结冰,结冰 ,,kiet piŋ,kiet32-44 piŋ44,kiet piŋ,kiet32-44 piŋ44
-TB,Taibei,10,刮风,起风 ,,ki hɔŋ,ki53-44 hɔŋ44,ki hɔŋ,ki53-44 hɔŋ44
+TB,Taibei,1,太阳,太阳 ,,tˈai iɔŋ,tˈai1153 iɔŋ24,tʰaiiɔŋ,tʰai1153iɔŋ24
+TB,Taibei,2,月亮,月娘 ,,geʔ liũ,geʔ4432 liũ24,geʔliũ,geʔ4432liũ24
+TB,Taibei,3,星星,天星,,tˈĩ tsˈĩ,tˈĩ4433 tsˈĩ44,tʰĩtsʰĩ,tʰĩ4433tsʰĩ44
+TB,Taibei,4,打雷,陈雷 ,,tan lui,tan2411 lui24,tanlui,tan2411lui24
+TB,Taibei,5,闪电,闪电 ,,siam tian,siam5355 tian33,siamtian,siam5355tian33
+TB,Taibei,6,下雨,落雨,,lɔʔ hɔ,lɔʔ4432 hɔ33,lɔʔhɔ,lɔʔ4432hɔ33
+TB,Taibei,7,下雪,落雪 ,,lɔʔ seʔ,lɔʔ4432 seʔ32,lɔʔseʔ,lɔʔ4432seʔ32
+TB,Taibei,8,冰雹,冰雹 ,,piŋ pˈauʔ,piŋ4433 pˈauʔ44,piŋpʰauʔ,piŋ4433pʰauʔ44
+TB,Taibei,9,结冰,结冰 ,,kiet piŋ,kiet3244 piŋ44,kietpiŋ,kiet3244piŋ44
+TB,Taibei,10,刮风,起风 ,,ki hɔŋ,ki5344 hɔŋ44,kihɔŋ,ki5344hɔŋ44
 TB,Taibei,11,虹,虹,,hɔŋ,hɔŋ24,hɔŋ,hɔŋ24
-TB,Taibei,12,端午节,五日节 ,,gɔ lit tsieʔ,gɔ33-11 lit44-32 tsieʔ32,gɔ lit tsieʔ,gɔ33-11 lit44-32 tsieʔ32
-TB,Taibei,13,中秋节,中秋节 ,,tiɔŋ tsˈiu tsieʔ,tiɔŋ44-33 tsˈiu44-33 tsieʔ32,tiɔŋ tsˈiu tsieʔ,tiɔŋ44-33 tsˈiu44-33 tsieʔ32
-TB,Taibei,14,除夕,二九暗 ,,li kau am,li33-11 kau53-55 am11,li kau am,li33-11 kau53-55 am11
-TB,Taibei,15,今年,今年 ,,kin lĩ,kin44-33 lĩ24,kin lĩ,kin44-33 lĩ24
-TB,Taibei,16,明年,明年 ,,buã lĩ,buã24-11 lĩ24,buã lĩ,buã24-11 lĩ24
-TB,Taibei,17,去年,旧年,,ku lĩ,ku33-11 lĩ24,ku lĩ,ku33-11 lĩ24
-TB,Taibei,18,明天,明仔再 ,,bĩ a tsai,bĩ24-33 a53-44 tsai11,bĩ a tsai,bĩ24-33 a53-44 tsai11
-TB,Taibei,19,昨天,昨荒 ,,tsa hŋ,tsa24-11 hŋ44,tsa hŋ,tsa24-11 hŋ44
-TB,Taibei,20,今天,今仔日,,kin lã lit,kin44-33 lã44 lit44,kin lã lit,kin44-33 lã44 lit44
-TB,Taibei,21,星期天,礼拜日 ,,le pai lit,le53-44 pai11-53 lit44,le pai lit,le53-44 pai11-53 lit44
-TB,Taibei,22,麦子,麦仔 ,,beʔ a,beʔ44-32 a53,beʔ a,beʔ44-32 a53
+TB,Taibei,12,端午节,五日节 ,,gɔ lit tsieʔ,gɔ3311 lit4432 tsieʔ32,gɔlittsieʔ,gɔ3311lit4432tsieʔ32
+TB,Taibei,13,中秋节,中秋节 ,,tiɔŋ tsˈiu tsieʔ,tiɔŋ4433 tsˈiu4433 tsieʔ32,tiɔŋtsʰiutsieʔ,tiɔŋ4433tsʰiu4433tsieʔ32
+TB,Taibei,14,除夕,二九暗 ,,li kau am,li3311 kau5355 am11,likauam,li3311kau5355am11
+TB,Taibei,15,今年,今年 ,,kin lĩ,kin4433 lĩ24,kinlĩ,kin4433lĩ24
+TB,Taibei,16,明年,明年 ,,buã lĩ,buã2411 lĩ24,buãlĩ,buã2411lĩ24
+TB,Taibei,17,去年,旧年,,ku lĩ,ku3311 lĩ24,kulĩ,ku3311lĩ24
+TB,Taibei,18,明天,明仔再 ,,bĩ a tsai,bĩ2433 a5344 tsai11,bĩatsai,bĩ2433a5344tsai11
+TB,Taibei,19,昨天,昨荒 ,,tsa hŋ,tsa2411 hŋ44,tsahŋ,tsa2411hŋ44
+TB,Taibei,20,今天,今仔日,,kin lã lit,kin4433 lã44 lit44,kinlãlit,kin4433lã44lit44
+TB,Taibei,21,星期天,礼拜日 ,,le pai lit,le5344 pai1153 lit44,lepailit,le5344pai1153lit44
+TB,Taibei,22,麦子,麦仔 ,,beʔ a,beʔ4432 a53,beʔa,beʔ4432a53
 TB,Taibei,23,大米,米,,bi,bi53,bi,bi53
-TB,Taibei,24,蚕豆,蚕豆 ,,tsˈan tau,tsˈan24-11 tau33,tsˈan tau,tsˈan24-11 tau33
-TB,Taibei,25,向日葵,向阳花 ,,hiɔŋ iɔŋ hue,hiɔŋ11-53 iɔŋ24-33 hue44,hiɔŋ iɔŋ hue,hiɔŋ11-53 iɔŋ24-33 hue44
-TB,Taibei,26,菠菜,菠邻仔菜 ,,po lin a tsˈai,po44-33 lin24-11 a53-44 tsˈai11,po lin a tsˈai,po44-33 lin24-11 a53-44 tsˈai11
-TB,Taibei,27,卷心菜,卷心菜 ,,kŋ̩ sim tsˈai,kŋ̩53-44 sim44-33 tsˈai11,kŋ̩ sim tsˈai,kŋ̩53-44 sim44-33 tsˈai11
-TB,Taibei,28,西红柿,塔麻道 ,,tˈa bã to,tˈa33-11 bã53-44 to11,tˈa bã to,tˈa33-11 bã53-44 to11
+TB,Taibei,24,蚕豆,蚕豆 ,,tsˈan tau,tsˈan2411 tau33,tsʰantau,tsʰan2411tau33
+TB,Taibei,25,向日葵,向阳花 ,,hiɔŋ iɔŋ hue,hiɔŋ1153 iɔŋ2433 hue44,hiɔŋiɔŋhue,hiɔŋ1153iɔŋ2433hue44
+TB,Taibei,26,菠菜,菠邻仔菜 ,,po lin a tsˈai,po4433 lin2411 a5344 tsˈai11,polinatsʰai,po4433lin2411a5344tsʰai11
+TB,Taibei,27,卷心菜,卷心菜 ,,kŋ̩ sim tsˈai,kŋ̩5344 sim4433 tsˈai11,kŋ̩simtsʰai,kŋ̩5344sim4433tsʰai11
+TB,Taibei,28,西红柿,塔麻道 ,,tˈa bã to,tˈa3311 bã5344 to11,tʰabãto,tʰa3311bã5344to11
 TB,Taibei,29,茄子,茄 ,,kio,kio24,kio,kio24
-TB,Taibei,30,白薯,蕃薯 ,,han tsi,han44-33 tsi24,han tsi,han44-33 tsi24
-TB,Taibei,31,马铃薯,马铃薯 ,,bã liŋ tsi,bã53-44 liŋ24-11 tsi24,bã liŋ tsi,bã53-44 liŋ24-11 tsi24
-TB,Taibei,32,南瓜,金瓜 ,,kim kue,kim44-33 kue44,kim kue,kim44-33 kue44
+TB,Taibei,30,白薯,蕃薯 ,,han tsi,han4433 tsi24,hantsi,han4433tsi24
+TB,Taibei,31,马铃薯,马铃薯 ,,bã liŋ tsi,bã5344 liŋ2411 tsi24,bãliŋtsi,bã5344liŋ2411tsi24
+TB,Taibei,32,南瓜,金瓜 ,,kim kue,kim4433 kue44,kimkue,kim4433kue44
 TB,Taibei,33,猪,猪,,ti,ti44,ti,ti44
-TB,Taibei,34,公猪,猪公 ,,ti kaŋ,ti44-33 kaŋ44,ti kaŋ,ti44-33 kaŋ44
-TB,Taibei,35,母猪,猪母 ,,ti bu,ti44-33 bu53,ti bu,ti44-33 bu53
-TB,Taibei,36,公鸡,鸡公 ,,ke kaŋ,ke44-33 kaŋ44,ke kaŋ,ke44-33 kaŋ44
-TB,Taibei,37,母鸡,鸡母 ,,ke bu,ke44-33 bu53,ke bu,ke44-33 bu53
-TB,Taibei,38,麻雀,粟鸟仔 ,,tsˈiʔ tsiau a,tsˈiʔ44 tsiau53-55 a53,tsˈiʔ tsiau a,tsˈiʔ44 tsiau53-55 a53
-TB,Taibei,39,老鼠,老鼠 ,,liau tsˈi,liau53-55 tsˈi53,liau tsˈi,liau53-55 tsˈi53
-TB,Taibei,40,臭虫,木虱,,baʔ sat,baʔ44-32 sat32,baʔ sat,baʔ44-32 sat32
-TB,Taibei,41,房子(整),厝,,tsˈu,tsˈu11,tsˈu,tsˈu11
-TB,Taibei,42,房子(单),房间 ,,paŋ kiŋ,paŋ24-11 kiŋ44,paŋ kiŋ,paŋ24-11 kiŋ44
-TB,Taibei,43,窗户,窗仔 ,,tˈaŋ a,tˈaŋ44-33 a53,tˈaŋ a,tˈaŋ44-33 a53
-TB,Taibei,44,门坎,户钉 ,,ho tiŋ,ho33-11 tiŋ33,ho tiŋ,ho33-11 tiŋ33
-TB,Taibei,45,厕所,便所 ,,pien so,pien33-11 so53,pien so,pien33-11 so53
-TB,Taibei,46,厨房,厨房 ,,tu paŋ,tu24-11 paŋ24,tu paŋ,tu24-11 paŋ24
-TB,Taibei,47,烟囱,烟筒 ,,ien taŋ,ien44-33 taŋ24,ien taŋ,ien44-33 taŋ24
-TB,Taibei,48,桌子,桌仔 ,,toʔ a,toʔ32-44 a53,toʔ a,toʔ32-44 a53
-TB,Taibei,49,楼梯,楼梯 ,,lau tˈui,lau24-11 tˈui44,lau tˈui,lau24-11 tˈui44
-TB,Taibei,50,头,头 ,,tˈau,tˈau24,tˈau,tˈau24
-TB,Taibei,51,额头,额头 ,,hiaʔ tˈau,hiaʔ44-32 tˈau24,hiaʔ tˈau,hiaʔ44-32 tˈau24
+TB,Taibei,34,公猪,猪公 ,,ti kaŋ,ti4433 kaŋ44,tikaŋ,ti4433kaŋ44
+TB,Taibei,35,母猪,猪母 ,,ti bu,ti4433 bu53,tibu,ti4433bu53
+TB,Taibei,36,公鸡,鸡公 ,,ke kaŋ,ke4433 kaŋ44,kekaŋ,ke4433kaŋ44
+TB,Taibei,37,母鸡,鸡母 ,,ke bu,ke4433 bu53,kebu,ke4433bu53
+TB,Taibei,38,麻雀,粟鸟仔 ,,tsˈiʔ tsiau a,tsˈiʔ44 tsiau5355 a53,tsʰiʔtsiaua,tsʰiʔ44tsiau5355a53
+TB,Taibei,39,老鼠,老鼠 ,,liau tsˈi,liau5355 tsˈi53,liautsʰi,liau5355tsʰi53
+TB,Taibei,40,臭虫,木虱,,baʔ sat,baʔ4432 sat32,baʔsat,baʔ4432sat32
+TB,Taibei,41,房子(整),厝,,tsˈu,tsˈu11,tsʰu,tsʰu11
+TB,Taibei,42,房子(单),房间 ,,paŋ kiŋ,paŋ2411 kiŋ44,paŋkiŋ,paŋ2411kiŋ44
+TB,Taibei,43,窗户,窗仔 ,,tˈaŋ a,tˈaŋ4433 a53,tʰaŋa,tʰaŋ4433a53
+TB,Taibei,44,门坎,户钉 ,,ho tiŋ,ho3311 tiŋ33,hotiŋ,ho3311tiŋ33
+TB,Taibei,45,厕所,便所 ,,pien so,pien3311 so53,pienso,pien3311so53
+TB,Taibei,46,厨房,厨房 ,,tu paŋ,tu2411 paŋ24,tupaŋ,tu2411paŋ24
+TB,Taibei,47,烟囱,烟筒 ,,ien taŋ,ien4433 taŋ24,ientaŋ,ien4433taŋ24
+TB,Taibei,48,桌子,桌仔 ,,toʔ a,toʔ3244 a53,toʔa,toʔ3244a53
+TB,Taibei,49,楼梯,楼梯 ,,lau tˈui,lau2411 tˈui44,lautʰui,lau2411tʰui44
+TB,Taibei,50,头,头 ,,tˈau,tˈau24,tʰau,tʰau24
+TB,Taibei,51,额头,额头 ,,hiaʔ tˈau,hiaʔ4432 tˈau24,hiaʔtʰau,hiaʔ4432tʰau24
 TB,Taibei,52,脸,面 ,,bin,bin33,bin,bin33
-TB,Taibei,53,鼻子,鼻 ,,pˈĩ,pˈĩ33,pˈĩ,pˈĩ33
-TB,Taibei,54,脖子,颔颈 ,,am kun,am33-11 kun53,am kun,am33-11 kun53
-TB,Taibei,55,左手,倒手 ,,to tsˈiu,to11-53 tsˈiu53,to tsˈiu,to11-53 tsˈiu53
-TB,Taibei,56,右手,正手 ,,tsiã tsˈiu,tsiã11-53 tsˈiu53,tsiã tsˈiu,tsiã11-53 tsˈiu53
-TB,Taibei,57,拳头,拳头 ,,kun tˈau,kun24-11 tˈau24,kun tˈau,kun24-11 tˈau24
-TB,Taibei,58,手指头,指头 ,,tsŋ̩ tˈau,tsŋ̩53-44 tˈau24,tsŋ̩ tˈau,tsŋ̩53-44 tˈau24
-TB,Taibei,59,指甲,指甲,,tsŋ kaʔ,tsŋ53-44 kaʔ32,tsŋ kaʔ,tsŋ53-44 kaʔ32
-TB,Taibei,60,膝盖,骹头趺 ,,kˈa tˈau hu,kˈa44-33 tˈau24-11 hu44,kˈa tˈau hu,kˈa44-33 tˈau24-11 hu44
-TB,Taibei,61,腿,腿 ,,tˈui,tˈui53,tˈui,tˈui53
-TB,Taibei,62,父亲,父亲 ,,hu tsˈin,hu33-11 tsˈin44,hu tsˈin,hu33-11 tsˈin44
-TB,Taibei,63,母亲,母亲 ,,bu tsˈin,bu53-55 tsˈin44,bu tsˈin,bu53-55 tsˈin44
-TB,Taibei,64,祖父,阿公 ,,a kɔŋ,a44-33 kɔŋ44,a kɔŋ,a44-33 kɔŋ44
-TB,Taibei,65,祖母,阿妈 ,,a bã,a44-33 bã53,a bã,a44-33 bã53
-TB,Taibei,66,伯父,阿伯 ,,a peʔ,a44-33 peʔ32,a peʔ,a44-33 peʔ32
-TB,Taibei,67,伯母,阿母 ,,a m̩,a44-33 m̩53,a m̩,a44-33 m̩53
-TB,Taibei,68,叔父,阿叔 ,,a tsik,a44-33 tsik32,a tsik,a44-33 tsik32
-TB,Taibei,69,叔母,阿婶 ,,a tsim,a44-33 tsim53,a tsim,a44-33 tsim53
-TB,Taibei,70,外祖父,外公 ,,gua kɔŋ,gua33-11 kɔŋ44,gua kɔŋ,gua33-11 kɔŋ44
-TB,Taibei,71,外祖母,外妈 ,,gua bã,gua33-11 bã53,gua bã,gua33-11 bã53
-TB,Taibei,72,舅舅,阿舅 ,,a ku,a44-33 ku33,a ku,a44-33 ku33
-TB,Taibei,73,舅母,阿衿 ,,a kim,a44-33 kim33,a kim,a44-33 kim33
+TB,Taibei,53,鼻子,鼻 ,,pˈĩ,pˈĩ33,pʰĩ,pʰĩ33
+TB,Taibei,54,脖子,颔颈 ,,am kun,am3311 kun53,amkun,am3311kun53
+TB,Taibei,55,左手,倒手 ,,to tsˈiu,to1153 tsˈiu53,totsʰiu,to1153tsʰiu53
+TB,Taibei,56,右手,正手 ,,tsiã tsˈiu,tsiã1153 tsˈiu53,tsiãtsʰiu,tsiã1153tsʰiu53
+TB,Taibei,57,拳头,拳头 ,,kun tˈau,kun2411 tˈau24,kuntʰau,kun2411tʰau24
+TB,Taibei,58,手指头,指头 ,,tsŋ̩ tˈau,tsŋ̩5344 tˈau24,tsŋ̩tʰau,tsŋ̩5344tʰau24
+TB,Taibei,59,指甲,指甲,,tsŋ kaʔ,tsŋ5344 kaʔ32,tsŋkaʔ,tsŋ5344kaʔ32
+TB,Taibei,60,膝盖,骹头趺 ,,kˈa tˈau hu,kˈa4433 tˈau2411 hu44,kʰatʰauhu,kʰa4433tʰau2411hu44
+TB,Taibei,61,腿,腿 ,,tˈui,tˈui53,tʰui,tʰui53
+TB,Taibei,62,父亲,父亲 ,,hu tsˈin,hu3311 tsˈin44,hutsʰin,hu3311tsʰin44
+TB,Taibei,63,母亲,母亲 ,,bu tsˈin,bu5355 tsˈin44,butsʰin,bu5355tsʰin44
+TB,Taibei,64,祖父,阿公 ,,a kɔŋ,a4433 kɔŋ44,akɔŋ,a4433kɔŋ44
+TB,Taibei,65,祖母,阿妈 ,,a bã,a4433 bã53,abã,a4433bã53
+TB,Taibei,66,伯父,阿伯 ,,a peʔ,a4433 peʔ32,apeʔ,a4433peʔ32
+TB,Taibei,67,伯母,阿母 ,,a m̩,a4433 m̩53,am̩,a4433m̩53
+TB,Taibei,68,叔父,阿叔 ,,a tsik,a4433 tsik32,atsik,a4433tsik32
+TB,Taibei,69,叔母,阿婶 ,,a tsim,a4433 tsim53,atsim,a4433tsim53
+TB,Taibei,70,外祖父,外公 ,,gua kɔŋ,gua3311 kɔŋ44,guakɔŋ,gua3311kɔŋ44
+TB,Taibei,71,外祖母,外妈 ,,gua bã,gua3311 bã53,guabã,gua3311bã53
+TB,Taibei,72,舅舅,阿舅 ,,a ku,a4433 ku33,aku,a4433ku33
+TB,Taibei,73,舅母,阿衿 ,,a kim,a4433 kim33,akim,a4433kim33
 TB,Taibei,74,丈夫,夫 ,,hu,hu44,hu,hu44
-TB,Taibei,75,妻子,妻 ,,tsˈe,tsˈe44,tsˈe,tsˈe44
+TB,Taibei,75,妻子,妻 ,,tsˈe,tsˈe44,tsʰe,tsʰe44
 TB,Taibei,76,儿子,囝 ,,kiã,kiã53,kiã,kiã53
-TB,Taibei,77,女儿,查某囝 ,,tsa bo kiã,tsa24-11 bo53-44 kiã53,tsa bo kiã,tsa24-11 bo53-44 kiã53
-TB,Taibei,78,早饭,早顿 ,,tsa tŋ̩,tsa53-44 tŋ̩11,tsa tŋ̩,tsa53-44 tŋ̩11
-TB,Taibei,79,午饭,中昼顿 ,,tioŋ tau tŋ̩,tioŋ44-33 tau11-53 tŋ̩11,tioŋ tau tŋ̩,tioŋ44-33 tau11-53 tŋ̩11
-TB,Taibei,80,晚饭,暗顿 ,,am tŋ̩,am11-53 tŋ̩11,am tŋ̩,am11-53 tŋ̩11
+TB,Taibei,77,女儿,查某囝 ,,tsa bo kiã,tsa2411 bo5344 kiã53,tsabokiã,tsa2411bo5344kiã53
+TB,Taibei,78,早饭,早顿 ,,tsa tŋ̩,tsa5344 tŋ̩11,tsatŋ̩,tsa5344tŋ̩11
+TB,Taibei,79,午饭,中昼顿 ,,tioŋ tau tŋ̩,tioŋ4433 tau1153 tŋ̩11,tioŋtautŋ̩,tioŋ4433tau1153tŋ̩11
+TB,Taibei,80,晚饭,暗顿 ,,am tŋ̩,am1153 tŋ̩11,amtŋ̩,am1153tŋ̩11
 TB,Taibei,81,面条,面 ,,bĩ,bĩ33,bĩ,bĩ33
-TB,Taibei,82,馒头,馒头 ,,ban tˈo,ban53-44 tˈo24,ban tˈo,ban53-44 tˈo24
-TB,Taibei,83,包子,包仔 ,,pau a,pau44-33 a53,pau a,pau44-33 a53
-TB,Taibei,84,馄饨,扁食 ,,pien sip,pien53-44 sip32,pien sip,pien53-44 sip32
-TB,Taibei,85,醋,醋,,tsˈo,tsˈo11,tsˈo,tsˈo11
-TB,Taibei,86,酱油,豆油 ,,tau iu,tau33-11 iu24,tau iu,tau33-11 iu24
+TB,Taibei,82,馒头,馒头 ,,ban tˈo,ban5344 tˈo24,bantʰo,ban5344tʰo24
+TB,Taibei,83,包子,包仔 ,,pau a,pau4433 a53,paua,pau4433a53
+TB,Taibei,84,馄饨,扁食 ,,pien sip,pien5344 sip32,piensip,pien5344sip32
+TB,Taibei,85,醋,醋,,tsˈo,tsˈo11,tsʰo,tsʰo11
+TB,Taibei,86,酱油,豆油 ,,tau iu,tau3311 iu24,tauiu,tau3311iu24
 TB,Taibei,87,盐,盐 ,,iam,iam24,iam,iam24
 TB,Taibei,88,筷子,箸 ,,ti,ti33,ti,ti33
-TB,Taibei,89,勺儿,汤匙,,tˈŋ̩ si,tˈŋ̩44-33 si24,tˈŋ̩ si,tˈŋ̩44-33 si24
-TB,Taibei,90,男人,丈夫 ,,ta pɔ,ta24-11 pɔ44,ta pɔ,ta24-11 pɔ44
-TB,Taibei,91,女人,查某 ,,tsa bɔ,tsa24-11 bɔ53,tsa bɔ,tsa24-11 bɔ53
-TB,Taibei,92,男孩子,丈夫婴仔 ,,ta pɔ gĩ na,ta24-11 pɔ44-33 gĩ53-44 na53,ta pɔ gĩ na,ta24-11 pɔ44-33 gĩ53-44 na53
-TB,Taibei,93,女孩子,查某婴仔 ,,tsa bɔ gĩ na,tsa24-11 bɔ53-44 gĩ53-44 na53,tsa bɔ gĩ na,tsa24-11 bɔ53-44 gĩ53-44 na53
-TB,Taibei,94,老头儿,老大人 ,,lau tua laŋ,lau53-11 tua33-11 laŋ24,lau tua laŋ,lau53-11 tua33-11 laŋ24
-TB,Taibei,95,医生,医生 ,,i siŋ,i44-33 siŋ44,i siŋ,i44-33 siŋ44
-TB,Taibei,96,厨师,宗颇师父 ,,tsoŋ pˈo sai hu,tsoŋ53-44 pˈo11-53 sai44-33 hu33,tsoŋ pˈo sai hu,tsoŋ53-44 pˈo11-53 sai44-33 hu33
-TB,Taibei,97,乞丐,乞食 ,,kˈit tsiaʔ,kˈit32-44 tsiaʔ44-32,kˈit tsiaʔ,kˈit32-44 tsiaʔ44-32
-TB,Taibei,98,保姆,奶母 ,,lin bu,lin44-33 bu53,lin bu,lin44-33 bu53
-TB,Taibei,99,病了,破病 ,,pˈua pĩ,pˈua11-53 pĩ33,pˈua pĩ,pˈua11-53 pĩ33
-TB,Taibei,100,伤风,伤风 ,,sioŋ hoŋ,sioŋ44-33 hoŋ44,sioŋ hoŋ,sioŋ44-33 hoŋ44
-TB,Taibei,101,泻肚,落屎 ,,lau sai,lau11-53 sai53,lau sai,lau11-53 sai53
-TB,Taibei,102,瘸子,跛骹 ,,pai kˈa,pai53-44 kˈa44,pai kˈa,pai53-44 kˈa44
-TB,Taibei,103,驼背,翘疴 ,,kˈiau ku,kˈiau44-33 ku44,kˈiau ku,kˈiau44-33 ku44
-TB,Taibei,104,死了,死了 ,,si a,si53 a11,si a,si53 a11
-TB,Taibei,105,看病,看病 ,,kˈuã pĩ,kˈuã11-53 pĩ33,kˈuã pĩ,kˈuã11-53 pĩ33
+TB,Taibei,89,勺儿,汤匙,,tˈŋ̩ si,tˈŋ̩4433 si24,tʰŋ̩si,tʰŋ̩4433si24
+TB,Taibei,90,男人,丈夫 ,,ta pɔ,ta2411 pɔ44,tapɔ,ta2411pɔ44
+TB,Taibei,91,女人,查某 ,,tsa bɔ,tsa2411 bɔ53,tsabɔ,tsa2411bɔ53
+TB,Taibei,92,男孩子,丈夫婴仔 ,,ta pɔ gĩ na,ta2411 pɔ4433 gĩ5344 na53,tapɔgĩna,ta2411pɔ4433gĩ5344na53
+TB,Taibei,93,女孩子,查某婴仔 ,,tsa bɔ gĩ na,tsa2411 bɔ5344 gĩ5344 na53,tsabɔgĩna,tsa2411bɔ5344gĩ5344na53
+TB,Taibei,94,老头儿,老大人 ,,lau tua laŋ,lau5311 tua3311 laŋ24,lautualaŋ,lau5311tua3311laŋ24
+TB,Taibei,95,医生,医生 ,,i siŋ,i4433 siŋ44,isiŋ,i4433siŋ44
+TB,Taibei,96,厨师,宗颇师父 ,,tsoŋ pˈo sai hu,tsoŋ5344 pˈo1153 sai4433 hu33,tsoŋpʰosaihu,tsoŋ5344pʰo1153sai4433hu33
+TB,Taibei,97,乞丐,乞食 ,,kˈit tsiaʔ,kˈit3244 tsiaʔ4432,kʰittsiaʔ,kʰit3244tsiaʔ4432
+TB,Taibei,98,保姆,奶母 ,,lin bu,lin4433 bu53,linbu,lin4433bu53
+TB,Taibei,99,病了,破病 ,,pˈua pĩ,pˈua1153 pĩ33,pʰuapĩ,pʰua1153pĩ33
+TB,Taibei,100,伤风,伤风 ,,sioŋ hoŋ,sioŋ4433 hoŋ44,sioŋhoŋ,sioŋ4433hoŋ44
+TB,Taibei,101,泻肚,落屎 ,,lau sai,lau1153 sai53,lausai,lau1153sai53
+TB,Taibei,102,瘸子,跛骹 ,,pai kˈa,pai5344 kˈa44,paikʰa,pai5344kʰa44
+TB,Taibei,103,驼背,翘疴 ,,kˈiau ku,kˈiau4433 ku44,kʰiauku,kʰiau4433ku44
+TB,Taibei,104,死了,死了 ,,si a,si53 a11,sia,si53a11
+TB,Taibei,105,看病,看病 ,,kˈuã pĩ,kˈuã1153 pĩ33,kʰuãpĩ,kʰuã1153pĩ33
 TB,Taibei,106,我,我 ,,gua,gua53,gua,gua53
 TB,Taibei,107,你,你,,li,li53,li,li53
 TB,Taibei,108,他,伊,,i,i44,i,i44
@@ -111,31 +111,31 @@ TB,Taibei,109,我们,阮,,gun,gun53,gun,gun53
 TB,Taibei,110,你们,恁,,lin,lin53,lin,lin53
 TB,Taibei,111,他们,𪜶,,in,in44,in,in44
 TB,Taibei,112,咱们,咱 ,,lan,lan53,lan,lan53
-TB,Taibei,113,自己,家己 ,,ka ki,ka44-33 ki33,ka ki,ka44-33 ki33
+TB,Taibei,113,自己,家己 ,,ka ki,ka4433 ki33,kaki,ka4433ki33
 TB,Taibei,114,谁,啥 ,,siã,siã53,siã,siã53
-TB,Taibei,115,什么,甚物 ,,siã bĩʔ,siã53-44 bĩʔ44,siã bĩʔ,siã53-44 bĩʔ44
+TB,Taibei,115,什么,甚物 ,,siã bĩʔ,siã5344 bĩʔ44,siãbĩʔ,siã5344bĩʔ44
 TB,Taibei,116,这里,遮 ,,tsia,tsia44,tsia,tsia44
 TB,Taibei,117,那里,遐 ,,hia,hia44,hia,hia44
-TB,Taibei,118,哪里,倒位 ,,to ui,to53-44 ui33,to ui,to53-44 ui33
-TB,Taibei,119,这个,即个 ,,tsit le,tsit32-44 le24,tsit le,tsit32-44 le24
-TB,Taibei,120,那个,迄个 ,,hit le,hit32-44 le24,hit le,hit32-44 le24
-TB,Taibei,121,哪一个,倒一个 ,,to tsit le,to53-44 tsit44-32 le24,to tsit le,to53-44 tsit44-32 le24
-TB,Taibei,122,怎么样,安怎样 ,,an tsuã iũ,an44 tsuã11-53 iũ33,an tsuã iũ,an44 tsuã11-53 iũ33
-TB,Taibei,123,一位客人,个,,le,le24-33,le,le24-33
-TB,Taibei,124,一双鞋,双,,siaŋ,siaŋ44-33,siaŋ,siaŋ44-33
-TB,Taibei,125,一床被,领,,liã,liã53-44,liã,liã53-44
-TB,Taibei,126,一辆车,台,,tai,tai24-11,tai,tai24-11
-TB,Taibei,127,一条牛,只,,tsiaʔ,tsiaʔ32-44,tsiaʔ,tsiaʔ32-44
-TB,Taibei,128,一口猪,只,,tsiaʔ,tsiaʔ32-44,tsiaʔ,tsiaʔ32-44
+TB,Taibei,118,哪里,倒位 ,,to ui,to5344 ui33,toui,to5344ui33
+TB,Taibei,119,这个,即个 ,,tsit le,tsit3244 le24,tsitle,tsit3244le24
+TB,Taibei,120,那个,迄个 ,,hit le,hit3244 le24,hitle,hit3244le24
+TB,Taibei,121,哪一个,倒一个 ,,to tsit le,to5344 tsit4432 le24,totsitle,to5344tsit4432le24
+TB,Taibei,122,怎么样,安怎样 ,,an tsuã iũ,an44 tsuã1153 iũ33,antsuãiũ,an44tsuã1153iũ33
+TB,Taibei,123,一位客人,个,,le,le2433,le,le2433
+TB,Taibei,124,一双鞋,双,,siaŋ,siaŋ4433,siaŋ,siaŋ4433
+TB,Taibei,125,一床被,领,,liã,liã5344,liã,liã5344
+TB,Taibei,126,一辆车,台,,tai,tai2411,tai,tai2411
+TB,Taibei,127,一条牛,只,,tsiaʔ,tsiaʔ3244,tsiaʔ,tsiaʔ3244
+TB,Taibei,128,一口猪,只,,tsiaʔ,tsiaʔ3244,tsiaʔ,tsiaʔ3244
 TB,Taibei,129,听一会儿,下,,le,le24,le,le24
-TB,Taibei,130,打一下,拍一下 ,,pˈaʔ tsit le,pˈaʔ32-44 tsit44-32 le24,pˈaʔ tsit le,pˈaʔ32-44 tsit44-32 le24
-TB,Taibei,131,上头,顶头 ,,tiŋ tˈau,tiŋ53-44 tˈau24,tiŋ tˈau,tiŋ53-44 tˈau24
-TB,Taibei,132,下头,下面 ,,e bin,e33-11 bin33,e bin,e33-11 bin33
-TB,Taibei,133,左边,左边 ,,to piŋ,to11-53 piŋ24,to piŋ,to11-53 piŋ24
-TB,Taibei,134,右边,正边 ,,tsiã piŋ,tsiã11-53 piŋ24,tsiã piŋ,tsiã11-53 piŋ24
-TB,Taibei,135,当中,中央 ,,tiɔŋ ŋ̩,tiɔŋ44-33 ŋ̩44,tiɔŋ ŋ̩,tiɔŋ44-33 ŋ̩44
-TB,Taibei,136,里面,内面 ,,lai bin,lai33-11 bin33,lai bin,lai33-11 bin33
-TB,Taibei,137,外面,外面 ,,gua bin,gua33-11 bin33,gua bin,gua33-11 bin33
+TB,Taibei,130,打一下,拍一下 ,,pˈaʔ tsit le,pˈaʔ3244 tsit4432 le24,pʰaʔtsitle,pʰaʔ3244tsit4432le24
+TB,Taibei,131,上头,顶头 ,,tiŋ tˈau,tiŋ5344 tˈau24,tiŋtʰau,tiŋ5344tʰau24
+TB,Taibei,132,下头,下面 ,,e bin,e3311 bin33,ebin,e3311bin33
+TB,Taibei,133,左边,左边 ,,to piŋ,to1153 piŋ24,topiŋ,to1153piŋ24
+TB,Taibei,134,右边,正边 ,,tsiã piŋ,tsiã1153 piŋ24,tsiãpiŋ,tsiã1153piŋ24
+TB,Taibei,135,当中,中央 ,,tiɔŋ ŋ̩,tiɔŋ4433 ŋ̩44,tiɔŋŋ̩,tiɔŋ4433ŋ̩44
+TB,Taibei,136,里面,内面 ,,lai bin,lai3311 bin33,laibin,lai3311bin33
+TB,Taibei,137,外面,外面 ,,gua bin,gua3311 bin33,guabin,gua3311bin33
 TB,Taibei,138,甜,甜,,tĩ,tĩ44,tĩ,tĩ44
 TB,Taibei,139,酸,酸,,sŋ̩,sŋ̩44,sŋ̩,sŋ̩44
 TB,Taibei,140,咸,咸 ,,kiam,kiam24,kiam,kiam24
@@ -144,43 +144,43 @@ TB,Taibei,142,胖,肥 ,,pui,pui24,pui,pui24
 TB,Taibei,143,瘦,㾪 ,,san,san53,san,san53
 TB,Taibei,144,冷,冷 ,,liŋ,liŋ53,liŋ,liŋ53
 TB,Taibei,145,热,热 ,,luaʔ,luaʔ44,luaʔ,luaʔ44
-TB,Taibei,146,香,芳,,pˈaŋ,pˈaŋ44,pˈaŋ,pˈaŋ44
-TB,Taibei,147,臭,臭 ,,tsˈau,tsˈau11,tsˈau,tsˈau11
-TB,Taibei,148,粗,粗 ,,tsˈɔ,tsˈɔ44,tsˈɔ,tsˈɔ44
+TB,Taibei,146,香,芳,,pˈaŋ,pˈaŋ44,pʰaŋ,pʰaŋ44
+TB,Taibei,147,臭,臭 ,,tsˈau,tsˈau11,tsʰau,tsʰau11
+TB,Taibei,148,粗,粗 ,,tsˈɔ,tsˈɔ44,tsʰɔ,tsʰɔ44
 TB,Taibei,149,细,幼 ,,iu,iu11,iu,iu11
 TB,Taibei,150,长,长 ,,tŋ̩,tŋ̩24,tŋ̩,tŋ̩24
 TB,Taibei,151,短,短 ,,te,te53,te,te53
 TB,Taibei,152,脏,凶 ,,hiɔŋ,hiɔŋ44,hiɔŋ,hiɔŋ44
-TB,Taibei,153,干净,清气 ,,tsˈiŋ kˈi,tsˈiŋ44-33 kˈi11,tsˈiŋ kˈi,tsˈiŋ44-33 kˈi11
-TB,Taibei,154,便宜,便宜 ,,pien i,pien24-11 i24,pien i,pien24-11 i24
-TB,Taibei,155,刚(来),拄仔 ,,tu a,tu53-44 a53,tu a,tu53-44 a53
-TB,Taibei,156,刚(合适),拄拄,,tu tu,tu53-44 tu53-44,tu tu,tu53-44 tu53-44
-TB,Taibei,157,正好,拄拄好 ,,tu tu ho,tu53-44 tu53-44 ho53,tu tu ho,tu53-44 tu53-44 ho53
+TB,Taibei,153,干净,清气 ,,tsˈiŋ kˈi,tsˈiŋ4433 kˈi11,tsʰiŋkʰi,tsʰiŋ4433kʰi11
+TB,Taibei,154,便宜,便宜 ,,pien i,pien2411 i24,pieni,pien2411i24
+TB,Taibei,155,刚(来),拄仔 ,,tu a,tu5344 a53,tua,tu5344a53
+TB,Taibei,156,刚(合适),拄拄,,tu tu,tu5344 tu5344,tutu,tu5344tu5344
+TB,Taibei,157,正好,拄拄好 ,,tu tu ho,tu5344 tu5344 ho53,tutuho,tu5344tu5344ho53
 TB,Taibei,158,和,合 ,,kaʔ,kaʔ32,kaʔ,kaʔ32
-TB,Taibei,159,只,只,,tsi,tsi53-44,tsi,tsi53-44
+TB,Taibei,159,只,只,,tsi,tsi5344,tsi,tsi5344
 TB,Taibei,160,从,对 ,,tui,tui11,tui,tui11
-TB,Taibei,161,替,替,,tˈe,tˈe11,tˈe,tˈe11
-TB,Taibei,162,拿,胎,,tˈeʔ,tˈeʔ44,tˈeʔ,tˈeʔ44
-TB,Taibei,163,故意,故意,,kɔ i,kɔ11-53 i11,kɔ i,kɔ11-53 i11
+TB,Taibei,161,替,替,,tˈe,tˈe11,tʰe,tʰe11
+TB,Taibei,162,拿,胎,,tˈeʔ,tˈeʔ44,tʰeʔ,tʰeʔ44
+TB,Taibei,163,故意,故意,,kɔ i,kɔ1153 i11,kɔi,kɔ1153i11
 TB,Taibei,164,一,一,,tsit,tsit44,tsit,tsit44
 TB,Taibei,165,二,两,,lŋ̩,lŋ̩33,lŋ̩,lŋ̩33
 TB,Taibei,166,三,三,,sã,sã44,sã,sã44
 TB,Taibei,167,四,四,,si,si11,si,si11
 TB,Taibei,168,五,五,,gɔ,gɔ33,gɔ,gɔ33
 TB,Taibei,169,六,六,,lak,lak44,lak,lak44
-TB,Taibei,170,七,七,,tsˈit,tsˈit32,tsˈit,tsˈit32
+TB,Taibei,170,七,七,,tsˈit,tsˈit32,tsʰit,tsʰit32
 TB,Taibei,171,八,八,,peʔ,peʔ32,peʔ,peʔ32
 TB,Taibei,172,九,九,,kau,kau53,kau,kau53
 TB,Taibei,173,十,十,,tsap,tsap44,tsap,tsap44
-TB,Taibei,174,十一,十一,,tsap it,tsap44-32 it32,tsap it,tsap44-32 it32
-TB,Taibei,175,十二,十二,,tsap li,tsap44-32 li33,tsap li,tsap44-32 li33
-TB,Taibei,176,二十,二十,,li tsap,li33-11 tsap44,li tsap,li33-11 tsap44
-TB,Taibei,177,二十一,二十一,,li tsap it,li33-11 tsap44-32 it32,li tsap it,li33-11 tsap44-32 it32
-TB,Taibei,178,一百二十一,一百二十一,,tsˈit paʔ li tsap it,tsˈit44-32 paʔ32 li33-11 tsap44-32 it32,tsˈit paʔ li tsap it,tsˈit44-32 paʔ32 li33-11 tsap44-32 it32
-TB,Taibei,179,第一,第一,,te it,te33-11 it32,te it,te33-11 it32
-TB,Taibei,180,第二,第二,,te li,te33-11 li33,te li,te33-11 li33
-TB,Taibei,181,两里,两里,,lŋ̩ li,lŋ̩33-11 li53,lŋ̩ li,lŋ̩33-11 li53
-TB,Taibei,182,二两,两两,,lŋ̩ liũ,lŋ̩33-11 liũ53,lŋ̩ liũ,lŋ̩33-11 liũ53
+TB,Taibei,174,十一,十一,,tsap it,tsap4432 it32,tsapit,tsap4432it32
+TB,Taibei,175,十二,十二,,tsap li,tsap4432 li33,tsapli,tsap4432li33
+TB,Taibei,176,二十,二十,,li tsap,li3311 tsap44,litsap,li3311tsap44
+TB,Taibei,177,二十一,二十一,,li tsap it,li3311 tsap4432 it32,litsapit,li3311tsap4432it32
+TB,Taibei,178,一百二十一,一百二十一,,tsˈit paʔ li tsap it,tsˈit4432 paʔ32 li3311 tsap4432 it32,tsʰitpaʔlitsapit,tsʰit4432paʔ32li3311tsap4432it32
+TB,Taibei,179,第一,第一,,te it,te3311 it32,teit,te3311it32
+TB,Taibei,180,第二,第二,,te li,te3311 li33,teli,te3311li33
+TB,Taibei,181,两里,两里,,lŋ̩ li,lŋ̩3311 li53,lŋ̩li,lŋ̩3311li53
+TB,Taibei,182,二两,两两,,lŋ̩ liũ,lŋ̩3311 liũ53,lŋ̩liũ,lŋ̩3311liũ53
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,

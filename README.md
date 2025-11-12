@@ -1,0 +1,15 @@
+# chinese_dialets_database
+- Beijing
+- Chengdu
+- Guiyang
+- Hangzhou
+- Harbin
+- Hefei
+- Meixian
+- Nanchang
+- Taibei
+- Taiyuan
+- Wuhan
+- Xiangang
+- Xiangtan
+- Xining

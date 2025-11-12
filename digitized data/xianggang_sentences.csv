@@ -1,59 +1,59 @@
 dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-XG,Xianggang,1,谁啊?我是老三。,边个啊?我系阿三,,pin kɔ a ŋɔ hɐi a sam,pin55 kɔ33 a33 ŋɔ13 hɐi22 a33 sam55,pin kɔ a ŋɔ hɐi a sam,pin55 kɔ33 a33 ŋɔ13 hɐi22 a33 sam55
-XG,Xianggang,2,老四呢?她正跟一个朋友说着话呢。,阿四呢?佢系度同个朋友倾紧解喇,,a sei nɛ kˈøy hɐi tou tˈuŋ kɔ pˈɐŋ jɐu kˈiŋ kɐn kɐi lɛ,a33 sei33 nɛ55 kˈøy13 hɐi35 tou22 tˈuŋ21 kɔ33 pˈɐŋ21 jɐu13 kˈiŋ35 kɐn35 kɐi lɛ21,a sei nɛ kˈøy hɐi tou tˈuŋ kɔ pˈɐŋ jɐu kˈiŋ kɐn kɐi lɛ,a33 sei33 nɛ55 kˈøy13 hɐi35 tou22 tˈuŋ21 kɔ33 pˈɐŋ21 jɐu13 kˈiŋ35 kɐn35 kɐi lɛ21
-XG,Xianggang,3,她还没说完吗?,佢重未讲完咩,,kˈøy tsuŋ mei kɔŋ jyn mɛ,kˈøy13 tsuŋ mei22 kɔŋ35 jyn21 mɛ55,kˈøy tsuŋ mei kɔŋ jyn mɛ,kˈøy13 tsuŋ mei22 kɔŋ35 jyn21 mɛ55
-XG,Xianggang,4,还没有。大概再有一会儿就说完了。,重未，大概再过一阵就讲完勒,,tsuŋ mei tai kˈɔi tsɔi kɔ jɐt tsɐn tsɐu kɔŋ jyn lak,tsuŋ22 mei22 tai22 kˈɔi33-35 tsɔi33 kɔ33 jɐt5 tsɐn22-35 tsɐu22 kɔŋ35 jyn21 lak3,tsuŋ mei tai kˈɔi tsɔi kɔ jɐt tsɐn tsɐu kɔŋ jyn lak,tsuŋ22 mei22 tai22 kˈɔi33-35 tsɔi33 kɔ33 jɐt5 tsɐn22-35 tsɐu22 kɔŋ35 jyn21 lak3
-XG,Xianggang,5,他说马上就走，怎么这半天了还在家里?,佢话即刻就走，点解咁耐重系屋企度,,kˈøy wa tsik hak tsɐu tsɐu tim kai kɐm nɔi tsuŋ hɐi uk kˈei tou,kˈøy13 wa22 tsik5 hak5 tsɐu22 tsɐu35 tim35 kai35 kɐm33 nɔi22 tsuŋ22 hɐi35 uk5 kˈei35 tou22,kˈøy wa tsik hak tsɐu tsɐu tim kai kɐm nɔi tsuŋ hɐi uk kˈei tou,kˈøy13 wa22 tsik5 hak5 tsɐu22 tsɐu35 tim35 kai35 kɐm33 nɔi22 tsuŋ22 hɐi35 uk5 kˈei35 tou22
-XG,Xianggang,6,你到哪儿去?我到城里去。,你去边?我入城,,nei høy pin ŋɔ jɐp sɛŋ,nei13 høy33 pin55 ŋɔ13 jɐp2 sɛŋ21-35,nei høy pin ŋɔ jɐp sɛŋ,nei13 høy33 pin55 ŋɔ13 jɐp2 sɛŋ21-35
-XG,Xianggang,7,在那儿，不在这儿。,系嗰度，唔系呢度,,hɐi kɔ tou m hɐi nei tou,hɐi35 kɔ35 tou22 m21 hɐi35 nei55 tou22,hɐi kɔ tou m hɐi nei tou,hɐi35 kɔ35 tou22 m21 hɐi35 nei55 tou22
-XG,Xianggang,8,不是那么做，要这么做。,唔系咁做，系要咁做嘅,,m hɐi kɐm tsou hɐi jiu kɐm tsou kɛ,m21 hɐi22 kɐm35 tsou22 hɐi22 jiu33 kɐm35 tsou22 kɛ33,m hɐi kɐm tsou hɐi jiu kɐm tsou kɛ,m21 hɐi22 kɐm35 tsou22 hɐi22 jiu33 kɐm35 tsou22 kɛ33
-XG,Xianggang,9,太多了，用不着那么多，只要这么多就够了。,多得滞喇，唔使咁多，要咁多就够喇,,tɔ tɐk tsɐi la m sɐi kɐm tɔ jiu kɐm tɔ tsɐu kɐu la,tɔ55 tɐk5 tsɐi22 la33 m21 sɐi35 kɐm33 tɔ55 jiu33 kɐm33 tɔ55 tsɐu22 kɐu33 la33,tɔ tɐk tsɐi la m sɐi kɐm tɔ jiu kɐm tɔ tsɐu kɐu la,tɔ55 tɐk5 tsɐi22 la33 m21 sɐi35 kɐm33 tɔ55 jiu33 kɐm33 tɔ55 tsɐu22 kɐu33 la33
-XG,Xianggang,10,这个大，那个小，这两个哪一个好一点呢?,呢个大，嗰个细，呢两个边个好啲呢,,nei kɔ tai kɔ kɔ sɐi nei lœŋ kɔ pin kɔ hou ti nɛ,nei55 kɔ33 tai33 kɔ35 kɔ33 sɐi33 nei55 lœŋ13 kɔ33 pin55 kɔ33 hou35 ti55 nɛ55,nei kɔ tai kɔ kɔ sɐi nei lœŋ kɔ pin kɔ hou ti nɛ,nei55 kɔ33 tai33 kɔ35 kɔ33 sɐi33 nei55 lœŋ13 kɔ33 pin55 kɔ33 hou35 ti55 nɛ55
-XG,Xianggang,11,这个比那个好。,呢个好过嗰个,,nei kɔ hou kwɔ kɔ kɔ,nei55 kɔ33 hou35 kwɔ33 kɔ35 kɔ33,nei kɔ hou kwɔ kɔ kɔ,nei55 kɔ33 hou35 kwɔ33 kɔ35 kɔ33
-XG,Xianggang,12,这些房子不如那些房子好。,呢啲屋不如嗰啲屋好,,nei ti uk pɐt jy kɔ ti uk hou,nei55 ti55 uk5 pɐt5 jy21 kɔ35 ti55 uk5 hou35,nei ti uk pɐt jy kɔ ti uk hou,nei55 ti55 uk5 pɐt5 jy21 kɔ35 ti55 uk5 hou35
+XG,Xianggang,1,谁啊?我是老三。,边个啊?我系阿三,,pin kɔ a ŋɔ hɐi a sam,pin55 kɔ33 a33 ŋɔ13 hɐi22 a33 sam55,pinkɔaŋɔhɐiasam,pin55kɔ33a33ŋɔ13hɐi22a33sam55
+XG,Xianggang,2,老四呢?她正跟一个朋友说着话呢。,阿四呢?佢系度同个朋友倾紧解喇,,a sei nɛ kˈøy hɐi tou tˈuŋ kɔ pˈɐŋ jɐu kˈiŋ kɐn kɐi lɛ,a33 sei33 nɛ55 kˈøy13 hɐi35 tou22 tˈuŋ21 kɔ33 pˈɐŋ21 jɐu13 kˈiŋ35 kɐn35 kɐi lɛ21,aseinɛkʰøyhɐitoutʰuŋkɔpʰɐŋjɐukʰiŋkɐnkɐilɛ,a33sei33nɛ55kʰøy13hɐi35tou22tʰuŋ21kɔ33pʰɐŋ21jɐu13kʰiŋ35kɐn35kɐilɛ21
+XG,Xianggang,3,她还没说完吗?,佢重未讲完咩,,kˈøy tsuŋ mei kɔŋ jyn mɛ,kˈøy13 tsuŋ mei22 kɔŋ35 jyn21 mɛ55,kʰøytsuŋmeikɔŋjynmɛ,kʰøy13tsuŋmei22kɔŋ35jyn21mɛ55
+XG,Xianggang,4,还没有。大概再有一会儿就说完了。,重未，大概再过一阵就讲完勒,,tsuŋ mei tai kˈɔi tsɔi kɔ jɐt tsɐn tsɐu kɔŋ jyn lak,tsuŋ22 mei22 tai22 kˈɔi3335 tsɔi33 kɔ33 jɐt5 tsɐn2235 tsɐu22 kɔŋ35 jyn21 lak3,tsuŋmeitaikʰɔitsɔikɔjɐttsɐntsɐukɔŋjynlak,tsuŋ22mei22tai22kʰɔi3335tsɔi33kɔ33jɐt5tsɐn2235tsɐu22kɔŋ35jyn21lak3
+XG,Xianggang,5,他说马上就走，怎么这半天了还在家里?,佢话即刻就走，点解咁耐重系屋企度,,kˈøy wa tsik hak tsɐu tsɐu tim kai kɐm nɔi tsuŋ hɐi uk kˈei tou,kˈøy13 wa22 tsik5 hak5 tsɐu22 tsɐu35 tim35 kai35 kɐm33 nɔi22 tsuŋ22 hɐi35 uk5 kˈei35 tou22,kʰøywatsikhaktsɐutsɐutimkaikɐmnɔitsuŋhɐiukkʰeitou,kʰøy13wa22tsik5hak5tsɐu22tsɐu35tim35kai35kɐm33nɔi22tsuŋ22hɐi35uk5kʰei35tou22
+XG,Xianggang,6,你到哪儿去?我到城里去。,你去边?我入城,,nei høy pin ŋɔ jɐp sɛŋ,nei13 høy33 pin55 ŋɔ13 jɐp2 sɛŋ2135,neihøypinŋɔjɐpsɛŋ,nei13høy33pin55ŋɔ13jɐp2sɛŋ2135
+XG,Xianggang,7,在那儿，不在这儿。,系嗰度，唔系呢度,,hɐi kɔ tou m hɐi nei tou,hɐi35 kɔ35 tou22 m21 hɐi35 nei55 tou22,hɐikɔtoumhɐineitou,hɐi35kɔ35tou22m21hɐi35nei55tou22
+XG,Xianggang,8,不是那么做，要这么做。,唔系咁做，系要咁做嘅,,m hɐi kɐm tsou hɐi jiu kɐm tsou kɛ,m21 hɐi22 kɐm35 tsou22 hɐi22 jiu33 kɐm35 tsou22 kɛ33,mhɐikɐmtsouhɐijiukɐmtsoukɛ,m21hɐi22kɐm35tsou22hɐi22jiu33kɐm35tsou22kɛ33
+XG,Xianggang,9,太多了，用不着那么多，只要这么多就够了。,多得滞喇，唔使咁多，要咁多就够喇,,tɔ tɐk tsɐi la m sɐi kɐm tɔ jiu kɐm tɔ tsɐu kɐu la,tɔ55 tɐk5 tsɐi22 la33 m21 sɐi35 kɐm33 tɔ55 jiu33 kɐm33 tɔ55 tsɐu22 kɐu33 la33,tɔtɐktsɐilamsɐikɐmtɔjiukɐmtɔtsɐukɐula,tɔ55tɐk5tsɐi22la33m21sɐi35kɐm33tɔ55jiu33kɐm33tɔ55tsɐu22kɐu33la33
+XG,Xianggang,10,这个大，那个小，这两个哪一个好一点呢?,呢个大，嗰个细，呢两个边个好啲呢,,nei kɔ tai kɔ kɔ sɐi nei lœŋ kɔ pin kɔ hou ti nɛ,nei55 kɔ33 tai33 kɔ35 kɔ33 sɐi33 nei55 lœŋ13 kɔ33 pin55 kɔ33 hou35 ti55 nɛ55,neikɔtaikɔkɔsɐineilœŋkɔpinkɔhoutinɛ,nei55kɔ33tai33kɔ35kɔ33sɐi33nei55lœŋ13kɔ33pin55kɔ33hou35ti55nɛ55
+XG,Xianggang,11,这个比那个好。,呢个好过嗰个,,nei kɔ hou kwɔ kɔ kɔ,nei55 kɔ33 hou35 kwɔ33 kɔ35 kɔ33,neikɔhoukwɔkɔkɔ,nei55kɔ33hou35kwɔ33kɔ35kɔ33
+XG,Xianggang,12,这些房子不如那些房子好。,呢啲屋不如嗰啲屋好,,nei ti uk pɐt jy kɔ ti uk hou,nei55 ti55 uk5 pɐt5 jy21 kɔ35 ti55 uk5 hou35,neitiukpɐtjykɔtiukhou,nei55ti55uk5pɐt5jy21kɔ35ti55uk5hou35
 XG,Xianggang,13,这句话用成都话怎么说?,,,,,,
-XG,Xianggang,14,他今年多大岁数了?,佢今年几大喇,,kˈøy kɐm nin kei tai la,kˈøy13 kɐm35 nin21 kei35 tai22 la33,kˈøy kɐm nin kei tai la,kˈøy13 kɐm35 nin21 kei35 tai22 la33
-XG,Xianggang,15,大概三十来岁吧。,约莫三十零岁啦,,jœk mɔk sam sɐp lɛŋ søy la,jœk3 mɔk2-35 sam55 sɐp2 lɛŋ21 søy33 la55,jœk mɔk sam sɐp lɛŋ søy la,jœk3 mɔk2-35 sam55 sɐp2 lɛŋ21 søy33 la55
-XG,Xianggang,16,这个东西有多重呢?,呢个嘢有几重呢,,nei kɔ jɛ jɐu kei tsˈuŋ nɛ,nei55 kɔ33 jɛ13 jɐu13 kei35 tsˈuŋ13 nɛ55,nei kɔ jɛ jɐu kei tsˈuŋ nɛ,nei55 kɔ33 jɛ13 jɐu13 kei35 tsˈuŋ13 nɛ55
-XG,Xianggang,17,有五十斤重呢。,成五十斤重,,siŋ ŋ sɐp kɐn tsˈuŋ,siŋ21 ŋ13 sɐp2 kɐn55 tsˈuŋ13,siŋ ŋ sɐp kɐn tsˈuŋ,siŋ21 ŋ13 sɐp2 kɐn55 tsˈuŋ13
-XG,Xianggang,18,拿得动吗?,搦得郁吗?,,nik tɐk juk ma,nik5 tɐk5 juk5 ma33,nik tɐk juk ma,nik5 tɐk5 juk5 ma33
-XG,Xianggang,19,我拿得动，他拿不动。,我搦得郁，佢搦唔郁,,ŋɔ nik tɐk juk kˈøy nik m juk,ŋɔ13 nik5 tɐk5 juk5 kˈøy13 nik5 m21 juk5,ŋɔ nik tɐk juk kˈøy nik m juk,ŋɔ13 nik5 tɐk5 juk5 kˈøy13 nik5 m21 juk5
-XG,Xianggang,20,真不轻，重得连我也拿不动。,真系唔轻，重到连我都搦唔郁,,tsɐn hɐi m hɛŋ tsˈuŋ tou lin ŋɔ tou nik m juk,tsɐn35 hɐi22 m21 hɛŋ35 tsˈuŋ13 tou33 lin21 ŋɔ13 tou55 nik5 m21 juk5,tsɐn hɐi m hɛŋ tsˈuŋ tou lin ŋɔ tou nik m juk,tsɐn35 hɐi22 m21 hɛŋ35 tsˈuŋ13 tou33 lin21 ŋɔ13 tou55 nik5 m21 juk5
-XG,Xianggang,21,你说得很好，你还会说点什么呢?,你讲得好好，你重识讲啲乜嘢呢,,nei kɔŋ tɐk hou hou nei tsuŋ sik kɔŋ ti mɐt jɛ nɛ,nei13 kɔŋ35 tɐk5 hou35 hou35 nei13 tsuŋ22 sik5 kɔŋ35 ti55 mɐt5 jɛ13 nɛ55,nei kɔŋ tɐk hou hou nei tsuŋ sik kɔŋ ti mɐt jɛ nɛ,nei13 kɔŋ35 tɐk5 hou35 hou35 nei13 tsuŋ22 sik5 kɔŋ35 ti55 mɐt5 jɛ13 nɛ55
-XG,Xianggang,22,我嘴笨，我说不过他。,我唔识讲嘢，我讲唔过佢,,ŋɔ m sik kɔŋ jɛ ŋɔ kɔŋ m kwɔ kˈøy,ŋɔ13 m21 sik5 kɔŋ35 jɛ13 ŋɔ13 kɔŋ35 m21 kwɔ33 kˈøy13,ŋɔ m sik kɔŋ jɛ ŋɔ kɔŋ m kwɔ kˈøy,ŋɔ13 m21 sik5 kɔŋ35 jɛ13 ŋɔ13 kɔŋ35 m21 kwɔ33 kˈøy13
-XG,Xianggang,23,说了一遍，又说一遍。,讲咗一次，又讲一次,,kɔŋ tsɔ jɐt tsˈi jɐu kɔŋ jɐt tsˈi,kɔŋ35 tsɔ35 jɐt5 tsˈi33 jɐu22 kɔŋ35 jɐt5 tsˈi33,kɔŋ tsɔ jɐt tsˈi jɐu kɔŋ jɐt tsˈi,kɔŋ35 tsɔ35 jɐt5 tsˈi33 jɐu22 kɔŋ35 jɐt5 tsˈi33
-XG,Xianggang,24,请你再说一遍。,请你再讲一次,,tsˈɛŋ nei tsɔi kɔŋ jɐt tsˈi,tsˈɛŋ35 nei13 tsɔi33 kɔŋ35 jɐt5 tsˈi33,tsˈɛŋ nei tsɔi kɔŋ jɐt tsˈi,tsˈɛŋ35 nei13 tsɔi33 kɔŋ35 jɐt5 tsˈi33
-XG,Xianggang,25,不早了，快去吧。,好晏喇，快啲去啦,,hou an la fai ti høy la,hou35 an33 la33 fai33 ti55 høy33 la55,hou an la fai ti høy la,hou35 an33 la33 fai33 ti55 høy33 la55
-XG,Xianggang,26,现在还早着呢，等一会儿再去吧。,而家重好早嘛，等一阵先至去啦,,ji ka tsuŋ hou tsɛ tɐŋ jɐt tsɐn sin tsi høy la,ji21 ka55 tsuŋ22 hou35 tsɛ55 tɐŋ35 jɐt5 tsɐn22-35 sin55 tsi33 høy33 la55,ji ka tsuŋ hou tsɛ tɐŋ jɐt tsɐn sin tsi høy la,ji21 ka55 tsuŋ22 hou35 tsɛ55 tɐŋ35 jɐt5 tsɐn22-35 sin55 tsi33 høy33 la55
-XG,Xianggang,27,吃了饭再去好吗?,食咗饭先至去好吗,,sik tsɔ fan sin tsi høy hou ma,sik2 tsɔ35 fan22 sin55 tsi33 høy33 hou35 ma33,sik tsɔ fan sin tsi høy hou ma,sik2 tsɔ35 fan22 sin55 tsi33 høy33 hou35 ma33
-XG,Xianggang,28,慢慢儿吃啊，不要着急。,慢慢食啊，唔好急,,man man sik a m hou kɐp,man22 man22-35 sik2 a33 m21 hou35 kɐp5,man man sik a m hou kɐp,man22 man22-35 sik2 a33 m21 hou35 kɐp5
-XG,Xianggang,29,坐着吃比站着吃好些。,坐住食好过企住食,,tsˈɔ tsy sik hou kwɔ kˈei tsy sik,tsˈɔ13 tsy22 sik2 hou35 kwɔ33 kˈei13 tsy22 sik2,tsˈɔ tsy sik hou kwɔ kˈei tsy sik,tsˈɔ13 tsy22 sik2 hou35 kwɔ33 kˈei13 tsy22 sik2
-XG,Xianggang,30,他吃了饭了，你吃了饭没有呢?,佢食咗饭勒，你食咗饭未呢,,kˈøy sik tsɔ fan lak nei sik tsɔ fan mei nɛ,kˈøy13 sik2 tsɔ35 fan22 lak3 nei13 sik2 tsɔ35 fan22 mei22 nɛ55,kˈøy sik tsɔ fan lak nei sik tsɔ fan mei nɛ,kˈøy13 sik2 tsɔ35 fan22 lak3 nei13 sik2 tsɔ35 fan22 mei22 nɛ55
-XG,Xianggang,31,他去过上海，我没有去过。,佢去过上海，我未去过,,kˈøy høy kwɔ sœŋ hɔi ŋɔ mei høy kwɔ,kˈøy13 høy33 kwɔ33 sœŋ21 hɔi35 ŋɔ13 mei22 høy33 kwɔ33,kˈøy høy kwɔ sœŋ hɔi ŋɔ mei høy kwɔ,kˈøy13 høy33 kwɔ33 sœŋ21 hɔi35 ŋɔ13 mei22 høy33 kwɔ33
-XG,Xianggang,32,来闻闻这朵花香不香。,㰀闻下呢朵花香唔香,,lɐi mɐn ha nei tœ fa hœŋ m hœŋ,lɐi21 mɐn21 ha13 nei55 tœ35 fa55 hœŋ55 m21 hœŋ55,lɐi mɐn ha nei tœ fa hœŋ m hœŋ,lɐi21 mɐn21 ha13 nei55 tœ35 fa55 hœŋ55 m21 hœŋ55
-XG,Xianggang,33,给我一本书。,界本书我,,pei pun sy ŋɔ,pei35 pun35 sy55 ŋɔ13,pei pun sy ŋɔ,pei35 pun35 sy55 ŋɔ13
-XG,Xianggang,34,我真的没有那本书呀。,我真系冇嗰本书呀,,ŋɔ tsɐn hɐi mou kɔ pun sy a,ŋɔ13 tsɐn35 hɐi22 mou13 kɔ35 pun35 sy55 a33,ŋɔ tsɐn hɐi mou kɔ pun sy a,ŋɔ13 tsɐn35 hɐi22 mou13 kɔ35 pun35 sy55 a33
-XG,Xianggang,35,你告诉他。,你话畀佢知,,nei wa pei kˈøy tsi,nei13 wa22 pei35 kˈøy13 tsi55,nei wa pei kˈøy tsi,nei13 wa22 pei35 kˈøy13 tsi55
-XG,Xianggang,36,好好地走，不要跑。,好声行，唔好走,,hou sɛŋ haŋ m hou tsɐu,hou35 sɛŋ55 haŋ21 m21 hou35 tsɐu35,hou sɛŋ haŋ m hou tsɐu,hou35 sɛŋ55 haŋ21 m21 hou35 tsɐu35
-XG,Xianggang,37,小心跌下去爬不上来。,顾住跌落去爬唔翻上嚟,,ku tsy tit lɔk høy pˈa m fan sœŋ lɐi,ku33 tsy22 tit3 lɔk2 høy33 pˈa21 m21 fan35 sœŋ13 lɐi21,ku tsy tit lɔk høy pˈa m fan sœŋ lɐi,ku33 tsy22 tit3 lɔk2 høy33 pˈa21 m21 fan35 sœŋ13 lɐi21
-XG,Xianggang,38,医生叫你多睡睡。,医生叫你睏多啲,,ji sɐŋ kiu nei fɐn tɔ ti,ji55 sɐŋ55 kiu33 nei13 fɐn33 tɔ55 ti55,ji sɐŋ kiu nei fɐn tɔ ti,ji55 sɐŋ55 kiu33 nei13 fɐn33 tɔ55 ti55
-XG,Xianggang,39,抽烟或者喝茶都不许。,食烟或者饮茶都唔得,,sik jin wak tsɛ jɐm tsˈa tou m tɐk,sik2 jin55 wak2 tsɛ35 jɐm35 tsˈa21 tou55 m21 tɐk5,sik jin wak tsɛ jɐm tsˈa tou m tɐk,sik2 jin55 wak2 tsɛ35 jɐm35 tsˈa21 tou55 m21 tɐk5
-XG,Xianggang,40,烟也好，茶也好，我都不喜欢。,烟又好，茶又好，我都唔钟意,,jin jɐu hou tsˈa jɐu hou ŋɔ tou m tsuŋ ji,jin55 jɐu22 hou35 tsˈa21 jɐu22 hou35 ŋɔ13 tou55 m21 tsuŋ35 ji33,jin jɐu hou tsˈa jɐu hou ŋɔ tou m tsuŋ ji,jin55 jɐu22 hou35 tsˈa21 jɐu22 hou35 ŋɔ13 tou55 m21 tsuŋ35 ji33
-XG,Xianggang,41,不管你去不去，反正我是要去的。,唔理你去唔去，反正我系要去嘅,,m lei nei høy m høy fan tsiŋ ŋɔ hɐi jiu høy kɛ,m21 lei13 nei13 høy33 m21 høy33 fan35 tsiŋ33 ŋɔ13 hɐi22 jiu33 høy33 kɛ33,m lei nei høy m høy fan tsiŋ ŋɔ hɐi jiu høy kɛ,m21 lei13 nei13 høy33 m21 høy33 fan35 tsiŋ33 ŋɔ13 hɐi22 jiu33 høy33 kɛ33
-XG,Xianggang,42,我非去不可。,我系要去,,ŋɔ hɐi jiu høy,ŋɔ13 hɐi22 jiu33 høy13,ŋɔ hɐi jiu høy,ŋɔ13 hɐi22 jiu33 høy13
-XG,Xianggang,43,你是哪一年来的?,你系边一年嚟㗎,,nei hɐi pin jɐt nin lɐi ka,nei13 hɐi22 pin55 jɐt5 nin21 lɐi21 ka33,nei hɐi pin jɐt nin lɐi ka,nei13 hɐi22 pin55 jɐt5 nin21 lɐi21 ka33
-XG,Xianggang,44,我是前年到的北京。,我系前年到北京嘅,,ŋɔ hɐi tsˈin nin tou pɐk kiŋ kɛ,ŋɔ13 hɐi22 tsˈin21 nin21-35 tou33 pɐk5 kiŋ55 kɛ35,ŋɔ hɐi tsˈin nin tou pɐk kiŋ kɛ,ŋɔ13 hɐi22 tsˈin21 nin21-35 tou33 pɐk5 kiŋ55 kɛ35
-XG,Xianggang,45,今天开会谁的主席?,今日开会边个做主席,,kɐm mɐt hɔi wui pin kɔ tsou tsy tsik,kɐm35 mɐt2 hɔi35 wui22-35 pin55 kɔ33 tsou22 tsy35 tsik2,kɐm mɐt hɔi wui pin kɔ tsou tsy tsik,kɐm35 mɐt2 hɔi35 wui22-35 pin55 kɔ33 tsou22 tsy35 tsik2
-XG,Xianggang,46,你得请我的客。,你要请我食饭噃,,nei jiu tsˈɛŋ ŋɔ sik fan pɔ,nei13 jiu33 tsˈɛŋ35 ŋɔ13 sik2 fan33 pɔ33,nei jiu tsˈɛŋ ŋɔ sik fan pɔ,nei13 jiu33 tsˈɛŋ35 ŋɔ13 sik2 fan33 pɔ33
-XG,Xianggang,47,一边走，一边讲。,一便行，一便讲,,jɐt pin haŋ jɐt pin kɔŋ,jɐt5 pin22 haŋ21 jɐt5 pin22 kɔŋ35,jɐt pin haŋ jɐt pin kɔŋ,jɐt5 pin22 haŋ21 jɐt5 pin22 kɔŋ35
-XG,Xianggang,48,越走越远，越说越多。,越行越远，越讲越多,,jyt haŋ jyt jyn jyt kɔŋ jyt tɔ,jyt2 haŋ21 jyt2 jyn23 jyt2 kɔŋ35 jyt2 tɔ55,jyt haŋ jyt jyn jyt kɔŋ jyt tɔ,jyt2 haŋ21 jyt2 jyn23 jyt2 kɔŋ35 jyt2 tɔ55
-XG,Xianggang,49,把那个东西拿给我。,将嗰个嘢攞畀我,,tsœŋ kɔ kɔ jɛ lɔ pei ŋɔ,tsœŋ35 kɔ35 kɔ33 jɛ13 lɔ35 pei35 ŋɔ13,tsœŋ kɔ kɔ jɛ lɔ pei ŋɔ,tsœŋ35 kɔ35 kɔ33 jɛ13 lɔ35 pei35 ŋɔ13
-XG,Xianggang,50,有些地方把太阳叫日头。,有啲地方将太阳叫做日头,,jɐu ti tei fɔŋ tsœŋ tˈai jœŋ kiu tsou jɐt tˈɐu,jɐu13 ti55 tei22 fɔŋ55 tsœŋ35 tˈai33 jœŋ21 kiu33 tsou22 jɐt2 tˈɐu21-35,jɐu ti tei fɔŋ tsœŋ tˈai jœŋ kiu tsou jɐt tˈɐu,jɐu13 ti55 tei22 fɔŋ55 tsœŋ35 tˈai33 jœŋ21 kiu33 tsou22 jɐt2 tˈɐu21-35
-XG,Xianggang,51,您贵姓?我姓王。,你贵姓?我姓王,,nei kwɐi siŋ ŋɔ siŋ wɔŋ,nei13 kwɐi33 siŋ33 ŋɔ13 siŋ33 wɔŋ21,nei kwɐi siŋ ŋɔ siŋ wɔŋ,nei13 kwɐi33 siŋ33 ŋɔ13 siŋ33 wɔŋ21
-XG,Xianggang,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我亦姓王，我吔两个都姓王,,nei siŋ wɔŋ ŋɔ jik siŋ wɔŋ ŋɔ tei lœŋ kɔ tou siŋ wɔŋ,nei13 siŋ33 wɔŋ21 ŋɔ13 jik2 siŋ wɔŋ21 ŋɔ13 tei22 lœŋ13 kɔ33 tou55 siŋ33 wɔŋ21,nei siŋ wɔŋ ŋɔ jik siŋ wɔŋ ŋɔ tei lœŋ kɔ tou siŋ wɔŋ,nei13 siŋ33 wɔŋ21 ŋɔ13 jik2 siŋ wɔŋ21 ŋɔ13 tei22 lœŋ13 kɔ33 tou55 siŋ33 wɔŋ21
-XG,Xianggang,53,你先去吧，我们等一会儿再去。,你去先啦，我等一阵先去,,nei høy sin la ŋɔ tɐŋ jɐt tsɐn sin høy,nei13 høy33 sin55 la55 ŋɔ13 tɐŋ35 jɐt5 tsɐn22-35 sin55 høy33,nei høy sin la ŋɔ tɐŋ jɐt tsɐn sin høy,nei13 høy33 sin55 la55 ŋɔ13 tɐŋ35 jɐt5 tsɐn22-35 sin55 høy33
-XG,Xianggang,54,你抽烟不抽?/你抽不抽烟?,你食唔食烟,,nei sik m sik jin,nei13 sik2 m21 sik2 jin55,nei sik m sik jin,nei13 sik2 m21 sik2 jin55
-XG,Xianggang,55,你认得那个人不认得?,你认唔认得嗰个人,,nei jiŋ m jiŋ tɐk kɔ kɔ jɐn,nei13 jiŋ22 m21 jiŋ22 tɐk5 kɔ35 kɔ33 jɐn21-35,nei jiŋ m jiŋ tɐk kɔ kɔ jɐn,nei13 jiŋ22 m21 jiŋ22 tɐk5 kɔ35 kɔ33 jɐn21-35
+XG,Xianggang,14,他今年多大岁数了?,佢今年几大喇,,kˈøy kɐm nin kei tai la,kˈøy13 kɐm35 nin21 kei35 tai22 la33,kʰøykɐmninkeitaila,kʰøy13kɐm35nin21kei35tai22la33
+XG,Xianggang,15,大概三十来岁吧。,约莫三十零岁啦,,jœk mɔk sam sɐp lɛŋ søy la,jœk3 mɔk235 sam55 sɐp2 lɛŋ21 søy33 la55,jœkmɔksamsɐplɛŋsøyla,jœk3mɔk235sam55sɐp2lɛŋ21søy33la55
+XG,Xianggang,16,这个东西有多重呢?,呢个嘢有几重呢,,nei kɔ jɛ jɐu kei tsˈuŋ nɛ,nei55 kɔ33 jɛ13 jɐu13 kei35 tsˈuŋ13 nɛ55,neikɔjɛjɐukeitsʰuŋnɛ,nei55kɔ33jɛ13jɐu13kei35tsʰuŋ13nɛ55
+XG,Xianggang,17,有五十斤重呢。,成五十斤重,,siŋ ŋ sɐp kɐn tsˈuŋ,siŋ21 ŋ13 sɐp2 kɐn55 tsˈuŋ13,siŋŋsɐpkɐntsʰuŋ,siŋ21ŋ13sɐp2kɐn55tsʰuŋ13
+XG,Xianggang,18,拿得动吗?,搦得郁吗?,,nik tɐk juk ma,nik5 tɐk5 juk5 ma33,niktɐkjukma,nik5tɐk5juk5ma33
+XG,Xianggang,19,我拿得动，他拿不动。,我搦得郁，佢搦唔郁,,ŋɔ nik tɐk juk kˈøy nik m juk,ŋɔ13 nik5 tɐk5 juk5 kˈøy13 nik5 m21 juk5,ŋɔniktɐkjukkʰøynikmjuk,ŋɔ13nik5tɐk5juk5kʰøy13nik5m21juk5
+XG,Xianggang,20,真不轻，重得连我也拿不动。,真系唔轻，重到连我都搦唔郁,,tsɐn hɐi m hɛŋ tsˈuŋ tou lin ŋɔ tou nik m juk,tsɐn35 hɐi22 m21 hɛŋ35 tsˈuŋ13 tou33 lin21 ŋɔ13 tou55 nik5 m21 juk5,tsɐnhɐimhɛŋtsʰuŋtoulinŋɔtounikmjuk,tsɐn35hɐi22m21hɛŋ35tsʰuŋ13tou33lin21ŋɔ13tou55nik5m21juk5
+XG,Xianggang,21,你说得很好，你还会说点什么呢?,你讲得好好，你重识讲啲乜嘢呢,,nei kɔŋ tɐk hou hou nei tsuŋ sik kɔŋ ti mɐt jɛ nɛ,nei13 kɔŋ35 tɐk5 hou35 hou35 nei13 tsuŋ22 sik5 kɔŋ35 ti55 mɐt5 jɛ13 nɛ55,neikɔŋtɐkhouhouneitsuŋsikkɔŋtimɐtjɛnɛ,nei13kɔŋ35tɐk5hou35hou35nei13tsuŋ22sik5kɔŋ35ti55mɐt5jɛ13nɛ55
+XG,Xianggang,22,我嘴笨，我说不过他。,我唔识讲嘢，我讲唔过佢,,ŋɔ m sik kɔŋ jɛ ŋɔ kɔŋ m kwɔ kˈøy,ŋɔ13 m21 sik5 kɔŋ35 jɛ13 ŋɔ13 kɔŋ35 m21 kwɔ33 kˈøy13,ŋɔmsikkɔŋjɛŋɔkɔŋmkwɔkʰøy,ŋɔ13m21sik5kɔŋ35jɛ13ŋɔ13kɔŋ35m21kwɔ33kʰøy13
+XG,Xianggang,23,说了一遍，又说一遍。,讲咗一次，又讲一次,,kɔŋ tsɔ jɐt tsˈi jɐu kɔŋ jɐt tsˈi,kɔŋ35 tsɔ35 jɐt5 tsˈi33 jɐu22 kɔŋ35 jɐt5 tsˈi33,kɔŋtsɔjɐttsʰijɐukɔŋjɐttsʰi,kɔŋ35tsɔ35jɐt5tsʰi33jɐu22kɔŋ35jɐt5tsʰi33
+XG,Xianggang,24,请你再说一遍。,请你再讲一次,,tsˈɛŋ nei tsɔi kɔŋ jɐt tsˈi,tsˈɛŋ35 nei13 tsɔi33 kɔŋ35 jɐt5 tsˈi33,tsʰɛŋneitsɔikɔŋjɐttsʰi,tsʰɛŋ35nei13tsɔi33kɔŋ35jɐt5tsʰi33
+XG,Xianggang,25,不早了，快去吧。,好晏喇，快啲去啦,,hou an la fai ti høy la,hou35 an33 la33 fai33 ti55 høy33 la55,houanlafaitihøyla,hou35an33la33fai33ti55høy33la55
+XG,Xianggang,26,现在还早着呢，等一会儿再去吧。,而家重好早嘛，等一阵先至去啦,,ji ka tsuŋ hou tsɛ tɐŋ jɐt tsɐn sin tsi høy la,ji21 ka55 tsuŋ22 hou35 tsɛ55 tɐŋ35 jɐt5 tsɐn2235 sin55 tsi33 høy33 la55,jikatsuŋhoutsɛtɐŋjɐttsɐnsintsihøyla,ji21ka55tsuŋ22hou35tsɛ55tɐŋ35jɐt5tsɐn2235sin55tsi33høy33la55
+XG,Xianggang,27,吃了饭再去好吗?,食咗饭先至去好吗,,sik tsɔ fan sin tsi høy hou ma,sik2 tsɔ35 fan22 sin55 tsi33 høy33 hou35 ma33,siktsɔfansintsihøyhouma,sik2tsɔ35fan22sin55tsi33høy33hou35ma33
+XG,Xianggang,28,慢慢儿吃啊，不要着急。,慢慢食啊，唔好急,,man man sik a m hou kɐp,man22 man2235 sik2 a33 m21 hou35 kɐp5,manmansikamhoukɐp,man22man2235sik2a33m21hou35kɐp5
+XG,Xianggang,29,坐着吃比站着吃好些。,坐住食好过企住食,,tsˈɔ tsy sik hou kwɔ kˈei tsy sik,tsˈɔ13 tsy22 sik2 hou35 kwɔ33 kˈei13 tsy22 sik2,tsʰɔtsysikhoukwɔkʰeitsysik,tsʰɔ13tsy22sik2hou35kwɔ33kʰei13tsy22sik2
+XG,Xianggang,30,他吃了饭了，你吃了饭没有呢?,佢食咗饭勒，你食咗饭未呢,,kˈøy sik tsɔ fan lak nei sik tsɔ fan mei nɛ,kˈøy13 sik2 tsɔ35 fan22 lak3 nei13 sik2 tsɔ35 fan22 mei22 nɛ55,kʰøysiktsɔfanlakneisiktsɔfanmeinɛ,kʰøy13sik2tsɔ35fan22lak3nei13sik2tsɔ35fan22mei22nɛ55
+XG,Xianggang,31,他去过上海，我没有去过。,佢去过上海，我未去过,,kˈøy høy kwɔ sœŋ hɔi ŋɔ mei høy kwɔ,kˈøy13 høy33 kwɔ33 sœŋ21 hɔi35 ŋɔ13 mei22 høy33 kwɔ33,kʰøyhøykwɔsœŋhɔiŋɔmeihøykwɔ,kʰøy13høy33kwɔ33sœŋ21hɔi35ŋɔ13mei22høy33kwɔ33
+XG,Xianggang,32,来闻闻这朵花香不香。,㰀闻下呢朵花香唔香,,lɐi mɐn ha nei tœ fa hœŋ m hœŋ,lɐi21 mɐn21 ha13 nei55 tœ35 fa55 hœŋ55 m21 hœŋ55,lɐimɐnhaneitœfahœŋmhœŋ,lɐi21mɐn21ha13nei55tœ35fa55hœŋ55m21hœŋ55
+XG,Xianggang,33,给我一本书。,界本书我,,pei pun sy ŋɔ,pei35 pun35 sy55 ŋɔ13,peipunsyŋɔ,pei35pun35sy55ŋɔ13
+XG,Xianggang,34,我真的没有那本书呀。,我真系冇嗰本书呀,,ŋɔ tsɐn hɐi mou kɔ pun sy a,ŋɔ13 tsɐn35 hɐi22 mou13 kɔ35 pun35 sy55 a33,ŋɔtsɐnhɐimoukɔpunsya,ŋɔ13tsɐn35hɐi22mou13kɔ35pun35sy55a33
+XG,Xianggang,35,你告诉他。,你话畀佢知,,nei wa pei kˈøy tsi,nei13 wa22 pei35 kˈøy13 tsi55,neiwapeikʰøytsi,nei13wa22pei35kʰøy13tsi55
+XG,Xianggang,36,好好地走，不要跑。,好声行，唔好走,,hou sɛŋ haŋ m hou tsɐu,hou35 sɛŋ55 haŋ21 m21 hou35 tsɐu35,housɛŋhaŋmhoutsɐu,hou35sɛŋ55haŋ21m21hou35tsɐu35
+XG,Xianggang,37,小心跌下去爬不上来。,顾住跌落去爬唔翻上嚟,,ku tsy tit lɔk høy pˈa m fan sœŋ lɐi,ku33 tsy22 tit3 lɔk2 høy33 pˈa21 m21 fan35 sœŋ13 lɐi21,kutsytitlɔkhøypʰamfansœŋlɐi,ku33tsy22tit3lɔk2høy33pʰa21m21fan35sœŋ13lɐi21
+XG,Xianggang,38,医生叫你多睡睡。,医生叫你睏多啲,,ji sɐŋ kiu nei fɐn tɔ ti,ji55 sɐŋ55 kiu33 nei13 fɐn33 tɔ55 ti55,jisɐŋkiuneifɐntɔti,ji55sɐŋ55kiu33nei13fɐn33tɔ55ti55
+XG,Xianggang,39,抽烟或者喝茶都不许。,食烟或者饮茶都唔得,,sik jin wak tsɛ jɐm tsˈa tou m tɐk,sik2 jin55 wak2 tsɛ35 jɐm35 tsˈa21 tou55 m21 tɐk5,sikjinwaktsɛjɐmtsʰatoumtɐk,sik2jin55wak2tsɛ35jɐm35tsʰa21tou55m21tɐk5
+XG,Xianggang,40,烟也好，茶也好，我都不喜欢。,烟又好，茶又好，我都唔钟意,,jin jɐu hou tsˈa jɐu hou ŋɔ tou m tsuŋ ji,jin55 jɐu22 hou35 tsˈa21 jɐu22 hou35 ŋɔ13 tou55 m21 tsuŋ35 ji33,jinjɐuhoutsʰajɐuhouŋɔtoumtsuŋji,jin55jɐu22hou35tsʰa21jɐu22hou35ŋɔ13tou55m21tsuŋ35ji33
+XG,Xianggang,41,不管你去不去，反正我是要去的。,唔理你去唔去，反正我系要去嘅,,m lei nei høy m høy fan tsiŋ ŋɔ hɐi jiu høy kɛ,m21 lei13 nei13 høy33 m21 høy33 fan35 tsiŋ33 ŋɔ13 hɐi22 jiu33 høy33 kɛ33,mleineihøymhøyfantsiŋŋɔhɐijiuhøykɛ,m21lei13nei13høy33m21høy33fan35tsiŋ33ŋɔ13hɐi22jiu33høy33kɛ33
+XG,Xianggang,42,我非去不可。,我系要去,,ŋɔ hɐi jiu høy,ŋɔ13 hɐi22 jiu33 høy13,ŋɔhɐijiuhøy,ŋɔ13hɐi22jiu33høy13
+XG,Xianggang,43,你是哪一年来的?,你系边一年嚟㗎,,nei hɐi pin jɐt nin lɐi ka,nei13 hɐi22 pin55 jɐt5 nin21 lɐi21 ka33,neihɐipinjɐtninlɐika,nei13hɐi22pin55jɐt5nin21lɐi21ka33
+XG,Xianggang,44,我是前年到的北京。,我系前年到北京嘅,,ŋɔ hɐi tsˈin nin tou pɐk kiŋ kɛ,ŋɔ13 hɐi22 tsˈin21 nin2135 tou33 pɐk5 kiŋ55 kɛ35,ŋɔhɐitsʰinnintoupɐkkiŋkɛ,ŋɔ13hɐi22tsʰin21nin2135tou33pɐk5kiŋ55kɛ35
+XG,Xianggang,45,今天开会谁的主席?,今日开会边个做主席,,kɐm mɐt hɔi wui pin kɔ tsou tsy tsik,kɐm35 mɐt2 hɔi35 wui2235 pin55 kɔ33 tsou22 tsy35 tsik2,kɐmmɐthɔiwuipinkɔtsoutsytsik,kɐm35mɐt2hɔi35wui2235pin55kɔ33tsou22tsy35tsik2
+XG,Xianggang,46,你得请我的客。,你要请我食饭噃,,nei jiu tsˈɛŋ ŋɔ sik fan pɔ,nei13 jiu33 tsˈɛŋ35 ŋɔ13 sik2 fan33 pɔ33,neijiutsʰɛŋŋɔsikfanpɔ,nei13jiu33tsʰɛŋ35ŋɔ13sik2fan33pɔ33
+XG,Xianggang,47,一边走，一边讲。,一便行，一便讲,,jɐt pin haŋ jɐt pin kɔŋ,jɐt5 pin22 haŋ21 jɐt5 pin22 kɔŋ35,jɐtpinhaŋjɐtpinkɔŋ,jɐt5pin22haŋ21jɐt5pin22kɔŋ35
+XG,Xianggang,48,越走越远，越说越多。,越行越远，越讲越多,,jyt haŋ jyt jyn jyt kɔŋ jyt tɔ,jyt2 haŋ21 jyt2 jyn23 jyt2 kɔŋ35 jyt2 tɔ55,jythaŋjytjynjytkɔŋjyttɔ,jyt2haŋ21jyt2jyn23jyt2kɔŋ35jyt2tɔ55
+XG,Xianggang,49,把那个东西拿给我。,将嗰个嘢攞畀我,,tsœŋ kɔ kɔ jɛ lɔ pei ŋɔ,tsœŋ35 kɔ35 kɔ33 jɛ13 lɔ35 pei35 ŋɔ13,tsœŋkɔkɔjɛlɔpeiŋɔ,tsœŋ35kɔ35kɔ33jɛ13lɔ35pei35ŋɔ13
+XG,Xianggang,50,有些地方把太阳叫日头。,有啲地方将太阳叫做日头,,jɐu ti tei fɔŋ tsœŋ tˈai jœŋ kiu tsou jɐt tˈɐu,jɐu13 ti55 tei22 fɔŋ55 tsœŋ35 tˈai33 jœŋ21 kiu33 tsou22 jɐt2 tˈɐu2135,jɐutiteifɔŋtsœŋtʰaijœŋkiutsoujɐttʰɐu,jɐu13ti55tei22fɔŋ55tsœŋ35tʰai33jœŋ21kiu33tsou22jɐt2tʰɐu2135
+XG,Xianggang,51,您贵姓?我姓王。,你贵姓?我姓王,,nei kwɐi siŋ ŋɔ siŋ wɔŋ,nei13 kwɐi33 siŋ33 ŋɔ13 siŋ33 wɔŋ21,neikwɐisiŋŋɔsiŋwɔŋ,nei13kwɐi33siŋ33ŋɔ13siŋ33wɔŋ21
+XG,Xianggang,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我亦姓王，我吔两个都姓王,,nei siŋ wɔŋ ŋɔ jik siŋ wɔŋ ŋɔ tei lœŋ kɔ tou siŋ wɔŋ,nei13 siŋ33 wɔŋ21 ŋɔ13 jik2 siŋ wɔŋ21 ŋɔ13 tei22 lœŋ13 kɔ33 tou55 siŋ33 wɔŋ21,neisiŋwɔŋŋɔjiksiŋwɔŋŋɔteilœŋkɔtousiŋwɔŋ,nei13siŋ33wɔŋ21ŋɔ13jik2siŋwɔŋ21ŋɔ13tei22lœŋ13kɔ33tou55siŋ33wɔŋ21
+XG,Xianggang,53,你先去吧，我们等一会儿再去。,你去先啦，我等一阵先去,,nei høy sin la ŋɔ tɐŋ jɐt tsɐn sin høy,nei13 høy33 sin55 la55 ŋɔ13 tɐŋ35 jɐt5 tsɐn2235 sin55 høy33,neihøysinlaŋɔtɐŋjɐttsɐnsinhøy,nei13høy33sin55la55ŋɔ13tɐŋ35jɐt5tsɐn2235sin55høy33
+XG,Xianggang,54,你抽烟不抽?/你抽不抽烟?,你食唔食烟,,nei sik m sik jin,nei13 sik2 m21 sik2 jin55,neisikmsikjin,nei13sik2m21sik2jin55
+XG,Xianggang,55,你认得那个人不认得?,你认唔认得嗰个人,,nei jiŋ m jiŋ tɐk kɔ kɔ jɐn,nei13 jiŋ22 m21 jiŋ22 tɐk5 kɔ35 kɔ33 jɐn2135,neijiŋmjiŋtɐkkɔkɔjɐn,nei13jiŋ22m21jiŋ22tɐk5kɔ35kɔ33jɐn2135
 XG,Xianggang,,,,,,,,
 XG,Xianggang,,,,,,,,
 XG,Xianggang,,,,,,,,

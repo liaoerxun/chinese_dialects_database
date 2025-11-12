@@ -1,186 +1,186 @@
 dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
-WH,Wuhan,1,太阳,太阳 ,,tˈai iaŋ,tˈai35 iaŋ,tˈai35 iaŋ,tˈai iaŋ
-WH,Wuhan,2,月亮,月亮 ,,ye niaŋ,ye213-21 niaŋ,ye213-21 niaŋ,ye niaŋ
+WH,Wuhan,1,太阳,太阳 ,,tˈai iaŋ,tˈai35 iaŋ,tʰai35iaŋ,tʰaiiaŋ
+WH,Wuhan,2,月亮,月亮 ,,ye niaŋ,ye21321 niaŋ,ye21321niaŋ,yeniaŋ
 WH,Wuhan,3,星星,星 ,,ɕin,ɕin55,ɕin55,ɕin
-WH,Wuhan,4,打雷,打雷 ,,ta nei,ta42 nei213,ta42 nei213,ta nei
-WH,Wuhan,5,闪电,扯霍 ,,tsˈɤ xuo,tsˈɤ42 xuo213,tsˈɤ42 xuo213,tsˈɤ xuo
-WH,Wuhan,6,下雨,下雨 ,,ɕia y,ɕia35 y42,ɕia35 y42,ɕia y
-WH,Wuhan,7,下雪,下雪 ,,ɕia ɕie,ɕia24 ɕie213,ɕia24 ɕie213,ɕia ɕie
-WH,Wuhan,8,冰雹,冰雹 ,,pin pau,pin55 pau35,pin55 pau35,pin pau
-WH,Wuhan,9,结冰,结冰 ,,tɕie pin,tɕie213-21 pin55,tɕie213-21 pin55,tɕie pin
-WH,Wuhan,10,刮风,刮风 ,,kua foŋ,kua213-21 foŋ55,kua213-21 foŋ55,kua foŋ
+WH,Wuhan,4,打雷,打雷 ,,ta nei,ta42 nei213,ta42nei213,tanei
+WH,Wuhan,5,闪电,扯霍 ,,tsˈɤ xuo,tsˈɤ42 xuo213,tsʰɤ42xuo213,tsʰɤxuo
+WH,Wuhan,6,下雨,下雨 ,,ɕia y,ɕia35 y42,ɕia35y42,ɕiay
+WH,Wuhan,7,下雪,下雪 ,,ɕia ɕie,ɕia24 ɕie213,ɕia24ɕie213,ɕiaɕie
+WH,Wuhan,8,冰雹,冰雹 ,,pin pau,pin55 pau35,pin55pau35,pinpau
+WH,Wuhan,9,结冰,结冰 ,,tɕie pin,tɕie21321 pin55,tɕie21321pin55,tɕiepin
+WH,Wuhan,10,刮风,刮风 ,,kua foŋ,kua21321 foŋ55,kua21321foŋ55,kuafoŋ
 WH,Wuhan,11,虹,虹,,kaŋ,kaŋ35,kaŋ35,kaŋ
-WH,Wuhan,12,端午节,端午 ,,tan u,tan55 u,tan55 u,tan u
-WH,Wuhan,13,中秋节,中秋 ,,tsoŋ tɕˈiəu,tsoŋ55 tɕˈiəu55,tsoŋ55 tɕˈiəu55,tsoŋ tɕˈiəu
-WH,Wuhan,14,除夕,除夕 ,,tɕˈy ɕi,tɕˈy213-21 ɕi213,tɕˈy213-21 ɕi213,tɕˈy ɕi
-WH,Wuhan,15,今年,今年 ,,tɕin niɛn,tɕin55 niɛn,tɕin55 niɛn,tɕin niɛn
-WH,Wuhan,16,明年,明年 ,,min niɛn,min213-21 niɛn,min213-21 niɛn,min niɛn
-WH,Wuhan,17,去年,去年 ,,tɕˈy niɛn,tɕˈy35 niɛn,tɕˈy35 niɛn,tɕˈy niɛn
-WH,Wuhan,18,明天,明天,,min tˈiɛn,min213-21 tˈiɛn,min213-21 tˈiɛn,min tˈiɛn
-WH,Wuhan,19,昨天,昨日,,tsuo ɯ,tsuo213-21 ɯ,tsuo213-21 ɯ,tsuo ɯ
-WH,Wuhan,20,今天,今日 ,,tɕin ɯ,tɕin213-21 ɯ,tɕin213-21 ɯ,tɕin ɯ
-WH,Wuhan,21,星期天,星期天 ,,ɕin tɕˈi tˈiɛn,ɕin55 tɕˈi tˈiɛn55,ɕin55 tɕˈi tˈiɛn55,ɕin tɕˈi tˈiɛn
-WH,Wuhan,22,麦子,麦子 ,,mɤ tsɿ,mɤ213-21 tsɿ,mɤ213-21 tsɹ̩,mɤ tsɹ̩
+WH,Wuhan,12,端午节,端午 ,,tan u,tan55 u,tan55u,tanu
+WH,Wuhan,13,中秋节,中秋 ,,tsoŋ tɕˈiəu,tsoŋ55 tɕˈiəu55,tsoŋ55tɕʰiəu55,tsoŋtɕʰiəu
+WH,Wuhan,14,除夕,除夕 ,,tɕˈy ɕi,tɕˈy21321 ɕi213,tɕʰy21321ɕi213,tɕʰyɕi
+WH,Wuhan,15,今年,今年 ,,tɕin niɛn,tɕin55 niɛn,tɕin55niɛn,tɕinniɛn
+WH,Wuhan,16,明年,明年 ,,min niɛn,min21321 niɛn,min21321niɛn,minniɛn
+WH,Wuhan,17,去年,去年 ,,tɕˈy niɛn,tɕˈy35 niɛn,tɕʰy35niɛn,tɕʰyniɛn
+WH,Wuhan,18,明天,明天,,min tˈiɛn,min21321 tˈiɛn,min21321tʰiɛn,mintʰiɛn
+WH,Wuhan,19,昨天,昨日,,tsuo ɯ,tsuo21321 ɯ,tsuo21321ɯ,tsuoɯ
+WH,Wuhan,20,今天,今日 ,,tɕin ɯ,tɕin21321 ɯ,tɕin21321ɯ,tɕinɯ
+WH,Wuhan,21,星期天,星期天 ,,ɕin tɕˈi tˈiɛn,ɕin55 tɕˈi tˈiɛn55,ɕin55tɕʰitʰiɛn55,ɕintɕʰitʰiɛn
+WH,Wuhan,22,麦子,麦子 ,,mɤ tsɿ,mɤ21321 tsɿ,mɤ21321tsɹ̩,mɤtsɹ̩
 WH,Wuhan,23,大米,米,,mi,mi42,mi42,mi
-WH,Wuhan,24,蚕豆,蚕豆 ,,tsˈan təu,tsˈan213-21 təu,tsˈan213-21 təu,tsˈan təu
-WH,Wuhan,25,向日葵,葵花 ,,kˈuei xua,kˈuei213-21 xua55,kˈuei213-21 xua55,kˈuei xua
-WH,Wuhan,26,菠菜,菠菜 ,,po tsˈai,po55 tsˈai35,po55 tsˈai35,po tsˈai
-WH,Wuhan,27,卷心菜,卷心菜 ,,tɕyɛn ɕin tsˈai,tɕyɛn42 ɕin55 tsˈai35,tɕyɛn42 ɕin55 tsˈai35,tɕyɛn ɕin tsˈai
-WH,Wuhan,28,西红柿,番茄 ,,fan tɕˈie,fan55 tɕˈie213,fan55 tɕˈie213,fan tɕˈie
-WH,Wuhan,29,茄子,茄子 ,,tɕˈie tsɿ,tɕˈie213-21 tsɿ,tɕˈie213-21 tsɹ̩,tɕˈie tsɹ̩
+WH,Wuhan,24,蚕豆,蚕豆 ,,tsˈan təu,tsˈan21321 təu,tsʰan21321təu,tsʰantəu
+WH,Wuhan,25,向日葵,葵花 ,,kˈuei xua,kˈuei21321 xua55,kʰuei21321xua55,kʰueixua
+WH,Wuhan,26,菠菜,菠菜 ,,po tsˈai,po55 tsˈai35,po55tsʰai35,potsʰai
+WH,Wuhan,27,卷心菜,卷心菜 ,,tɕyɛn ɕin tsˈai,tɕyɛn42 ɕin55 tsˈai35,tɕyɛn42ɕin55tsʰai35,tɕyɛnɕintsʰai
+WH,Wuhan,28,西红柿,番茄 ,,fan tɕˈie,fan55 tɕˈie213,fan55tɕʰie213,fantɕʰie
+WH,Wuhan,29,茄子,茄子 ,,tɕˈie tsɿ,tɕˈie21321 tsɿ,tɕʰie21321tsɹ̩,tɕʰietsɹ̩
 WH,Wuhan,30,白薯,苕,,sau,sau213,sau213,sau
-WH,Wuhan,31,马铃薯,土豆 ,,tˈəu təu,tˈəu42 təu35,tˈəu42 təu35,tˈəu təu
-WH,Wuhan,32,南瓜,南瓜 ,,nan kua,nan213-21 kua55,nan213-21 kua55,nan kua
+WH,Wuhan,31,马铃薯,土豆 ,,tˈəu təu,tˈəu42 təu35,tʰəu42təu35,tʰəutəu
+WH,Wuhan,32,南瓜,南瓜 ,,nan kua,nan21321 kua55,nan21321kua55,nankua
 WH,Wuhan,33,猪,猪,,tɕy,tɕy55,tɕy55,tɕy
-WH,Wuhan,34,公猪,公猪 ,,koŋ tɕy,koŋ55 tɕy55,koŋ55 tɕy55,koŋ tɕy
-WH,Wuhan,35,母猪,母猪 ,,moŋ tɕy,moŋ42 tɕy55,moŋ42 tɕy55,moŋ tɕy
-WH,Wuhan,36,公鸡,鸡公 ,,tɕi koŋ,tɕi55 koŋ55,tɕi55 koŋ55,tɕi koŋ
-WH,Wuhan,37,母鸡,鸡母 ,,tɕi moŋ,tɕi55 moŋ42,tɕi55 moŋ42,tɕi moŋ
-WH,Wuhan,38,麻雀,麻雀 ,,ma tɕˈio,ma213-21 tɕˈio,ma213-21 tɕˈio,ma tɕˈio
-WH,Wuhan,39,老鼠,老鼠 ,,nau ɕy,nau42 ɕy,nau42 ɕy,nau ɕy
-WH,Wuhan,40,臭虫,臭虫 ,,tsˈəu tsˈoŋ, tsˈəu35 tsˈoŋ213, tsˈəu35 tsˈoŋ213,tsˈəu tsˈoŋ
-WH,Wuhan,41,房子(整),房子 ,,faŋ tsɿ,faŋ213-21 tsɿ,faŋ213-21 tsɹ̩,faŋ tsɹ̩
-WH,Wuhan,42,房子(单),房间 ,,faŋ kan,faŋ213-21 kan,faŋ213-21 kan,faŋ kan
-WH,Wuhan,43,窗户,窗子 ,,tsˈuaŋ tsɿ,tsˈuaŋ55 tsɿ,tsˈuaŋ55 tsɹ̩,tsˈuaŋ tsɹ̩
-WH,Wuhan,44,门坎,门槛,,mən kˈan,mən213-21 kˈan,mən213-21 kˈan,mən kˈan
-WH,Wuhan,45,厕所,茅厕 ,,mau sɿ,mau213-21 sɿ,mau213-21 sɹ̩,mau sɹ̩
-WH,Wuhan,46,厨房,厨房 ,,tsˈy faŋ,tsˈy213-21 faŋ,tsˈy213-21 faŋ,tsˈy faŋ
-WH,Wuhan,47,烟囱,烟筒 ,,iɛn tˈoŋ,iɛn55 tˈoŋ,iɛn55 tˈoŋ,iɛn tˈoŋ
-WH,Wuhan,48,桌子,桌子 ,,tsuo tsɿ,tsuo213-21 tsɿ,tsuo213-21 tsɹ̩,tsuo tsɹ̩
-WH,Wuhan,49,楼梯,楼梯 ,,nəu tˈi,nəu213-21 tˈi55,nəu213-21 tˈi55,nəu tˈi
-WH,Wuhan,50,头,头,,tˈəu,tˈəu213,tˈəu213,tˈəu
-WH,Wuhan,51,额头,额头 ,,ŋɤ tˈəu,ŋɤ213-21 tˈəu213,ŋɤ213-21 tˈəu213,ŋɤ tˈəu
+WH,Wuhan,34,公猪,公猪 ,,koŋ tɕy,koŋ55 tɕy55,koŋ55tɕy55,koŋtɕy
+WH,Wuhan,35,母猪,母猪 ,,moŋ tɕy,moŋ42 tɕy55,moŋ42tɕy55,moŋtɕy
+WH,Wuhan,36,公鸡,鸡公 ,,tɕi koŋ,tɕi55 koŋ55,tɕi55koŋ55,tɕikoŋ
+WH,Wuhan,37,母鸡,鸡母 ,,tɕi moŋ,tɕi55 moŋ42,tɕi55moŋ42,tɕimoŋ
+WH,Wuhan,38,麻雀,麻雀 ,,ma tɕˈio,ma21321 tɕˈio,ma21321tɕʰio,matɕʰio
+WH,Wuhan,39,老鼠,老鼠 ,,nau ɕy,nau42 ɕy,nau42ɕy,nauɕy
+WH,Wuhan,40,臭虫,臭虫 ,,tsˈəu tsˈoŋ,tsˈəu35 tsˈoŋ213,tsʰəu35tsʰoŋ213,tsʰəutsʰoŋ
+WH,Wuhan,41,房子(整),房子 ,,faŋ tsɿ,faŋ21321 tsɿ,faŋ21321tsɹ̩,faŋtsɹ̩
+WH,Wuhan,42,房子(单),房间 ,,faŋ kan,faŋ21321 kan,faŋ21321kan,faŋkan
+WH,Wuhan,43,窗户,窗子 ,,tsˈuaŋ tsɿ,tsˈuaŋ55 tsɿ,tsʰuaŋ55tsɹ̩,tsʰuaŋtsɹ̩
+WH,Wuhan,44,门坎,门槛,,mən kˈan,mən21321 kˈan,mən21321kʰan,mənkʰan
+WH,Wuhan,45,厕所,茅厕 ,,mau sɿ,mau21321 sɿ,mau21321sɹ̩,mausɹ̩
+WH,Wuhan,46,厨房,厨房 ,,tsˈy faŋ,tsˈy21321 faŋ,tsʰy21321faŋ,tsʰyfaŋ
+WH,Wuhan,47,烟囱,烟筒 ,,iɛn tˈoŋ,iɛn55 tˈoŋ,iɛn55tʰoŋ,iɛntʰoŋ
+WH,Wuhan,48,桌子,桌子 ,,tsuo tsɿ,tsuo21321 tsɿ,tsuo21321tsɹ̩,tsuotsɹ̩
+WH,Wuhan,49,楼梯,楼梯 ,,nəu tˈi,nəu21321 tˈi55,nəu21321tʰi55,nəutʰi
+WH,Wuhan,50,头,头,,tˈəu,tˈəu213,tʰəu213,tʰəu
+WH,Wuhan,51,额头,额头 ,,ŋɤ tˈəu,ŋɤ21321 tˈəu213,ŋɤ21321tʰəu213,ŋɤtʰəu
 WH,Wuhan,52,脸,脸 ,,niɛn,niɛn42,niɛn42,niɛn
-WH,Wuhan,53,鼻子,鼻子 ,,pi tsɿ,pi213-21 tsɿ,pi213-21 tsɹ̩,pi tsɹ̩
-WH,Wuhan,54,脖子,颈框 ,,tɕin kˈuaŋ,tɕin42 kˈuaŋ,tɕin42 kˈuaŋ,tɕin kˈuaŋ
-WH,Wuhan,55,左手,左手 ,,suo səu,suo42 səu42,suo42 səu42,suo səu
-WH,Wuhan,56,右手,右手 ,,iəu səu,iəu35 səu42,iəu35 səu42,iəu səu
-WH,Wuhan,57,拳头,拳头 ,,tsˈuan tˈəu,tsˈuan213-21 tˈəu,tsˈuan213-21 tˈəu,tsˈuan tˈəu
-WH,Wuhan,58,手指头,手指 ,,səu tsɿ,səu42 tsɿ42,səu42 tsɹ̩42,səu tsɹ̩
-WH,Wuhan,59,指甲,指甲壳,,tsɿ ka kˈuo,tsɿ42 ka213-21 kˈuo213,tsɹ̩42 ka213-21 kˈuo213,tsɹ̩ ka kˈuo
-WH,Wuhan,60,膝盖,克膝头 ,,kˈɤ tɕˈi tˈəu,kˈɤ213-21 tɕˈi213-21 tˈəu,kˈɤ213-21 tɕˈi213-21 tˈəu,kˈɤ tɕˈi tˈəu
-WH,Wuhan,61,腿,腿 ,,tˈei,tˈei42,tˈei42,tˈei
-WH,Wuhan,62,父亲,父亲,,fu tɕˈin,fu35 tɕˈin,fu35 tɕˈin,fu tɕˈin
-WH,Wuhan,63,母亲,母亲 ,,moŋ tɕˈin,moŋ42 tɕˈin,moŋ42 tɕˈin,moŋ tɕˈin
-WH,Wuhan,64,祖父,祖父 ,,tsəu fu,tsəu42 fu,tsəu42 fu,tsəu fu
-WH,Wuhan,65,祖母,祖母 ,,tsəu moŋ,tsəu42 moŋ42,tsəu42 moŋ42,tsəu moŋ
-WH,Wuhan,66,伯父,伯伯 ,,pɤ pɤ,pɤ213-21 pɤ,pɤ213-21 pɤ,pɤ pɤ
-WH,Wuhan,67,伯母,伯母 ,,pɤ moŋ,pɤ213-21 moŋ,pɤ213-21 moŋ,pɤ moŋ
-WH,Wuhan,68,叔父,叔叔 ,,səu səu,səu213-21 səu,səu213-21 səu,səu səu
-WH,Wuhan,69,叔母,叔母 ,,səu moŋ,səu213-21 moŋ,səu213-21 moŋ,səu moŋ
-WH,Wuhan,70,外祖父,外祖父 ,,uai tsəu fu,uai35 tsəu42 fu,uai35 tsəu42 fu,uai tsəu fu
-WH,Wuhan,71,外祖母,外祖母,,uai tsəu moŋ,uai35 tsəu42 moŋ,uai35 tsəu42 moŋ,uai tsəu moŋ
-WH,Wuhan,72,舅舅,舅父 ,,tɕiəu fu,tɕiəu35 fu,tɕiəu35 fu,tɕiəu fu
-WH,Wuhan,73,舅母,舅母 ,,tɕiəu moŋ,tɕiəu35 moŋ,tɕiəu35 moŋ,tɕiəu moŋ
-WH,Wuhan,74,丈夫,丈夫 ,,tsaŋ fu,tsaŋ35 fu,tsaŋ35 fu,tsaŋ fu
-WH,Wuhan,75,妻子,妻子 ,,tɕˈi tsɿ,tɕˈi55 tsɿ,tɕˈi55 tsɹ̩,tɕˈi tsɹ̩
-WH,Wuhan,76,儿子,儿子 ,,ɯ tsɿ,ɯ213-21 tsɿ,ɯ213-21 tsɹ̩,ɯ tsɹ̩
-WH,Wuhan,77,女儿,女儿 ,,ny ɯ,ny42 ɯ,ny42 ɯ,ny ɯ
-WH,Wuhan,78,早饭,过早 ,,kuo tsau,kuo35 tsau42,kuo35 tsau42,kuo tsau
-WH,Wuhan,79,午饭,中饭 ,,tsoŋ fan,tsoŋ55 fan,tsoŋ55 fan,tsoŋ fan
-WH,Wuhan,80,晚饭,晚饭 ,,uan fan,uan42 fan,uan42 fan,uan fan
+WH,Wuhan,53,鼻子,鼻子 ,,pi tsɿ,pi21321 tsɿ,pi21321tsɹ̩,pitsɹ̩
+WH,Wuhan,54,脖子,颈框 ,,tɕin kˈuaŋ,tɕin42 kˈuaŋ,tɕin42kʰuaŋ,tɕinkʰuaŋ
+WH,Wuhan,55,左手,左手 ,,suo səu,suo42 səu42,suo42səu42,suosəu
+WH,Wuhan,56,右手,右手 ,,iəu səu,iəu35 səu42,iəu35səu42,iəusəu
+WH,Wuhan,57,拳头,拳头 ,,tsˈuan tˈəu,tsˈuan21321 tˈəu,tsʰuan21321tʰəu,tsʰuantʰəu
+WH,Wuhan,58,手指头,手指 ,,səu tsɿ,səu42 tsɿ42,səu42tsɹ̩42,səutsɹ̩
+WH,Wuhan,59,指甲,指甲壳,,tsɿ ka kˈuo,tsɿ42 ka21321 kˈuo213,tsɹ̩42ka21321kʰuo213,tsɹ̩kakʰuo
+WH,Wuhan,60,膝盖,克膝头 ,,kˈɤ tɕˈi tˈəu,kˈɤ21321 tɕˈi21321 tˈəu,kʰɤ21321tɕʰi21321tʰəu,kʰɤtɕʰitʰəu
+WH,Wuhan,61,腿,腿 ,,tˈei,tˈei42,tʰei42,tʰei
+WH,Wuhan,62,父亲,父亲,,fu tɕˈin,fu35 tɕˈin,fu35tɕʰin,futɕʰin
+WH,Wuhan,63,母亲,母亲 ,,moŋ tɕˈin,moŋ42 tɕˈin,moŋ42tɕʰin,moŋtɕʰin
+WH,Wuhan,64,祖父,祖父 ,,tsəu fu,tsəu42 fu,tsəu42fu,tsəufu
+WH,Wuhan,65,祖母,祖母 ,,tsəu moŋ,tsəu42 moŋ42,tsəu42moŋ42,tsəumoŋ
+WH,Wuhan,66,伯父,伯伯 ,,pɤ pɤ,pɤ21321 pɤ,pɤ21321pɤ,pɤpɤ
+WH,Wuhan,67,伯母,伯母 ,,pɤ moŋ,pɤ21321 moŋ,pɤ21321moŋ,pɤmoŋ
+WH,Wuhan,68,叔父,叔叔 ,,səu səu,səu21321 səu,səu21321səu,səusəu
+WH,Wuhan,69,叔母,叔母 ,,səu moŋ,səu21321 moŋ,səu21321moŋ,səumoŋ
+WH,Wuhan,70,外祖父,外祖父 ,,uai tsəu fu,uai35 tsəu42 fu,uai35tsəu42fu,uaitsəufu
+WH,Wuhan,71,外祖母,外祖母,,uai tsəu moŋ,uai35 tsəu42 moŋ,uai35tsəu42moŋ,uaitsəumoŋ
+WH,Wuhan,72,舅舅,舅父 ,,tɕiəu fu,tɕiəu35 fu,tɕiəu35fu,tɕiəufu
+WH,Wuhan,73,舅母,舅母 ,,tɕiəu moŋ,tɕiəu35 moŋ,tɕiəu35moŋ,tɕiəumoŋ
+WH,Wuhan,74,丈夫,丈夫 ,,tsaŋ fu,tsaŋ35 fu,tsaŋ35fu,tsaŋfu
+WH,Wuhan,75,妻子,妻子 ,,tɕˈi tsɿ,tɕˈi55 tsɿ,tɕʰi55tsɹ̩,tɕʰitsɹ̩
+WH,Wuhan,76,儿子,儿子 ,,ɯ tsɿ,ɯ21321 tsɿ,ɯ21321tsɹ̩,ɯtsɹ̩
+WH,Wuhan,77,女儿,女儿 ,,ny ɯ,ny42 ɯ,ny42ɯ,nyɯ
+WH,Wuhan,78,早饭,过早 ,,kuo tsau,kuo35 tsau42,kuo35tsau42,kuotsau
+WH,Wuhan,79,午饭,中饭 ,,tsoŋ fan,tsoŋ55 fan,tsoŋ55fan,tsoŋfan
+WH,Wuhan,80,晚饭,晚饭 ,,uan fan,uan42 fan,uan42fan,uanfan
 WH,Wuhan,81,面条,面 ,,miɛn,miɛn35,miɛn35,miɛn
-WH,Wuhan,82,馒头,馒头 ,,man tˈəu,man213-21 tˈəu,man213-21 tˈəu,man tˈəu
-WH,Wuhan,83,包子,包子 ,,pau tsɿ,pau55 tsɿ,pau55 tsɹ̩,pau tsɹ̩
-WH,Wuhan,84,馄饨,馄饨 ,,xuən tən,xuən55 tən,xuən55 tən,xuən tən
-WH,Wuhan,85,醋,醋 ,,tsˈəu,tsˈəu35,tsˈəu35,tsˈəu
-WH,Wuhan,86,酱油,酱油 ,,tɕiaŋ iəu,tɕiaŋ35 iəu,tɕiaŋ35 iəu,tɕiaŋ iəu
+WH,Wuhan,82,馒头,馒头 ,,man tˈəu,man21321 tˈəu,man21321tʰəu,mantʰəu
+WH,Wuhan,83,包子,包子 ,,pau tsɿ,pau55 tsɿ,pau55tsɹ̩,pautsɹ̩
+WH,Wuhan,84,馄饨,馄饨 ,,xuən tən,xuən55 tən,xuən55tən,xuəntən
+WH,Wuhan,85,醋,醋 ,,tsˈəu,tsˈəu35,tsʰəu35,tsʰəu
+WH,Wuhan,86,酱油,酱油 ,,tɕiaŋ iəu,tɕiaŋ35 iəu,tɕiaŋ35iəu,tɕiaŋiəu
 WH,Wuhan,87,盐,盐,,iɛn,iɛn213,iɛn213,iɛn
-WH,Wuhan,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai35 tsɿ,kˈuai35 tsɹ̩,kˈuai tsɹ̩
-WH,Wuhan,89,勺儿,勺子 ,,suo tsɿ,suo55 tsɿ,suo55 tsɹ̩,suo tsɹ̩
-WH,Wuhan,90,男人,男人 ,,nan nən,nan213-21 nən,nan213-21 nən,nan nən
-WH,Wuhan,91,女人,女人 ,,ny nən,ny42 nən,ny42 nən,ny nən
-WH,Wuhan,92,男孩子,男孩,,nan xai,nan213-21 xai213-21,nan213-21 xai213-21,nan xai
-WH,Wuhan,93,女孩子,女孩,,ny xai,ny42 xai213-21,ny42 xai213-21,ny xai
-WH,Wuhan,94,老头儿,老爹爹,,nau tie tie,nau42 tie55 tie,nau42 tie55 tie,nau tie tie
-WH,Wuhan,95,医生,医生,,i sən,i55 sən,i55 sən,i sən
-WH,Wuhan,96,厨师,大师傅 ,,ta sɿ fu,ta35 sɿ55 fu,ta35 sɹ̩55 fu,ta sɹ̩ fu
-WH,Wuhan,97,乞丐,乞丐 ,,tɕˈi kai,tɕˈi213-21 kai,tɕˈi213-21 kai,tɕˈi kai
-WH,Wuhan,98,保姆,保姆 ,,pau moŋ,pau42 moŋ,pau42 moŋ,pau moŋ
-WH,Wuhan,99,病了,病了 ,,pin niau,pin35 niau,pin35 niau,pin niau
-WH,Wuhan,100,伤风,伤风 ,,saŋ foŋ,saŋ55 foŋ55,saŋ55 foŋ55,saŋ foŋ
-WH,Wuhan,101,泻肚,泻肚子 ,,ɕie təu tsɿ,ɕie35 təu42 tsɿ,ɕie35 təu42 tsɹ̩,ɕie təu tsɹ̩
-WH,Wuhan,102,瘸子,跛子 ,,po tsɿ,po42 tsɿ,po42 tsɹ̩,po tsɹ̩
-WH,Wuhan,103,驼背,驼子 ,,tˈuo tsɿ,tˈuo213-21 tsɿ,tˈuo213-21 tsɹ̩,tˈuo tsɹ̩
-WH,Wuhan,104,死了,死了 ,,sɿ niau,sɿ42 niau,sɹ̩42 niau,sɹ̩ niau
-WH,Wuhan,105,看病,看病 ,,kˈan pin,kˈan35 pin35,kˈan35 pin35,kˈan pin
+WH,Wuhan,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai35 tsɿ,kʰuai35tsɹ̩,kʰuaitsɹ̩
+WH,Wuhan,89,勺儿,勺子 ,,suo tsɿ,suo55 tsɿ,suo55tsɹ̩,suotsɹ̩
+WH,Wuhan,90,男人,男人 ,,nan nən,nan21321 nən,nan21321nən,nannən
+WH,Wuhan,91,女人,女人 ,,ny nən,ny42 nən,ny42nən,nynən
+WH,Wuhan,92,男孩子,男孩,,nan xai,nan21321 xai21321,nan21321xai21321,nanxai
+WH,Wuhan,93,女孩子,女孩,,ny xai,ny42 xai21321,ny42xai21321,nyxai
+WH,Wuhan,94,老头儿,老爹爹,,nau tie tie,nau42 tie55 tie,nau42tie55tie,nautietie
+WH,Wuhan,95,医生,医生,,i sən,i55 sən,i55sən,isən
+WH,Wuhan,96,厨师,大师傅 ,,ta sɿ fu,ta35 sɿ55 fu,ta35sɹ̩55fu,tasɹ̩fu
+WH,Wuhan,97,乞丐,乞丐 ,,tɕˈi kai,tɕˈi21321 kai,tɕʰi21321kai,tɕʰikai
+WH,Wuhan,98,保姆,保姆 ,,pau moŋ,pau42 moŋ,pau42moŋ,paumoŋ
+WH,Wuhan,99,病了,病了 ,,pin niau,pin35 niau,pin35niau,pinniau
+WH,Wuhan,100,伤风,伤风 ,,saŋ foŋ,saŋ55 foŋ55,saŋ55foŋ55,saŋfoŋ
+WH,Wuhan,101,泻肚,泻肚子 ,,ɕie təu tsɿ,ɕie35 təu42 tsɿ,ɕie35təu42tsɹ̩,ɕietəutsɹ̩
+WH,Wuhan,102,瘸子,跛子 ,,po tsɿ,po42 tsɿ,po42tsɹ̩,potsɹ̩
+WH,Wuhan,103,驼背,驼子 ,,tˈuo tsɿ,tˈuo21321 tsɿ,tʰuo21321tsɹ̩,tʰuotsɹ̩
+WH,Wuhan,104,死了,死了 ,,sɿ niau,sɿ42 niau,sɹ̩42niau,sɹ̩niau
+WH,Wuhan,105,看病,看病 ,,kˈan pin,kˈan35 pin35,kʰan35pin35,kʰanpin
 WH,Wuhan,106,我,我,,ŋuo,ŋuo42,ŋuo42,ŋuo
 WH,Wuhan,107,你,你,,ni,ni42,ni42,ni
-WH,Wuhan,108,他,他,,tˈa,tˈa55,tˈa55,tˈa
-WH,Wuhan,109,我们,我们,,ŋuo mən,ŋuo42 mən,ŋuo42 mən,ŋuo mən
-WH,Wuhan,110,你们,你们,,ni mən,ni42 mən,ni42 mən,ni mən
-WH,Wuhan,111,他们,他们,,tˈa mən,tˈa55 mən,tˈa55 mən,tˈa mən
-WH,Wuhan,112,咱们,我们 ,,ŋuo mən,ŋuo42 mən,ŋuo42 mən,ŋuo mən
-WH,Wuhan,113,自己,自己 ,,tsɿ tɕi,tsɿ35 tɕi42,tsɹ̩35 tɕi42,tsɹ̩ tɕi
-WH,Wuhan,114,谁,哪个 ,,na kuo,na42 kuo,na42 kuo,na kuo
-WH,Wuhan,115,什么,么事 ,,mo sɿ,mo42 sɿ,mo42 sɹ̩,mo sɹ̩
-WH,Wuhan,116,这里,这里 ,,tsɤ ni,tsɤ35 ni,tsɤ35 ni,tsɤ ni
-WH,Wuhan,117,那里,那里 ,,na ni,na35 ni,na35 ni,na ni
-WH,Wuhan,118,哪里,哪里 ,,na ni,na42 ni,na42 ni,na ni
-WH,Wuhan,119,这个,这个 ,,tsɤ kuo,tsɤ35 kuo,tsɤ35 kuo,tsɤ kuo
-WH,Wuhan,120,那个,那个 ,,na kuo,na35 kuo,na35 kuo,na kuo
-WH,Wuhan,121,哪一个,哪个 ,,na kuo,na42 kuo,na42 kuo,na kuo
-WH,Wuhan,122,怎么样,么样 ,,mo iaŋ,mo42 iaŋ,mo42 iaŋ,mo iaŋ
+WH,Wuhan,108,他,他,,tˈa,tˈa55,tʰa55,tʰa
+WH,Wuhan,109,我们,我们,,ŋuo mən,ŋuo42 mən,ŋuo42mən,ŋuomən
+WH,Wuhan,110,你们,你们,,ni mən,ni42 mən,ni42mən,nimən
+WH,Wuhan,111,他们,他们,,tˈa mən,tˈa55 mən,tʰa55mən,tʰamən
+WH,Wuhan,112,咱们,我们 ,,ŋuo mən,ŋuo42 mən,ŋuo42mən,ŋuomən
+WH,Wuhan,113,自己,自己 ,,tsɿ tɕi,tsɿ35 tɕi42,tsɹ̩35tɕi42,tsɹ̩tɕi
+WH,Wuhan,114,谁,哪个 ,,na kuo,na42 kuo,na42kuo,nakuo
+WH,Wuhan,115,什么,么事 ,,mo sɿ,mo42 sɿ,mo42sɹ̩,mosɹ̩
+WH,Wuhan,116,这里,这里 ,,tsɤ ni,tsɤ35 ni,tsɤ35ni,tsɤni
+WH,Wuhan,117,那里,那里 ,,na ni,na35 ni,na35ni,nani
+WH,Wuhan,118,哪里,哪里 ,,na ni,na42 ni,na42ni,nani
+WH,Wuhan,119,这个,这个 ,,tsɤ kuo,tsɤ35 kuo,tsɤ35kuo,tsɤkuo
+WH,Wuhan,120,那个,那个 ,,na kuo,na35 kuo,na35kuo,nakuo
+WH,Wuhan,121,哪一个,哪个 ,,na kuo,na42 kuo,na42kuo,nakuo
+WH,Wuhan,122,怎么样,么样 ,,mo iaŋ,mo42 iaŋ,mo42iaŋ,moiaŋ
 WH,Wuhan,123,一位客人,位,,uei,uei35,uei35,uei
 WH,Wuhan,124,一双鞋,双,,suaŋ,suaŋ55,suaŋ55,suaŋ
-WH,Wuhan,125,一床被,床,,tsˈuaŋ,tsˈuaŋ231-21,tsˈuaŋ231-21,tsˈuaŋ
+WH,Wuhan,125,一床被,床,,tsˈuaŋ,tsˈuaŋ23121,tsʰuaŋ23121,tsʰuaŋ
 WH,Wuhan,126,一辆车,辆,,niaŋ,niaŋ42,niaŋ42,niaŋ
-WH,Wuhan,127,一条牛,条,,tˈiau,tˈiau213,tˈiau213,tˈiau
-WH,Wuhan,128,一口猪,头,,tˈəu,tˈəu42,tˈəu42,tˈəu
+WH,Wuhan,127,一条牛,条,,tˈiau,tˈiau213,tʰiau213,tʰiau
+WH,Wuhan,128,一口猪,头,,tˈəu,tˈəu42,tʰəu42,tʰəu
 WH,Wuhan,129,听一会儿,,,,,,
 WH,Wuhan,130,打一下,,,,,,
-WH,Wuhan,131,上头,上头 ,,saŋ tˈəu,saŋ35 tˈəu,saŋ35 tˈəu,saŋ tˈəu
-WH,Wuhan,132,下头,下头 ,,ɕia tˈəu,ɕia35 tˈəu,ɕia35 tˈəu,ɕia tˈəu
-WH,Wuhan,133,左边,左边,,tsuo piɛn,tsuo42 piɛn,tsuo42 piɛn,tsuo piɛn
-WH,Wuhan,134,右边,右边 ,,iəu piɛn,iəu35 piɛn,iəu35 piɛn,iəu piɛn
-WH,Wuhan,135,当中,当中 ,,taŋ tsoŋ,taŋ55 tsoŋ55,taŋ55 tsoŋ55,taŋ tsoŋ
-WH,Wuhan,136,里面,里边 ,,ni piɛn,ni42 piɛn,ni42 piɛn,ni piɛn
-WH,Wuhan,137,外面,外边 ,,uai piɛn,uai35 piɛn,uai35 piɛn,uai piɛn
-WH,Wuhan,138,甜,甜,,tˈiɛn,tˈiɛn213,tˈiɛn213,tˈiɛn
+WH,Wuhan,131,上头,上头 ,,saŋ tˈəu,saŋ35 tˈəu,saŋ35tʰəu,saŋtʰəu
+WH,Wuhan,132,下头,下头 ,,ɕia tˈəu,ɕia35 tˈəu,ɕia35tʰəu,ɕiatʰəu
+WH,Wuhan,133,左边,左边,,tsuo piɛn,tsuo42 piɛn,tsuo42piɛn,tsuopiɛn
+WH,Wuhan,134,右边,右边 ,,iəu piɛn,iəu35 piɛn,iəu35piɛn,iəupiɛn
+WH,Wuhan,135,当中,当中 ,,taŋ tsoŋ,taŋ55 tsoŋ55,taŋ55tsoŋ55,taŋtsoŋ
+WH,Wuhan,136,里面,里边 ,,ni piɛn,ni42 piɛn,ni42piɛn,nipiɛn
+WH,Wuhan,137,外面,外边 ,,uai piɛn,uai35 piɛn,uai35piɛn,uaipiɛn
+WH,Wuhan,138,甜,甜,,tˈiɛn,tˈiɛn213,tʰiɛn213,tʰiɛn
 WH,Wuhan,139,酸,酸,,san,san55,san55,san
 WH,Wuhan,140,咸,咸,,xan,xan213,xan213,xan
 WH,Wuhan,141,淡,淡,,tan,tan35,tan35,tan
-WH,Wuhan,142,胖,胖,,pˈaŋ,pˈaŋ35,pˈaŋ35,pˈaŋ
+WH,Wuhan,142,胖,胖,,pˈaŋ,pˈaŋ35,pʰaŋ35,pʰaŋ
 WH,Wuhan,143,瘦,瘦,,səu,səu35,səu35,səu
 WH,Wuhan,144,冷,冷,,nən,nən42,nən42,nən
 WH,Wuhan,145,热,热,,nɤ,nɤ213,nɤ213,nɤ
 WH,Wuhan,146,香,香,,ɕiaŋ,ɕiaŋ55,ɕiaŋ55,ɕiaŋ
-WH,Wuhan,147,臭,臭,,tsˈəu,tsˈəu35,tsˈəu35,tsˈəu
-WH,Wuhan,148,粗,粗,,tsˈəu,tsˈəu55,tsˈəu55,tsˈəu
+WH,Wuhan,147,臭,臭,,tsˈəu,tsˈəu35,tsʰəu35,tsʰəu
+WH,Wuhan,148,粗,粗,,tsˈəu,tsˈəu55,tsʰəu55,tsʰəu
 WH,Wuhan,149,细,细,,ɕi,ɕi35,ɕi35,ɕi
-WH,Wuhan,150,长,长,,tsˈaŋ,tsˈaŋ213,tsˈaŋ213,tsˈaŋ
+WH,Wuhan,150,长,长,,tsˈaŋ,tsˈaŋ213,tsʰaŋ213,tsʰaŋ
 WH,Wuhan,151,短,短,,tan,tan42,tan42,tan
 WH,Wuhan,152,脏,脏,,tsaŋ,tsaŋ55,tsaŋ55,tsaŋ
-WH,Wuhan,153,干净,干净,,kan tɕin,kan55 tɕin,kan55 tɕin,kan tɕin
-WH,Wuhan,154,便宜,便宜,,pˈiɛn i,pˈiɛn213-21 i213,pˈiɛn213-21 i213,pˈiɛn i
+WH,Wuhan,153,干净,干净,,kan tɕin,kan55 tɕin,kan55tɕin,kantɕin
+WH,Wuhan,154,便宜,便宜,,pˈiɛn i,pˈiɛn21321 i213,pʰiɛn21321i213,pʰiɛni
 WH,Wuhan,155,刚(来),刚 ,,kaŋ,kaŋ55,kaŋ55,kaŋ
-WH,Wuhan,156,刚(合适),恰恰 ,,kˈa kˈa,kˈa213 kˈa,kˈa213 kˈa,kˈa kˈa
-WH,Wuhan,157,正好,刚好 ,,kaŋ xau,kaŋ55 xau42,kaŋ55 xau42,kaŋ xau
+WH,Wuhan,156,刚(合适),恰恰 ,,kˈa kˈa,kˈa213 kˈa,kʰa213kʰa,kʰakʰa
+WH,Wuhan,157,正好,刚好 ,,kaŋ xau,kaŋ55 xau42,kaŋ55xau42,kaŋxau
 WH,Wuhan,158,和,和 ,,xuo,xuo213,xuo213,xuo
 WH,Wuhan,159,只,只 ,,tsɿ,tsɿ42,tsɹ̩42,tsɹ̩
-WH,Wuhan,160,从,从 ,,tsˈoŋ,tsˈoŋ213,tsˈoŋ213,tsˈoŋ
-WH,Wuhan,161,替,替 ,,tˈi,tˈi35,tˈi35,tˈi
+WH,Wuhan,160,从,从 ,,tsˈoŋ,tsˈoŋ213,tsʰoŋ213,tsʰoŋ
+WH,Wuhan,161,替,替 ,,tˈi,tˈi35,tʰi35,tʰi
 WH,Wuhan,162,拿,拿 ,,na,na213,na213,na
-WH,Wuhan,163,故意,故意 ,,ku i,ku35 i35,ku35 i35,ku i
+WH,Wuhan,163,故意,故意 ,,ku i,ku35 i35,ku35i35,kui
 WH,Wuhan,164,一,一,,i,i213,i213,i
 WH,Wuhan,165,二,二,,ɯ,ɯ35,ɯ35,ɯ
 WH,Wuhan,166,三,三,,san,san55,san55,san
 WH,Wuhan,167,四,四,,sɿ,sɿ35,sɹ̩35,sɹ̩
 WH,Wuhan,168,五,五,,u,u42,u42,u
 WH,Wuhan,169,六,六,,nəu,nəu213,nəu213,nəu
-WH,Wuhan,170,七,七,,tɕˈi,tɕˈi213,tɕˈi213,tɕˈi
+WH,Wuhan,170,七,七,,tɕˈi,tɕˈi213,tɕʰi213,tɕʰi
 WH,Wuhan,171,八,八,,pa,pa213,pa213,pa
 WH,Wuhan,172,九,九,,tɕiəu,tɕiəu42,tɕiəu42,tɕiəu
 WH,Wuhan,173,十,十,,sɿ,sɿ213,sɹ̩213,sɹ̩
-WH,Wuhan,174,十一,十一,,sɿ i,sɿ213-21 i213,sɹ̩213-21 i213,sɹ̩ i
-WH,Wuhan,175,十二,十二,,sɿ ɯ,sɿ213-21 ɯ35,sɹ̩213-21 ɯ35,sɹ̩ ɯ
-WH,Wuhan,176,二十,二十,,ɯ sɿ,ɯ35 sɿ213,ɯ35 sɹ̩213,ɯ sɹ̩
-WH,Wuhan,177,二十一,二十一,,ɯ sɿ i,ɯ35 sɿ213-21 i213,ɯ35 sɹ̩213-21 i213,ɯ sɹ̩ i
-WH,Wuhan,178,一百二十一,一百二十一,,i pɤ ɯ sɿ i,i213-21 pɤ213-21 ɯ35 sɿ213-21 i213,i213-21 pɤ213-21 ɯ35 sɹ̩213-21 i213,i pɤ ɯ sɹ̩ i
-WH,Wuhan,179,第一,第一,,ti i,ti35 i213,ti35 i213,ti i
-WH,Wuhan,180,第二,第二,,ti ɯ,ti35 ɯ35,ti35 ɯ35,ti ɯ
-WH,Wuhan,181,两里,两里,,niaŋ ni,niaŋ42 ni213,niaŋ42 ni213,niaŋ ni
-WH,Wuhan,182,二两,二两,,ɯ niaŋ,ɯ35 niaŋ42,ɯ35 niaŋ42,ɯ niaŋ
+WH,Wuhan,174,十一,十一,,sɿ i,sɿ21321 i213,sɹ̩21321i213,sɹ̩i
+WH,Wuhan,175,十二,十二,,sɿ ɯ,sɿ21321 ɯ35,sɹ̩21321ɯ35,sɹ̩ɯ
+WH,Wuhan,176,二十,二十,,ɯ sɿ,ɯ35 sɿ213,ɯ35sɹ̩213,ɯsɹ̩
+WH,Wuhan,177,二十一,二十一,,ɯ sɿ i,ɯ35 sɿ21321 i213,ɯ35sɹ̩21321i213,ɯsɹ̩i
+WH,Wuhan,178,一百二十一,一百二十一,,i pɤ ɯ sɿ i,i21321 pɤ21321 ɯ35 sɿ21321 i213,i21321pɤ21321ɯ35sɹ̩21321i213,ipɤɯsɹ̩i
+WH,Wuhan,179,第一,第一,,ti i,ti35 i213,ti35i213,tii
+WH,Wuhan,180,第二,第二,,ti ɯ,ti35 ɯ35,ti35ɯ35,tiɯ
+WH,Wuhan,181,两里,两里,,niaŋ ni,niaŋ42 ni213,niaŋ42ni213,niaŋni
+WH,Wuhan,182,二两,二两,,ɯ niaŋ,ɯ35 niaŋ42,ɯ35niaŋ42,ɯniaŋ
 WH,Wuhan,,,,,,,,
 WH,Wuhan,,,,,,,,
 WH,Wuhan,,,,,,,,
