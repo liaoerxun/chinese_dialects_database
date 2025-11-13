@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone,dialect,id
+XA,Xian,1,谁啊?我是老三。,谁?我是老三,,sei ŋɤ sɿ lau sã,sei24 ŋɤ53 sɿ44 lau53 sã21,sei24ŋɤ53sɹ̩44lau53sã21,seiŋɤsɹ̩lausã,Xian,XA
+XA,Xian,2,老四呢?她正跟一个朋友说着话呢。,老四呢?兀正跟她一个伙计□呢,,lau sɿ ni uo tʂəŋ kẽ tˈa i kɤ xuo tɕˈi pˈiã ni,lau53 sɿ44 ni uo53 tʂəŋ44 kẽ21 tˈa21 i21 kɤ44 xuo53 tɕˈi pˈiã53 ni,lau53sɹ̩44niuo53tʂəŋ44kẽ21tʰa21i21kɤ44xuo53tɕʰipʰiã53ni,lausɹ̩niuotʂəŋkẽtʰaikɤxuotɕʰipʰiãni,Xian,XA
+XA,Xian,3,她还没说完吗?,她得是还没说完,,tˈa tei sɿ xai mo ʂɤ uã,tˈa21 tei21 sɿ44 xai24 mo21 ʂɤ21 uã24,tʰa21tei21sɹ̩44xai24mo21ʂɤ21uã24,tʰateisɹ̩xaimoʂɤuã,Xian,XA
+XA,Xian,4,还没有。大概再有一会儿就说完了。,还没有。大猛儿还得一会儿,,xai mo iou ta mər xai tei i xuər,xai24 mo21 iou53 ta44 mər53 xai24 tei21 i21 xuər4453,xai24mo21iou53ta44mər53xai24tei21i21xuər4453,xaimoioutamərxaiteiixuər,Xian,XA
+XA,Xian,5,他说马上就走，怎么这半天了还在家里?,他说马上就走，咋到致儿还在屋里,,tˈa ʂɤ ma ʂaŋ tsou tsou tsa tau tʂər xai tsai u ni,tˈa21 ʂɤ21 ma53 ʂaŋ tsou44 tsou53 tsa53 tau44 tʂər4453 xai24 tsai44 u21 ni,tʰa21ʂɤ21ma53ʂaŋtsou44tsou53tsa53tau44tʂər4453xai24tsai44u21ni,tʰaʂɤmaʂaŋtsoutsoutsatautʂərxaitsaiuni,Xian,XA
+XA,Xian,6,你到哪儿去?我到城里去。,你到啊搭去呀?我进城呀,,ni tau a ta tɕˈi ia ŋɤ tɕiẽ tʂˈəŋ ia,ni53 tau44 a53 ta tɕˈi44 ia ŋɤ53 tɕiẽ44 tʂˈəŋ24 ia,ni53tau44a53tatɕʰi44iaŋɤ53tɕiẽ44tʂʰəŋ24ia,nitauatatɕʰiiaŋɤtɕiẽtʂʰəŋia,Xian,XA
+XA,Xian,7,在那儿，不在这儿。,在兀儿，不在这儿,,tsai uor pu tsai tʂɤr,tsai44 uor53 pu21 tsai44 tʂɤr53,tsai44uor53pu21tsai44tʂɤr53,tsaiuorputsaitʂɤr,Xian,XA
+XA,Xian,8,不是那么做，要这么做。,不是兀样儿做，是这样儿做,,pu sɿ u iaŋr tsou sɿ tʂʅ iaŋr tsou,pu21 sɿ44 u44 iaŋr tsou44 sɿ44 tʂʅ44 iaŋr tsou44,pu21sɹ̩44u44iaŋrtsou44sɹ̩44tʂɻ̩44iaŋrtsou44,pusɹ̩uiaŋrtsousɹ̩tʂɻ̩iaŋrtsou,Xian,XA
+XA,Xian,9,太多了，用不着那么多，只要这么多就够了。,太多咧，只要这一点儿就够咧,,tˈai tuo liɛ tsɿ iau tʂei i tiãr tsou kou liɛ,tˈai44 tuo21 liɛ tsɿ21 iau44 tʂei53 i21 tiãr53 tsou44 kou44 liɛ,tʰai44tuo21liɛtsɹ̩21iau44tʂei53i21tiãr53tsou44kou44liɛ,tʰaituoliɛtsɹ̩iautʂeiitiãrtsoukouliɛ,Xian,XA
+XA,Xian,10,这个大，那个小，这两个哪一个好一点呢?,这个大，兀个小，这俩啊一个好,,tʂʅ kɤ ta u kɤ ɕiau tʂʅ lia a i kɤ xau,tʂʅ44 kɤ ta44 u44 kɤ ɕiau53 tʂʅ44 lia21 a53 i21 kɤ xau53,tʂɻ̩44kɤta44u44kɤɕiau53tʂɻ̩44lia21a53i21kɤxau53,tʂɻ̩kɤtaukɤɕiautʂɻ̩liaaikɤxau,Xian,XA
+XA,Xian,11,这个比那个好。,这个比兀个好,,tʂʅ kɤ pi u kɤ xau,tʂʅ44 kɤ pi53 u44 kɤ xau53,tʂɻ̩44kɤpi53u44kɤxau53,tʂɻ̩kɤpiukɤxau,Xian,XA
+XA,Xian,12,这些房子不如那些房子好。,这些房子不胜兀些房子,,tʂʅ ɕiɛ faŋ tsɿ pu ʂəŋ u ɕiɛ faŋ tsɿ,tʂʅ44 ɕiɛ faŋ24 tsɿ pu21 ʂəŋ44 u44 ɕiɛ faŋ24 tsɿ,tʂɻ̩44ɕiɛfaŋ24tsɹ̩pu21ʂəŋ44u44ɕiɛfaŋ24tsɹ̩,tʂɻ̩ɕiɛfaŋtsɹ̩puʂəŋuɕiɛfaŋtsɹ̩,Xian,XA
+XA,Xian,13,这句话用成都话怎么说?,,,,,,,Xian,XA
+XA,Xian,14,他今年多大岁数了?,兀今年多少岁数,,uo tɕiẽ niã tuo ʂau suei fu,uo53 tɕiẽ21 niã24 tuo21 ʂau suei44 fu,uo53tɕiẽ21niã24tuo21ʂausuei44fu,uotɕiẽniãtuoʂausueifu,Xian,XA
+XA,Xian,15,大概三十来岁吧。,大猛儿三十来岁儿,,ta mər sã ʂʅ lai suər,ta44 mər53 sã21 ʂʅ lai suər4453,ta44mər53sã21ʂɻ̩laisuər4453,tamərsãʂɻ̩laisuər,Xian,XA
+XA,Xian,16,这个东西有多重呢?,这东西有多重,,tʂɤ tuŋ ɕi iou tuo pfəŋ,tʂɤ53 tuŋ21 ɕi iou53 tuo21 pfəŋ44,tʂɤ53tuŋ21ɕiiou53tuo21pfəŋ44,tʂɤtuŋɕiioutuopfəŋ,Xian,XA
+XA,Xian,17,有五十斤重呢。,有五十斤重,,iou u ʂʅ tɕiẽ pfəŋ,iou53 u53 ʂʅ tɕiẽ21 pfəŋ44,iou53u53ʂɻ̩tɕiẽ21pfəŋ44,iouuʂɻ̩tɕiẽpfəŋ,Xian,XA
+XA,Xian,18,拿得动吗?,拿得动,,na tei tuŋ,na24 tei21 tuŋ44,na24tei21tuŋ44,nateituŋ,Xian,XA
+XA,Xian,19,我拿得动，他拿不动。,我能拿动，他拿不动,,ŋɤ nəŋ na tuŋ tˈa na pu tuŋ,ŋɤ53 nəŋ24 na24 tuŋ tˈa21 na24 pu21 tuŋ44,ŋɤ53nəŋ24na24tuŋtʰa21na24pu21tuŋ44,ŋɤnəŋnatuŋtʰanaputuŋ,Xian,XA
+XA,Xian,20,真不轻，重得连我也拿不动。,真重，重得连我都拿不动,,tʂẽ pfəŋ pfəŋ ti liã ŋɤ tou na pu tuŋ,tʂẽ24 pfəŋ44 pfəŋ44 ti liã24 ŋɤ53 tou24 na24 pu21 tuŋ44,tʂẽ24pfəŋ44pfəŋ44tiliã24ŋɤ53tou24na24pu21tuŋ44,tʂẽpfəŋpfəŋtiliãŋɤtounaputuŋ,Xian,XA
+XA,Xian,21,你说得很好，你还会说点什么呢?,你说得嫽得很，你还能说点儿啥,,ni ʂɤ ti liau ti xẽ ni xai nəŋ ʂɤ tiar sa,ni53 ʂɤ21 ti liau24 ti xẽ53 ni53 xai24 nəŋ24 ʂɤ21 tiar sa44,ni53ʂɤ21tiliau24tixẽ53ni53xai24nəŋ24ʂɤ21tiarsa44,niʂɤtiliautixẽnixainəŋʂɤtiarsa,Xian,XA
+XA,Xian,22,我嘴笨，我说不过他。,我嘴笨，我说不过兀,,ŋɤ tsuei pẽ ŋɤ ʂɤ pu kuo uo,ŋɤ53 tsuei53 pẽ44 ŋɤ53 ʂɤ21 pu21 kuo44 uo53,ŋɤ53tsuei53pẽ44ŋɤ53ʂɤ21pu21kuo44uo53,ŋɤtsueipẽŋɤʂɤpukuouo,Xian,XA
+XA,Xian,23,说了一遍，又说一遍。,说咧一遍，可说咧一遍,,ʂɤ liɛ i piã kˈɤ ʂɤ liɛ i piã,ʂɤ21 liɛ i21 piã44 kˈɤ21 ʂɤ21 liɛ i21 piã44,ʂɤ21liɛi21piã44kʰɤ21ʂɤ21liɛi21piã44,ʂɤliɛipiãkʰɤʂɤliɛipiã,Xian,XA
+XA,Xian,24,请你再说一遍。,请你再说一遍,,tɕˈiŋ ni tsai ʂɤ i piã,tɕˈiŋ53 ni53 tsai44 ʂɤ21 i21 piã44,tɕʰiŋ53ni53tsai44ʂɤ21i21piã44,tɕʰiŋnitsaiʂɤipiã,Xian,XA
+XA,Xian,25,不早了，快去吧。,不早咧，赶紧去,,pu tsau liɛ kã tɕiẽ tɕˈi,pu21 tsau53 liɛ kã5321 tɕiẽ53 tɕˈi44,pu21tsau53liɛkã5321tɕiẽ53tɕʰi44,putsauliɛkãtɕiẽtɕʰi,Xian,XA
+XA,Xian,26,现在还早着呢，等一会儿再去吧。,致儿还早着呢，等一会儿再去,,tʂər xai tsau tʂɤ ni təŋ i xuər tsai tɕˈi,tʂər4453 xai24 tsau53 tʂɤ ni təŋ53 i21 xuər4453 tsai44 tɕˈi44,tʂər4453xai24tsau53tʂɤnitəŋ53i21xuər4453tsai44tɕʰi44,tʂərxaitsautʂɤnitəŋixuərtsaitɕʰi,Xian,XA
+XA,Xian,27,吃了饭再去好吗?,吃咧饭再去得成,,tʂˈʅ liɛ fã tsai tɕˈi tei tʂˈəŋ,tʂˈʅ21 liɛ fã44 tsai44 tɕˈi44 tei221 tʂˈəŋ24,tʂʰɻ̩21liɛfã44tsai44tɕʰi44tei221tʂʰəŋ24,tʂʰɻ̩liɛfãtsaitɕʰiteitʂʰəŋ,Xian,XA
+XA,Xian,28,慢慢儿吃啊，不要着急。,慢慢儿吃，虿着急,,mã mar tʂˈʅ pau tʂau tɕi,mã44 mar4453 tʂˈʅ21 pau21 tʂau21 tɕi24,mã44mar4453tʂʰɻ̩21pau21tʂau21tɕi24,mãmartʂʰɻ̩pautʂautɕi,Xian,XA
+XA,Xian,29,坐着吃比站着吃好些。,坐下吃比立下吃舒服,,tsuo xa tʂˈʅ pi li xa tʂˈʅ su fu,tsuo44 xa tʂˈʅ21 pi53 li21 xa tʂˈʅ21 su21 fu,tsuo44xatʂʰɻ̩21pi53li21xatʂʰɻ̩21su21fu,tsuoxatʂʰɻ̩pilixatʂʰɻ̩sufu,Xian,XA
+XA,Xian,30,他吃了饭了，你吃了饭没有呢?,他吃咧，你吃咧没,,tˈa tʂˈʅ liɛ ni tʂˈʅ liɛ mo,tˈa21 tʂˈʅ21 liɛ ni53 tʂˈʅ21 liɛ mo21,tʰa21tʂʰɻ̩21liɛni53tʂʰɻ̩21liɛmo21,tʰatʂʰɻ̩liɛnitʂʰɻ̩liɛmo,Xian,XA
+XA,Xian,31,他去过上海，我没有去过。,他去过上海，我没去过,,tˈa tɕˈi kuo ʂaŋ xai ŋɤ mo tɕˈi kuo,tˈa21 tɕˈi44 kuo ʂaŋ44 xai53 ŋɤ53 mo21 tɕˈi44 kuo,tʰa21tɕʰi44kuoʂaŋ44xai53ŋɤ53mo21tɕʰi44kuo,tʰatɕʰikuoʂaŋxaiŋɤmotɕʰikuo,Xian,XA
+XA,Xian,32,来闻闻这朵花香不香。,你闻一下这花窜不窜,,ni vẽ i xa tʂˈɤ xua tsˈuã pu tsˈuã,ni53 vẽ24 i21 xa tʂˈɤ53 xua21 tsˈuã44 pu21 tsˈuã44,ni53vẽ24i21xatʂʰɤ53xua21tsʰuã44pu21tsʰuã44,nivẽixatʂʰɤxuatsʰuãputsʰuã,Xian,XA
+XA,Xian,33,给我一本书。,给我一本儿书,,kei ŋɤ i pər fu,kei53 ŋɤ53 i21 pər53 fu21,kei53ŋɤ53i21pər53fu21,keiŋɤipərfu,Xian,XA
+XA,Xian,34,我真的没有那本书呀。,我真个没兀一本儿书,,ŋɤ tʂẽ kɤ mo uei i pər fu,ŋɤ53 tʂẽ21 kɤ44 mo21 uei53 i21 pər53 fu21,ŋɤ53tʂẽ21kɤ44mo21uei53i21pər53fu21,ŋɤtʂẽkɤmoueiipərfu,Xian,XA
+XA,Xian,35,你告诉他。,你给他说,,ni kei tˈa ʂɤ,ni53 kei53 tˈa2124 ʂɤ21,ni53kei53tʰa2124ʂɤ21,nikeitʰaʂɤ,Xian,XA
+XA,Xian,36,好好地走，不要跑。,好好儿走，㛳跑,,xau xaur tsou pau pˈau,xau53 xaur5324 tsou53 pau21 pˈau53,xau53xaur5324tsou53pau21pʰau53,xauxaurtsoupaupʰau,Xian,XA
+XA,Xian,37,小心跌下去爬不上来。,小心，跌下去就上不来咧,,ɕiau ɕiẽ tiɛ xa tɕˈi tsou ʂaŋ pu lai liɛ,ɕiau53 ɕiẽ tiɛ21 xa44 tɕˈi tsou44 ʂaŋ44 pu lai24 liɛ,ɕiau53ɕiẽtiɛ21xa44tɕʰitsou44ʂaŋ44pulai24liɛ,ɕiauɕiẽtiɛxatɕʰitsouʂaŋpulailiɛ,Xian,XA
+XA,Xian,38,医生叫你多睡睡。,大夫叫你多睡一下,,tai fu tɕiau ni tuo fei i xa,tai44 fu tɕiau44 ni53 tuo21 fei44 i21 xa,tai44futɕiau44ni53tuo21fei44i21xa,taifutɕiaunituofeiixa,Xian,XA
+XA,Xian,39,抽烟或者喝茶都不许。,不准吃烟喝茶,,pu pfẽ tʂˈʅ iã xuo tsˈa,pu21 pfẽ53 tʂˈʅ2124 iã21 xuo21 tsˈa24,pu21pfẽ53tʂʰɻ̩2124iã21xuo21tsʰa24,pupfẽtʂʰɻ̩iãxuotsʰa,Xian,XA
+XA,Xian,40,烟也好，茶也好，我都不喜欢。,烟茶我都不爱,,iã tsˈa ŋɤ tou pu ŋai,iã21 tsˈa24 ŋɤ53 tou24 pu21 ŋai44,iã21tsʰa24ŋɤ53tou24pu21ŋai44,iãtsʰaŋɤtoupuŋai,Xian,XA
+XA,Xian,41,不管你去不去，反正我是要去的。,不管你去不去，反正我要去呢,,pu kuã ni tɕˈi pu tɕˈi fã tʂəŋ ŋɤ iau tɕˈi ni,pu21 kuã53 ni53 tɕˈi44 pu21 tɕˈi44 fã21 tʂəŋ44 ŋɤ53 iau44 tɕˈi44 ni,pu21kuã53ni53tɕʰi44pu21tɕʰi44fã21tʂəŋ44ŋɤ53iau44tɕʰi44ni,pukuãnitɕʰiputɕʰifãtʂəŋŋɤiautɕʰini,Xian,XA
+XA,Xian,42,我非去不可。,我非去不可,,ŋɤ fi tɕˈi pu kˈɤ,ŋɤ53 fi21 tɕˈi44 pu21 kˈɤ53,ŋɤ53fi21tɕʰi44pu21kʰɤ53,ŋɤfitɕʰipukʰɤ,Xian,XA
+XA,Xian,43,你是哪一年来的?,你是啊一年来的,,ni sɿ a i niã lai ti,ni53 sɿ44 a53 i21 niã24 lai24 ti,ni53sɹ̩44a53i21niã24lai24ti,nisɹ̩ainiãlaiti,Xian,XA
+XA,Xian,44,我是前年到的北京。,我是前年到的北京,,ŋɤ sɿ tɕˈiã niã tau ti pei tɕiŋ,ŋɤ53 sɿ44 tɕˈiã24 niã tau44 ti pei21 tɕiŋ,ŋɤ53sɹ̩44tɕʰiã24niãtau44tipei21tɕiŋ,ŋɤsɹ̩tɕʰiãniãtautipeitɕiŋ,Xian,XA
+XA,Xian,45,今天开会谁的主席?,今儿开会谁的主席,,tɕiər kˈai xuei sei ti pfu ɕi,tɕiər21 kˈai21 xuei44 sei24 ti pfu53 ɕi24,tɕiər21kʰai21xuei44sei24tipfu53ɕi24,tɕiərkʰaixueiseitipfuɕi,Xian,XA
+XA,Xian,46,你得请我的客。,你得请我的客,,ni tei tɕˈiŋ ŋɤ ti kˈei,ni53 tei21 tɕˈiŋ53 ŋɤ53 ti kˈei21,ni53tei21tɕʰiŋ53ŋɤ53tikʰei21,niteitɕʰiŋŋɤtikʰei,Xian,XA
+XA,Xian,47,一边走，一边讲。,算走算说,,suã tsou suã ʂɤ,suã44 tsou53 suã44 ʂɤ21,suã44tsou53suã44ʂɤ21,suãtsousuãʂɤ,Xian,XA
+XA,Xian,48,越走越远，越说越多。,越走越远，越说越多,,yɛ tsou yɛ yã yɛ ʂɤ yɛ tuo,yɛ21 tsou53 yɛ21 yã53 yɛ2124 ʂɤ21 yɛ2124 tuo21,yɛ21tsou53yɛ21yã53yɛ2124ʂɤ21yɛ2124tuo21,yɛtsouyɛyãyɛʂɤyɛtuo,Xian,XA
+XA,Xian,49,把那个东西拿给我。,把兀东西给我,,pa uo tuŋ ɕi kei ŋɤ,pa21 uo53 tuŋ21 ɕi kei53 ŋɤ53,pa21uo53tuŋ21ɕikei53ŋɤ53,pauotuŋɕikeiŋɤ,Xian,XA
+XA,Xian,50,有些地方把太阳叫日头。,有些地方把太阳叫日头,,iou ɕiɛ ti faŋ pa tˈai iaŋ tɕiau ər tˈou,iou53 ɕiɛ ti44 faŋ pa21 tˈai44 iaŋ tɕiau44 ər21 tˈou,iou53ɕiɛti44faŋpa21tʰai44iaŋtɕiau44ər21tʰou,iouɕiɛtifaŋpatʰaiiaŋtɕiauərtʰou,Xian,XA
+XA,Xian,51,您贵姓?我姓王。,你贵姓?我姓王,,ni kuei ɕiŋ ŋɤ ɕiŋ uaŋ,ni53 kuei44 ɕiŋ44 ŋɤ53 ɕiŋ44 uaŋ24,ni53kuei44ɕiŋ44ŋɤ53ɕiŋ44uaŋ24,nikueiɕiŋŋɤɕiŋuaŋ,Xian,XA
+XA,Xian,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，咱俩是一家子,,ni ɕiŋ uaŋ ŋɤ iɛ ɕiŋ uaŋ tsai lia sɿ i tɕia tsɿ,ni53 ɕiŋ44 uaŋ24 ŋɤ53 iɛ53 ɕiŋ44 uaŋ24 tsai24 lia21 sɿ44 i2124 tɕia21 tsɿ,ni53ɕiŋ44uaŋ24ŋɤ53iɛ53ɕiŋ44uaŋ24tsai24lia21sɹ̩44i2124tɕia21tsɹ̩,niɕiŋuaŋŋɤiɛɕiŋuaŋtsailiasɹ̩itɕiatsɹ̩,Xian,XA
+XA,Xian,53,你先去吧，我们等一会儿再去。,你先去，俺的等一下再去,,ni ɕiã tɕˈi ŋai ti təŋ i xa tsai tɕˈi,ni53 ɕiã21 tɕˈi44 ŋai21 ti təŋ53 i21 xa tsai44 tɕˈi44,ni53ɕiã21tɕʰi44ŋai21titəŋ53i21xatsai44tɕʰi44,niɕiãtɕʰiŋaititəŋixatsaitɕʰi,Xian,XA
+XA,Xian,54,你抽烟不抽?,你吃烟不,,ni tʂˈʅ iã pu,ni53 tʂˈʅ2124 iã21 pu21,ni53tʂʰɻ̩2124iã21pu21,nitʂʰɻ̩iãpu,Xian,XA
+XA,Xian,55,你认得那个人不认得?,兀人你认得得,,uo ʐẽ ni ʐẽ tei tei,uo53 ʐẽ24 ni53 ʐẽ44 tei21 tei24,uo53ʐẽ24ni53ʐẽ44tei21tei24,uoʐẽniʐẽteitei,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA

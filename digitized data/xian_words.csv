@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone,dialect,id
+XA,Xian,1,太阳,日头,,ər tˈou,ər21 tˈou,ər21tʰou,ərtʰou,Xian,XA
+XA,Xian,2,月亮,月亮 ,,yɛ liaŋ,yɛ21 liaŋ,yɛ21liaŋ,yɛliaŋ,Xian,XA
+XA,Xian,3,星星,星星 ,,ɕiŋ ɕiŋ,ɕiŋ21 ɕiŋ,ɕiŋ21ɕiŋ,ɕiŋɕiŋ,Xian,XA
+XA,Xian,4,打雷,响雷 ,,ɕiaŋ luei,ɕiaŋ53 luei24,ɕiaŋ53luei24,ɕiaŋluei,Xian,XA
+XA,Xian,5,闪电,闪电 ,,ʂã tiã,ʂã53 tiã44,ʂã53tiã44,ʂãtiã,Xian,XA
+XA,Xian,6,下雨,下雨 ,,ɕia y,ɕia44 y53,ɕia44y53,ɕiay,Xian,XA
+XA,Xian,7,下雪,下雪 ,,ɕia ɕyɛ,ɕia44 ɕyɛ21,ɕia44ɕyɛ21,ɕiaɕyɛ,Xian,XA
+XA,Xian,8,冰雹,冷子 ,,ləŋ tsɿ,ləŋ53 tsɿ,ləŋ53tsɹ̩,ləŋtsɹ̩,Xian,XA
+XA,Xian,9,结冰,冻冰 ,,tuŋ piŋ,tuŋ44 piŋ21,tuŋ44piŋ21,tuŋpiŋ,Xian,XA
+XA,Xian,10,刮风,刮风 ,,kua fəŋ,kua2124 fəŋ21,kua2124fəŋ21,kuafəŋ,Xian,XA
+XA,Xian,11,虹,虹,,tɕiaŋ,tɕiaŋ44,tɕiaŋ44,tɕiaŋ,Xian,XA
+XA,Xian,12,端午节,五月节 ,,u yɛ tɕiɛ,u53 yɛ2124 tɕiɛ21,u53yɛ2124tɕiɛ21,uyɛtɕiɛ,Xian,XA
+XA,Xian,13,中秋节,八月节 ,,pa yɛ tɕiɛ,pa21 yɛ2124 tɕiɛ21,pa21yɛ2124tɕiɛ21,payɛtɕiɛ,Xian,XA
+XA,Xian,14,除夕,三十儿黑咧,,sã ʂər xei liɛ,sã21 ʂər24 xei21 liɛ,sã21ʂər24xei21liɛ,sãʂərxeiliɛ,Xian,XA
+XA,Xian,15,今年,今年 ,,tɕiẽ niã,tɕiẽ21 niã,tɕiẽ21niã,tɕiẽniã,Xian,XA
+XA,Xian,16,明年,明年 ,,miŋ niã,miŋ24 niã,miŋ24niã,miŋniã,Xian,XA
+XA,Xian,17,去年,年时个 ,,niã sɿ kɤ,niã24 sɿ kɤ,niã24sɹ̩kɤ,niãsɹ̩kɤ,Xian,XA
+XA,Xian,18,明天,明儿 ,,miər,miər24,miər24,miər,Xian,XA
+XA,Xian,19,昨天,夜个 ,,iɛ kɤ,iɛ53 kɤ,iɛ53kɤ,iɛkɤ,Xian,XA
+XA,Xian,20,今天,今儿,,tɕiər,tɕiər21,tɕiər21,tɕiər,Xian,XA
+XA,Xian,21,星期天,星期 ,,ɕiŋ tɕˈi,ɕiŋ21 tɕˈi,ɕiŋ21tɕʰi,ɕiŋtɕʰi,Xian,XA
+XA,Xian,22,麦子,麦,,mei,mei21,mei21,mei,Xian,XA
+XA,Xian,23,大米,大米 ,,ta mi,ta44 mi53,ta44mi53,tami,Xian,XA
+XA,Xian,24,蚕豆,蚕豆 ,,tsˈã tou,tsˈã24 tou,tsʰã24tou,tsʰãtou,Xian,XA
+XA,Xian,25,向日葵,向日葵 ,,ɕiaŋr kˈuei,ɕiaŋr4453 kˈuei24,ɕiaŋr4453kʰuei24,ɕiaŋrkʰuei,Xian,XA
+XA,Xian,26,菠菜,菠菜 ,,po tsˈai,po21 tsˈai,po21tsʰai,potsʰai,Xian,XA
+XA,Xian,27,卷心菜,莲花白 ,,liã xua pei,liã24 xua21 pei24,liã24xua21pei24,liãxuapei,Xian,XA
+XA,Xian,28,西红柿,洋柿子 ,,iaŋ sɿ tsɿ,iaŋ24 sɿ44 tsɿ,iaŋ24sɹ̩44tsɹ̩,iaŋsɹ̩tsɹ̩,Xian,XA
+XA,Xian,29,茄子,茄子 ,,tɕˈiɛ tsɿ,tɕˈiɛ24 tsɿ,tɕʰiɛ24tsɹ̩,tɕʰiɛtsɹ̩,Xian,XA
+XA,Xian,30,白薯,红苕 ,,xuŋ ʂau,xuŋ24 ʂau24,xuŋ24ʂau24,xuŋʂau,Xian,XA
+XA,Xian,31,马铃薯,洋芋 ,,iaŋ y,iaŋ24 y44,iaŋ24y44,iaŋy,Xian,XA
+XA,Xian,32,南瓜,倭瓜 ,,uo kua,uo21 kua,uo21kua,uokua,Xian,XA
+XA,Xian,33,猪,猪,,pfu,pfu21,pfu21,pfu,Xian,XA
+XA,Xian,34,公猪,牙猪 ,,ia pfu,ia24 pfu,ia24pfu,iapfu,Xian,XA
+XA,Xian,35,母猪,母猪 ,,mu pfu,mu53 pfu,mu53pfu,mupfu,Xian,XA
+XA,Xian,36,公鸡,公鸡 ,,kuŋ tɕi,kuŋ21 tɕi,kuŋ21tɕi,kuŋtɕi,Xian,XA
+XA,Xian,37,母鸡,母鸡 ,,mu tɕi,mu53 tɕi,mu53tɕi,mutɕi,Xian,XA
+XA,Xian,38,麻雀,雀儿 ,,tɕˈiaur,tɕˈiaur53,tɕʰiaur53,tɕʰiaur,Xian,XA
+XA,Xian,39,老鼠,老鼠 ,,lau fu,lau5321 fu,lau5321fu,laufu,Xian,XA
+XA,Xian,40,臭虫,臭虱 ,,tʂˈou sei,tʂˈou44 sei,tʂʰou44sei,tʂʰousei,Xian,XA
+XA,Xian,41,房子(整),房,,faŋ,faŋ24,faŋ24,faŋ,Xian,XA
+XA,Xian,42,房子(单),房子,,faŋ tsɿ,faŋ24 tsɿ,faŋ24tsɹ̩,faŋtsɹ̩,Xian,XA
+XA,Xian,43,窗户,窗子 ,,pfˈaŋ tsɿ,pfˈaŋ21 tsɿ,pfʰaŋ21tsɹ̩,pfʰaŋtsɹ̩,Xian,XA
+XA,Xian,44,门坎,门槛,,mẽ kˈã,mẽ24 kˈã,mẽ24kʰã,mẽkʰã,Xian,XA
+XA,Xian,45,厕所,茅子 ,,mau tsɿ,mau24 tsɿ,mau24tsɹ̩,mautsɹ̩,Xian,XA
+XA,Xian,46,厨房,厨房 ,,pfˈu faŋ,pfˈu24 faŋ,pfʰu24faŋ,pfʰufaŋ,Xian,XA
+XA,Xian,47,烟囱,烟筒 ,,iã tˈuŋ,iã21 tˈuŋ,iã21tʰuŋ,iãtʰuŋ,Xian,XA
+XA,Xian,48,桌子,桌子 ,,pfo tsɿ,pfo21 tsɿ,pfo21tsɹ̩,pfotsɹ̩,Xian,XA
+XA,Xian,49,楼梯,楼梯 ,,lou tˈi,lou24 tˈi,lou24tʰi,loutʰi,Xian,XA
+XA,Xian,50,头,头 ,,tˈou,tˈou24,tʰou24,tʰou,Xian,XA
+XA,Xian,51,额头,额楼 ,,ŋei lou,ŋei21 lou24,ŋei21lou24,ŋeilou,Xian,XA
+XA,Xian,52,脸,脸 ,,liã,liã53,liã53,liã,Xian,XA
+XA,Xian,53,鼻子,鼻子 ,,pi tsɿ,pi24 tsɿ,pi24tsɹ̩,pitsɹ̩,Xian,XA
+XA,Xian,54,脖子,脖项 ,,po xaŋ,po24 xaŋ,po24xaŋ,poxaŋ,Xian,XA
+XA,Xian,55,左手,左手 ,,tsuo ʂou,tsuo53 ʂou53,tsuo53ʂou53,tsuoʂou,Xian,XA
+XA,Xian,56,右手,右手 ,,iou ʂou,iou44 ʂou53,iou44ʂou53,iouʂou,Xian,XA
+XA,Xian,57,拳头,捶头子 ,,pfˈei tˈou tsɿ,pfˈei24 tˈou tsɿ,pfʰei24tʰoutsɹ̩,pfʰeitʰoutsɹ̩,Xian,XA
+XA,Xian,58,手指头,手指头 ,,ʂou tsɿ tˈou,ʂou53 tsɿ21 tˈou,ʂou53tsɹ̩21tʰou,ʂoutsɹ̩tʰou,Xian,XA
+XA,Xian,59,指甲,指甲 ,,tsɿ tɕia,tsɿ21 tɕia,tsɹ̩21tɕia,tsɹ̩tɕia,Xian,XA
+XA,Xian,60,膝盖,坷膝盖 ,,kˈɯ tɕˈi kai,kˈɯ21 tɕˈi kai44,kʰɯ21tɕʰikai44,kʰɯtɕʰikai,Xian,XA
+XA,Xian,61,腿,腿 ,,tˈuei,tˈuei53,tʰuei53,tʰuei,Xian,XA
+XA,Xian,62,父亲,爸,,pa,pa44,pa44,pa,Xian,XA
+XA,Xian,63,母亲,妈,,ma,ma21,ma21,ma,Xian,XA
+XA,Xian,64,祖父,爷,,iɛ,iɛ44,iɛ44,iɛ,Xian,XA
+XA,Xian,65,祖母,奶,,nai,nai53,nai53,nai,Xian,XA
+XA,Xian,66,伯父,伯,,pei,pei21,pei21,pei,Xian,XA
+XA,Xian,67,伯母,妈妈,,ma ma,ma24 ma,ma24ma,mama,Xian,XA
+XA,Xian,68,叔父,爸,,pa,pa44,pa44,pa,Xian,XA
+XA,Xian,69,叔母,娘,,niaŋ,niaŋ44,niaŋ44,niaŋ,Xian,XA
+XA,Xian,70,外祖父,爷,,iɛ,iɛ44,iɛ44,iɛ,Xian,XA
+XA,Xian,71,外祖母,奶,,nai,nai53,nai53,nai,Xian,XA
+XA,Xian,72,舅舅,舅,,tɕiou,tɕiou44,tɕiou44,tɕiou,Xian,XA
+XA,Xian,73,舅母,妗子,,tɕiẽ tsɿ,tɕiẽ44 tsɿ,tɕiẽ44tsɹ̩,tɕiẽtsɹ̩,Xian,XA
+XA,Xian,74,丈夫,女婿 ,,ny ɕi,ny53 ɕi,ny53ɕi,nyɕi,Xian,XA
+XA,Xian,75,妻子,媳妇儿 ,,ɕi fuər,ɕi21 fuər,ɕi21fuər,ɕifuər,Xian,XA
+XA,Xian,76,儿子,儿,,ər,ər24,ər24,ər,Xian,XA
+XA,Xian,77,女儿,女,,ny,ny53,ny53,ny,Xian,XA
+XA,Xian,78,早饭,赶早饭 ,,kã tsau fã,kã5321 tsau53 fã44,kã5321tsau53fã44,kãtsaufã,Xian,XA
+XA,Xian,79,午饭,晌午饭 ,,ʂaŋ u fã,ʂaŋ5321 u53 fã44,ʂaŋ5321u53fã44,ʂaŋufã,Xian,XA
+XA,Xian,80,晚饭,黑咧饭 ,,xei liɛ fã,xei21 liɛ fã44,xei21liɛfã44,xeiliɛfã,Xian,XA
+XA,Xian,81,面条,面,,miã,miã44,miã44,miã,Xian,XA
+XA,Xian,82,馒头,蒸馍 ,,tʂəŋ mo,tʂəŋ21 mo,tʂəŋ21mo,tʂəŋmo,Xian,XA
+XA,Xian,83,包子,包子 ,,pau tsɿ,pau21 tsɿ,pau21tsɹ̩,pautsɹ̩,Xian,XA
+XA,Xian,84,馄饨,馄饨 ,,xuẽ tˈuẽ,xuẽ24 tˈuẽ,xuẽ24tʰuẽ,xuẽtʰuẽ,Xian,XA
+XA,Xian,85,醋,醋 ,,tsˈu,tsˈu44,tsʰu44,tsʰu,Xian,XA
+XA,Xian,86,酱油,酱油 ,,tɕiaŋ iou,tɕiaŋ44 iou24,tɕiaŋ44iou24,tɕiaŋiou,Xian,XA
+XA,Xian,87,盐,盐,,iã,iã24,iã24,iã,Xian,XA
+XA,Xian,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai44 tsɿ,kʰuai44tsɹ̩,kʰuaitsɹ̩,Xian,XA
+XA,Xian,89,勺儿,勺勺儿 ,,fo for,fo24 for,fo24for,fofor,Xian,XA
+XA,Xian,90,男人,男人 ,,nã ʐẽ,nã24 ʐẽ,nã24ʐẽ,nãʐẽ,Xian,XA
+XA,Xian,91,女人,女人 ,,ny ʐẽ,ny53 ʐẽ,ny53ʐẽ,nyʐẽ,Xian,XA
+XA,Xian,92,男孩子,娃子 ,,ua tsɿ,ua24 tsɿ,ua24tsɹ̩,uatsɹ̩,Xian,XA
+XA,Xian,93,女孩子,女子 ,,ny tsɿ,ny53 tsɿ,ny53tsɹ̩,nytsɹ̩,Xian,XA
+XA,Xian,94,老头儿,老汉 ,,lau xã,lau53 xã,lau53xã,lauxã,Xian,XA
+XA,Xian,95,医生,大夫,,tai fu,tai44 fu,tai44fu,taifu,Xian,XA
+XA,Xian,96,厨师,厨子 ,,pfˈu tsɿ,pfˈu24 tsɿ,pfʰu24tsɹ̩,pfʰutsɹ̩,Xian,XA
+XA,Xian,97,乞丐,闲人儿 ,,xã ʐər,xã24 ʐər24,xã24ʐər24,xãʐər,Xian,XA
+XA,Xian,98,保姆,佣人 ,,yŋ ʐẽ,yŋ44 ʐẽ,yŋ44ʐẽ,yŋʐẽ,Xian,XA
+XA,Xian,99,病了,病咧 ,,piŋ liɛ,piŋ44 liɛ,piŋ44liɛ,piŋliɛ,Xian,XA
+XA,Xian,100,伤风,凉着咧 ,,liaŋ pfo liɛ,liaŋ24 pfo liɛ,liaŋ24pfoliɛ,liaŋpfoliɛ,Xian,XA
+XA,Xian,101,泻肚,跑後 ,,pˈau xou,pˈau24 xou44,pʰau24xou44,pʰauxou,Xian,XA
+XA,Xian,102,瘸子,跛子 ,,po tsɿ,po53 tsɿ,po53tsɹ̩,potsɹ̩,Xian,XA
+XA,Xian,103,驼背,背锅子 ,,pei kuo tsɿ,pei21 kuo tsɿ,pei21kuotsɹ̩,peikuotsɹ̩,Xian,XA
+XA,Xian,104,死了,死咧 ,,sɿ liɛ,sɿ5321 liɛ,sɹ̩5321liɛ,sɹ̩liɛ,Xian,XA
+XA,Xian,105,看病,看病 ,,kˈã piŋ,kˈã44 piŋ44,kʰã44piŋ44,kʰãpiŋ,Xian,XA
+XA,Xian,106,我,我,,ŋɤ,ŋɤ53,ŋɤ53,ŋɤ,Xian,XA
+XA,Xian,107,你,你,,ni,ni53,ni53,ni,Xian,XA
+XA,Xian,108,他,他,,tˈa,tˈa21,tʰa21,tʰa,Xian,XA
+XA,Xian,109,我们,俺 ,,ŋai,ŋai21,ŋai21,ŋai,Xian,XA
+XA,Xian,110,你们,你,,ni,ni21,ni21,ni,Xian,XA
+XA,Xian,111,他们,他的 ,,tˈa ti,tˈa21 ti,tʰa21ti,tʰati,Xian,XA
+XA,Xian,112,咱们,咱,,tsai,tsai24,tsai24,tsai,Xian,XA
+XA,Xian,113,自己,自个儿 ,,tsɿ kɤr,tsɿ44 kɤr4453,tsɹ̩44kɤr4453,tsɹ̩kɤr,Xian,XA
+XA,Xian,114,谁,谁,,sei,sei24,sei24,sei,Xian,XA
+XA,Xian,115,什么,啥,,sa,sa44,sa44,sa,Xian,XA
+XA,Xian,116,这里,这儿,,tʂɤr,tʂɤr53,tʂɤr53,tʂɤr,Xian,XA
+XA,Xian,117,那里,兀儿,,uor,uor53,uor53,uor,Xian,XA
+XA,Xian,118,哪里,啊搭 ,,a ta,a53 ta,a53ta,ata,Xian,XA
+XA,Xian,119,这个,这个 ,,tʂʅ kɤ,tʂʅ44 kɤ,tʂɻ̩44kɤ,tʂɻ̩kɤ,Xian,XA
+XA,Xian,120,那个,兀个,,u kɤ,u44 kɤ,u44kɤ,ukɤ,Xian,XA
+XA,Xian,121,哪一个,啊一个,,a i kɤ,a53 i21 kɤ,a53i21kɤ,aikɤ,Xian,XA
+XA,Xian,122,怎么样,咋个向 ,,tsa kɤ ɕiaŋ,tsa53 kɤ ɕiaŋ44,tsa53kɤɕiaŋ44,tsakɤɕiaŋ,Xian,XA
+XA,Xian,123,一位客人,个,,kɤ,kɤ44,kɤ44,kɤ,Xian,XA
+XA,Xian,124,一双鞋,双,,faŋ,faŋ21,faŋ21,faŋ,Xian,XA
+XA,Xian,125,一床被,床,,pfˈaŋ,pfˈaŋ24,pfʰaŋ24,pfʰaŋ,Xian,XA
+XA,Xian,126,一辆车,辆,,liaŋ,liaŋ53,liaŋ53,liaŋ,Xian,XA
+XA,Xian,127,一条牛,个,,kɤ,kɤ44,kɤ44,kɤ,Xian,XA
+XA,Xian,128,一口猪,个,,kɤ,kɤ44,kɤ44,kɤ,Xian,XA
+XA,Xian,129,听一会儿,,,,,,,Xian,XA
+XA,Xian,130,打一下,,,,,,,Xian,XA
+XA,Xian,131,上头,上头 ,,ʂaŋ tˈou,ʂaŋ44 tˈou,ʂaŋ44tʰou,ʂaŋtʰou,Xian,XA
+XA,Xian,132,下头,底下,,ti xa,ti53 xa,ti53xa,tixa,Xian,XA
+XA,Xian,133,左边,左岸儿 ,,tsuo ŋar,tsuo53 ŋar,tsuo53ŋar,tsuoŋar,Xian,XA
+XA,Xian,134,右边,右岸儿 ,,iou ŋar,iou44 ŋar,iou44ŋar,iouŋar,Xian,XA
+XA,Xian,135,当中,当中里 ,,taŋ pfəŋ ni,taŋ2124 pfəŋ2124 ni021,taŋ2124pfəŋ2124ni021,taŋpfəŋni,Xian,XA
+XA,Xian,136,里面,里头 ,,li tˈou,li53 tˈou,li53tʰou,litʰou,Xian,XA
+XA,Xian,137,外面,外头 ,,uai tˈou,uai44 tˈou,uai44tʰou,uaitʰou,Xian,XA
+XA,Xian,138,甜,甜,,tˈiã,tˈiã24,tʰiã24,tʰiã,Xian,XA
+XA,Xian,139,酸,酸,,suã,suã21,suã21,suã,Xian,XA
+XA,Xian,140,咸,咸,,xã,xã24,xã24,xã,Xian,XA
+XA,Xian,141,淡,甜,,tˈiã,tˈiã24,tʰiã24,tʰiã,Xian,XA
+XA,Xian,142,胖,胖,,pˈaŋ,pˈaŋ44,pʰaŋ44,pʰaŋ,Xian,XA
+XA,Xian,143,瘦,瘦,,sou,sou44,sou44,sou,Xian,XA
+XA,Xian,144,冷,冷,,ləŋ,ləŋ53,ləŋ53,ləŋ,Xian,XA
+XA,Xian,145,热,热,,ʐɤ,ʐɤ21,ʐɤ21,ʐɤ,Xian,XA
+XA,Xian,146,香,香,,ɕiaŋ,ɕiaŋ21,ɕiaŋ21,ɕiaŋ,Xian,XA
+XA,Xian,147,臭,臭,,tʂˈou,tʂˈou44,tʂʰou44,tʂʰou,Xian,XA
+XA,Xian,148,粗,粗,,tsˈu,tsˈu21,tsʰu21,tsʰu,Xian,XA
+XA,Xian,149,细,细,,ɕi,ɕi44,ɕi44,ɕi,Xian,XA
+XA,Xian,150,长,长,,tʂˈaŋ,tʂˈaŋ24,tʂʰaŋ24,tʂʰaŋ,Xian,XA
+XA,Xian,151,短,短,,tuã,tuã53,tuã53,tuã,Xian,XA
+XA,Xian,152,脏,脏,,tsaŋ,tsaŋ21,tsaŋ21,tsaŋ,Xian,XA
+XA,Xian,153,干净,干净,,kã tɕiŋ,kã21 tɕiŋ,kã21tɕiŋ,kãtɕiŋ,Xian,XA
+XA,Xian,154,便宜,便宜,,pˈiã i,pˈiã24 i,pʰiã24i,pʰiãi,Xian,XA
+XA,Xian,155,刚(来),刚 ,,kaŋ,kaŋ24,kaŋ24,kaŋ,Xian,XA
+XA,Xian,156,刚(合适),刚,,kaŋ,kaŋ24,kaŋ24,kaŋ,Xian,XA
+XA,Xian,157,正好,刚好儿 ,,kaŋ xaur,kaŋ24 xaur53,kaŋ24xaur53,kaŋxaur,Xian,XA
+XA,Xian,158,和,跟 ,,kẽ,kẽ21,kẽ21,kẽ,Xian,XA
+XA,Xian,159,只,光 ,,kuaŋ,kuaŋ24,kuaŋ24,kuaŋ,Xian,XA
+XA,Xian,160,从,由 ,,iou,iou24,iou24,iou,Xian,XA
+XA,Xian,161,替,替,,tˈi,tˈi44,tʰi44,tʰi,Xian,XA
+XA,Xian,162,拿,拿 ,,na,na24,na24,na,Xian,XA
+XA,Xian,163,故意,故意儿 ,,ku iər,ku44 iər4453,ku44iər4453,kuiər,Xian,XA
+XA,Xian,164,一,一,,i,i21,i21,i,Xian,XA
+XA,Xian,165,二,二,,ər,ər44,ər44,ər,Xian,XA
+XA,Xian,166,三,三,,sã,sã21,sã21,sã,Xian,XA
+XA,Xian,167,四,四,,sɿ,sɿ44,sɹ̩44,sɹ̩,Xian,XA
+XA,Xian,168,五,五,,u,u53,u53,u,Xian,XA
+XA,Xian,169,六,六,,liou,liou21,liou21,liou,Xian,XA
+XA,Xian,170,七,七,,tɕˈi,tɕˈi21,tɕʰi21,tɕʰi,Xian,XA
+XA,Xian,171,八,八,,pa,pa21,pa21,pa,Xian,XA
+XA,Xian,172,九,九,,tɕiou,tɕiou53,tɕiou53,tɕiou,Xian,XA
+XA,Xian,173,十,十,,ʂʅ,ʂʅ24,ʂɻ̩24,ʂɻ̩,Xian,XA
+XA,Xian,174,十一,十一,,ʂʅ i,ʂʅ24 i21,ʂɻ̩24i21,ʂɻ̩i,Xian,XA
+XA,Xian,175,十二,十二,,ʂʅ ər,ʂʅ24 ər44,ʂɻ̩24ər44,ʂɻ̩ər,Xian,XA
+XA,Xian,176,二十,二十,,ər ʂʅ,ər44 ʂʅ,ər44ʂɻ̩,ərʂɻ̩,Xian,XA
+XA,Xian,177,二十一,二十一,,ər ʂʅ i,ər44 ʂʅ24 i21,ər44ʂɻ̩24i21,ərʂɻ̩i,Xian,XA
+XA,Xian,178,一百二十一,一百二十一,,i pei ər ʂʅ i,i2124 pei21 ər44 ʂʅ24 i21,i2124pei21ər44ʂɻ̩24i21,ipeiərʂɻ̩i,Xian,XA
+XA,Xian,179,第一,第一,,ti i,ti44 i21,ti44i21,tii,Xian,XA
+XA,Xian,180,第二,第二,,ti ər,ti44 ər44,ti44ər44,tiər,Xian,XA
+XA,Xian,181,两里,二里,,ər li,ər44 li,ər44li,ərli,Xian,XA
+XA,Xian,182,二两,二两,,ər liaŋ,ər44 liaŋ,ər44liaŋ,ərliaŋ,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
+XA,Xian,,,,,,,,,Xian,XA
