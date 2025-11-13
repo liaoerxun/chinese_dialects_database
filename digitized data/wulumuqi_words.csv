@@ -1,0 +1,205 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+WM,Wulumuqi,1,太阳,太阳,,tˈai iɑŋ,tˈai213-13 iɑŋ,tʰai213-13iɑŋ,tʰaiiɑŋ
+WM,Wulumuqi,2,月亮,月亮,,yɤ liɑŋ,yɤ213-13 liɑŋ,yɤ213-13liɑŋ,yɤliɑŋ
+WM,Wulumuqi,3,星星,星宿,,ɕiŋ ɕiɤu,ɕiŋ44 ɕiɤu,ɕiŋ44ɕiɤu,ɕiŋɕiɤu
+WM,Wulumuqi,4,打雷,打雷,,ta luei,ta51-53 luei51,ta51-53luei51,taluei
+WM,Wulumuqi,5,闪电,闪电,,ʂan tian,ʂan51 tian213,ʂan51tian213,ʂantian
+WM,Wulumuqi,6,下雨,下雨,,xa y,xa213-13 y51,xa213-13y51,xay
+WM,Wulumuqi,7,下雪,下雪,,xa ɕyɤ,xa213-13 ɕyɤ213,xa213-13ɕyɤ213,xaɕyɤ
+WM,Wulumuqi,8,冰雹,冰雹,,piŋ pɔ,piŋ44 pɔ213,piŋ44pɔ213,piŋpɔ
+WM,Wulumuqi,9,结冰,结冰,,tɕiɤ piŋ,tɕiɤ213 piŋ44,tɕiɤ213piŋ44,tɕiɤpiŋ
+WM,Wulumuqi,10,刮风,刮风,,kua fɤŋ,kua213 fɤŋ44,kua213fɤŋ44,kuafɤŋ
+WM,Wulumuqi,11,虹,虹,,kɑŋ,kɑŋ213,kɑŋ213,kɑŋ
+WM,Wulumuqi,12,端午节,端午,,tuan vu,tuan44 vu,tuan44vu,tuanvu
+WM,Wulumuqi,13,中秋节,中秋,,tʂuŋ tɕˈiɤu,tʂuŋ44 tɕˈiɤu44,tʂuŋ44tɕʰiɤu44,tʂuŋtɕʰiɤu
+WM,Wulumuqi,14,除夕,年三十 ,,ȵian san ʂʅ,ȵian51 san44 ʂʅ,ɲian51san44ʂɻ̩,ɲiansanʂɻ̩
+WM,Wulumuqi,15,今年,今年,,tɕiŋ ȵian,tɕiŋ44 ȵian51,tɕiŋ44ɲian51,tɕiŋɲian
+WM,Wulumuqi,16,明年,明年 ,,miŋ ȵian,miŋ51-44 ȵian,miŋ51-44ɲian,miŋɲian
+WM,Wulumuqi,17,去年,年事个 ,,ȵian sɿ kɤ,ȵian51-44 sɿ kɤ,ɲian51-44sɹ̩kɤ,ɲiansɹ̩kɤ
+WM,Wulumuqi,18,明天,明天,,miŋ tˈian,miŋ51-44 tˈian,miŋ51-44tʰian,miŋtʰian
+WM,Wulumuqi,19,昨天,昨天,,tsuɤ tˈian,tsuɤ51-44 tˈian,tsuɤ51-44tʰian,tsuɤtʰian
+WM,Wulumuqi,20,今天,今天,,tɕiŋ tˈian,tɕiŋ44 tˈian,tɕiŋ44tʰian,tɕiŋtʰian
+WM,Wulumuqi,21,星期天,星期天 ,,ɕiŋ tɕˈi tˈian,ɕiŋ44 tɕˈi tˈian44,ɕiŋ44tɕʰitʰian44,ɕiŋtɕʰitʰian
+WM,Wulumuqi,22,麦子,麦子 ,,mei tsɿ,mei44 tsɿ,mei44tsɹ̩,meitsɹ̩
+WM,Wulumuqi,23,大米,大米 ,,ta mi,ta213-13 mi51,ta213-13mi51,tami
+WM,Wulumuqi,24,蚕豆,大豆,,ta tɤu,ta213-13 tɤu,ta213-13tɤu,tatɤu
+WM,Wulumuqi,25,向日葵,葵花 ,,kˈuei xua,kˈuei51-44 xua,kʰuei51-44xua,kʰueixua
+WM,Wulumuqi,26,菠菜,菠菜 ,,pɤ tsˈai,pɤ44 tsˈai,pɤ44tsʰai,pɤtsʰai
+WM,Wulumuqi,27,卷心菜,莲花白 ,,lian xua pei,lian51-44 xua pei51,lian51-44xuapei51,lianxuapei
+WM,Wulumuqi,28,西红柿,洋柿子 ,,iɑŋ sɿ tsɿ,iɑŋ51 sɿ213-13 tsɿ,iɑŋ51sɹ̩213-13tsɹ̩,iɑŋsɹ̩tsɹ̩
+WM,Wulumuqi,29,茄子,茄子,,tɕˈiɤ tsɿ,tɕˈiɤ51-44 tsɿ,tɕʰiɤ51-44tsɹ̩,tɕʰiɤtsɹ̩
+WM,Wulumuqi,30,白薯,红薯 ,,xuŋ fu,xuŋ51-53 fu51,xuŋ51-53fu51,xuŋfu
+WM,Wulumuqi,31,马铃薯,洋芋,,iɑŋ y,iɑŋ51-53 y213,iɑŋ51-53y213,iɑŋy
+WM,Wulumuqi,32,南瓜,葫芦,,xu lu,xu51-44 lu,xu51-44lu,xulu
+WM,Wulumuqi,33,猪,猪 ,,tʂu,tʂu44,tʂu44,tʂu
+WM,Wulumuqi,34,公猪,公猪 ,,kuŋ tʂu,kuŋ44 tʂu44,kuŋ44tʂu44,kuŋtʂu
+WM,Wulumuqi,35,母猪,母猪 ,,mu tʂu,mu51-13 tʂu,mu51-13tʂu,mutʂu
+WM,Wulumuqi,36,公鸡,公鸡,,kuŋ tɕi,kuŋ44 tɕi44,kuŋ44tɕi44,kuŋtɕi
+WM,Wulumuqi,37,母鸡,母鸡,,mu tɕi,mu51-13 tɕi,mu51-13tɕi,mutɕi
+WM,Wulumuqi,38,麻雀,麻雀子,,ma tɕˈyɤ tsɿ,ma51-44 tɕˈyɤ tsɿ,ma51-44tɕʰyɤtsɹ̩,matɕʰyɤtsɹ̩
+WM,Wulumuqi,39,老鼠,老鼠 ,,lɔ tʂˈu,lɔ51-13 tʂˈu,lɔ51-13tʂʰu,lɔtʂʰu
+WM,Wulumuqi,40,臭虫,臭虱,,tʂˈɤu sei,tʂˈɤu213-13 sei,tʂʰɤu213-13sei,tʂʰɤusei
+WM,Wulumuqi,41,房子(整),房子 ,,fɑŋ tsɿ,fɑŋ51-44 tsɿ,fɑŋ51-44tsɹ̩,fɑŋtsɹ̩
+WM,Wulumuqi,42,房子(单),房子 ,,fɑŋ tsɿ,fɑŋ51-44 tsɿ,fɑŋ51-44tsɹ̩,fɑŋtsɹ̩
+WM,Wulumuqi,43,窗户,窗户,,tʂˈuɑŋ xu,tʂˈuɑŋ44 xu,tʂʰuɑŋ44xu,tʂʰuɑŋxu
+WM,Wulumuqi,44,门坎,门坎,,mɤŋ kˈan,mɤŋ51-44 kˈan,mɤŋ51-44kʰan,mɤŋkʰan
+WM,Wulumuqi,45,厕所,茅房 ,,mɔ fɑŋ,mɔ51-44 fɑŋ,mɔ51-44fɑŋ,mɔfɑŋ
+WM,Wulumuqi,46,厨房,厨房 ,,tʂˈu fɑŋ,tʂˈu51-53 fɑŋ51,tʂʰu51-53fɑŋ51,tʂʰufɑŋ
+WM,Wulumuqi,47,烟囱,烟筒 ,,ian tˈuŋ,ian44 tˈuŋ51,ian44tʰuŋ51,iantʰuŋ
+WM,Wulumuqi,48,桌子,桌子 ,,tʂuɤ tsɿ,tʂuɤ213-13 tsɿ,tʂuɤ213-13tsɹ̩,tʂuɤtsɹ̩
+WM,Wulumuqi,49,楼梯,楼梯,,lɤu tˈi,lɤu51-44 tˈi,lɤu51-44tʰi,lɤutʰi
+WM,Wulumuqi,50,头,头 ,,tˈɤu,tˈɤu51,tʰɤu51,tʰɤu
+WM,Wulumuqi,51,额头,崩楼 ,,pɤŋ lɤu,pɤŋ44 lɤu51,pɤŋ44lɤu51,pɤŋlɤu
+WM,Wulumuqi,52,脸,脸,,lian,lian51,lian51,lian
+WM,Wulumuqi,53,鼻子,鼻子 ,,pi tsɿ,pi51-44 tsɿ,pi51-44tsɹ̩,pitsɹ̩
+WM,Wulumuqi,54,脖子,脖子 ,,pɤ tsɿ,pɤ51-44 tsɿ,pɤ51-44tsɹ̩,pɤtsɹ̩
+WM,Wulumuqi,55,左手,左手 ,,tsuɤ ʂɤu,tsuɤ51-44 ʂɤu,tsuɤ51-44ʂɤu,tsuɤʂɤu
+WM,Wulumuqi,56,右手,右手 ,,iɤu ʂɤu,iɤu213-13 ʂɤu51,iɤu213-13ʂɤu51,iɤuʂɤu
+WM,Wulumuqi,57,拳头,捶头,,tʂˈuei tˈɤu,tʂˈuei51-44 tˈɤu,tʂʰuei51-44tʰɤu,tʂʰueitʰɤu
+WM,Wulumuqi,58,手指头,手指头 ,,ʂɤu tsɿ tˈɤu,ʂɤu51 tsɿ213-13 tˈɤu,ʂɤu51tsɹ̩213-13tʰɤu,ʂɤutsɹ̩tʰɤu
+WM,Wulumuqi,59,指甲,指甲,,tsɿ tɕia,tsɿ213-13 tɕia,tsɹ̩213-13tɕia,tsɹ̩tɕia
+WM,Wulumuqi,60,膝盖,菠膝盖儿 ,,pɤ ɕi kɛr,pɤ44 ɕi kɛr213,pɤ44ɕikɛr213,pɤɕikɛr
+WM,Wulumuqi,61,腿,腿,,tˈuei,tˈuei51,tʰuei51,tʰuei
+WM,Wulumuqi,62,父亲,爸爸,,pa pa,pa51-44 pa,pa51-44pa,papa
+WM,Wulumuqi,63,母亲,妈,,ma,ma44,ma44,ma
+WM,Wulumuqi,64,祖父,爷爷 ,,iɤ iɤ,iɤ51-44 iɤ,iɤ51-44iɤ,iɤiɤ
+WM,Wulumuqi,65,祖母,奶奶 ,,nai nai,nai51-13 nai,nai51-13nai,nainai
+WM,Wulumuqi,66,伯父,伯伯 ,,pei pei,pei51-44 pei,pei51-44pei,peipei
+WM,Wulumuqi,67,伯母,大妈 ,,ta ma,ta21-13 ma,ta21-13ma,tama
+WM,Wulumuqi,68,叔父,叔叔 ,,fu fu,fu44 fu,fu44fu,fufu
+WM,Wulumuqi,69,叔母,婶婶 ,,ʂɤŋ ʂɤŋ,ʂɤŋ51-13 ʂɤŋ,ʂɤŋ51-13ʂɤŋ,ʂɤŋʂɤŋ
+WM,Wulumuqi,70,外祖父,外爷爷 ,,vai iɤ iɤ,vai213 iɤ51-44 iɤ,vai213iɤ51-44iɤ,vaiiɤiɤ
+WM,Wulumuqi,71,外祖母,外奶奶 ,,vai nai nai,vai213 nai51-13 nai,vai213nai51-13nai,vainainai
+WM,Wulumuqi,72,舅舅,舅舅,,tɕiɤu tɕiɤu,tɕiɤu213-13 tɕiɤu,tɕiɤu213-13tɕiɤu,tɕiɤutɕiɤu
+WM,Wulumuqi,73,舅母,舅母,,tɕiɤu mu,tɕiɤu213-13 mu,tɕiɤu213-13mu,tɕiɤumu
+WM,Wulumuqi,74,丈夫,男人,,nan ʐɤŋ,nan51-44 ʐɤŋ,nan51-44ʐɤŋ,nanʐɤŋ
+WM,Wulumuqi,75,妻子,老婆 ,,lɔ pˈɤ,lɔ51-13 pˈɤ,lɔ51-13pʰɤ,lɔpʰɤ
+WM,Wulumuqi,76,儿子,儿子,,ə˞ tsɿ,ə˞51-44 tsɿ,ə˞51-44tsɹ̩,ə˞tsɹ̩
+WM,Wulumuqi,77,女儿,女儿 ,,ȵy ə˞,ȵy51-13 ə˞,ɲy51-13ə˞,ɲyə˞
+WM,Wulumuqi,78,早饭,干早饭,,kan tsɔ fan,kan44 tsɔ51 fan213,kan44tsɔ51fan213,kantsɔfan
+WM,Wulumuqi,79,午饭,中午饭,,tʂuŋ vu fan,tʂuŋ44 vu fan213,tʂuŋ44vufan213,tʂuŋvufan
+WM,Wulumuqi,80,晚饭,下午饭,,ɕia vu fan,ɕia213 vu51 fan213,ɕia213vu51fan213,ɕiavufan
+WM,Wulumuqi,81,面条,面条儿 ,,mian tˈiɔr,mian213-13 tˈiɔr51,mian213-13tʰiɔr51,miantʰiɔr
+WM,Wulumuqi,82,馒头,馍馍 ,,mɤ mɤ,mɤ51-44 mɤ,mɤ51-44mɤ,mɤmɤ
+WM,Wulumuqi,83,包子,包子 ,,pɔ tsɿ,pɔ44 tsɿ,pɔ44tsɹ̩,pɔtsɹ̩
+WM,Wulumuqi,84,馄饨,馄饨 ,,xuŋ tˈuŋ,xuŋ51-44 tˈuŋ,xuŋ51-44tʰuŋ,xuŋtʰuŋ
+WM,Wulumuqi,85,醋,醋,,tsˈu,tsˈu213,tsʰu213,tsʰu
+WM,Wulumuqi,86,酱油,清酱 ,,tɕˈiŋ tɕiɑŋ,tɕˈiŋ44 tɕiɑŋ213,tɕʰiŋ44tɕiɑŋ213,tɕʰiŋtɕiɑŋ
+WM,Wulumuqi,87,盐,咸盐,,tɕˈiŋ tɕiɑŋɕian ian,tɕˈiŋ44 tɕiɑŋ213ɕian51-53 ian51,tɕʰiŋ44tɕiɑŋ213ɕian51-53ian51,tɕʰiŋtɕiɑŋɕianian
+WM,Wulumuqi,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai213-13 tsɿ,kʰuai213-13tsɹ̩,kʰuaitsɹ̩
+WM,Wulumuqi,89,勺儿,勺勺子 ,,fɤ fɤ tsɿ,fɤ51-44 fɤ tsɿ,fɤ51-44fɤtsɹ̩,fɤfɤtsɹ̩
+WM,Wulumuqi,90,男人,男人 ,,nan ʐɤŋ,nan51-44 ʐɤŋ,nan51-44ʐɤŋ,nanʐɤŋ
+WM,Wulumuqi,91,女人,女人,,ȵy ʐɤŋ,ȵy51-13 ʐɤŋ,ɲy51-13ʐɤŋ,ɲyʐɤŋ
+WM,Wulumuqi,92,男孩子,儿娃子 ,,ə˞ va tsɿ,ə˞51-44 va tsɿ,ə˞51-44vatsɹ̩,ə˞vatsɹ̩
+WM,Wulumuqi,93,女孩子,丫头 ,,ia tˈɤu,ia44 tˈɤu,ia44tʰɤu,iatʰɤu
+WM,Wulumuqi,94,老头儿,老汉,,lɔ xan,lɔ51-13 xan,lɔ51-13xan,lɔxan
+WM,Wulumuqi,95,医生,大夫 ,,tai fu,tai213-13 fu,tai213-13fu,taifu
+WM,Wulumuqi,96,厨师,厨子,,tʂˈu tsɿ,tʂˈu51-44 tsɿ,tʂʰu51-44tsɹ̩,tʂʰutsɹ̩
+WM,Wulumuqi,97,乞丐,要饭底 ,,iɔ fan ti,iɔ213-13 fan213-13 ti,iɔ213-13fan213-13ti,iɔfanti
+WM,Wulumuqi,98,保姆,老妈子 ,,lɔ ma tsɿ,lɔ51 ma44 tsɿ,lɔ51ma44tsɹ̩,lɔmatsɹ̩
+WM,Wulumuqi,99,病了,病咧 ,,piŋ liɤ,piŋ213-13 liɤ,piŋ213-13liɤ,piŋliɤ
+WM,Wulumuqi,100,伤风,伤风 ,,ʂɑŋ fɤŋ,ʂɑŋ44 fɤŋ44,ʂɑŋ44fɤŋ44,ʂɑŋfɤŋ
+WM,Wulumuqi,101,泻肚,拉肚子 ,,la tu tsɿ,la213 tu213-13 tsɿ,la213tu213-13tsɹ̩,latutsɹ̩
+WM,Wulumuqi,102,瘸子,瘸子 ,,tɕˈyɤ tsɿ,tɕˈyɤ51-44 tsɿ,tɕʰyɤ51-44tsɹ̩,tɕʰyɤtsɹ̩
+WM,Wulumuqi,103,驼背,罗锅子 ,,luɤ kuɤ tsɿ,luɤ51-53 kuɤ44 tsɿ,luɤ51-53kuɤ44tsɹ̩,luɤkuɤtsɹ̩
+WM,Wulumuqi,104,死了,死咧,,sɿ liɤ,sɿ51-13 liɤ,sɹ̩51-13liɤ,sɹ̩liɤ
+WM,Wulumuqi,105,看病,看病 ,,kˈan piŋ,kˈan213-13 piŋ213,kʰan213-13piŋ213,kʰanpiŋ
+WM,Wulumuqi,106,我,我,,vɤ,vɤ51,vɤ51,vɤ
+WM,Wulumuqi,107,你,你,,ȵi,ȵi51,ɲi51,ɲi
+WM,Wulumuqi,108,他,他,,tˈa,tˈa44,tʰa44,tʰa
+WM,Wulumuqi,109,我们,我们,,vɤ mɤŋ,vɤ51-13 mɤŋ,vɤ51-13mɤŋ,vɤmɤŋ
+WM,Wulumuqi,110,你们,你们,,ȵi mɤŋ,ȵi51-13 mɤŋ,ɲi51-13mɤŋ,ɲimɤŋ
+WM,Wulumuqi,111,他们,他们,,tˈa mɤŋ,tˈa44 mɤŋ,tʰa44mɤŋ,tʰamɤŋ
+WM,Wulumuqi,112,咱们,咱们,,tsa mɤŋ,tsa51-44 mɤŋ,tsa51-44mɤŋ,tsamɤŋ
+WM,Wulumuqi,113,自己,个人,,kɤ ʐɤŋ,kɤ213-13 ʐɤŋ,kɤ213-13ʐɤŋ,kɤʐɤŋ
+WM,Wulumuqi,114,谁,谁,,sei,sei51,sei51,sei
+WM,Wulumuqi,115,什么,啥,,sa,sa213,sa213,sa
+WM,Wulumuqi,116,这里,这达 ,,tsei ta,tsei44 ta,tsei44ta,tseita
+WM,Wulumuqi,117,那里,那达 ,,nei ta,nei44 ta,nei44ta,neita
+WM,Wulumuqi,118,哪里,哪达 ,,na ta,na51-13 ta,na51-13ta,nata
+WM,Wulumuqi,119,这个,这个 ,,tsei kɤ,tsei44 kɤ,tsei44kɤ,tseikɤ
+WM,Wulumuqi,120,那个,那个 ,,nei kɤ,nei44 kɤ,nei44kɤ,neikɤ
+WM,Wulumuqi,121,哪一个,哪个 ,,na kɤ,na51-13 kɤ,na51-13kɤ,nakɤ
+WM,Wulumuqi,122,怎么样,咋么个 ,,tsa mu kɤ,tsa51-13 mu kɤ,tsa51-13mukɤ,tsamukɤ
+WM,Wulumuqi,123,一位客人,个,,kɤ,kɤ,kɤ,kɤ
+WM,Wulumuqi,124,一双鞋,双,,fɑŋ,fɑŋ44,fɑŋ44,fɑŋ
+WM,Wulumuqi,125,一床被,床,,tʂˈuɑŋ,tʂˈuɑŋ51,tʂʰuɑŋ51,tʂʰuɑŋ
+WM,Wulumuqi,126,一辆车,辆,,liɑŋ,liɑŋ51,liɑŋ51,liɑŋ
+WM,Wulumuqi,127,一条牛,头,,tˈɤu,tˈɤu51-53,tʰɤu51-53,tʰɤu
+WM,Wulumuqi,128,一口猪,头,,tˈɤu,tˈɤu51,tʰɤu51,tʰɤu
+WM,Wulumuqi,129,听一会儿,,,,,,
+WM,Wulumuqi,130,打一下,,,,,,
+WM,Wulumuqi,131,上头,上头 ,,ʂɑŋ tˈɤu,ʂɑŋ213-13 tˈɤu,ʂɑŋ213-13tʰɤu,ʂɑŋtʰɤu
+WM,Wulumuqi,132,下头,下头 ,,xa tˈɤu,xa213-13 tˈɤu,xa213-13tʰɤu,xatʰɤu
+WM,Wulumuqi,133,左边,左边儿,,tsuɤ piɛr,tsuɤ51-13 piɛr,tsuɤ51-13piɛr,tsuɤpiɛr
+WM,Wulumuqi,134,右边,右边儿,,iɤu piɛr,iɤu213-13 piɛr,iɤu213-13piɛr,iɤupiɛr
+WM,Wulumuqi,135,当中,当中,,tɑŋ tʂuŋ,tɑŋ44 tʂuŋ44,tɑŋ44tʂuŋ44,tɑŋtʂuŋ
+WM,Wulumuqi,136,里面,里头 ,,li tˈɤu,li51-13 tˈɤu,li51-13tʰɤu,litʰɤu
+WM,Wulumuqi,137,外面,外头,,vai tˈɤu,vai213-13 tˈɤu,vai213-13tʰɤu,vaitʰɤu
+WM,Wulumuqi,138,甜,甜,,tˈian,tˈian51,tʰian51,tʰian
+WM,Wulumuqi,139,酸,酸,,suan,suan44,suan44,suan
+WM,Wulumuqi,140,咸,咸,,xan,xan51,xan51,xan
+WM,Wulumuqi,141,淡,淡,,tan,tan213,tan213,tan
+WM,Wulumuqi,142,胖,胖,,pˈɑŋ,pˈɑŋ213,pʰɑŋ213,pʰɑŋ
+WM,Wulumuqi,143,瘦,瘦,,sɤu,sɤu213,sɤu213,sɤu
+WM,Wulumuqi,144,冷,冷,,lɤŋ,lɤŋ51,lɤŋ51,lɤŋ
+WM,Wulumuqi,145,热,热,,ʐɤ,ʐɤ213,ʐɤ213,ʐɤ
+WM,Wulumuqi,146,香,香,,ɕiɑŋ,ɕiɑŋ44,ɕiɑŋ44,ɕiɑŋ
+WM,Wulumuqi,147,臭,臭,,tʂˈɤu,tʂˈɤu213,tʂʰɤu213,tʂʰɤu
+WM,Wulumuqi,148,粗,粗,,tsˈu,tsˈu44,tsʰu44,tsʰu
+WM,Wulumuqi,149,细,细,,ɕi,ɕi213,ɕi213,ɕi
+WM,Wulumuqi,150,长,长,,tʂˈɑŋ,tʂˈɑŋ51,tʂʰɑŋ51,tʂʰɑŋ
+WM,Wulumuqi,151,短,短,,tuan,tuan51,tuan51,tuan
+WM,Wulumuqi,152,脏,脏,,tsɑŋ,tsɑŋ44,tsɑŋ44,tsɑŋ
+WM,Wulumuqi,153,干净,干净,,kan tɕiŋ,kan44 tɕiŋ,kan44tɕiŋ,kantɕiŋ
+WM,Wulumuqi,154,便宜,便宜,,pˈian i,pˈian51-44 i,pʰian51-44i,pʰiani
+WM,Wulumuqi,155,刚(来),刚 ,,kɑŋ,kɑŋ44,kɑŋ44,kɑŋ
+WM,Wulumuqi,156,刚(合适),刚好儿 ,,kɑŋ xɔr,kɑŋ44 xɔr51-213,kɑŋ44xɔr51-213,kɑŋxɔr
+WM,Wulumuqi,157,正好,刚好儿 ,,kɑŋ xɔr,kɑŋ44 xɔr51-213,kɑŋ44xɔr51-213,kɑŋxɔr
+WM,Wulumuqi,158,和,和,,xɤ,xɤ213,xɤ213,xɤ
+WM,Wulumuqi,159,只,只,,tsɿ,tsɿ213,tsɹ̩213,tsɹ̩
+WM,Wulumuqi,160,从,从 ,,tsˈuŋ,tsˈuŋ51,tsʰuŋ51,tsʰuŋ
+WM,Wulumuqi,161,替,替,,tˈi,tˈi213,tʰi213,tʰi
+WM,Wulumuqi,162,拿,拿,,na,na51,na51,na
+WM,Wulumuqi,163,故意,故意,,ku i,ku213-13 i213,ku213-13i213,kui
+WM,Wulumuqi,164,一,一,,i,i213,i213,i
+WM,Wulumuqi,165,二,二,,ə˞,ə˞213,ə˞213,ə˞
+WM,Wulumuqi,166,三,三,,san,san44,san44,san
+WM,Wulumuqi,167,四,四,,sɿ,sɿ213,sɹ̩213,sɹ̩
+WM,Wulumuqi,168,五,五,,vu,vu51,vu51,vu
+WM,Wulumuqi,169,六,六,,liɤu,liɤu213,liɤu213,liɤu
+WM,Wulumuqi,170,七,七,,tɕˈi,tɕˈi213,tɕʰi213,tɕʰi
+WM,Wulumuqi,171,八,八,,pa,pa213,pa213,pa
+WM,Wulumuqi,172,九,九,,tɕiɤu,tɕiɤu51,tɕiɤu51,tɕiɤu
+WM,Wulumuqi,173,十,十,,ʂʅ,ʂʅ51,ʂɻ̩51,ʂɻ̩
+WM,Wulumuqi,174,十一,十一,,ʂʅ i,ʂʅ51 i213,ʂɻ̩51i213,ʂɻ̩i
+WM,Wulumuqi,175,十二,十二,,ʂʅ ə˞,ʂʅ51 ə˞213,ʂɻ̩51ə˞213,ʂɻ̩ə˞
+WM,Wulumuqi,176,二十,二十,,ə˞ ʂʅ,ə˞213-13 ʂʅ51,ə˞213-13ʂɻ̩51,ə˞ʂɻ̩
+WM,Wulumuqi,177,二十一,二十一,,ə˞ ʂʅ i,ə˞213-13 ʂʅ i213,ə˞213-13ʂɻ̩i213,ə˞ʂɻ̩i
+WM,Wulumuqi,178,一百二十一,一百二十一,,i pei ə˞ ʂʅ i,i213 pei44 ə˞213-13 ʂʅ i213,i213pei44ə˞213-13ʂɻ̩i213,ipeiə˞ʂɻ̩i
+WM,Wulumuqi,179,第一,第一,,ti i,ti213-13 i213,ti213-13i213,tii
+WM,Wulumuqi,180,第二,第二,,ti iə˞,ti213-13 iə˞213,ti213-13iə˞213,tiiə˞
+WM,Wulumuqi,181,两里,两里,,liɑŋ li,liɑŋ51-53 li51,liɑŋ51-53li51,liɑŋli
+WM,Wulumuqi,182,二两,二两,,ə˞ liɑŋ,ə˞213-13 liɑŋ51,ə˞213-13liɑŋ51,ə˞liɑŋ
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,

@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+WM,Wulumuqi,1,谁啊?我是老三。,谁一个?我是老三一个,,sei i kɤ vɤ sɿ lɔ san i kɤ,sei51-44 i kɤ vɤ51 sɿ213 lɔ51 san44 i kɤ,sei51-44ikɤvɤ51sɹ̩213lɔ51san44ikɤ,seiikɤvɤsɹ̩lɔsanikɤ
+WM,Wulumuqi,2,老四呢?她正跟一个朋友说着话呢。,老四哪?㑚正连一个朋友喧慌底呢,,lɔ sɿ na ȵia tʂɤŋ lian i kɤ pˈɤŋ iɤu ɕyan xuɑŋ ti ȵi,lɔ51-53 sɿ213-13 na ȵia51 tʂɤŋ213 lian51 i213-13 kɤ pˈɤŋ51-44 iɤu ɕyan44 xuɑŋ44 ti ȵi,lɔ51-53sɹ̩213-13naɲia51tʂɤŋ213lian51i213-13kɤpʰɤŋ51-44iɤuɕyan44xuɑŋ44tiɲi,lɔsɹ̩naɲiatʂɤŋlianikɤpʰɤŋiɤuɕyanxuɑŋtiɲi
+WM,Wulumuqi,3,她还没说完吗?,她还莫谝完吗,,tˈa xan mɤ pˈian van ma,tˈa44 xan51 mɤ213 pˈian51 van51-44 ma,tʰa44xan51mɤ213pʰian51van51-44ma,tʰaxanmɤpʰianvanma
+WM,Wulumuqi,4,还没有。大概再有一会儿就说完了。,莫有呢。哈巴再等一阵儿就说完咧,,mɤ iɤu ȵi xa pa tsai tɤŋ i tʂɤ̃r tɕiɤu fɤ van liɤ,mɤ213 iɤu51-13 ȵi xa213-13 pa tsai213 tɤŋ51-13 i tʂɤ̃r tɕiɤu213 fɤ213 van51-44 liɤ,mɤ213iɤu51-13ɲixa213-13patsai213tɤŋ51-13itʂɤ̃rtɕiɤu213fɤ213van51-44liɤ,mɤiɤuɲixapatsaitɤŋitʂɤ̃rtɕiɤufɤvanliɤ
+WM,Wulumuqi,5,他说马上就走，怎么这半天了还在家里?,他说阿孜尔就走呢呣，咋半世天咧还在房子里头呢,,tˈa fɤ a tsɿr tɕiɤu tsɤu ȵi mu tsa pan ʂʅ tˈian liɤ xan tsai tɑŋ tsɿ li tˈɤu ȵi,tˈa44 fɤ213 a213-13 tsɿr51 tɕiɤu213 tsɤu51-13 ȵi mu tsa51 pan213-13 ʂʅ tˈian44 liɤ xan51 tsai213 tɑŋ51-44 tsɿ li51-13 tˈɤu ȵi,tʰa44fɤ213a213-13tsɹ̩r51tɕiɤu213tsɤu51-13ɲimutsa51pan213-13ʂɻ̩tʰian44liɤxan51tsai213tɑŋ51-44tsɹ̩li51-13tʰɤuɲi,tʰafɤatsɹ̩rtɕiɤutsɤuɲimutsapanʂɻ̩tʰianliɤxantsaitɑŋtsɹ̩litʰɤuɲi
+WM,Wulumuqi,6,你到哪儿去?我到城里去。,你到哪达去呢?我到城上去呢,,ȵi tɔ na ta tɕˈi ȵi vɤ tɔ tʂˈɤŋ xɑŋ tɕˈi ȵi,ȵi51 tɔ213 na51-13 ta tɕˈi213-13 ȵi vɤ51 tɔ213 tʂˈɤŋ51-44 xɑŋ tɕˈi213-13 ȵi,ɲi51tɔ213na51-13tatɕʰi213-13ɲivɤ51tɔ213tʂʰɤŋ51-44xɑŋtɕʰi213-13ɲi,ɲitɔnatatɕʰiɲivɤtɔtʂʰɤŋxɑŋtɕʰiɲi
+WM,Wulumuqi,7,在那儿，不在这儿。,在那达呢，不在这这,,tsai nei ta ȵi pu tsai tsa tsa,tsai213 nei44 ta ȵi pu213-13 tsai213 tsa51-13 tsa,tsai213nei44taɲipu213-13tsai213tsa51-13tsa,tsaineitaɲiputsaitsatsa
+WM,Wulumuqi,8,不是那么做，要这么做。,不是那么价做，得这么价做,,pu sɿ nei mu tɕia tsu tei tsɿ mu tɕia tsu,pu213-13 sɿ213 nei44 mu tɕia tsu213 tei213 tsɿ213-13 mu tɕia tsu213,pu213-13sɹ̩213nei44mutɕiatsu213tei213tsɹ̩213-13mutɕiatsu213,pusɹ̩neimutɕiatsuteitsɹ̩mutɕiatsu
+WM,Wulumuqi,9,太多了，用不着那么多，只要这么多就够了。,多咧，要不上那么多，只要这些就够咧,,tˈai tuɤ liɤ iɔ pu xɑŋ nɤ mu tuɤ tsɿ iɔ tsei ɕiɤ tɕiɤu kɤu  liɤ,tˈai213 tuɤ44 liɤ iɔ213-13 pu xɑŋ nɤ44 mu tuɤ tsɿ213-13 iɔ213 tsei44 ɕiɤ tɕiɤu213 kɤu 213-13 liɤ,tʰai213tuɤ44liɤiɔ213-13puxɑŋnɤ44mutuɤtsɹ̩213-13iɔ213tsei44ɕiɤtɕiɤu213kɤu213-13liɤ,tʰaituɤliɤiɔpuxɑŋnɤmutuɤtsɹ̩iɔtseiɕiɤtɕiɤukɤuliɤ
+WM,Wulumuqi,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这两个哪个好些儿,,tsei kɤ ta nei kɤ ɕiɔ tsei liɑŋ kɤ na kɤ xɔ ɕiɤr,tsei44 kɤ ta213 nei44 kɤ ɕiɔ51 tsei44 liɑŋ51-13 kɤ na213-13 kɤ xɔ51-13 ɕiɤr,tsei44kɤta213nei44kɤɕiɔ51tsei44liɑŋ51-13kɤna213-13kɤxɔ51-13ɕiɤr,tseikɤtaneikɤɕiɔtseiliɑŋkɤnakɤxɔɕiɤr
+WM,Wulumuqi,11,这个比那个好。,这个赶那个好,,tsei kɤ kan nei kɤ xɔ,tsei44 kɤ kan51 nei44 kɤ xɔ51,tsei44kɤkan51nei44kɤxɔ51,tseikɤkanneikɤxɔ
+WM,Wulumuqi,12,这些房子不如那些房子好。,这些房子莫有那些房子好,,tsei ɕiɤ fɑŋ tsɿ mɤ iɤu nei ɕiɤ fɑŋ tsɿ xɔ,tsei44 ɕiɤ fɑŋ51-44 tsɿ mɤ213 iɤu51 nei44 ɕiɤ fɑŋ51-44 tsɿ xɔ51,tsei44ɕiɤfɑŋ51-44tsɹ̩mɤ213iɤu51nei44ɕiɤfɑŋ51-44tsɹ̩xɔ51,tseiɕiɤfɑŋtsɹ̩mɤiɤuneiɕiɤfɑŋtsɹ̩xɔ
+WM,Wulumuqi,13,这句话用成都话怎么说?,,,,,,
+WM,Wulumuqi,14,他今年多大岁数了?,他今年多大咧,,tˈa tɕiŋ ȵian tuɤ ta liɤ,tˈa44 tɕiŋ44 ȵian51 tuɤ213 ta213-13 liɤ,tʰa44tɕiŋ44ɲian51tuɤ213ta213-13liɤ,tʰatɕiŋɲiantuɤtaliɤ
+WM,Wulumuqi,15,大概三十来岁吧。,大概三十多岁咧吧,,ta kai sa ʂʅ tuɤ suei liɤ pa,ta213-13 kai213 sa4 ʂʅ tuɤ44 suei213 liɤ pa,ta213-13kai213sa4ʂɻ̩tuɤ44suei213liɤpa,takaisaʂɻ̩tuɤsueiliɤpa
+WM,Wulumuqi,16,这个东西有多重呢?,这个东西有多重,,tsei kɤ tuŋ ɕi iɤu tuɤ tʂuŋ,tsei44 kɤ tuŋ44 ɕi iɤu51 tuɤ44 tʂuŋ213,tsei44kɤtuŋ44ɕiiɤu51tuɤ44tʂuŋ213,tseikɤtuŋɕiiɤutuɤtʂuŋ
+WM,Wulumuqi,17,有五十斤重呢。,有五十斤,,iɤu vu ʂʅ tɕiŋ,iɤu51 vu51-31 ʂʅ tɕiŋ,iɤu51vu51-31ʂɻ̩tɕiŋ,iɤuvuʂɻ̩tɕiŋ
+WM,Wulumuqi,18,拿得动吗?,能拿动吗,,nɤŋ na tuŋ ma,nɤŋ51-53 na51 tuŋ213-13 ma,nɤŋ51-53na51tuŋ213-13ma,nɤŋnatuŋma
+WM,Wulumuqi,19,我拿得动，他拿不动。,我拿动呢，他拿不动,,vɤ na tuŋ ȵi tˈa na pu tuŋ,vɤ51 na51 tuŋ213-13 ȵi tˈa44 na51-44 pu tuŋ213,vɤ51na51tuŋ213-13ɲitʰa44na51-44putuŋ213,vɤnatuŋɲitʰanaputuŋ
+WM,Wulumuqi,20,真不轻，重得连我也拿不动。,着实不轻，重底连我也拿不动,,tʂuɤ ʂʅ pu tɕˈiŋ tʂuŋ ti lian vɤ iɤ na pu tuŋ,tʂuɤ51-13 ʂʅ pu213 tɕˈiŋ44 tʂuŋ213-13 ti lian51-53 vɤ51-53 iɤ53 na51-44 pu tuŋ213,tʂuɤ51-13ʂɻ̩pu213tɕʰiŋ44tʂuŋ213-13tilian51-53vɤ51-53iɤ53na51-44putuŋ213,tʂuɤʂɻ̩putɕʰiŋtʂuŋtilianvɤiɤnaputuŋ
+WM,Wulumuqi,21,你说得很好，你还会说点什么呢?,你说底攒劲底很，你还能说些啥东西呢,,ȵi fɤ ti tsan tɕiŋ ti xɤŋ ȵi xan nɤŋ fɤ ɕiɤ sa ȵi,ȵi51 fɤ213-13 ti tsan51 tɕiŋ213-13 ti xɤŋ51 ȵi51 xan51-53 nɤŋ51 fɤ213-13 ɕiɤ sa213-13 ȵi,ɲi51fɤ213-13titsan51tɕiŋ213-13tixɤŋ51ɲi51xan51-53nɤŋ51fɤ213-13ɕiɤsa213-13ɲi,ɲifɤtitsantɕiŋtixɤŋɲixannɤŋfɤɕiɤsaɲi
+WM,Wulumuqi,22,我嘴笨，我说不过他。,我嘴笨底很，说不过他,,vɤ tsuei pɤŋ ti xɤŋ fɤ pu kuɤ tˈa,vɤ51 tsuei51 pɤŋ213-13 ti xɤŋ51 fɤ213-13 pu kuɤ213 tˈa44,vɤ51tsuei51pɤŋ213-13tixɤŋ51fɤ213-13pukuɤ213tʰa44,vɤtsueipɤŋtixɤŋfɤpukuɤtʰa
+WM,Wulumuqi,23,说了一遍，又说一遍。,说咧一遍，又说一遍,,fɤ liɤ i pian iɤu fɤ liɤ i pian,fɤ213-13 liɤ i213-13 pian213 iɤu213-13 fɤ213-13 liɤ i213-13 pian213,fɤ213-13liɤi213-13pian213iɤu213-13fɤ213-13liɤi213-13pian213,fɤliɤipianiɤufɤliɤipian
+WM,Wulumuqi,24,请你再说一遍。,请你再说一遍,,tɕˈiŋ ȵi tsai fɤ i pian,tɕˈiŋ51-53 ȵi51 tsai213-13 fɤ213 i213-13 pian213,tɕʰiŋ51-53ɲi51tsai213-13fɤ213i213-13pian213,tɕʰiŋɲitsaifɤipian
+WM,Wulumuqi,25,不早了，快去吧。,不早咧，赶紧去吧,,pu tsɔ liɤ kan tɕiŋ tɕˈi pa,pu213 tsɔ51-13 liɤ kan51-13 tɕiŋ tɕˈi213-13 pa,pu213tsɔ51-13liɤkan51-13tɕiŋtɕʰi213-13pa,putsɔliɤkantɕiŋtɕʰipa
+WM,Wulumuqi,26,现在还早着呢，等一会儿再去吧。,现在还早底呢，等一下再去,,ɕian tsai xan tsɔ ti ȵi tɤŋ i xa tsai tɕˈi,ɕian213-13 tsai213 xan51 tsɔ51-13 ti ȵi tɤŋ213-13 i xa tsai213-13 tɕˈi213,ɕian213-13tsai213xan51tsɔ51-13tiɲitɤŋ213-13ixatsai213-13tɕʰi213,ɕiantsaixantsɔtiɲitɤŋixatsaitɕʰi
+WM,Wulumuqi,27,吃了饭再去好吗?,饭吃咧再去，咋么个,,fan tʂˈʅ liɤ tsai tɕˈi tsa mu kɤ,fan213 tʂˈʅ213-13 liɤ tsai213-13 tɕˈi213 tsa51-13 mu kɤ,fan213tʂʰɻ̩213-13liɤtsai213-13tɕʰi213tsa51-13mukɤ,fantʂʰɻ̩liɤtsaitɕʰitsamukɤ
+WM,Wulumuqi,28,慢慢儿吃啊，不要着急。,慢些吃，嫑着急,,man ɕiɤ tʂˈʅ pɤ tʂuɤ tɕi,man213-13 ɕiɤ tʂˈʅ213 pɤ213 tʂuɤ51-53 tɕi51,man213-13ɕiɤtʂʰɻ̩213pɤ213tʂuɤ51-53tɕi51,manɕiɤtʂʰɻ̩pɤtʂuɤtɕi
+WM,Wulumuqi,29,坐着吃比站着吃好些。,坐底吃赶站底吃好,,tsuɤ ti tʂˈʅ kan tsan ti tʂˈʅ xɔ,tsuɤ213-13 ti tʂˈʅ213 kan51 tsan213-13 ti tʂˈʅ213 xɔ51,tsuɤ213-13titʂʰɻ̩213kan51tsan213-13titʂʰɻ̩213xɔ51,tsuɤtitʂʰɻ̩kantsantitʂʰɻ̩xɔ
+WM,Wulumuqi,30,他吃了饭了，你吃了饭没有呢?,他吃咧饭咧，你饭吃咧莫有,,tˈa tʂˈʅ liɤ fan liɤ ȵi fan tʂˈʅ liɤ mɤ iɤu,tˈa44 tʂˈʅ213-13 liɤ fan213-13 liɤ ȵi51 fan213 tʂˈʅ213-13 liɤ mɤ213 iɤu51,tʰa44tʂʰɻ̩213-13liɤfan213-13liɤɲi51fan213tʂʰɻ̩213-13liɤmɤ213iɤu51,tʰatʂʰɻ̩liɤfanliɤɲifantʂʰɻ̩liɤmɤiɤu
+WM,Wulumuqi,31,他去过上海，我没有去过。,他去过上海，我莫去过,,tˈa tɕˈi kuɤ ʂɑŋ xai vɤ mɤ tɕˈi kuɤ,tˈa44 tɕˈi213-13 kuɤ ʂɑŋ213-13 xai51 vɤ51 mɤ213 tɕˈi213-13 kuɤ,tʰa44tɕʰi213-13kuɤʂɑŋ213-13xai51vɤ51mɤ213tɕʰi213-13kuɤ,tʰatɕʰikuɤʂɑŋxaivɤmɤtɕʰikuɤ
+WM,Wulumuqi,32,来闻闻这朵花香不香。,过来闻一下，这个花儿香不香,,kuɤ lai vɤŋ i xa tsei kɤ xuer ɕiɑŋ pu ɕiɑŋ,kuɤ213-13 lai51 vɤŋ51-44 i xa tsei44 kɤ xuer44 ɕiɑŋ44 pu ɕiɑŋ44,kuɤ213-13lai51vɤŋ51-44ixatsei44kɤxuer44ɕiɑŋ44puɕiɑŋ44,kuɤlaivɤŋixatseikɤxuerɕiɑŋpuɕiɑŋ
+WM,Wulumuqi,33,给我一本书。,□一本书,,kuɤ i ʂʅ mɤ fu,kuɤ51 i213-13 ʂʅ51 mɤ fu44,kuɤ51i213-13ʂɻ̩51mɤfu44,kuɤiʂɻ̩mɤfu
+WM,Wulumuqi,34,我真的没有那本书呀。,我着实莫书,,vɤ tʂuɤ ʂʅ mɤ fu,vɤ51 tʂuɤ213-13 ʂʅ51 mɤ213 fu44,vɤ51tʂuɤ213-13ʂɻ̩51mɤ213fu44,vɤtʂuɤʂɻ̩mɤfu
+WM,Wulumuqi,35,你告诉他。,你跟他说,,ȵi kɤŋ tˈa fɤ,ȵi51 kɤŋ44 tˈa44 fɤ213,ɲi51kɤŋ44tʰa44fɤ213,ɲikɤŋtʰafɤ
+WM,Wulumuqi,36,好好地走，不要跑。,好好儿走，虿跑,,xɔ xɔr tsɤu pɤ pˈɔ,xɔ51 xɔr51-213 tsɤu51 pɤ213 pˈɔ51,xɔ51xɔr51-213tsɤu51pɤ213pʰɔ51,xɔxɔrtsɤupɤpʰɔ
+WM,Wulumuqi,37,小心跌下去爬不上来。,小心，虿跌下去爬不上来咧,,ɕiɔ ɕiŋ pɤ tiɤ xa tɕˈi pˈa pu ʂɑŋ lai liɤ,ɕiɔ51 ɕiŋ44 pɤ213 tiɤ213-13 xa tɕˈi pˈa51-44 pu ʂɑŋ213 lai51-44 liɤ,ɕiɔ51ɕiŋ44pɤ213tiɤ213-13xatɕʰipʰa51-44puʂɑŋ213lai51-44liɤ,ɕiɔɕiŋpɤtiɤxatɕʰipʰapuʂɑŋlailiɤ
+WM,Wulumuqi,38,医生叫你多睡睡。,大夫让你多躺一会儿,,tai fu ʐɑŋ ȵi tuɤ tˈɑŋ i xuər,tai213-13 fu ʐɑŋ213 ȵi51 tuɤ44 tˈɑŋ51-13 i xuər,tai213-13fuʐɑŋ213ɲi51tuɤ44tʰɑŋ51-13ixuər,taifuʐɑŋɲituɤtʰɑŋixuər
+WM,Wulumuqi,39,抽烟或者喝茶都不许。,抽烟喝茶都不行,,tʂˈɤu ian xɤ tsˈa tɤu pu ɕiŋ,tʂˈɤu44 ian44 xɤ213 tsˈa51 tɤu44 pu213 ɕiŋ51,tʂʰɤu44ian44xɤ213tsʰa51tɤu44pu213ɕiŋ51,tʂʰɤuianxɤtsʰatɤupuɕiŋ
+WM,Wulumuqi,40,烟也好，茶也好，我都不喜欢。,烟咧、茶咧，我都不好,,ian liɤ tsˈa liɤ vɤ tɤu pu xɔ,ian44 liɤ tsˈa51-44 liɤ vɤ51 tɤu44 pu213-13 xɔ213,ian44liɤtsʰa51-44liɤvɤ51tɤu44pu213-13xɔ213,ianliɤtsʰaliɤvɤtɤupuxɔ
+WM,Wulumuqi,41,不管你去不去，反正我是要去的。,不管你去不去，反正我是要去呢,,pu kuan ȵi tɕˈi pu tɕˈi fan tʂɤŋ vɤ sɿ iɔ tɕˈi ȵi,pu213 kuan51 ȵi51 tɕˈi213-13 pu tɕˈi213 fan51 tʂɤŋ213 vɤ51 sɿ213 iɔ213 tɕˈi213-13 ȵi,pu213kuan51ɲi51tɕʰi213-13putɕʰi213fan51tʂɤŋ213vɤ51sɹ̩213iɔ213tɕʰi213-13ɲi,pukuanɲitɕʰiputɕʰifantʂɤŋvɤsɹ̩iɔtɕʰiɲi
+WM,Wulumuqi,42,我非去不可。,我非去不行,,vɤ fɤi tɕˈi pu ɕiŋ,vɤ51 fɤi44 tɕˈi213 pu213 ɕiŋ51,vɤ51fɤi44tɕʰi213pu213ɕiŋ51,vɤfɤitɕʰipuɕiŋ
+WM,Wulumuqi,43,你是哪一年来的?,你是哪一年来底,,ȵi sɿ na i ȵian lai ti,ȵi51 sɿ213 na51 i213-13 ȵian51 lai51-44 ti,ɲi51sɹ̩213na51i213-13ɲian51lai51-44ti,ɲisɹ̩naiɲianlaiti
+WM,Wulumuqi,44,我是前年到的北京。,我是前年来底北京,,vɤ sɿ tɕˈian ȵian lai ti pei tɕiŋ,vɤ51 sɿ213 tɕˈian51-44 ȵian lai51-44 ti pei213 tɕiŋ44,vɤ51sɹ̩213tɕʰian51-44ɲianlai51-44tipei213tɕiŋ44,vɤsɹ̩tɕʰianɲianlaitipeitɕiŋ
+WM,Wulumuqi,45,今天开会谁的主席?,今天开会谁底主席,,tɕiŋ tˈian kˈai xuei sei ti tʂu ɕi,tɕiŋ44 tˈian44 kˈai44 xuei213 sei51-44 ti tʂu51-53 ɕi51,tɕiŋ44tʰian44kʰai44xuei213sei51-44titʂu51-53ɕi51,tɕiŋtʰiankʰaixueiseititʂuɕi
+WM,Wulumuqi,46,你得请我的客。,你得请我底客,,ȵi tei tɕˈiŋ vɤ ti kˈei,ȵi51 tei213 tɕˈiŋ51 vɤ51-13 ti kˈei44,ɲi51tei213tɕʰiŋ51vɤ51-13tikʰei44,ɲiteitɕʰiŋvɤtikʰei
+WM,Wulumuqi,47,一边走，一边讲。,走底呢，说底呢,,tsɤu ti ȵi fɤ ti ȵi,tsɤu51-13 ti ȵi fɤ213-13 ti ȵi,tsɤu51-13tiɲifɤ213-13tiɲi,tsɤutiɲifɤtiɲi
+WM,Wulumuqi,48,越走越远，越说越多。,越走越远，越说越多,,yɤ tɤu yɤu yan yɤ fɤ yɤ tuɤ,yɤ213 tɤu51 yɤu213 yan51 yɤ213 fɤ213 yɤ213 tuɤ44,yɤ213tɤu51yɤu213yan51yɤ213fɤ213yɤ213tuɤ44,yɤtɤuyɤuyanyɤfɤyɤtuɤ
+WM,Wulumuqi,49,把那个东西拿给我。,把那个东西给我,,pa ȵei kɤ tuŋ ɕi kei vɤ,pa213 ȵei44 kɤ tuŋ44 ɕi kei51-44 vɤ,pa213ɲei44kɤtuŋ44ɕikei51-44vɤ,paɲeikɤtuŋɕikeivɤ
+WM,Wulumuqi,50,有些地方把太阳叫日头。,有底地方把太阳叫日头,,iɤu ti ti faŋ pa tˈai iɑŋ tɕiɔ ʐʅ tˈɤu,iɤu51-13 ti ti213-13 faŋ pa213 tˈai213-13 iɑŋ tɕiɔ213 ʐʅ213-13 tˈɤu,iɤu51-13titi213-13faŋpa213tʰai213-13iɑŋtɕiɔ213ʐɻ̩213-13tʰɤu,iɤutitifaŋpatʰaiiɑŋtɕiɔʐɻ̩tʰɤu
+WM,Wulumuqi,51,您贵姓?我姓王。,你贵姓?我姓王,,ȵi kuei ɕiŋ vɤ ɕiŋ vɑŋ,ȵi51 kuei213-13 ɕiŋ213 vɤ51 ɕiŋ213 vɑŋ51,ɲi51kuei213-13ɕiŋ213vɤ51ɕiŋ213vɑŋ51,ɲikueiɕiŋvɤɕiŋvɑŋ
+WM,Wulumuqi,52,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，咱们两个都姓王,,ȵi ɕiŋ vɑŋ vɤ iɤ ɕiŋ vɑŋ tsa mɤŋ liɑŋ kɤ tɤu ɕiŋ vɑŋ,ȵi51 ɕiŋ213 vɑŋ51 vɤ51-53 iɤ51 ɕiŋ213 vɑŋ51 tsa51-44 mɤŋ liɑŋ213-13 kɤ tɤu51 ɕiŋ213 vɑŋ51,ɲi51ɕiŋ213vɑŋ51vɤ51-53iɤ51ɕiŋ213vɑŋ51tsa51-44mɤŋliɑŋ213-13kɤtɤu51ɕiŋ213vɑŋ51,ɲiɕiŋvɑŋvɤiɤɕiŋvɑŋtsamɤŋliɑŋkɤtɤuɕiŋvɑŋ
+WM,Wulumuqi,53,你先去吧，我们等一会儿再去。,你先去，我们等一下再去,,ȵi ɕian tɕˈi vɤ mɤŋ tɤŋ i xa tsai tɕˈi,ȵi51 ɕian44 tɕˈi213 vɤ51-13 mɤŋ tɤŋ51-13 i xa tsai213-13 tɕˈi213,ɲi51ɕian44tɕʰi213vɤ51-13mɤŋtɤŋ51-13ixatsai213-13tɕʰi213,ɲiɕiantɕʰivɤmɤŋtɤŋixatsaitɕʰi
+WM,Wulumuqi,54,你抽烟不抽?,你烟抽不抽,,ȵi ian tʂˈɤu pu tʂˈu,ȵi51 ian44 tʂˈɤu44 pu tʂˈu44,ɲi51ian44tʂʰɤu44putʂʰu44,ɲiiantʂʰɤuputʂʰu
+WM,Wulumuqi,55,你认得那个人不认得?,你认得那个人呢吗,,ȵi ʐɤŋ tei nei kɤ ʐɤŋ ȵi ma,ȵi51 ʐɤŋ213 tei51-44 nei44 kɤ ʐɤŋ51-44 ȵi ma,ɲi51ʐɤŋ213tei51-44nei44kɤʐɤŋ51-44ɲima,ɲiʐɤŋteineikɤʐɤŋɲima
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
+WM,Wulumuqi,,,,,,,,
