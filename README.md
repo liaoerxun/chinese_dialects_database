@@ -10,6 +10,9 @@
 - Taibei
 - Taiyuan
 - Wuhan
+- Wulumuqi
+- Xian
 - Xiangang
 - Xiangtan
 - Xining
+
