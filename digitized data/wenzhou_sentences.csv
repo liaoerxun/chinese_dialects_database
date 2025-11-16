@@ -1,0 +1,61 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+WZ,Wenzhou,1,谁啊?我是老三。,何样侬啊?我是老三,,a ȵi naŋ a ŋ̩ zɿ lɜ sa,a33-21 ȵi42-31 naŋ31-21 a21 ŋ̩35 zɿ35-45 lɜ34-21 sa33,a33-21ɲi42-31naŋ31-21a21ŋ̩35zɹ̩35-45lɜ34-21sa33,aɲinaŋaŋ̩zɹ̩lɜsa
+WZ,Wenzhou,2,老四呢?她正跟一个朋友说着话呢。,老四呢?渠正著埯伉一个朋友讲说话,,lɜ sɿ nei gi tseŋ zɿ ta tˈuɔ ji kai boŋ jau kuɔ ɕy ɦo,lɜ35-21 sɿ42 nei21 gi31 tseŋ42 zɿ35-21 ta213-21 tˈuɔ42 ji213-21 kai42-21 boŋ31-42 jau35 kuɔ35-21 ɕy213-42 ɦo22,lɜ35-21sɹ̩42nei21gi31tseŋ42zɹ̩35-21ta213-21tʰuɔ42ji213-21kai42-21boŋ31-42jau35kuɔ35-21ɕy213-42ɦo22,lɜsɹ̩neigitseŋzɹ̩tatʰuɔjikaiboŋjaukuɔɕyɦo
+WZ,Wenzhou,3,她还没说完吗?,渠还未讲完啊,,gi va mei kuɔ jy a,gi31-21 va31-21 mei22-21 kuɔ35-21 jy31 a21,gi31-21va31-21mei22-21kuɔ35-21jy31a21,givameikuɔjya
+WZ,Wenzhou,4,还没有。大概再有一会儿就说完了。,还未，大概再过一下儿就讲好罢,,va mei da ke tse ku ji o ŋ̩ jɤu kuɔ hɜ ba,va31-21 mei22 da22-42 ke42-21 tse42 ku42-21 ji213-21 o35 ŋ̩31-45 jɤu22-21 kuɔ35-21 hɜ35 ba35-45,va31-21mei22da22-42ke42-21tse42ku42-21ji213-21o35ŋ̩31-45jɤu22-21kuɔ35-21hɜ35ba35-45,vameidaketsekujioŋ̩jɤukuɔhɜba
+WZ,Wenzhou,5,他说马上就走，怎么这半天了还在家里?,渠讲就走道吤，訾那半日罢还著屋里啊,,gi kuɔ jɤu tsau dɜ ke tsɿ na pø ne ba va zɿ vu lei a,gi31 kuɔ35-21 jɤu22-21 tsau35 dɜ35 ke42-45 tsɿ33-22 na31-12 pø42-35 ne213-13 ba35-12 va31-21 zɿ35-21 vu213 lei35-12 a12,gi31kuɔ35-21jɤu22-21tsau35dɜ35ke42-45tsɹ̩33-22na31-12pø42-35ne213-13ba35-12va31-21zɹ̩35-21vu213lei35-12a12,gikuɔjɤutsaudɜketsɹ̩napønebavazɹ̩vuleia
+WZ,Wenzhou,6,你到哪儿去?我到城里去。,你走若屋宕去啊?我走城底去,,ȵi tsau ȵau duɔ kˈei a ŋ̩ tsau zeŋ tei kˈei,ȵi35 tsau35 ȵau213-21 duɔ35 kˈei42 a21 ŋ̩35 tsau35 zeŋ31-42 tei35 kˈei42,ɲi35tsau35ɲau213-21duɔ35kʰei42a21ŋ̩35tsau35zeŋ31-42tei35kʰei42,ɲitsauɲauduɔkʰeiaŋ̩tsauzeŋteikʰei
+WZ,Wenzhou,7,在那儿，不在这儿。,著许屋宕，不著居屋,,zɿ hau duɔ fu zɿ kau duɔ,zɿ35-21 hau35 duɔ35-45 fu35 zɿ35-45 kau213-21 duɔ35,zɹ̩35-21hau35duɔ35-45fu35zɹ̩35-45kau213-21duɔ35,zɹ̩hauduɔfuzɹ̩kauduɔ
+WZ,Wenzhou,8,不是那么做，要这么做。,不是许能妆，着吤能妆,,fu zɿ he naŋ tɕyɔ dʑa ke naŋ tɕyɔ,fu35 zɿ35-45 he35 naŋ213-45 tɕyɔ33 dʑa213-21 ke213-21 naŋ213-13 tɕyɔ33,fu35zɹ̩35-45he35naŋ213-45tɕyɔ33dʑa213-21ke213-21naŋ213-13tɕyɔ33,fuzɹ̩henaŋtɕyɔdʑakenaŋtɕyɔ
+WZ,Wenzhou,9,太多了，用不着那么多，只要这么多就够了。,忒多罢，不用许能多，只用能多就了得罢,,tˈɤu tɤu ba fu jyɔ he naŋ tɤu tsɿ jyɔ naŋ tɤu jɤu liɛ tei ba,tˈɤu213-21 tɤu33 ba35-3 fu35 jyɔ22 he35 naŋ213-45 tɤu33 tsɿ213 jyɔ22 naŋ213 tɤu33 jɤu22-21 liɛ35 tei213-45 ba35-45,tʰɤu213-21tɤu33ba35-3fu35jyɔ22he35naŋ213-45tɤu33tsɹ̩213jyɔ22naŋ213tɤu33jɤu22-21liɛ35tei213-45ba35-45,tʰɤutɤubafujyɔhenaŋtɤutsɹ̩jyɔnaŋtɤujɤuliɛteiba
+WZ,Wenzhou,10,这个大，那个小，这两个哪一个好一点呢?,居个大，许个细，居两个若屋个好来呢?,,ki kai dɤu he kai sai ki liɛ kai ȵau kai hɜ le nei,ki213-22 kai42-12 dɤu22 he35 kai42-45 sai35 ki213-21 liɛ35 kai42-21 ȵau213-22 kai42-12 hɜ35 le31-45 nei45 ,ki213-22kai42-12dɤu22he35kai42-45sai35ki213-21liɛ35kai42-21ɲau213-22kai42-12hɜ35le31-45nei45,kikaidɤuhekaisaikiliɛkaiɲaukaihɜlenei
+WZ,Wenzhou,11,这个比那个好。,居个比许个好,,ki kai pei he kai hɜ,ki213-22 kai42-12 pei35-21 he35 kai42-45 hɜ35,ki213-22kai42-12pei35-21he35kai42-45hɜ35,kikaipeihekaihɜ
+WZ,Wenzhou,12,这些房子不如那些房子好。,居俫屋宕有许俫屋宕能好,,ki le vu duɔ nau he le vu duɔ naŋ hɜ,ki213-22 le31-12 vu213-21 duɔ35 nau35 he35 le31-45 vu213-21 duɔ35 naŋ213-45 hɜ35,ki213-22le31-12vu213-21duɔ35nau35he35le31-45vu213-21duɔ35naŋ213-45hɜ35,kilevuduɔnauhelevuduɔnaŋhɜ
+WZ,Wenzhou,13,这句话用成都话怎么说?,,,,,,
+WZ,Wenzhou,14,他今年多大岁数了?,渠居年几俫岁啊,,gi ke ȵi ke le sɿ a,gi31 ke213-22 ȵi31-12 ke35 le31-45 sɿ42 a22,gi31ke213-22ɲi31-12ke35le31-45sɹ̩42a22,gikeɲikelesɹ̩a
+WZ,Wenzhou,15,大概三十来岁吧。,大概三十下吧,,da ke sa zai o ba,da22-42 ke42-21 sa33 zai213-3 o42-3 ba35-3,da22-42ke42-21sa33zai213-3o42-3ba35-3,dakesazaioba
+WZ,Wenzhou,16,这个东西有多重呢?,居个物事有几俫重啊,,ki kai mø zɿ jau ke le dʑyɔ a,ki213-22 kai42-12 mø42 zɿ22 jau35-21 ke35 le31-45 dʑyɔ35 a45,ki213-22kai42-12mø42zɹ̩22jau35-21ke35le31-45dʑyɔ35a45,kikaimøzɹ̩jaukeledʑyɔa
+WZ,Wenzhou,17,有五十斤重呢。,有五十下斤重,,jau ŋ̩ zai o tɕaŋ dʑyɔ,jau35-21 ŋ̩35 zai213-45 o42-45 tɕaŋ33 dʑyɔ35,jau35-21ŋ̩35zai213-45o42-45tɕaŋ33dʑyɔ35,jauŋ̩zaiotɕaŋdʑyɔ
+WZ,Wenzhou,18,拿得动吗?,掇动啊不,,tø doŋ a fu,tø213 doŋ35 a45 fu35-21,tø213doŋ35a45fu35-21,tødoŋafu
+WZ,Wenzhou,19,我拿得动，他拿不动。,我掇动，渠掇不动,,ŋ̩ tø doŋ gi tø fu doŋ,ŋ̩35 tø213-21 doŋ35 gi31 tø213 fu35-12 doŋ35,ŋ̩35tø213-21doŋ35gi31tø213fu35-12doŋ35,ŋ̩tødoŋgitøfudoŋ
+WZ,Wenzhou,20,真不轻，重得连我也拿不动。,重甚嗳，连我也掇不动,,dʑyɔ zaŋ e li ŋ̩ ɦa tø fu doŋ,dʑyɔ35 zaŋ35 e45 li31-21 ŋ̩35 ɦa213-45 tø213 fu35-12 doŋ35,dʑyɔ35zaŋ35e45li31-21ŋ̩35ɦa213-45tø213fu35-12doŋ35,dʑyɔzaŋeliŋ̩ɦatøfudoŋ
+WZ,Wenzhou,21,你说得很好，你还会说点什么呢?,你讲好险哪，你还会讲俫样𠵉,,ȵi kuɔ hɜ ɕi na ȵi va vai kuɔ le ȵi ɦɔ,ȵi35 kuɔ35-21 hɜ35-21 ɕi35 na45 ȵi35 va31 vai22-21 kuɔ35 le31-45 ȵi42-31 ɦɔ21,ɲi35kuɔ35-21hɜ35-21ɕi35na45ɲi35va31vai22-21kuɔ35le31-45ɲi42-31ɦɔ21,ɲikuɔhɜɕinaɲivavaikuɔleɲiɦɔ
+WZ,Wenzhou,22,我嘴笨，我说不过他。,我不会讲，讲渠不过,,ŋ̩ fu vai kuɔ ŋ̩ kuɔ gi fu ku,ŋ̩35 fu35 vai22 kuɔ35 ŋ̩35 kuɔ35 gi31-45 fu35-21 ku42,ŋ̩35fu35vai22kuɔ35ŋ̩35kuɔ35gi31-45fu35-21ku42,ŋ̩fuvaikuɔŋ̩kuɔgifuku
+WZ,Wenzhou,23,说了一遍，又说一遍。,讲一遍又一遍,,kuɔ ji pi ji ji pi,kuɔ35 ji213-45 pi42 ji213 ji213-12 pi42,kuɔ35ji213-45pi42ji213ji213-12pi42,kuɔjipijijipi
+WZ,Wenzhou,24,请你再说一遍。,请你再讲遍添,,tsˈeŋ ȵi tse kuɔ pi tˈi,tsˈeŋ35 ȵi35-45 tse42 kuɔ35-21 pi42-21 tˈi33,tsʰeŋ35ɲi35-45tse42kuɔ35-21pi42-21tʰi33,tsʰeŋɲitsekuɔpitʰi
+WZ,Wenzhou,25,不早了，快去吧。,迟爻罢，快崃走,,dzɿ ɦuɔ ba kˈa le tsau,dzɿ31 ɦuɔ31-21 ba35-21 kˈa42 le31-21 tsau35,dzɹ̩31ɦuɔ31-21ba35-21kʰa42le31-21tsau35,dzɹ̩ɦuɔbakʰaletsau
+WZ,Wenzhou,26,现在还早着呢，等一会儿再去吧。,能界还早，等下儿先再走哪,,naŋ ka va tsɜ taŋ o ŋ̩ ɕi tse tsau na,naŋ213-22 ka42-12 va31-21 tsɜ35 taŋ35 o42-45 ŋ̩31-45 ɕi33 tse42 tsau35-21 na21,naŋ213-22ka42-12va31-21tsɜ35taŋ35o42-45ŋ̩31-45ɕi33tse42tsau35-21na21,naŋkavatsɜtaŋoŋ̩ɕitsetsauna
+WZ,Wenzhou,27,吃了饭再去好吗?,饭吃爻再走用着啊不,,va tsˈɿ ɦuɔ tse tsau jyɔ dʑa a fu,va22 tsˈɿ213 ɦuɔ31-12 tse42 tsau35-21 jyɔ22 dʑa213 a12 fu35,va22tsʰɹ̩213ɦuɔ31-12tse42tsau35-21jyɔ22dʑa213a12fu35,vatsʰɹ̩ɦuɔtsetsaujyɔdʑaafu
+WZ,Wenzhou,28,慢慢儿吃啊，不要着急。,□慌，慢慢事能吃,,fai huɔ ma ma zɿ naŋ tsˈɿ,fai33 huɔ33 ma22-21 ma22-35 zɿ22 naŋ31-12 tsˈɿ213-21,fai33huɔ33ma22-21ma22-35zɹ̩22naŋ31-12tsʰɹ̩213-21,faihuɔmamazɹ̩naŋtsʰɹ̩
+WZ,Wenzhou,29,坐着吃比站着吃好些。,坐□吃比□□吃好俫,,zo ta tsˈɿ pei ge ta tsˈɿ hɜ le,zo35 ta213-45 tsˈɿ213-21 pei35-21 ge35 ta213-45 tsˈɿ213-21 hɜ35 le31-45,zo35ta213-45tsʰɹ̩213-21pei35-21ge35ta213-45tsʰɹ̩213-21hɜ35le31-45,zotatsʰɹ̩peigetatsʰɹ̩hɜle
+WZ,Wenzhou,30,他吃了饭了，你吃了饭没有呢?,渠饭吃爻罢，你吃爻罢未啊,,gi va tsˈɿ ɦuɔ ba ȵi tsˈɿ ɦuɔ ba mei a,gi31-21 va22 tsˈɿ213-21 ɦuɔ31-21 ba35 ȵi35 tsˈɿ213-21 ɦuɔ31-21 ba35 mei22-21 a21,gi31-21va22tsʰɹ̩213-21ɦuɔ31-21ba35ɲi35tsʰɹ̩213-21ɦuɔ31-21ba35mei22-21a21,givatsʰɹ̩ɦuɔbaɲitsʰɹ̩ɦuɔbameia
+WZ,Wenzhou,31,他去过上海，我没有去过。,渠上海走过罢，我冇走过,,gi ji he tsau ku ba ŋ̩ nau tsau ku,gi31-21 ji22-42 he35 tsau35-21 ku42-21 ba35 ŋ̩35 nau35-21 tsau35-21 ku42,gi31-21ji22-42he35tsau35-21ku42-21ba35ŋ̩35nau35-21tsau35-21ku42,gijihetsaukubaŋ̩nautsauku
+WZ,Wenzhou,32,来闻闻这朵花香不香。,走来嗅嗅䚅居朵花香啊不,,tsau le hoŋ tsˈɿ ki to ho ɕi a fu,tsau35 le31-45 hoŋ42-21 tsˈɿ42-21 ki213-21 to35-21 ho33 ɕi33 a3 fu35-21,tsau35le31-45hoŋ42-21tsʰɹ̩42-21ki213-21to35-21ho33ɕi33a3fu35-21,tsaulehoŋtsʰɹ̩kitohoɕiafu
+WZ,Wenzhou,33,给我一本书。,书□本我,,sɿ ha paŋ ŋ̩,sɿ33 ha42 paŋ35-21 ŋ̩35,sɹ̩33ha42paŋ35-21ŋ̩35,sɹ̩hapaŋŋ̩
+WZ,Wenzhou,34,我真的没有那本书呀。,许本书我真真冇,,he paŋ sɿ ŋ̩ tsaŋ tsaŋ nau,he35 paŋ35-45 sɿ33 ŋ̩35-21 tsaŋ33-21 tsaŋ33 nau35,he35paŋ35-45sɹ̩33ŋ̩35-21tsaŋ33-21tsaŋ33nau35,hepaŋsɹ̩ŋ̩tsaŋtsaŋnau
+WZ,Wenzhou,35,你告诉他。,你伉渠讲啊,,ȵi kˈuɔ gi kuɔ a,ȵi35 kˈuɔ42-21 gi31-21 kuɔ35 a45,ɲi35kʰuɔ42-21gi31-21kuɔ35a45,ɲikʰuɔgikuɔa
+WZ,Wenzhou,36,好好地走，不要跑。,走走好俫，□射,,tsau tsau hɜ le fai zei,tsau35-21 tsau35-21 hɜ35 le31-45 fai33 zei213,tsau35-21tsau35-21hɜ35le31-45fai33zei213,tsautsauhɜlefaizei
+WZ,Wenzhou,37,小心跌下去爬不上来。,留心，踈落爬不上,,lɤu saŋ lai lo bo fu ji,lɤu31-22 saŋ33 lai22 lo213-2 bo31 fu35-21 ji35,lɤu31-22saŋ33lai22lo213-2bo31fu35-21ji35,lɤusaŋlailobofuji
+WZ,Wenzhou,38,医生叫你多睡睡。,医生叫你多睏俫,,ji siɛ tɕiɛ ȵi tɤu kˈy le,ji33 siɛ33 tɕiɛ42-21 ȵi35-21 tɤu33 kˈy42-21 le31-21,ji33siɛ33tɕiɛ42-21ɲi35-21tɤu33kʰy42-21le31-21,jisiɛtɕiɛɲitɤukʰyle
+WZ,Wenzhou,39,抽烟或者喝茶都不许。,不管吃烟还是吃酒沃用不着□,,fu ky tsˈɿ ji va zɿ tsˈɿ tɕɤu o jyɔ fu dʑa ke,fu35 ky35-21 tsˈɿ213-21 ji33 va31-21 zɿ35-21 tsˈɿ213-21 tɕɤu35 o213 jyɔ22 fu35-2 dʑa213 ke42-12,fu35ky35-21tsʰɹ̩213-21ji33va31-21zɹ̩35-21tsʰɹ̩213-21tɕɤu35o213jyɔ22fu35-2dʑa213ke42-12,fukytsʰɹ̩jivazɹ̩tsʰɹ̩tɕɤuojyɔfudʑake
+WZ,Wenzhou,40,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我沃不喜欢,,ji ɦa hɜ dzo ɦa hɜ ŋ̩ o fu sɿ ɕy,ji33 ɦa213-3 hɜ35-21 dzo31 ɦa213-21 hɜ35-21 ŋ̩35-21 o213 fu35-12 sɿ35-42 ɕy33,ji33ɦa213-3hɜ35-21dzo31ɦa213-21hɜ35-21ŋ̩35-21o213fu35-12sɹ̩35-42ɕy33,jiɦahɜdzoɦahɜŋ̩ofusɹ̩ɕy
+WZ,Wenzhou,41,不管你去不去，反正我是要去的。,不管你走不走，□我倒着着走□,,fu ky ȵi tsau fu tsau ha ŋ̩ tɜ dʑa= dʑa= tsau ke,fu35 ky35-21 ȵi35-21 tsau35 fu35-45 tsau35-21 ha42-21 ŋ̩35 tɜ42-35 dʑa213=13 dʑa213=21 tsau35 ke42-45,fu35ky35-21ɲi35-21tsau35fu35-45tsau35-21ha42-21ŋ̩35tɜ42-35dʑa213=13dʑa213=21tsau35ke42-45,fukyɲitsaufutsauhaŋ̩tɜdʑa=dʑa=tsauke
+WZ,Wenzhou,42,我非去不可。,我不走不兴啊,,ŋ̩ fu tsau fu ɕaŋ a,ŋ̩35 fu35-21 tsau35 fu35-21 ɕaŋ35 a45,ŋ̩35fu35-21tsau35fu35-21ɕaŋ35a45,ŋ̩futsaufuɕaŋa
+WZ,Wenzhou,43,你是哪一年来的?,你是若屋一年来嘎,,ȵi zɿ ȵau ji ȵi lei ka,ȵi35 zɿ35-45 ȵau213 ji213-12 ȵi31 lei31 ka21,ɲi35zɹ̩35-45ɲau213ji213-12ɲi31lei31ka21,ɲizɹ̩ɲaujiɲileika
+WZ,Wenzhou,44,我是前年到的北京。,我是前年到北京吤,,ŋ̩ zɿ ji ȵi tɜ pai tɕaŋ ke,ŋ̩35 zɿ35-45 ji31-22 ȵi31-12 tɜ42-21 pai213-21 tɕaŋ33 ke42-3,ŋ̩35zɹ̩35-45ji31-22ɲi31-12tɜ42-21pai213-21tɕaŋ33ke42-3,ŋ̩zɹ̩jiɲitɜpaitɕaŋke
+WZ,Wenzhou,45,今天开会谁的主席?,居日开会何样侬当主席啊,,ke ne kˈe vai a ȵi naŋ tuɔ tsɿ zei a,ke213-21 ne213-13 kˈe33-22 vai22-42 a31-21 ȵi42-31 naŋ31-21 tuɔ33-21 tsɿ35 zei213-13 a12,ke213-21ne213-13kʰe33-22vai22-42a31-21ɲi42-31naŋ31-21tuɔ33-21tsɹ̩35zei213-13a12,kenekʰevaiaɲinaŋtuɔtsɹ̩zeia
+WZ,Wenzhou,46,你得请我的客。,你着请我客,,ȵi dʑa tsˈeŋ ŋ̩ kˈa,ȵi35 dʑa213 tsˈeŋ35-21 ŋ̩35 kˈa213,ɲi35dʑa213tsʰeŋ35-21ŋ̩35kʰa213,ɲidʑatsʰeŋŋ̩kʰa
+WZ,Wenzhou,47,一边走，一边讲。,边走，边讲,,pi tsau pi kuɔ,pi33 tsau35 pi33 kuɔ35,pi33tsau35pi33kuɔ35,pitsaupikuɔ
+WZ,Wenzhou,48,越走越远，越说越多。,越走越远，越讲越多,,jy tsau jy jy jy kuɔ jy tɤu,jy213-21 tsau35 jy213-21 jy35 jy213-21 kuɔ35 jy213-21 tɤu33,jy213-21tsau35jy213-21jy35jy213-21kuɔ35jy213-21tɤu33,jytsaujyjyjykuɔjytɤu
+WZ,Wenzhou,49,把那个东西拿给我。,逮许个物事朵□我,,de he kai mø zɿ to ha ŋ̩,de22-21 he35 kai42-45 mø42 zɿ22 to35 ha42-45 ŋ̩35,de22-21he35kai42-45mø42zɹ̩22to35ha42-45ŋ̩35,dehekaimøzɹ̩tohaŋ̩
+WZ,Wenzhou,50,有些地方把太阳叫日头。,有俫地方逮太阳叫做日头,,jau le dei huɔ de tˈa ji tɕiɛ ȵi dɤu,jau35 le31-45 dei22-42 huɔ33 de22 tˈa42-22 ji31-12 tɕiɛ42-21 ȵi213-22 dɤu31-12,jau35le31-45dei22-42huɔ33de22tʰa42-22ji31-12tɕiɛ42-21ɲi213-22dɤu31-12,jauledeihuɔdetʰajitɕiɛɲidɤu
+WZ,Wenzhou,51,您贵姓?我姓王。,你贵姓啊?我姓王,,ȵi tɕy seŋ a ŋ̩ seŋ jyɔ,ȵi34-21 tɕy42 seŋ42-21 a21 ŋ̩35-21 seŋ42-21 jyɔ31,ɲi34-21tɕy42seŋ42-21a21ŋ̩35-21seŋ42-21jyɔ31,ɲitɕyseŋaŋ̩seŋjyɔ
+WZ,Wenzhou,52,你姓王我也姓王，咱们两个人都姓王。,你姓王，我也姓王，我伉你两个沃姓王,,ȵi seŋ jyɔ ŋ̩ ɦa seŋ jyɔ ŋuɔ ȵi liɛ kai o seŋ jyɔ,ȵi35 seŋ42-21 jyɔ31 ŋ̩35 ɦa213-45 seŋ42-21 jyɔ31 ŋuɔ35 ȵi35-45 liɛ35 kai42 o213 seŋ42-21 jyɔ31,ɲi35seŋ42-21jyɔ31ŋ̩35ɦa213-45seŋ42-21jyɔ31ŋuɔ35ɲi35-45liɛ35kai42o213seŋ42-21jyɔ31,ɲiseŋjyɔŋ̩ɦaseŋjyɔŋuɔɲiliɛkaioseŋjyɔ
+WZ,Wenzhou,53,你先去吧，我们等一会儿再去。,你走去先，我俫等下儿再走,,ȵi tsau ei ɕi ŋ̩ le taŋ o ŋ̩ tse tsau,ȵi35 tsau35 ei42-45 ɕi33 ŋ̩35 le31-45 taŋ35 o42-45 ŋ̩31-45 tse42 tsau35,ɲi35tsau35ei42-45ɕi33ŋ̩35le31-45taŋ35o42-45ŋ̩31-45tse42tsau35,ɲitsaueiɕiŋ̩letaŋoŋ̩tsetsau
+WZ,Wenzhou,54,你抽烟不抽?,香烟你吃啊不,,ɕi ji ȵi tsˈɿ a fu,ɕi33 ji33 ȵi35-21 tsˈɿ213 a12 fu35,ɕi33ji33ɲi35-21tsʰɹ̩213a12fu35,ɕijiɲitsʰɹ̩afu
+WZ,Wenzhou,55,你认得那个人不认得?,许个侬你识啊不,,he kai naŋ ȵi sei a fu,he35 kai42-45 naŋ31 ȵi35-21 sei213 a12 fu35,he35kai42-45naŋ31ɲi35-21sei213a12fu35,hekainaŋɲiseiafu
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
