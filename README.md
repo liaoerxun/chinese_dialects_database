@@ -5,14 +5,20 @@
 - Hangzhou
 - Harbin
 - Hefei
+- Kunming
+- Lanzhou
 - Meixian
 - Nanchang
+- Pingyao
+- Shanghai
+- Shantou
 - Taibei
 - Taiyuan
+- Tianjin
+- Wenzhou
 - Wuhan
 - Wulumuqi
 - Xian
 - Xiangang
 - Xiangtan
 - Xining
-
