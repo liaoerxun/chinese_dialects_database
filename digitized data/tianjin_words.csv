@@ -1,0 +1,205 @@
+﻿dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone
+TJ,Tianjin,001,太阳,太阳 ,,,tˈai53 iɑŋ45
+TJ,Tianjin,002,月亮,月亮 ,,,ye53 liɑŋ1
+TJ,Tianjin,003,星星,星星 ,,,ɕiŋ21 ɕiŋ1
+TJ,Tianjin,004,打雷,打雷 ,,,tɑ13 lei45
+TJ,Tianjin,005,闪电,打闪 ,,,tɑ13-45 san13
+TJ,Tianjin,006,下雨,下雨 ,,,ɕiɑ53 y13
+TJ,Tianjin,007,下雪,下雪 ,,,ɕiɑ53 ɕye21
+TJ,Tianjin,008,冰雹,雹子 ,,,pɑu45 tsə3
+TJ,Tianjin,009,结冰,上冻 ,,,ʂɑŋ53-21 tuŋ53
+TJ,Tianjin,010,刮风,刮风 ,,,kuɑ13 fəŋ21
+TJ,Tianjin,011,虹,虹 ,,,tɕiɑŋ53
+TJ,Tianjin,012,端午节,五月节 ,,,u13 ye3 tɕie45
+TJ,Tianjin,013,中秋节,八月节 ,,,pɑ45 ye3 tɕie45
+TJ,Tianjin,014,除夕,三十儿晚上 ,,,san21 ʃər45 van13 ʂɑŋ3
+TJ,Tianjin,015,今年,今年 ,,,tɕin21 nian3
+TJ,Tianjin,016,明年,来年 ,,,lai45 nian3
+TJ,Tianjin,017,去年,去年 ,,,tɕˈy53 nian1
+TJ,Tianjin,018,明天,明儿个 ,,,mier45 kə3
+TJ,Tianjin,019,昨天,昨儿个 ,,,tsuor45 kə3
+TJ,Tianjin,020,今天,今儿个 ,,,tɕiər21 kə1
+TJ,Tianjin,021,星期天,礼拜 ,,,li13 pai53
+TJ,Tianjin,022,麦子,麦子 ,,,mai53 tsɿ1
+TJ,Tianjin,023,大米,大米 ,,,tɑ53 mi13
+TJ,Tianjin,024,蚕豆,蚕豆 ,,,tsˈan45 tou53
+TJ,Tianjin,025,向日葵,转莲 ,,,tʂuan53 lian45
+TJ,Tianjin,026,菠菜,菠菜 ,,,po21 tsˈai53
+TJ,Tianjin,027,卷心菜,洋白菜 ,,,iɑŋ45 pai45 tsˈai53
+TJ,Tianjin,028,西红柿,火柿子 ,,,xuo13 sɿ53 tsə1
+TJ,Tianjin,029,茄子,茄子 ,,,tɕˈie45 tsə1
+TJ,Tianjin,030,白薯,山芋 ,,,san21 y53
+TJ,Tianjin,031,马铃薯,土豆儿 ,,,tˈu13 tour53
+TJ,Tianjin,032,南瓜,倭瓜 ,,,uo21 kuɑ1
+TJ,Tianjin,033,猪,猪 ,,,tʂu21
+TJ,Tianjin,034,公猪,公猪 ,,,kuŋ21 tʂu1
+TJ,Tianjin,035,母猪,母猪 ,,,mu13 tʂu21
+TJ,Tianjin,036,公鸡,公鸡 ,,,kuŋ21 tɕi1
+TJ,Tianjin,037,母鸡,母鸡 ,,,mu13 tɕi21
+TJ,Tianjin,038,麻雀,家雀儿 ,,,tɕiɑ21-13 tɕˈiɑur21
+TJ,Tianjin,039,老鼠,老鼠 ,,,lɑu13 ʂu3
+TJ,Tianjin,040,臭虫,臭虫 ,,,tʂˈou53 tsˈuŋ45
+TJ,Tianjin,041,房子(整),房子 ,,,fɑŋ45 tsɿ3
+TJ,Tianjin,042,房子(单),屋子 ,,,u21 tsɿ1
+TJ,Tianjin,043,窗户,窗户 ,,,tsˈuɑŋ21 xu1
+TJ,Tianjin,044,门坎,门坎儿 ,,,mən45 kˈar13
+TJ,Tianjin,045,厕所,毛□,,,mɑu45 sou3
+TJ,Tianjin,046,厨房,厨房 ,,,tʂˈu45 fɑŋ45
+TJ,Tianjin,047,烟囱,烟筒 ,,,ian21 tˈuŋ1
+TJ,Tianjin,048,桌子,桌子 ,,,tsuo21 tsɿ1
+TJ,Tianjin,049,楼梯,楼梯儿 ,,,lou45 tˈiər21
+TJ,Tianjin,050,头,脑袋 ,,,nɑu13 tai3
+TJ,Tianjin,051,额头,页灵盖儿 ,,,ie53 liŋ1 kar53
+TJ,Tianjin,052,脸,脸 ,,,lian13
+TJ,Tianjin,053,鼻子,鼻子 ,,,pi45 tsɿ3
+TJ,Tianjin,054,脖子,脖子 ,,,po45 tsɿ3
+TJ,Tianjin,055,左手,左手 ,,,tsuo13-45 sou13
+TJ,Tianjin,056,右手,右手 ,,,iou53 sou13
+TJ,Tianjin,057,拳头,拳头 ,,,tɕˈyɑn45 tˈou3
+TJ,Tianjin,058,手指头,手指头,,,sou13 tsɿ21 tˈou1
+TJ,Tianjin,059,指甲,指盖子 ,,,tsɿ21 kai53 tsə1
+TJ,Tianjin,060,膝盖,波棱盖儿 ,,,po21 liŋ1 kar53
+TJ,Tianjin,061,腿,腿,,,tˈuei13
+TJ,Tianjin,062,父亲,爸 ,,,pɑ53
+TJ,Tianjin,063,母亲,妈 ,,,mɑ21
+TJ,Tianjin,064,祖父,爷爷 ,,,ie45 ie3
+TJ,Tianjin,065,祖母,奶奶 ,,,nai13 nai3
+TJ,Tianjin,066,伯父,大爷 ,,,tɑ53 ie1
+TJ,Tianjin,067,伯母,大娘 ,,,tɑ53 niɑŋ45
+TJ,Tianjin,068,叔父,伯伯 ,,,pai21 pai1
+TJ,Tianjin,069,叔母,婶儿 ,,,ʂər13
+TJ,Tianjin,070,外祖父,老爷 ,,,lɑu13 ie3
+TJ,Tianjin,071,外祖母,姥姥 ,,,lɑu13 lɑu3
+TJ,Tianjin,072,舅舅,舅舅 ,,,tɕiou53 tɕiou1
+TJ,Tianjin,073,舅母,舅母 ,,,tɕiou53 mu1
+TJ,Tianjin,074,丈夫,当家的 ,,,tɑŋ21-13 tɕiɑ21 tie1
+TJ,Tianjin,075,妻子,家里的 ,,,tɕiɑ21 li1 ti1
+TJ,Tianjin,076,儿子,儿子 ,,,ɘr45 tsə3
+TJ,Tianjin,077,女儿,闺女 ,,,kuən21 ny1
+TJ,Tianjin,078,早饭,点心 ,,,tian13 ɕin3
+TJ,Tianjin,079,午饭,早饭 ,,,tsɑu13 fan53
+TJ,Tianjin,080,晚饭,晚饭 ,,,van13 fan53
+TJ,Tianjin,081,面条,面条儿 ,,,mian53 tˈiɑur45
+TJ,Tianjin,082,馒头,馒头 ,,,man45 tˈou3
+TJ,Tianjin,083,包子,包子 ,,,pɑu21 tsə1
+TJ,Tianjin,084,馄饨,馄饨 ,,,xuən45 tˈuən3
+TJ,Tianjin,085,醋,醋 ,,,tsˈu53
+TJ,Tianjin,086,酱油,青酱 ,,,tɕˈiŋ21 tɕiɑŋ53
+TJ,Tianjin,087,盐,盐 ,,,ian45
+TJ,Tianjin,088,筷子,筷子 ,,,kˈuai53 tsə1
+TJ,Tianjin,089,勺儿,勺儿 ,,,ʂɑur45
+TJ,Tianjin,090,男人,男人 ,,,nan45 ʐən3
+TJ,Tianjin,091,女人,女人 ,,,ny13 ʐən45
+TJ,Tianjin,092,男孩子,小子 ,,,ɕiɑu13 tsə3
+TJ,Tianjin,093,女孩子,闺女 ,,,kuən21 ny1
+TJ,Tianjin,094,老头儿,老头儿 ,,,lɑu13 tˈour45
+TJ,Tianjin,095,医生,大夫,,,tai53 fu1
+TJ,Tianjin,096,厨师,厨子,,,tsˈu45 tsə3
+TJ,Tianjin,097,乞丐,要饭的,,,iɑu53 fan53 ti1
+TJ,Tianjin,098,保姆,奶妈子 ,,,nai13 mɑ21 tsə1
+TJ,Tianjin,099,病了,病了 ,,,piŋ45 lə3
+TJ,Tianjin,100,伤风,伤风 ,,,ʂɑŋ21-13 fəŋ21
+TJ,Tianjin,101,泻肚,闹肚子 ,,,nɑu53-21 tu53 tsɿ1
+TJ,Tianjin,102,瘸子,瘸子 ,,,tɕˈye45 tsə3
+TJ,Tianjin,103,驼背,罗锅儿 ,,,luo45 kuor21
+TJ,Tianjin,104,死了,死了,,,sɿ13 lə1
+TJ,Tianjin,105,看病,看病 ,,,kˈan53-21 piŋ53
+TJ,Tianjin,106,我,我,,,uo13
+TJ,Tianjin,107,你,你,,,ni13
+TJ,Tianjin,108,他,他,,,tˈɑ21
+TJ,Tianjin,109,我们,我们,,,uo13 mən3
+TJ,Tianjin,110,你们,你们,,,ni13 mən3
+TJ,Tianjin,111,他们,他们,,,tˈɑ21 mən1
+TJ,Tianjin,112,咱们,咱们,,,tsan45 mən3
+TJ,Tianjin,113,自己,自个儿 ,,,tsɿ53 kɤr45
+TJ,Tianjin,114,谁,谁 ,,,sei45
+TJ,Tianjin,115,什么,嘛 ,,,mɑ53
+TJ,Tianjin,116,这里,这合儿 ,,,tɕie53 xər1
+TJ,Tianjin,117,那里,那合儿 ,,,nɑ53 xər1
+TJ,Tianjin,118,哪里,哪合儿 ,,,nɑ13 xər1
+TJ,Tianjin,119,这个,这个,,,tɕie53 kə1
+TJ,Tianjin,120,那个,那个 ,,,nɑ53 kə1
+TJ,Tianjin,121,哪一个,哪个 ,,,nei13 kə3
+TJ,Tianjin,122,怎么样,□么样 ,,,nən13 mə3 iɑŋ53
+TJ,Tianjin,123,一位客人,,,,
+TJ,Tianjin,124,一双鞋,,,,
+TJ,Tianjin,125,一床被,,,,
+TJ,Tianjin,126,一辆车,,,,
+TJ,Tianjin,127,一条牛,,,,
+TJ,Tianjin,128,一口猪,,,,
+TJ,Tianjin,129,听一会儿,,,,
+TJ,Tianjin,130,打一下,,,,
+TJ,Tianjin,131,上头,上头 ,,,ʂɑŋ53 tˈou1
+TJ,Tianjin,132,下头,下头 ,,,ɕiɑ53 tˈou1
+TJ,Tianjin,133,左边,左边儿 ,,,tsuo13 piar3
+TJ,Tianjin,134,右边,右边儿 ,,,iou53 piar1
+TJ,Tianjin,135,当中,当中 ,,,tɑŋ21-13 tsuŋ21
+TJ,Tianjin,136,里面,里边儿 ,,,li13 piar3
+TJ,Tianjin,137,外面,外边儿 ,,,vai53 piar1
+TJ,Tianjin,138,甜,甜 ,,,tˈian45
+TJ,Tianjin,139,酸,酸 ,,,suan21
+TJ,Tianjin,140,咸,咸,,,ɕian45
+TJ,Tianjin,141,淡,淡 ,,,tan53
+TJ,Tianjin,142,胖,胖,,,pˈɑŋ53
+TJ,Tianjin,143,瘦,瘦 ,,,sou53
+TJ,Tianjin,144,冷,冷 ,,,ləŋ13
+TJ,Tianjin,145,热,热 ,,,iɤ53
+TJ,Tianjin,146,香,香 ,,,ɕiɑŋ21
+TJ,Tianjin,147,臭,臭 ,,,tsˈou53
+TJ,Tianjin,148,粗,粗 ,,,tsˈu21
+TJ,Tianjin,149,细,细,,,ɕi53
+TJ,Tianjin,150,长,长 ,,,tsˈɑŋ45
+TJ,Tianjin,151,短,短 ,,,tuan13
+TJ,Tianjin,152,脏,脏 ,,,tsɑŋ21
+TJ,Tianjin,153,干净,干净 ,,,kan21 tɕiŋ1
+TJ,Tianjin,154,便宜,便宜 ,,,pˈian45 i3
+TJ,Tianjin,155,刚(来),刚,,,kɑŋ21
+TJ,Tianjin,156,刚(合适),整,,,tsəŋ13
+TJ,Tianjin,157,正好,正好儿 ,,,tsəŋ53 xɑur13
+TJ,Tianjin,158,和,跟 ,,,kən21
+TJ,Tianjin,159,只,只,,,tsɿ13
+TJ,Tianjin,160,从,从 ,,,tsˈuŋ45
+TJ,Tianjin,161,替,替,,,tˈi53
+TJ,Tianjin,162,拿,拿 ,,,nɑ45
+TJ,Tianjin,163,故意,成心 ,,,tsˈəŋ45 ɕin21
+TJ,Tianjin,164,一,一,,,i21
+TJ,Tianjin,165,二,二,,,ər53
+TJ,Tianjin,166,三,三,,,san21
+TJ,Tianjin,167,四,四,,,sɿ53
+TJ,Tianjin,168,五,五,,,u13
+TJ,Tianjin,169,六,六,,,liou53
+TJ,Tianjin,170,七,七,,,tɕˈi21
+TJ,Tianjin,171,八,八,,,pɑ21
+TJ,Tianjin,172,九,九,,,tɕiou13
+TJ,Tianjin,173,十,十,,,ʂʅ45
+TJ,Tianjin,174,十一,十一,,,ʂʅ45 i21
+TJ,Tianjin,175,十二,十二,,,ʂʅ45 ər53
+TJ,Tianjin,176,二十,二十,,,ər53 ʂʅ45
+TJ,Tianjin,177,二十一,二十一,,,ər53 ʂʅ45 i21
+TJ,Tianjin,178,一百二十一,一百二十一,,,i53 pai13 ər53 ʂʅ45 i21
+TJ,Tianjin,179,第一,第一,,,ti53-45 i21
+TJ,Tianjin,180,第二,第二,,,ti53-21 ər53
+TJ,Tianjin,181,两里,二里,,,ər53 li13
+TJ,Tianjin,182,二两,二两,,,ər53 liɑŋ13
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,61 @@
+﻿dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone
+ST,Shantou,01,谁啊?我是老三。,地俢?我介阿老三,,,ti31 tiaŋ55 ua53 kai213-55 a33 alu35-31 sã33
+ST,Shantou,02,老四呢?她正跟一个朋友说着话呢。,阿老四呢?伊正合个朋友□呾话,,,a33 lau35-31 si213 nẽ31 i33 tsiã213-55 kaʔ2-5 kai55-31 pˈeŋ55-31 iu53 lo53-24 tã213-55 ue31
+ST,Shantou,03,她还没说完吗?,伊还呾未了啊,,,i33 huã53-24 tã213-55 bue31 liau53 a31
+ST,Shantou,04,还没有。大概再有一会儿就说完了。,还未。差唔多隔加困囝就呾直,,,huã53-24 bue31 tsˈa33 m35-31 to33 keʔ2-5 ke33 kˈuŋ213-31 kiã53-213 tsiu35-31 tã213-55 tik5
+ST,Shantou,05,他说马上就走，怎么这半天了还在家里?,伊呾即时就行，做呢够□还在内,,,i33 tã213-55 tsiak2-5 si55 tsiu35-31 kiã55 tso213-55 nĩ55-31 kau213-55 kua213 huã53-24 to35-31 lai35
+ST,Shantou,06,你到哪儿去?我到城里去。,汝爱去地块?我爱来去城内,,,lɯ53 ãi213-55 kˈɯ213-55 ti31 ko213 ua53 ãi213-55 lai53-24 kˈɯ213-55 siã55-31 lai35
+ST,Shantou,07,在那儿，不在这儿。,在许块，无在只块,,,to35-31 hɯ53 ko213-31 bo55-31 to35-31 tsi53 ko213-31
+ST,Shantou,08,不是那么做，要这么做。,唔奀□生做，着□生,,,m35-31 mĩ35-31 hĩ213-55 hẽ33 tso213 tioʔ5-2 tsĩ213-31 sẽ33-31 tso213-31
+ST,Shantou,09,太多了，用不着那么多，只要这么多就够了。,□敥了，免向㪁，□敥就□了,,,kˈaʔ2-5 tsoi31 ou53-213 miaŋ53 hiõ213-31 tsoi31 tsiõ213-55 tsoi31 tsiu35-31 la35 ou53-213
+ST,Shantou,10,这个大，那个小，这两个哪一个好一点呢?,只个大，许个细，只两个物地个会□好呢,,,tsi53 kai55-31 tua31 hɯ53 kai55-31 soi213 tsi53-24 nõ35-31 kai55-31 muẽʔ5 ti31 kai55-31 oi35-31 iau53-24 ho53 nẽ31
+ST,Shantou,11,这个比那个好。,只个好过许个,,,tsi53 kai55-31 ho53-24 kue213-55 hɯ53 kai55-31
+ST,Shantou,12,这些房子不如那些房子好。,只撮厝无许撮厝好,,,tsi53-24 tsˈoʔ2-5 tsˈu213 bo55-31 hɯ53 tsˈoʔ2 tsˈu213-31 ho53
+ST,Shantou,13,这句话用成都话怎么说?,,,,
+ST,Shantou,14,他今年多大岁数了?,伊今年若㩼岁了,,,i33 kim33 nĩ55 zioʔ5-2 tsoi31 hue213 ou53-213
+ST,Shantou,15,大概三十来岁吧。,差唔多三十外岁呸,,,tsˈa33 m35-31 to33 sã33 tsap5-2 gua31 hue213 nõ31
+ST,Shantou,16,这个东西有多重呢?,只个物有若重啊,,,tsi53 kai55-31 muẽʔ5 u35-31 zioʔ5-2 taŋ35 a33
+ST,Shantou,17,有五十斤重呢。,□着有五十斤重呸,,,hia53 tioʔ5-2 u35-31 ŋõu35-31 tsap5-2 kɯŋ33 taŋ35 nõ31
+ST,Shantou,18,拿得动吗?,挈会□动𠀾,,,kˈioʔ5-2 oi35-31 tiŋ53-24 taŋ35 boi35
+ST,Shantou,19,我拿得动，他拿不动。,我挈会□动，伊挈唔□动,,,ua53 kˈioʔ5-2 oi35-31 tiŋ53-24 taŋ35 i33 kˈioʔ5-2 m35-31 tiŋ53-24 taŋ35
+ST,Shantou,20,真不轻，重得连我也拿不动。,无好轻，重到我啰挈唔□动啊,,,bo55-31 ho53-24 kˈiŋ33 taŋ35-31 kau213-55 ua53 lo33-31 kˈioʔ5-2 m35-31 tiŋ53-213 taŋ35-31 a33-31
+ST,Shantou,21,你说得很好，你还会说点什么呢?,汝呾来□好，汝还有变呾加块乜个无,,,lɯ53 tã213-55 lai55 hoʔ2-5 ho53 lɯ53 luã53-24 u35-31 piaŋ213-55 tã213-55 ke33 ko213-31 mĩʔ2 kai55-31 bo55-31
+ST,Shantou,22,我嘴笨，我说不过他。,我𠀾呾话，我呾输伊,,,ua53 boi35-31 tã213-55 ue31 ua53 tã213-55 su33 i33-31
+ST,Shantou,23,说了一遍，又说一遍。,呾一过了，又呾加过,,,tã213-55 tsek5-2 kue213-55 liau53 iu35 tã213-31 ke33-31 kue213-31
+ST,Shantou,24,请你再说一遍。,请汝呾加过,,,taˈiã53-24 lɯ53-24 tã213-55 ke33 kue213-31
+ST,Shantou,25,不早了，快去吧。,无好早了，猛猛去,,,bo55-31 ho53-24 tsa53 ou53-213 mẽ53-24 mẽ53 kˈɯ213
+ST,Shantou,26,现在还早着呢，等一会儿再去吧。,只𢙨还早在，等下正来去,,,tsi53-24 tsuŋ55 huã53-24 tsa53 to35-31 taŋ53 e35-31 tsiã213-55 lai53-24 kˈɯ213
+ST,Shantou,27,吃了饭再去好吗?,食饱正来去□好,,,tsiaʔ5-2 pa53 tsiã213-55 lai53-24 kˈɯ213 kˈaʔ2-5 ho53
+ST,Shantou,28,慢慢儿吃啊，不要着急。,宽呢食，愋紧张,,,kˈuã33 nĩ55-31 tsiaʔ5 mãi213-55 kiŋ53-24 tsiaŋ33
+ST,Shantou,29,坐着吃比站着吃好些。,坐放块食好过荷放块食,,,tso35 paŋ213-31 ko213-31 tsiaʔ5-2 ho53-24 kue213-55 kˈia35 paŋ213-31 ko213-31 tsiaʔ5-2
+ST,Shantou,30,他吃了饭了，你吃了饭没有呢?,伊食好了，汝食好未,,,i33 tsiaʔ5-2 ho53 ou53-213 lɯ53 tsiaʔ5-2 ho53 bue31
+ST,Shantou,31,他去过上海，我没有去过。,伊去过上海，我无去过。,,,i33 kˈɯ213-55 kue213-55 siaŋ35-31 hai53 ua53 bo55-31 kˈɯ213 kue213-31
+ST,Shantou,32,来闻闻这朵花香不香。,来鼻睇只□花□会芳,,,lai55-31 pˈĩ31 tˈõi53-24 tsi53-24 pˈau33 hue33 kˈaʔ2-5 oi35-31 pˈaŋ33
+ST,Shantou,33,给我一本书。,挈本书乞我,,,kˈioʔ5-2 puŋ35-24 tsɯ33 kˈɯʔ2 ua53-213
+ST,Shantou,34,我真的没有那本书呀。,我真实无许本书哩,,,ua53 tsiŋ33 sik5-2 bo55-31 hɯ53-24 puŋ53-24 tsɯ33 li33
+ST,Shantou,35,你告诉他。,汝佮伊呾,,,lɯ53 kaʔ2-5 i33 tã213
+ST,Shantou,36,好好地走，不要跑。,行好，嬡走,,,kiã55-31 ho53 mãi213-55 tsau53
+ST,Shantou,37,小心跌下去爬不上来。,知观㬟□落去了□唔得起啊,,,tsai33 kuaŋ33 mãi213-55 puaʔ5-2 kˈɯ213-55 liau53 peʔ2-5 m35-31 tik2-5 kˈi53 a33-31
+ST,Shantou,38,医生叫你多睡睡。,医生叫汝□敥下,,,ui33 seŋ33 kio213-55 lɯ53-24 ĩʔ5-2 tsoi31 e35-31
+ST,Shantou,39,抽烟或者喝茶都不许。,食熏阿是食茶拢孬,,,tsiaʔ5-2 huŋ33 a33 si35-31 tsiaʔ5-2 te55 loŋ53-24 mõ53
+ST,Shantou,40,烟也好，茶也好，我都不喜欢。,熏也好，茶也好，我拢𠀾□,,,huŋ33 a31 ho53 te55-31 a31 ho53 ua53 loŋ53-24 boi35-31 ŋiaŋ213
+ST,Shantou,41,不管你去不去，反正我是要去的。,打理汝去啊唔，我哩正倒爱去,,,ta53-24 li53-24 lɯ53-24 kˈɯ213 a33 m35 ua53 li33 tsiã213-55 to213-55 ãi213-55 kˈɯ213
+ST,Shantou,42,我非去不可。,我硬否爱去,,,ua53 ŋẽ35-31 hõu53-24 ãi213-55 kˈɯ213
+ST,Shantou,43,你是哪一年来的?,汝介地一年来个,,,lɯ53 kai213-55 ti31 tsek5-2 nĩ55-31 lai55 kai55-31
+ST,Shantou,44,我是前年到的北京。,我是前年来北京个,,,ua53 si35-31 tsõi55 nĩ55-31 lai55-31 pak2-5 kiã33 kai55-31
+ST,Shantou,45,今天开会谁的主席?,今日开会地俢做主席,,,kim33 zik5 kˈui33 hue35 ti31 tiaŋ55-31 tso213-55 tsu53-24 tsˈioʔ5
+ST,Shantou,46,你得请我的客。,汝着请我,,,lɯ53 tioʔ5-2 tsˈiã53 ua53-213
+ST,Shantou,47,一边走，一边讲。,□行□呾,,,tsˈiau55-31 kiã55 tsˈiau55-31 tã213
+ST,Shantou,48,越走越远，越说越多。,愈行愈远，愈呾愈㩼,,,zu53-24 kiã55 zu53-24 hŋ35 zu53-24 tã213 zu53-24 tsoi31
+ST,Shantou,49,把那个东西拿给我。,许个物挈分我,,,hɯ53-24 kai55-31 muẽʔ5 kˈioʔ5-2 puŋ33 ua53-213
+ST,Shantou,50,有些地方把太阳叫日头。,有零□地方掠者太阳叫做日头,,,u35-31 laŋ55-31 lo53-24 ti31 hŋ33 liaʔ5-2 tsia53-24 tˈai213-55 iaŋ55 kio213-5 tso213-55 zik5-2 tˈau55
+ST,Shantou,51,您贵姓?我姓王。,汝贵姓?我姓王,,,lɯ53 kui213-55 sẽ213 ua53 sẽ213-55 heŋ55
+ST,Shantou,52,你姓王我也姓王，咱们两个人都姓王。,汝姓王我也姓王，俺两人拢姓王,,,lɯ53 sẽ213-55 heŋ55 ua53-24 a31 sẽ213-55 heŋ55 naŋ53 nõ35-31 naŋ55 loŋ53-24 sẽ213-55 heŋ55
+ST,Shantou,53,你先去吧，我们等一会儿再去。,汝先去，阮等下正来去,,,lɯ53 sõi33 kˈɯ213 uaŋ53 taŋ53 e35-31 tsiã213-55 lai53-24 kˈɯ213
+ST,Shantou,54,你抽烟不抽?/你抽不抽烟?,汝□有食熏,,,lɯ53 kˈaʔ2-5 u35-31 tsiaʔ5-2 huŋ33
+ST,Shantou,55,你认得那个人不认得?,汝□会□许个物,,,lɯ53 kˈaʔ2-5 oi35-31 pak2-5 hɯ53-24 kai55-31 muẽʔ5
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
