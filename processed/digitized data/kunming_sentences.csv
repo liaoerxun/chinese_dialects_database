@@ -1,0 +1,57 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+KM,Kunmijng,1,谁啊?我是老三。,哪个?我是老三,,nA kə o ʂʅ lɔ sÃ,nA53 kə212 o53 ʂʅ212 lɔ53 sÃ44,nA53 kə212 o53 ʂɻ̩212 lɔ53 sÃ44,nA kə o ʂɻ̩ lɔ sÃ
+KM,Kunmijng,2,老四呢?她正跟一个朋友说着话呢。,老四嘹?她在挨一个朋友讲着话,,lɔ sɿ næ tˈə tsæ æ i kə poŋ iəu tɕiÃ tʂə xuA,lɔ53 sɿ212 næ212 tˈə44 tsæ212 æ44 i31 kə212 poŋ31 iəu53 tɕiÃ53 tʂə44 xuA212,lɔ53 sɹ̩212 næ212 tʰə44 t͡sæ212 æ44 i31 kə212 poŋ31 iəu53 t͡ɕiÃ53 tʂə44 xuA212,lɔ sɹ̩ næ tʰə t͡sæ æ i kə poŋ iəu t͡ɕiÃ tʂə xuA
+KM,Kunmijng,3,她还没说完吗?,她还冇说完□?,,tˈə xæ məu ʂo uÃ kæ,tˈə44 xæ31 məu53 ʂo31 uÃ31 kæ53,tʰə44 xæ31 məu53 ʂo31 uÃ31 kæ53,tʰə xæ məu ʂo uÃ kæ
+KM,Kunmijng,4,还没有。大概再有一会儿就说完了。,还冇。大概再讲一小下就完了,,xæ məu tA kˈæ tsæ tɕiÃ i ɕiɔ xA tɕiəu uÃ lə,xæ31 məu53 tA212 kˈæ212 tsæ212 tɕiÃ53 i31 ɕiɔ53 xA212 tɕiəu212 uÃ31 lə53,xæ31 məu53 tA212 kʰæ212 t͡sæ212 t͡ɕiÃ53 i31 ɕiɔ53 xA212 t͡ɕiəu212 uÃ31 lə53,xæ məu tA kʰæ t͡sæ t͡ɕiÃ i ɕiɔ xA t͡ɕiəu uÃ lə
+KM,Kunmijng,5,他说马上就走，怎么这半天了还在家里?,他说马上就走，咋个这半天了还在家首,,tˈə ʂo mA ʂÃ tsəu tsA kə tʂʅ pÃ tˈiɛ̃ lə xæ tsæ tɕiA ʂəu,tˈə44 ʂo31 mA53 ʂÃ212 tsəu53 tsA31 kə212 tʂʅ212 pÃ212 tˈiɛ̃44 lə53 xæ31 tsæ212 tɕiA44 ʂəu53,tʰə44 ʂo31 mA53 ʂÃ212 t͡səu53 t͡sA31 kə212 tʂɻ̩212 pÃ212 tʰiɛ̃44 lə53 xæ31 t͡sæ212 t͡ɕiA44 ʂəu53,tʰə ʂo mA ʂÃ t͡səu t͡sA kə tʂɻ̩ pÃ tʰiɛ̃ lə xæ t͡sæ t͡ɕiA ʂəu
+KM,Kunmijng,6,你到哪儿去?我到城里去。,你去哪点儿?我去城首去,,ni kˈə nA tiə o kˈə tʂˈə̃ ʂəu kˈə,ni53 kˈə212 nA53 tiə31 o53 kˈə212 tʂˈə̃53 ʂəu44 kˈə212,ni53 kʰə212 nA53 tiə31 o53 kʰə212 tʂʰə̃53 ʂəu44 kʰə212,ni kʰə nA tiə o kʰə tʂʰə̃ ʂəu kʰə
+KM,Kunmijng,7,在那儿，不在这儿。,在那点儿，不在这点儿,,tsæ nə tiə pu tsæ tʂʅ tiə,tsæ212 nə212 tiə31 pu31 tsæ212 tʂʅ212 tiə31,t͡sæ212 nə212 tiə31 pu31 t͡sæ212 tʂɻ̩212 tiə31,t͡sæ nə tiə pu t͡sæ tʂɻ̩ tiə
+KM,Kunmijng,8,不是那么做，要这么做。,不仿那种整，要仿这种整,,pu fÃ nə tʂoŋ tʂə̃ iɔ fÃ tʂʅ tʂoŋ tʂə̃,pu31 fÃ53 nə212 tʂoŋ53 tʂə̃53 iɔ212 fÃ53 tʂʅ212 tʂoŋ53 tʂə̃53,pu31 fÃ53 nə212 tʂoŋ53 tʂə̃53 iɔ212 fÃ53 tʂɻ̩212 tʂoŋ53 tʂə̃53,pu fÃ nə tʂoŋ tʂə̃ iɔ fÃ tʂɻ̩ tʂoŋ tʂə̃
+KM,Kunmijng,9,太多了，用不着那么多，只要这么多就够了。,太多了，不消那多，只要这些就够了,,tˈæ to lə  pu ɕiɔ nə to tʂʅ iɔ tʂʅ ɕiɛ tɕiəu kəu lə,tˈæ212 to44 lə53  pu31 ɕiɔ44 nə212 to44 tʂʅ53 iɔ212 tʂʅ212 ɕiɛ44 tɕiəu212 kəu212 lə53,tʰæ212 to44 lə53  pu31 ɕiɔ44 nə212 to44 tʂɻ̩53 iɔ212 tʂɻ̩212 ɕiɛ44 t͡ɕiəu212 kəu212 lə53,tʰæ to lə  pu ɕiɔ nə to tʂɻ̩ iɔ tʂɻ̩ ɕiɛ t͡ɕiəu kəu lə
+KM,Kunmijng,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这两个哪个好点儿,,tʂʅ kə tA nə kə xiɔ tʂʅ liÃ kə nA kə xɔ tiə,tʂʅ44 kə212 tA212 nə44 kə212 xiɔ53 tʂʅ212 liÃ53 kə212 nA53 kə212 xɔ53 tiə53,tʂɻ̩44 kə212 tA212 nə44 kə212 xiɔ53 tʂɻ̩212 liÃ53 kə212 nA53 kə212 xɔ53 tiə53,tʂɻ̩ kə tA nə kə xiɔ tʂɻ̩ liÃ kə nA kə xɔ tiə
+KM,Kunmijng,11,这个比那个好。,这个比那个好,,tʂʅ kə pi nə kə xɔ,tʂʅ44 kə212 pi53 nə212 kə212 xɔ53,tʂɻ̩44 kə212 pi53 nə212 kə212 xɔ53,tʂɻ̩ kə pi nə kə xɔ
+KM,Kunmijng,12,这些房子不如那些房子好。,这些房子有得那些房子好,,tʂʅ ɕiɛ fÃ tsɿ məu tə nə ɕiɛ fÃ tsɿ xɔ,tʂʅ212 ɕiɛ44 fÃ31 tsɿ53 məu53 tə31 nə212 ɕiɛ44 fÃ31 tsɿ53 xɔ53,tʂɻ̩212 ɕiɛ44 fÃ31 t͡sɹ̩53 məu53 tə31 nə212 ɕiɛ44 fÃ31 t͡sɹ̩53 xɔ53,tʂɻ̩ ɕiɛ fÃ t͡sɹ̩ məu tə nə ɕiɛ fÃ t͡sɹ̩ xɔ
+KM,Kunmijng,13,这句话用成都话怎么说?,,,,,,
+KM,Kunmijng,14,拿得动吗?,𠺝拿得动,,kə nA tə toŋ,kə53 nA31 tə31 toŋ212,kə53 nA31 tə31 toŋ212,kə nA tə toŋ
+KM,Kunmijng,15,我拿得动，他拿不动。,我拿得动，他拿不动,,o nA tə toŋ tˈə nA pu toŋ,o53 nA31 tə31 toŋ212 tˈə44 nA31 pu31 toŋ212,o53 nA31 tə31 toŋ212 tʰə44 nA31 pu31 toŋ212,o nA tə toŋ tʰə nA pu toŋ
+KM,Kunmijng,16,真不轻，重得连我也拿不动。,真个呢不轻，重呢连我都拿不动,,tʂə̃ kə nə pu tɕˈi tʂoŋ nə liɛ̃ o tu nA pu toŋ,tʂə̃44 kə44 nə44 pu31 tɕˈi44 tʂoŋ212 nə44 liɛ̃31 o53 tu44 nA31 pu31 toŋ212,tʂə̃44 kə44 nə44 pu31 t͡ɕʰi44 tʂoŋ212 nə44 liɛ̃31 o53 tu44 nA31 pu31 toŋ212,tʂə̃ kə nə pu t͡ɕʰi tʂoŋ nə liɛ̃ o tu nA pu toŋ
+KM,Kunmijng,17,你说得很好，你还会说点什么呢?,你说呢很好，你还会说点儿哪样,,ni ʂo nə xə̃ xɔ ni xæ xuei ʂo tiə nA iÃ,ni53 ʂo31 nə44 xə̃53 xɔ53 ni53 xæ31 xuei212 ʂo31 tiə53 nA53 iÃ212,ni53 ʂo31 nə44 xə̃53 xɔ53 ni53 xæ31 xuei212 ʂo31 tiə53 nA53 iÃ212,ni ʂo nə xə̃ xɔ ni xæ xuei ʂo tiə nA iÃ
+KM,Kunmijng,18,我嘴笨，我说不过他。,我呢嘴笨，我说不过他,,o nə tsuei pə̃ o ʂo pu ko tˈə,o53 nə44 tsuei53 pə̃212 o53 ʂo31 pu31 ko212 tˈə44,o53 nə44 t͡suei53 pə̃212 o53 ʂo31 pu31 ko212 tʰə44,o nə t͡suei pə̃ o ʂo pu ko tʰə
+KM,Kunmijng,19,说了一遍，又说一遍。,说了一遍，又说一遍,,ʂo lə i piɛ̃ iəu ʂo i piɛ̃,ʂo31 lə53 i31 piɛ̃212 iəu212 ʂo31 i31 piɛ̃212,ʂo31 lə53 i31 piɛ̃212 iəu212 ʂo31 i31 piɛ̃212,ʂo lə i piɛ̃ iəu ʂo i piɛ̃
+KM,Kunmijng,20,请你再说一遍。,请你家再说一遍,,tɕˈĩ ni tɕiɛ tsæ ʂo i piɛ̃,tɕˈĩ53 ni53 tɕiɛ44 tsæ212 ʂo31 i31 piɛ̃212,t͡ɕʰĩ53 ni53 t͡ɕiɛ44 t͡sæ212 ʂo31 i31 piɛ̃212,t͡ɕʰĩ ni t͡ɕiɛ t͡sæ ʂo i piɛ̃
+KM,Kunmijng,21,不早了，快去吧。,不早了，快点儿去,,pu tsɔ lə kˈuæ tiə kˈə,pu31 tsɔ53 lə53 kˈuæ212 tiə31 kˈə212,pu31 t͡sɔ53 lə53 kʰuæ212 tiə31 kʰə212,pu t͡sɔ lə kʰuæ tiə kʰə
+KM,Kunmijng,22,现在还早着呢，等一会儿再去吧。,这下还早呢，等下再去,,tʂʅ xA xæ tsɔ nə tə̃ xA tsæ kˈə,tʂʅ44 xA212 xæ31 tsɔ53 nə44 tə̃53 xA212 tsæ212 kˈə212,tʂɻ̩44 xA212 xæ31 t͡sɔ53 nə44 tə̃53 xA212 t͡sæ212 kʰə212,tʂɻ̩ xA xæ t͡sɔ nə tə̃ xA t͡sæ kʰə
+KM,Kunmijng,23,吃了饭再去好吗?,吃嘚饭再去𠺝要得,,tʂˈʅ tə fÃ tsæ kˈə kə iɔ tə,tʂˈʅ31 tə212 fÃ212 tsæ212 kˈə212 kə53 iɔ212 tə31,tʂʰɻ̩31 tə212 fÃ212 t͡sæ212 kʰə212 kə53 iɔ212 tə31,tʂʰɻ̩ tə fÃ t͡sæ kʰə kə iɔ tə
+KM,Kunmijng,24,慢慢儿吃啊，不要着急。,慢点儿吃嘛，不消急,,mÃ tiə tʂˈʅ mA pu ɕiɔ tɕi,mÃ212 tiə31 tʂˈʅ31 mA31 pu31 ɕiɔ44 tɕi31,mÃ212 tiə31 tʂʰɻ̩31 mA31 pu31 ɕiɔ44 t͡ɕi31,mÃ tiə tʂʰɻ̩ mA pu ɕiɔ t͡ɕi
+KM,Kunmijng,25,坐着吃比站着吃好些。,坐嘚吃比站嘚²吃好点儿,,tso tə tʂˈʅ pi tʂÃ tə tʂˈʅ xɔ tiə,tso212 tə44 tʂˈʅ31 pi53 tʂÃ212 tə44 tʂˈʅ31 xɔ53 tiə31,t͡so212 tə44 tʂʰɻ̩31 pi53 tʂÃ212 tə44 tʂʰɻ̩31 xɔ53 tiə31,t͡so tə tʂʰɻ̩ pi tʂÃ tə tʂʰɻ̩ xɔ tiə
+KM,Kunmijng,26,他吃了饭了，你吃了饭没有呢?,他吃嘚饭了，你𠺝吃嘚了,,tˈə tʂˈʅ tə fÃ lə ni kə tʂˈʅ tə lə,tˈə44 tʂˈʅ31 tə212 fÃ212 lə53 ni53 kə53 tʂˈʅ31 tə212 lə53,tʰə44 tʂʰɻ̩31 tə212 fÃ212 lə53 ni53 kə53 tʂʰɻ̩31 tə212 lə53,tʰə tʂʰɻ̩ tə fÃ lə ni kə tʂʰɻ̩ tə lə
+KM,Kunmijng,27,他去过上海，我没有去过。,他去过上海，我有去过,,tˈə kˈə ko ʂÃ xæ o məu kˈə ko,tˈə44 kˈə212 ko212 ʂÃ212 xæ53 o53 məu53 kˈə212 ko212,tʰə44 kʰə212 ko212 ʂÃ212 xæ53 o53 məu53 kʰə212 ko212,tʰə kʰə ko ʂÃ xæ o məu kʰə ko
+KM,Kunmijng,28,来闻闻这朵花香不香。,来闻闻这朵花𠺝香,,læ uə̃ uə̃ tʂʅ to xuA kə ɕiÃ,læ31 uə̃31 uə̃31-44 tʂʅ212 to53 xuA44 kə53 ɕiÃ44,læ31 uə̃31 uə̃31-44 tʂɻ̩212 to53 xuA44 kə53 ɕiÃ44,læ uə̃ uə̃ tʂɻ̩ to xuA kə ɕiÃ
+KM,Kunmijng,29,给我一本书。,给我一本书,,kə o i pə̃ ʂu,kə53 o53 i31 pə̃53 ʂu44,kə53 o53 i31 pə̃53 ʂu44,kə o i pə̃ ʂu
+KM,Kunmijng,30,我真的没有那本书呀。,我真个冇得那本书,,o tʂə̃ kə məu tə nə pə̃ ʂu,o53 tʂə̃44 kə44 məu tə31 nə212 pə̃53 ʂu44,o53 tʂə̃44 kə44 məu tə31 nə212 pə̃53 ʂu44,o tʂə̃ kə məu tə nə pə̃ ʂu
+KM,Kunmijng,31,你告诉他。,你告诵他,,ni kɔ soŋ tˈə,ni53 kɔ212 soŋ212 tˈə44,ni53 kɔ212 soŋ212 tʰə44,ni kɔ soŋ tʰə
+KM,Kunmijng,32,好好地走，不要跑。,好好呢走，莫跑,,xɔ xɔ nə tsəu mɔ pˈɔ,xɔ53 xɔ53 nə44 tsəu53 mɔ31 pˈɔ53,xɔ53 xɔ53 nə44 t͡səu53 mɔ31 pʰɔ53,xɔ xɔ nə t͡səu mɔ pʰɔ
+KM,Kunmijng,33,小心跌下去爬不上来。,小心掼下去爬不上来,,ɕiɔ ɕĩ kuÃ ɕiA kˈə pˈA pu ʂÃ læ,ɕiɔ53 ɕĩ44 kuÃ212 ɕiA212 kˈə212 pˈA31 pu31 ʂÃ212 læ31,ɕiɔ53 ɕĩ44 kuÃ212 ɕiA212 kʰə212 pʰA31 pu31 ʂÃ212 læ31,ɕiɔ ɕĩ kuÃ ɕiA kʰə pʰA pu ʂÃ læ
+KM,Kunmijng,34,医生叫你多睡睡。,医生叫你多睡睡,,i sə̃ tɕiɔ ni to ʂuei ʂuei,i44 sə̃44 tɕiɔ212 ni53 to44 ʂuei212 ʂuei212-44,i44 sə̃44 t͡ɕiɔ212 ni53 to44 ʂuei212 ʂuei212-44,i sə̃ t͡ɕiɔ ni to ʂuei ʂuei
+KM,Kunmijng,35,抽烟或者喝茶都不许。,吃烟、吃茶都不准,,tʂˈʅ iɛ̃ tʂˈʅ tʂˈA tu pu tʂuə̃,tʂˈʅ31 iɛ̃44 tʂˈʅ31 tʂˈA31 tu44 pu31 tʂuə̃53,tʂʰɻ̩31 iɛ̃44 tʂʰɻ̩31 tʂʰA31 tu44 pu31 tʂuə̃53,tʂʰɻ̩ iɛ̃ tʂʰɻ̩ tʂʰA tu pu tʂuə̃
+KM,Kunmijng,36,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不喜欢,,iɛ̃ iɛ xɔ tʂˈA iɛ xɔ o tu pu xi xuÃ,iɛ̃44 iɛ53 xɔ53 tʂˈA31 iɛ53 xɔ53 o53 tu44 pu31 xi53 xuÃ44,iɛ̃44 iɛ53 xɔ53 tʂʰA31 iɛ53 xɔ53 o53 tu44 pu31 xi53 xuÃ44,iɛ̃ iɛ xɔ tʂʰA iɛ xɔ o tu pu xi xuÃ
+KM,Kunmijng,37,不管你去不去，反正我是要去的。,不管你去不去，反正我倒是要去呢,,pu kuÃ ni kˈə pu kˈə fÃ tʂə̃̃ o tɔ ʂʅ iɔ kˈə nə,pu31 kuÃ53 ni53 kˈə212 pu31 kˈə212 fÃ53 tʂə̃̃212 o53 tɔ212 ʂʅ212 iɔ212 kˈə212 nə44,pu31 kuÃ53 ni53 kʰə212 pu31 kʰə212 fÃ53 tʂə̃̃212 o53 tɔ212 ʂɻ̩212 iɔ212 kʰə212 nə44,pu kuÃ ni kʰə pu kʰə fÃ tʂə̃̃ o tɔ ʂɻ̩ iɔ kʰə nə
+KM,Kunmijng,38,我非去不可。,我非去不可,,o fei kˈə pu kˈo,o53 fei44 kˈə212 pu31 kˈo53,o53 fei44 kʰə212 pu31 kʰo53,o fei kʰə pu kʰo
+KM,Kunmijng,39,你是哪一年来的?,你是哪一年来呢,,ni ʂʅ nA i niɛ̃ læ nə,ni53 ʂʅ212 nA53 i31 niɛ̃31 læ31 nə44,ni53 ʂɻ̩212 nA53 i31 niɛ̃31 læ31 nə44,ni ʂɻ̩ nA i niɛ̃ læ nə
+KM,Kunmijng,40,我是前年到的北京。,我是前年到北京呢,,o ʂʅ tɕˈiɛ̃ niɛ̃ tɔ pə tɕĩ nə,o53 ʂʅ212 tɕˈiɛ̃31 niɛ̃31-44 tɔ212 pə31 tɕĩ44 nə44,o53 ʂɻ̩212 t͡ɕʰiɛ̃31 niɛ̃31-44 tɔ212 pə31 t͡ɕĩ44 nə44,o ʂɻ̩ t͡ɕʰiɛ̃ niɛ̃ tɔ pə t͡ɕĩ nə
+KM,Kunmijng,41,今天开会谁的主席?,今儿日开会哪个当主席,,tɕiə ʐʅ kˈæ xuei nA kə tÃ tʂu ɕi,tɕiə44 ʐʅ31-44 kˈæ44 xuei212 nA53 kə212 tÃ44 tʂu53 ɕi31,t͡ɕiə44 ʐɻ̩31-44 kʰæ44 xuei212 nA53 kə212 tÃ44 tʂu53 ɕi31,t͡ɕiə ʐɻ̩ kʰæ xuei nA kə tÃ tʂu ɕi
+KM,Kunmijng,42,你得请我的客。,你要请我呢客了,,ni iɔ tɕˈĩ o nə kˈə lə,ni53 iɔ212 tɕˈĩ53 o53 nə44 kˈə31 lə53,ni53 iɔ212 t͡ɕʰĩ53 o53 nə44 kʰə31 lə53,ni iɔ t͡ɕʰĩ o nə kʰə lə
+KM,Kunmijng,43,一边走，一边讲。,一面走，一面讲,,i miɛ̃ tsəu i miɛ̃ tɕiÃ,i31 miɛ̃212-44 tsəu53 i31 miɛ̃212-44 tɕiÃ53,i31 miɛ̃212-44 t͡səu53 i31 miɛ̃212-44 t͡ɕiÃ53,i miɛ̃ t͡səu i miɛ̃ t͡ɕiÃ
+KM,Kunmijng,44,越走越远，越说越多。,越走越远，越说越多,,iɛ tsəu iɛ iɛ̃ iɛ ʂo iɛ to,iɛ31 tsəu53 iɛ31 iɛ̃53 iɛ31 ʂo31 iɛ31 to44,iɛ31 t͡səu53 iɛ31 iɛ̃53 iɛ31 ʂo31 iɛ31 to44,iɛ t͡səu iɛ iɛ̃ iɛ ʂo iɛ to
+KM,Kunmijng,45,把那个东西拿给我。,挨那个东西拿来给我,,æ nə kə toŋ ɕi nA kə o,æ44 nə212 kə31 toŋ44 ɕi44 nA31 kə53 o53,æ44 nə212 kə31 toŋ44 ɕi44 nA31 kə53 o53,æ nə kə toŋ ɕi nA kə o
+KM,Kunmijng,46,有些地方把太阳叫日头。,有些地方挨太阳叫热头,,iəu ɕiɛ ti fÃ̃ æ tˈæ iÃ tɕiɔ ʐə tˈəu,iəu53 ɕiɛ44 ti212 fÃ̃44 æ44 tˈæ212 iÃ31 tɕiɔ212 ʐə31 tˈəu31-44,iəu53 ɕiɛ44 ti212 fÃ̃44 æ44 tʰæ212 iÃ31 t͡ɕiɔ212 ʐə31 tʰəu31-44,iəu ɕiɛ ti fÃ̃ æ tʰæ iÃ t͡ɕiɔ ʐə tʰəu
+KM,Kunmijng,47,您贵姓?我姓王。,你贵姓?我姓王,,ni kuei ɕĩ o ɕĩ uÃ,ni53 kuei212 ɕĩ212 o53 ɕĩ212 uÃ31,ni53 kuei212 ɕĩ212 o53 ɕĩ212 uÃ31,ni kuei ɕĩ o ɕĩ uÃ
+KM,Kunmijng,48,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，我们两个都姓王,,ni ɕĩ uÃ o iɛ ɕĩ uÃ o mə̃ liÃ kə tu ɕĩ uÃ,ni53 ɕĩ212 uÃ31 o53 iɛ53 ɕĩ212 uÃ31 o53 mə̃44 liÃ53 kə212 tu44 ɕĩ212 uÃ31,ni53 ɕĩ212 uÃ31 o53 iɛ53 ɕĩ212 uÃ31 o53 mə̃44 liÃ53 kə212 tu44 ɕĩ212 uÃ31,ni ɕĩ uÃ o iɛ ɕĩ uÃ o mə̃ liÃ kə tu ɕĩ uÃ
+KM,Kunmijng,49,你先去吧，我们等一会儿再去。,你前去嘛，我们等一下再去,,ni tɕˈiɛ̃ kˈə mA o mə̃ tə̃ i xA tsæ kˈə,ni53 tɕˈiɛ̃31-44 kˈə212 mA31 o53 mə̃44 tə̃53 i31 xA212 tsæ212 kˈə212,ni53 t͡ɕʰiɛ̃31-44 kʰə212 mA31 o53 mə̃44 tə̃53 i31 xA212 t͡sæ212 kʰə212,ni t͡ɕʰiɛ̃ kʰə mA o mə̃ tə̃ i xA t͡sæ kʰə
+KM,Kunmijng,50,你抽烟不抽?/你抽不抽烟?,你咯咂烟,,ni kə tsA iɛ̃,ni53 kə53 tsA31 iɛ̃44,ni53 kə53 t͡sA31 iɛ̃44,ni kə t͡sA iɛ̃
+KM,Kunmijng,51,你认得那个人不认得?,你𠺝认得那个人,,ni kə ʐə̃ tə nə kə ʐə̃,ni53 kə53 ʐə̃212 tə31 nə212 kə212 ʐə̃31,ni53 kə53 ʐə̃212 tə31 nə212 kə212 ʐə̃31,ni kə ʐə̃ tə nə kə ʐə̃
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,58 @@
+dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+TJ,Tianjin,1,谁啊?我是老三。,谁呀?我是老三,,sei iɑ uo sɿ lɑu san,sei45 iɑ3 uo13 sɿ53 lɑu13 san21,sei iɑ uo sɹ̩ lɑu san,sei45 iɑ3 uo13 sɹ̩53 lɑu13 san21
+TJ,Tianjin,2,老四呢?她正跟一个朋友说着话呢。,老四呢?她正跟一个朋友说着话呢,,lɑu sɿ nə tˈɑ tʂəŋ kən i kə pˈəŋ iou ʂuo tʂə xuɑ nə,lɑu13 sɿ53 nə1 tˈɑ21 tʂəŋ53 kən21 i45 kə3 pˈəŋ45 iou3 ʂuo21 tʂə1 xuɑ53 nə1,lɑu sɹ̩ nə tʰɑ tʂəŋ kən i kə pʰəŋ iou ʂuo tʂə xuɑ nə,lɑu13 sɹ̩53 nə1 tʰɑ21 tʂəŋ53 kən21 i45 kə3 pʰəŋ45 iou3 ʂuo21 tʂə1 xuɑ53 nə1
+TJ,Tianjin,3,她还没说完吗?,她还没说完吗?,,tˈɑ xai mei ʂuo van mɑ,tˈɑ21 xai45 mei53 ʂuo21 van45 mɑ3,tʰɑ xai mei ʂuo van mɑ,tʰɑ21 xai45 mei53 ʂuo21 van45 mɑ3
+TJ,Tianjin,4,还没有。大概再有一会儿就说完了。,还没有，大概再待会儿就说完了,,xai mei iou tɑ kai tsai tai xuər tɕiou ʂuo van lə,xai45 mei45 iou13 tɑ53-21 kai53 tsai53-45 tai21 xuər13 tɕiou53-45 ʂuo21 van45 lə3,xai mei iou tɑ kai t͡sai tai xuər t͡ɕiou ʂuo van lə,xai45 mei45 iou13 tɑ53-21 kai53 t͡sai53-45 tai21 xuər13 t͡ɕiou53-45 ʂuo21 van45 lə3
+TJ,Tianjin,5,他说马上就走，怎么这半天了还在家里?,他说马上就走，怎么那么半天了还在家里,,tˈɑ suo mɑ sɑŋ tɕiou tsou nən mə nən mə pan tˈian lə xai tai tɕiɑ li,tˈɑ21-13 suo21 mɑ13 sɑŋ53 tɕiou53 tsou13 nən13 mə3 nən53 mə1 pan53-45 tˈian21 lə1 xai45 tai53-45 tɕiɑ21 li13,tʰɑ suo mɑ sɑŋ t͡ɕiou t͡sou nən mə nən mə pan tʰian lə xai tai t͡ɕiɑ li,tʰɑ21-13 suo21 mɑ13 sɑŋ53 t͡ɕiou53 t͡sou13 nən13 mə3 nən53 mə1 pan53-45 tʰian21 lə1 xai45 tai53-45 t͡ɕiɑ21 li13
+TJ,Tianjin,6,你到哪儿去?我到城里去。,你上哪合儿去?我上城里去,,ni ʂɑŋ nɑ xər tɕˈy uo ʂaŋ tʂˈəŋ li tɕˈy,ni13 ʂɑŋ53 nɑ13 xər3 tɕˈy53 uo13 ʂaŋ53 tʂˈəŋ45 li13 tɕˈy53,ni ʂɑŋ nɑ xər t͡ɕʰy uo ʂaŋ tʂʰəŋ li t͡ɕʰy,ni13 ʂɑŋ53 nɑ13 xər3 t͡ɕʰy53 uo13 ʂaŋ53 tʂʰəŋ45 li13 t͡ɕʰy53
+TJ,Tianjin,7,在那儿，不在这儿。,在那合儿，不在这合儿,,tai nɑ xər pu tai tɕie xər,tai53 nɑ53 xər1 pu53-45 tai53 tɕie53 xər1,tai nɑ xər pu tai t͡ɕie xər,tai53 nɑ53 xər1 pu53-45 tai53 t͡ɕie53 xər1
+TJ,Tianjin,8,不是那么做，要这么做。,不是那么做，是这么做,,pu sɿ nɑ mə tsuo sɿ tsən mə tsuo,pu45 sɿ53 nɑ53 mə tsuo53 sɿ53 tsən53 mə1 tsuo53,pu sɹ̩ nɑ mə t͡suo sɹ̩ t͡sən mə t͡suo,pu45 sɹ̩53 nɑ53 mə t͡suo53 sɹ̩53 t͡sən53 mə1 t͡suo53
+TJ,Tianjin,9,太多了，用不着那么多，只要这么多就够了。,太多了，用不了那么多，就要这么多就够了,,tˈai tuo lə ʐuŋ pu liɑu nɑ mə tuo tɕiou iɑu tsən mə tuo tɕiou hou lə,tˈai53 tuo21 lə1 ʐuŋ53 pu1 liɑu13 nɑ53 mə3 tuo21 tɕiou53 iɑu53 tsən53 mə3 tuo21 tɕiou53 hou53 lə1,tʰai tuo lə ʐuŋ pu liɑu nɑ mə tuo t͡ɕiou iɑu t͡sən mə tuo t͡ɕiou hou lə,tʰai53 tuo21 lə1 ʐuŋ53 pu1 liɑu13 nɑ53 mə3 tuo21 t͡ɕiou53 iɑu53 t͡sən53 mə3 tuo21 t͡ɕiou53 hou53 lə1
+TJ,Tianjin,10,这个大，那个小，这两个哪一个好一点呢?,这个大，那个小，这俩哪个好一点儿呢,,tsei kə tɑ nei kə ɕiɑu tsei liɑ nei kə xɑu i tiar nə,tsei53 kə1 tɑ53 nei53 kə1 ɕiɑu13 tsei53 liɑ13 nei13 kə3 xɑu13 i3 tiar13 nə3,t͡sei kə tɑ nei kə ɕiɑu t͡sei liɑ nei kə xɑu i tiar nə,t͡sei53 kə1 tɑ53 nei53 kə1 ɕiɑu13 t͡sei53 liɑ13 nei13 kə3 xɑu13 i3 tiar13 nə3
+TJ,Tianjin,11,这个比那个好。,这个比那个好,,tsei kə pi nei kə xɑu,tsei53 kə1 pi13 nei53 kə1 xɑu13,t͡sei kə pi nei kə xɑu,t͡sei53 kə1 pi13 nei53 kə1 xɑu13
+TJ,Tianjin,12,这些房子不如那些房子好。,这些房子不□那些房子好,,tɕie ɕie fɑŋ tsɿ pu y nei ɕie fɑŋ tsɿ xɑu,tɕie53 ɕie1 fɑŋ45 tsɿ3 pu45 y53 nei53 ɕie1 fɑŋ45 tsɿ3 xɑu13,t͡ɕie ɕie fɑŋ t͡sɹ̩ pu y nei ɕie fɑŋ t͡sɹ̩ xɑu,t͡ɕie53 ɕie1 fɑŋ45 t͡sɹ̩3 pu45 y53 nei53 ɕie1 fɑŋ45 t͡sɹ̩3 xɑu13
+TJ,Tianjin,13,这句话用成都话怎么说?,,,,,,
+TJ,Tianjin,14,有五十斤重呢。,有五十斤重呢,,iou u ʂʅ tɕin tsuŋ nə,iou13 u13 ʂʅ3 tɕin21 tsuŋ53 nə1,iou u ʂɻ̩ t͡ɕin t͡suŋ nə,iou13 u13 ʂɻ̩3 t͡ɕin21 t͡suŋ53 nə1
+TJ,Tianjin,15,拿得动吗?,拿得动吗,,nɑ ti tuŋ mɑ,nɑ45 ti3 tuŋ53 mɑ1,nɑ ti tuŋ mɑ,nɑ45 ti3 tuŋ53 mɑ1
+TJ,Tianjin,16,我拿得动，他拿不动。,我拿得动，他拿不动,,uo nɑ ti tuŋ tˈɑ nɑ pu tuŋ,uo13 nɑ45 ti3 tuŋ53 tˈɑ21 nɑ45 pu3 tuŋ53,uo nɑ ti tuŋ tʰɑ nɑ pu tuŋ,uo13 nɑ45 ti3 tuŋ53 tʰɑ21 nɑ45 pu3 tuŋ53
+TJ,Tianjin,17,真不轻，重得连我也拿不动。,真不轻省，重得我都拿不动,,tsən pu tɕˈiŋ səŋ tsuŋ ti uo tou nɑ pu tuŋ,tsən21 pu3 tɕˈiŋ21 səŋ1 tsuŋ53 ti1 uo13 tou3 nɑ45 pu3 tuŋ53,t͡sən pu t͡ɕʰiŋ səŋ t͡suŋ ti uo tou nɑ pu tuŋ,t͡sən21 pu3 t͡ɕʰiŋ21 səŋ1 t͡suŋ53 ti1 uo13 tou3 nɑ45 pu3 tuŋ53
+TJ,Tianjin,18,你说得很好，你还会说点什么呢?,你说的真好，你还会说点儿嘛呀,,ni ʂuo ti tʂən xɑu ni xai xuei ʂuo tiar mɑ iɑ,ni13 ʂuo21 ti1 tʂən21 xɑu13 ni13 xai45 xuei53 ʂuo21 tiar1 mɑ53 iɑ1,ni ʂuo ti tʂən xɑu ni xai xuei ʂuo tiar mɑ iɑ,ni13 ʂuo21 ti1 tʂən21 xɑu13 ni13 xai45 xuei53 ʂuo21 tiar1 mɑ53 iɑ1
+TJ,Tianjin,19,我嘴笨，我说不过他。,我嘴笨，我说不过他,,uo tsuei pən uo ʂuo pu kuo tˈɑ,uo13-45 tsuei13 pən53 uo13 ʂuo21 pu3 kuo53 tˈɑ21,uo t͡suei pən uo ʂuo pu kuo tʰɑ,uo13-45 t͡suei13 pən53 uo13 ʂuo21 pu3 kuo53 tʰɑ21
+TJ,Tianjin,20,说了一遍，又说一遍。,说了一遍，又说一遍,,ʂuo lə i pian iou ʂuo i pian,ʂuo21 lə1 i45 pian53 iou53 ʂuo21 i45 pian53,ʂuo lə i pian iou ʂuo i pian,ʂuo21 lə1 i45 pian53 iou53 ʂuo21 i45 pian53
+TJ,Tianjin,21,请你再说一遍。,请你再说一遍,,tɕˈiŋ ni tai ʂuo i pian,tɕˈiŋ13-45 ni13 tai53 ʂuo21 i45 pian53,t͡ɕʰiŋ ni tai ʂuo i pian,t͡ɕʰiŋ13-45 ni13 tai53 ʂuo21 i45 pian53
+TJ,Tianjin,22,不早了，快去吧。,不早了，快去吧,,pu tsɑu lə kˈuai tɕˈy pɑ,pu53 tsɑu13 lə3 kˈuai53 tɕˈy53 pɑ1,pu t͡sɑu lə kʰuai t͡ɕʰy pɑ,pu53 t͡sɑu13 lə3 kʰuai53 t͡ɕʰy53 pɑ1
+TJ,Tianjin,23,现在还早着呢，等一会儿再去吧。,现在还早着呢，等会儿再去吧,,ɕian tsai xai tsɑu tʂə nə təŋ xuər tai tɕˈy pɑ,ɕian53 tsai53 xai45 tsɑu13 tʂə3 nə1 təŋ13-45 xuər13 tai53 tɕˈy53 pɑ1,ɕian t͡sai xai t͡sɑu tʂə nə təŋ xuər tai t͡ɕʰy pɑ,ɕian53 t͡sai53 xai45 t͡sɑu13 tʂə3 nə1 təŋ13-45 xuər13 tai53 t͡ɕʰy53 pɑ1
+TJ,Tianjin,24,吃了饭再去好吗?,吃完饭再去好吗,,tʂˈʅ van fan tai tɕˈy xɑu mɑ,tʂˈʅ21 van45 fan53 tai53 tɕˈy53 xɑu13 mɑ3,tʂʰɻ̩ van fan tai t͡ɕʰy xɑu mɑ,tʂʰɻ̩21 van45 fan53 tai53 t͡ɕʰy53 xɑu13 mɑ3
+TJ,Tianjin,25,慢慢儿吃啊，不要着急。,慢儿慢儿吃吧，别着急,,mar mar tʂˈʅ pɑ pie tʂɑu tɕi,mar53-45 mar21-13 tʂˈʅ21 pɑ1 pie45 tʂɑu45 tɕi45,mar mar tʂʰɻ̩ pɑ pie tʂɑu t͡ɕi,mar53-45 mar21-13 tʂʰɻ̩21 pɑ1 pie45 tʂɑu45 t͡ɕi45
+TJ,Tianjin,26,坐着吃比站着吃好些。,坐着吃比站着吃好,,tsuo tʂə tʂˈʅ pi tsan tʂə tʂˈʅ xɑu,tsuo53 tʂə3 tʂˈʅ21 pi13 tsan53 tʂə3 tʂˈʅ21 xɑu13,t͡suo tʂə tʂʰɻ̩ pi t͡san tʂə tʂʰɻ̩ xɑu,t͡suo53 tʂə3 tʂʰɻ̩21 pi13 t͡san53 tʂə3 tʂʰɻ̩21 xɑu13
+TJ,Tianjin,27,他吃了饭了，你吃了饭没有呢?,他吃完饭了，你吃饭了没有,,tˈɑ tʂˈʅ van fan lə ni tʂˈʅ fan lə mei iou,tˈɑ21-13 tʂˈʅ21 van45 fan53 lə1 ni13 tʂˈʅ21 fan53 lə1 mei53 iou13,tʰɑ tʂʰɻ̩ van fan lə ni tʂʰɻ̩ fan lə mei iou,tʰɑ21-13 tʂʰɻ̩21 van45 fan53 lə1 ni13 tʂʰɻ̩21 fan53 lə1 mei53 iou13
+TJ,Tianjin,28,他去过上海，我没有去过。,他去过上海，我没去过,,tˈɑ tɕˈy kuo ʂɑŋ xai uo mei tɕˈy kuo,tˈɑ21 tɕˈy53 kuo1 ʂɑŋ53 xai13 uo13 mei45 tɕˈy53 kuo1,tʰɑ t͡ɕʰy kuo ʂɑŋ xai uo mei t͡ɕʰy kuo,tʰɑ21 t͡ɕʰy53 kuo1 ʂɑŋ53 xai13 uo13 mei45 t͡ɕʰy53 kuo1
+TJ,Tianjin,29,来闻闻这朵花香不香。,来闻闻这朵儿花儿香不香,,lai vən vən tɕie tuor xuɑr ɕiɑŋ pu ɕiɑŋ,lai45 vən45 vən3 tɕie53 tuor13 xuɑr21 ɕiɑŋ21 pu1 ɕiɑŋ21,lai vən vən t͡ɕie tuor xuɑr ɕiɑŋ pu ɕiɑŋ,lai45 vən45 vən3 t͡ɕie53 tuor13 xuɑr21 ɕiɑŋ21 pu1 ɕiɑŋ21
+TJ,Tianjin,30,给我一本书。,给我一本儿书,,kei uo i pər ʂu,kei13-45 uo13 i53 pər13 ʂu21,kei uo i pər ʂu,kei13-45 uo13 i53 pər13 ʂu21
+TJ,Tianjin,31,我真的没有那本书呀。,我真的没有那本书呢,,uo tsən ti mei iou nei pər ʂu nə,uo13 tsən21 ti1 mei53 iou13 nei53 pər13 ʂu21 nə1,uo t͡sən ti mei iou nei pər ʂu nə,uo13 t͡sən21 ti1 mei53 iou13 nei53 pər13 ʂu21 nə1
+TJ,Tianjin,32,你告诉他。,你告诉他,,ni kɑu suŋ tˈɑ,ni13 kɑu53 suŋ3 tˈɑ21,ni kɑu suŋ tʰɑ,ni13 kɑu53 suŋ3 tʰɑ21
+TJ,Tianjin,33,好好地走，不要跑。,好儿好儿走，别跑,,xɑur xɑur tsou pie pˈɑu,xɑur13 xɑur3 tsou13 pie45 pˈɑu13,xɑur xɑur t͡sou pie pʰɑu,xɑur13 xɑur3 t͡sou13 pie45 pʰɑu13
+TJ,Tianjin,34,小心跌下去爬不上来。,小心摔下去爬不上来,,ɕiɑu ɕin suɑi ɕiɑ tɕˈy pˈɑ pu ʂɑŋ lai,ɕiɑu13 ɕin suɑi21 ɕiɑ1 tɕˈy1 pˈɑ45 pu3 ʂɑŋ53 lai45,ɕiɑu ɕin suɑi ɕiɑ t͡ɕʰy pʰɑ pu ʂɑŋ lai,ɕiɑu13 ɕin suɑi21 ɕiɑ1 t͡ɕʰy1 pʰɑ45 pu3 ʂɑŋ53 lai45
+TJ,Tianjin,35,医生叫你多睡睡。,大夫叫你多睡觉,,tai fu tɕiɑu ni tuo suei tɕiɑu,tai53 fu1 tɕiɑu53 ni13 tuo21 suei53-21 tɕiɑu53,tai fu t͡ɕiɑu ni tuo suei t͡ɕiɑu,tai53 fu1 t͡ɕiɑu53 ni13 tuo21 suei53-21 t͡ɕiɑu53
+TJ,Tianjin,36,抽烟或者喝茶都不许。,抽烟或者喝茶都不行,,tsˈou ian xɤ tʂɤ xɤ tsˈɑ tou pu ɕiŋ,tsˈou21-13 ian21 xɤ53 tʂɤ13 xɤ21 tsˈɑ45 tou13 pu3 ɕiŋ45,t͡sʰou ian xɤ tʂɤ xɤ t͡sʰɑ tou pu ɕiŋ,t͡sʰou21-13 ian21 xɤ53 tʂɤ13 xɤ21 t͡sʰɑ45 tou13 pu3 ɕiŋ45
+TJ,Tianjin,37,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不喜欢,,ian ie xɑu tsˈɑ ie xɑu uo tou pu ɕi xuan ,ian21 ie1 xɑu13 tsˈɑ45 ie3 xɑu13 uo13-45 tou13 pu53 ɕi13 xuan3 ,ian ie xɑu t͡sʰɑ ie xɑu uo tou pu ɕi xuan ,ian21 ie1 xɑu13 t͡sʰɑ45 ie3 xɑu13 uo13-45 tou13 pu53 ɕi13 xuan3 
+TJ,Tianjin,38,不管你去不去，反正我是要去的。,不管你去不去，反正我得去,,pu kuan ni tɕˈy pu tɕˈy fan tsəŋ uo tei tɕˈy,pu53 kuan13 ni13 tɕˈy53 pu1 tɕˈy53 fan13 tsəŋ3 uo13-45 tei13 tɕˈy53,pu kuan ni t͡ɕʰy pu t͡ɕʰy fan t͡səŋ uo tei t͡ɕʰy,pu53 kuan13 ni13 t͡ɕʰy53 pu1 t͡ɕʰy53 fan13 t͡səŋ3 uo13-45 tei13 t͡ɕʰy53
+TJ,Tianjin,39,我非去不可。,我非去,,uo fei tɕˈy,uo13 fei21 tɕˈy53,uo fei t͡ɕʰy,uo13 fei21 t͡ɕʰy53
+TJ,Tianjin,40,你是哪一年来的?,你哪年来的,,ni nei nian lai ti,ni13-45 nei13 nian45 lai45 ti3,ni nei nian lai ti,ni13-45 nei13 nian45 lai45 ti3
+TJ,Tianjin,41,我是前年到的北京。,我是前年个到的北京,,uo sɿ tɕˈian nian kə tɑu ti pei tɕiŋ,uo13 sɿ53 tɕˈian45 nian3 kə3 tɑu53 ti1 pei13 tɕiŋ21,uo sɹ̩ t͡ɕʰian nian kə tɑu ti pei t͡ɕiŋ,uo13 sɹ̩53 t͡ɕʰian45 nian3 kə3 tɑu53 ti1 pei13 t͡ɕiŋ21
+TJ,Tianjin,42,今天开会谁的主席?,今儿个开会谁是主席,,tɕiər kə kˈai xuei sei sɿ tsu ɕi,tɕiər21 kə1 kˈai21 xuei53 sei45 sɿ53 tsu13 ɕi45,t͡ɕiər kə kʰai xuei sei sɹ̩ t͡su ɕi,t͡ɕiər21 kə1 kʰai21 xuei53 sei45 sɹ̩53 t͡su13 ɕi45
+TJ,Tianjin,43,你得请我的客。,你得请我一顿儿,,ni tei tɕˈiŋ uo i tuər,ni13-45 tei13-45 tɕˈiŋ13-45 uo13 i45 tuər53,ni tei t͡ɕʰiŋ uo i tuər,ni13-45 tei13-45 t͡ɕʰiŋ13-45 uo13 i45 tuər53
+TJ,Tianjin,44,一边走，一边讲。,一边儿走，一边儿说,,i piar tsou i piar ʂuo,i53-45 piar21 tsou13 i53 piar21-13 ʂuo21,i piar t͡sou i piar ʂuo,i53-45 piar21 t͡sou13 i53 piar21-13 ʂuo21
+TJ,Tianjin,45,越走越远，越说越多。,越走越远，越说越多,,ye tsou ye yan ye suo ye tuo,ye53 tsou13 ye53 yan13 ye53-45 suo21 ye53-45 tuo21,ye t͡sou ye yan ye suo ye tuo,ye53 t͡sou13 ye53 yan13 ye53-45 suo21 ye53-45 tuo21
+TJ,Tianjin,46,把那个东西拿给我。,把那玩意儿递给我,,pɑ nei van iər ti kei uo,pɑ13 nei53 van45 iər3 ti53 kei3 uo13,pɑ nei van iər ti kei uo,pɑ13 nei53 van45 iər3 ti53 kei3 uo13
+TJ,Tianjin,47,有些地方把太阳叫日头。,有些地街儿把太阳叫日头,,iou ɕie ti tɕier pɑ tˈai iɑŋ tɕiɑu ʐʅ tˈou,iou13 ɕie3 ti53-45 tɕier21 pɑ13 tˈai53 iɑŋ45 tɕiɑu53 ʐʅ53 tˈou1,iou ɕie ti t͡ɕier pɑ tʰai iɑŋ t͡ɕiɑu ʐɻ̩ tʰou,iou13 ɕie3 ti53-45 t͡ɕier21 pɑ13 tʰai53 iɑŋ45 t͡ɕiɑu53 ʐɻ̩53 tʰou1
+TJ,Tianjin,48,您贵姓?我姓王。,你老贵姓?我姓王,,ni lə kuei ɕiŋ uo ɕiŋ vɑŋ,ni45 lə3 kuei53-21 ɕiŋ53 uo13 ɕiŋ53 vɑŋ45,ni lə kuei ɕiŋ uo ɕiŋ vɑŋ,ni45 lə3 kuei53-21 ɕiŋ53 uo13 ɕiŋ53 vɑŋ45
+TJ,Tianjin,49,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，咱俩都姓王,,ni ɕiŋ vɑŋ uo ie ɕiŋ vɑŋ tsan liɑ tou ɕiŋ vɑŋ,ni13 ɕiŋ53 vɑŋ45 uo13-45 ie13 ɕiŋ53 vɑŋ45 tsan45 liɑ13 tou13 ɕiŋ53 vɑŋ45,ni ɕiŋ vɑŋ uo ie ɕiŋ vɑŋ t͡san liɑ tou ɕiŋ vɑŋ,ni13 ɕiŋ53 vɑŋ45 uo13-45 ie13 ɕiŋ53 vɑŋ45 t͡san45 liɑ13 tou13 ɕiŋ53 vɑŋ45
+TJ,Tianjin,50,你先去吧，我们等一会儿再去。,你先去吧，我们待会儿再去,,ni tɕˈian tɕˈy pɑ uo mən tai xuər tsai tɕˈy,ni13 tɕˈian21 tɕˈy53 pɑ1 uo13 mən3 tai21 xuər1 tsai53 tɕˈy53,ni t͡ɕʰian t͡ɕʰy pɑ uo mən tai xuər t͡sai t͡ɕʰy,ni13 t͡ɕʰian21 t͡ɕʰy53 pɑ1 uo13 mən3 tai21 xuər1 t͡sai53 t͡ɕʰy53
+TJ,Tianjin,51,你抽烟不抽?/你抽不抽烟?,你抽烟吗,,ni tsˈou ian mɑ,ni13 tsˈou21 ian21 mɑ1,ni t͡sʰou ian mɑ,ni13 t͡sʰou21 ian21 mɑ1
+TJ,Tianjin,52,你认得那个人不认得?,你认得不认得那个人,,ni in ti pu in ti nei kə ʐən,ni13 in53 ti1 pu45 in53 ti1 nei53 kə1 ʐən45,ni in ti pu in ti nei kə ʐən,ni13 in53 ti1 pu45 in53 ti1 nei53 kə1 ʐən45
+TJ,Tianjin,53,我每次来都见到你。,,,,,,
+TJ,Tianjin,54,这事儿真使人难堪。,,,,,,
+TJ,Tianjin,55,	你不相信就试一试。,,,,,,
+TJ,Tianjin,56,我讲的第二点记住没有?,,,,,,
+TJ,Tianjin,57,他对人真好。,,,,,,

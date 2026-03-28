@@ -1,0 +1,178 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+PY,Pingyao,1,太阳,日头爷 ,,ʐʌʔ təu iE,ʐʌʔ53 təu13-53 iE13-31,ʐʌʔ təu iɤ,ʐʌʔ53 təu13-53 iɤ13-31
+PY,Pingyao,2,月亮,月明爷,,yʌʔ mi iE,yʌʔ53 mi13-53 iE13-31,yʌʔ mi iɤ,yʌʔ53 mi13-53 iɤ13-31
+PY,Pingyao,3,星星,星宿 ,,sei ɕiəu,sei13 ɕiəu35-13,sei ɕiəu,sei13 ɕiəu35-13
+PY,Pingyao,4,打雷,响雷 ,,ɕiɑŋ luæ,ɕiɑŋ53 luæ13,ɕiɑŋ luæ,ɕiɑŋ53 luæ13
+PY,Pingyao,5,闪电,打闪,,tɑ ʂɑŋ,tɑ53-35 ʂɑŋ53-423,tɑ ʂɑŋ,tɑ53-35 ʂɑŋ53-423
+PY,Pingyao,6,下雨,下雨,,xɑ y,xɑ35 y53-423,xɑ y,xɑ35 y53-423
+PY,Pingyao,7,下雪,下雪 ,,xɑ ɕyʌʔ,xɑ35-13 ɕyʌʔ13,xɑ ɕyʌʔ,xɑ35-13 ɕyʌʔ13
+PY,Pingyao,8,冰雹,冷弹子,,ləŋ tɑŋ tsʌʔ,ləŋ53 tɑŋ35-31 tsʌʔ13-35,ləŋ tɑŋ t͡sʌʔ,ləŋ53 tɑŋ35-31 t͡sʌʔ13-35
+PY,Pingyao,9,结冰,冻下冻凌了,,tuŋ xɑ tuŋ li lɑ,tuŋ35 xɑ53 tuŋ35-31 li35 lɑ53,tuŋ xɑ tuŋ li lɑ,tuŋ35 xɑ53 tuŋ35-31 li35 lɑ53
+PY,Pingyao,10,刮风,刮风 ,,kuʌʔ xuŋ,kuʌʔ13 xuŋ13,kuʌʔ xuŋ,kuʌʔ13 xuŋ13
+PY,Pingyao,11,虹,虹,,tɕyə,tɕyə35,t͡ɕyə,t͡ɕyə35
+PY,Pingyao,12,端午节,五月端午,,u yʊʔ tuɑŋ u,u53 yʊʔ53 tuɑŋ13-31 u53,u yʊʔ tuɑŋ u,u53 yʊʔ53 tuɑŋ13-31 u53
+PY,Pingyao,13,中秋节,八月十五 ,,pʌʔ yʌʔ ʂʌʔ u,pʌʔ13-31 yʌʔ53 ʂʌʔ53-35 u53,pʌʔ yʌʔ ʂʌʔ u,pʌʔ13-31 yʌʔ53 ʂʌʔ53-35 u53
+PY,Pingyao,14,除夕,年除下 ,,ȵiE tsɥ xɑ,ȵiE13 tsɥ13-31 xɑ35,ɲiɤ t͡sɥ xɑ,ɲiɤ13 t͡sɥ13-31 xɑ35
+PY,Pingyao,15,今年,今年 ,,tɕiŋ ȵiE,tɕiŋ13-31 ȵiE13,t͡ɕiŋ ɲiɤ,t͡ɕiŋ13-31 ɲiɤ13
+PY,Pingyao,16,明年,来年 ,,læ ȵiE,læ13 ȵiE13,læ ɲiɤ,læ13 ɲiɤ13
+PY,Pingyao,17,去年,年时 ,,ȵiE sɿ,ȵiE13 sɿ13,ɲiɤ sɹ̩,ɲiɤ13 sɹ̩13
+PY,Pingyao,18,明天,第明 ,,ti mi,ti35 mi13-53,ti mi,ti35 mi13-53
+PY,Pingyao,19,昨天,夜来 ,,iE læ,iE35 læ13-53,iɤ læ,iɤ35 læ13-53
+PY,Pingyao,20,今天,今日,,tɕiŋ ʐʌʔ,tɕiŋ13-31 ʐʌʔ53,t͡ɕiŋ ʐʌʔ,t͡ɕiŋ13-31 ʐʌʔ53
+PY,Pingyao,21,星期天,礼拜日,,li pæ ʐʌʔ,li53 pæ35-31 ʐʌʔ53,li pæ ʐʌʔ,li53 pæ35-31 ʐʌʔ53
+PY,Pingyao,22,麦子,麦子 ,,miʌʔ tsʌʔ,miʌʔ53 tsʌʔ13,miʌʔ t͡sʌʔ,miʌʔ53 t͡sʌʔ13
+PY,Pingyao,23,大米,大米 ,,tɑ mi,tɑ35 mi53,tɑ mi,tɑ35 mi53
+PY,Pingyao,24,蚕豆,大豆,,tɑ təu,tɑ35 təu35-53,tɑ təu,tɑ35 təu35-53
+PY,Pingyao,25,向日葵,朝阳花 ,,tʂˈɔ iɑŋ xuɑ,tʂˈɔ13 iɑŋ13 xuɑ13,tʂʰɔ iɑŋ xuɑ,tʂʰɔ13 iɑŋ13 xuɑ13
+PY,Pingyao,26,菠菜,青菜 ,,tsˈei tsˈæ,tsˈei13 tsˈæ35-13,t͡sʰei t͡sʰæ,t͡sʰei13 t͡sʰæ35-13
+PY,Pingyao,27,卷心菜,茴子白,,xuæ tsʌʔ pæ,xuæ13 tsʌʔ13 pæ13,xuæ t͡sʌʔ pæ,xuæ13 t͡sʌʔ13 pæ13
+PY,Pingyao,28,西红柿,洋柿子,,iɑŋ sɿ tsʌʔ,iɑŋ13-31 sɿ35 tsʌʔ13-53,iɑŋ sɹ̩ t͡sʌʔ,iɑŋ13-31 sɹ̩35 t͡sʌʔ13-53
+PY,Pingyao,29,茄子,茄子 ,,tɕiE tsʌʔ,tɕiE13 tsʌʔ13,t͡ɕiɤ t͡sʌʔ,t͡ɕiɤ13 t͡sʌʔ13
+PY,Pingyao,30,白薯,红薯 ,,xuŋ sɥ,xuŋ13-35 sɥ53-423,xuŋ sɥ,xuŋ13-35 sɥ53-423
+PY,Pingyao,31,马铃薯,山药蛋 ,,sɑŋ iʌʔ tɑŋ,sɑŋ13-31 iʌʔ53 tɑŋ35,sɑŋ iʌʔ tɑŋ,sɑŋ13-31 iʌʔ53 tɑŋ35
+PY,Pingyao,32,南瓜,南瓜 ,,nɑŋ kuɑ,nɑŋ13 kuɑ13,nɑŋ kuɑ,nɑŋ13 kuɑ13
+PY,Pingyao,33,猪,猪儿 ,,tsɥ ʐʌʔ,tsɥ13-31 ʐʌʔ13-35,t͡sɥ ʐʌʔ,t͡sɥ13-31 ʐʌʔ13-35
+PY,Pingyao,34,公猪,牙猪 ,,ȵiɑ ʐʌʔ,ȵiɑ13 ʐʌʔ13,ɲiɑ ʐʌʔ,ɲiɑ13 ʐʌʔ13
+PY,Pingyao,35,母猪,母猪 ,,mu ʐʌʔ,mu53 ʐʌʔ13,mu ʐʌʔ,mu53 ʐʌʔ13
+PY,Pingyao,36,公鸡,公鸡 ,,kuŋ tɕi,kuŋ13-31 tɕi13-35,kuŋ t͡ɕi,kuŋ13-31 t͡ɕi13-35
+PY,Pingyao,37,母鸡,草鸡 ,,tsˈɔ tɕi,tsˈɔ53 tɕi13,t͡sʰɔ t͡ɕi,t͡sʰɔ53 t͡ɕi13
+PY,Pingyao,38,麻雀,雀儿 ,,tɕˈiɔ ʐʌʔ,tɕˈiɔ53 ʐʌʔ13,t͡ɕʰiɔ ʐʌʔ,t͡ɕʰiɔ53 ʐʌʔ13
+PY,Pingyao,39,老鼠,蛄儿 ,,ku ʐʌʔ,ku13-31 ʐʌʔ13-35,ku ʐʌʔ,ku13-31 ʐʌʔ13-35
+PY,Pingyao,40,臭虫,壁虱 ,,piʌʔ ʂʌʔ,piʌʔ13-31 ʂʌʔ13-53,piʌʔ ʂʌʔ,piʌʔ13-31 ʂʌʔ13-53
+PY,Pingyao,41,房子(整),房子,,xuə tsʌʔ,xuə13 tsʌʔ13,xuə t͡sʌʔ,xuə13 t͡sʌʔ13
+PY,Pingyao,42,房子(单),房子,,xuə tsʌʔ,xuə13 tsʌʔ13,xuə t͡sʌʔ,xuə13 t͡sʌʔ13
+PY,Pingyao,43,窗户,窗子,,suə tsʌʔ,suə13-31 tsʌʔ13-35,suə t͡sʌʔ,suə13-31 t͡sʌʔ13-35
+PY,Pingyao,44,门坎,门斜斜,,məŋ ɕiE ɕiE,məŋ13 ɕiE13 ɕiE13,məŋ ɕiɤ ɕiɤ,məŋ13 ɕiɤ13 ɕiɤ13
+PY,Pingyao,45,厕所,茅子 ,,mɔ tsʌʔ,mɔ13 tsʌʔ13,mɔ t͡sʌʔ,mɔ13 t͡sʌʔ13
+PY,Pingyao,46,厨房,厨房 ,,tsɥ xuə,tsɥ13 xuə13,t͡sɥ xuə,t͡sɥ13 xuə13
+PY,Pingyao,47,烟囱,烟突 ,,iE tˈuʌʔ,iE13-31 tˈuʌʔ13-53,iɤ tʰuʌʔ,iɤ13-31 tʰuʌʔ13-53
+PY,Pingyao,48,桌子,桌子 ,,tsuʌʔ tsʌʔ,tsuʌʔ13-31 tsʌʔ13-35,t͡suʌʔ t͡sʌʔ,t͡suʌʔ13-31 t͡sʌʔ13-35
+PY,Pingyao,49,楼梯,楼梯 ,,ləu tˈi,ləu13 tˈi13,ləu tʰi,ləu13 tʰi13
+PY,Pingyao,50,头,□老 ,,tʌʔ lɔ,tʌʔ35 lɔ53-423,tʌʔ lɔ,tʌʔ35 lɔ53-423
+PY,Pingyao,51,额头,崩头,,pəŋ təu,pəŋ13-31 təu13-35,pəŋ təu,pəŋ13-31 təu13-35
+PY,Pingyao,52,脸,脸,,liE,liE53,liɤ,liɤ53
+PY,Pingyao,53,鼻子,鼻子,,piʌʔ tsʌʔ,piʌʔ53 tsʌʔ13,piʌʔ t͡sʌʔ,piʌʔ53 t͡sʌʔ13
+PY,Pingyao,54,脖子,脖子,,pʌʔ tsʌʔ,pʌʔ53 tsʌʔ13,pʌʔ t͡sʌʔ,pʌʔ53 t͡sʌʔ13
+PY,Pingyao,55,左手,借手,,tɕiE ʂəu,tɕiE35 ʂəu53,t͡ɕiɤ ʂəu,t͡ɕiɤ35 ʂəu53
+PY,Pingyao,56,右手,正手,,tʂʅ ʂəu,tʂʅ35 ʂəu53,tʂɻ̩ ʂəu,tʂɻ̩35 ʂəu53
+PY,Pingyao,57,拳头,圪都,,kʌʔ tu,kʌʔ53 tu13,kʌʔ tu,kʌʔ53 tu13
+PY,Pingyao,58,手指头,指头儿,,tʂʌʔ təu ʐʌʔ,tʂʌʔ13-31 təu13-35 ʐʌʔ13-53,tʂʌʔ təu ʐʌʔ,tʂʌʔ13-31 təu13-35 ʐʌʔ13-53
+PY,Pingyao,59,指甲,指甲,,tsɿ tɕiʌʔ,tsɿ53 tɕiʌʔ13,t͡sɹ̩ t͡ɕiʌʔ,t͡sɹ̩53 t͡ɕiʌʔ13
+PY,Pingyao,60,膝盖,圪膝□子 ,,kʌʔ ɕiʌʔ kˈuæ tsʌʔ,kʌʔ53 ɕiʌʔ13 kˈuæ31 tsʌʔ13,kʌʔ ɕiʌʔ kʰuæ t͡sʌʔ,kʌʔ53 ɕiʌʔ13 kʰuæ31 t͡sʌʔ13
+PY,Pingyao,61,腿,腿,,tˈuæ,tˈuæ53,tʰuæ,tʰuæ53
+PY,Pingyao,62,父亲,爹 ,,tiE,tiE13,tiɤ,tiɤ13
+PY,Pingyao,63,母亲,妈,,mɑŋ,mɑŋ35,mɑŋ,mɑŋ35
+PY,Pingyao,64,祖父,爷爷,,iE iE,iE13 iE13,iɤ iɤ,iɤ13 iɤ13
+PY,Pingyao,65,祖母,娘娘,,ȵiɑ ȵiɑ,ȵiɑ13-31 ȵiɑ13-35,ɲiɑ ɲiɑ,ɲiɑ13-31 ɲiɑ13-35
+PY,Pingyao,66,伯父,大爷 ,,tei iE,tei35 iE13-53,tei iɤ,tei35 iɤ13-53
+PY,Pingyao,67,伯母,大娘,,tɑi ȵiɑŋ,tɑi35 ȵiɑŋ13-53,tɑi ɲiɑŋ,tɑi35 ɲiɑŋ13-53
+PY,Pingyao,68,叔父,老老,,lɔ lɔ,lɔ53 lɔ53-13,lɔ lɔ,lɔ53 lɔ53-13
+PY,Pingyao,69,叔母,婶婶,,ʂəŋ ʂəŋ,ʂəŋ53 ʂəŋ53-13,ʂəŋ ʂəŋ,ʂəŋ53 ʂəŋ53-13
+PY,Pingyao,70,外祖父,讲爷,,tɕiɑŋ iE,tɕiɑŋ53 iE13,t͡ɕiɑŋ iɤ,t͡ɕiɑŋ53 iɤ13
+PY,Pingyao,71,外祖母,婆婆,,pæ pæ,pæ53 pæ53-35,pæ pæ,pæ53 pæ53-35
+PY,Pingyao,72,舅舅,舅舅,,tɕiəu tɕiəu,tɕiəu35 tɕiəu35-53,t͡ɕiəu t͡ɕiəu,t͡ɕiəu35 t͡ɕiəu35-53
+PY,Pingyao,73,舅母,妗子,,tɕiŋ tsʌʔ,tɕiŋ35 tsʌʔ13-53,t͡ɕiŋ t͡sʌʔ,t͡ɕiŋ35 t͡sʌʔ13-53
+PY,Pingyao,74,丈夫,男人,,nɑŋ ʐəŋ,nɑŋ13 ʐəŋ13,nɑŋ ʐəŋ,nɑŋ13 ʐəŋ13
+PY,Pingyao,75,妻子,老婆,,lɔ pei,lɔ53 pei13,lɔ pei,lɔ53 pei13
+PY,Pingyao,76,儿子,小子,,ɕiɔ tsʌʔ,ɕiɔ53 tsʌʔ13,ɕiɔ t͡sʌʔ,ɕiɔ53 t͡sʌʔ13
+PY,Pingyao,77,女儿,闺女,,tɕy nzɥ,tɕy13-31 nzɥ53,t͡ɕy nzɥ,t͡ɕy13-31 nzɥ53
+PY,Pingyao,78,早饭,早起饭,,tsɔ tɕˈi xuɑŋ,tsɔ53 tɕˈi53 xuɑŋ35-31,t͡sɔ t͡ɕʰi xuɑŋ,t͡sɔ53 t͡ɕʰi53 xuɑŋ35-31
+PY,Pingyao,79,午饭,晌午饭,,suə u xuɑŋ,suə53 u53 xuɑŋ35,suə u xuɑŋ,suə53 u53 xuɑŋ35
+PY,Pingyao,80,晚饭,黑间饭,,xʌʔ tɕiɑŋ xuɑŋ,xʌʔ13 tɕiɑŋ13 xuɑŋ35,xʌʔ t͡ɕiɑŋ xuɑŋ,xʌʔ13 t͡ɕiɑŋ13 xuɑŋ35
+PY,Pingyao,81,面条,擀面,,kɑŋ miE,kɑŋ53 miE35,kɑŋ miɤ,kɑŋ53 miɤ35
+PY,Pingyao,82,馒头,黂黂,,mei mei,mei13-31 mei13-35,mei mei,mei13-31 mei13-35
+PY,Pingyao,83,包子,包儿,,pɔ ʐʌʔ,pɔ13-31 ʐʌʔ13-35,pɔ ʐʌʔ,pɔ13-31 ʐʌʔ13-35
+PY,Pingyao,84,馄饨,馄饨,,xuŋ tuŋ,xuŋ13 tuŋ13,xuŋ tuŋ,xuŋ13 tuŋ13
+PY,Pingyao,85,醋,醋,,tsˈəu,tsˈəu35,t͡sʰəu,t͡sʰəu35
+PY,Pingyao,86,酱油,酱油,,tɕiɑŋ iəu,tɕiɑŋ35 iəu13-53,t͡ɕiɑŋ iəu,t͡ɕiɑŋ35 iəu13-53
+PY,Pingyao,87,盐,咸盐,,ɕiɑŋ iE,ɕiɑŋ13 iE13,ɕiɑŋ iɤ,ɕiɑŋ13 iɤ13
+PY,Pingyao,88,筷子,筷子,,kˈuæ tsʌʔ,kˈuæ35 tsʌʔ13-53,kʰuæ t͡sʌʔ,kʰuæ35 t͡sʌʔ13-53
+PY,Pingyao,89,勺儿,匙匙,,sɿ sɿ,sɿ13 sɿ13,sɹ̩ sɹ̩,sɹ̩13 sɹ̩13
+PY,Pingyao,90,男人,汉,,xɑŋ,xɑŋ35,xɑŋ,xɑŋ35
+PY,Pingyao,91,女人,婆姨们,,pei i məŋ,pei13 i13 məŋ13,pei i məŋ,pei13 i13 məŋ13
+PY,Pingyao,92,男孩子,小子,,ɕiɔ tsʌʔ,ɕiɔ53 tsʌʔ13,ɕiɔ t͡sʌʔ,ɕiɔ53 t͡sʌʔ13
+PY,Pingyao,93,女孩子,女子,,nzɥ tsʌʔ,nzɥ53 tsʌʔ13,nzɥ t͡sʌʔ,nzɥ53 t͡sʌʔ13
+PY,Pingyao,94,老头儿,老汉,,lɔ xɑŋ,lɔ53 xɑŋ35,lɔ xɑŋ,lɔ53 xɑŋ35
+PY,Pingyao,95,医生,医生,,i səŋ,i13-31 səŋ13-35,i səŋ,i13-31 səŋ13-35
+PY,Pingyao,96,厨师,做饭的,,tsuʌʔ xuɑŋ tiʌʔ,tsuʌʔ13-31 xuɑŋ35 tiʌʔ13-53,t͡suʌʔ xuɑŋ tiʌʔ,t͡suʌʔ13-31 xuɑŋ35 tiʌʔ13-53
+PY,Pingyao,97,乞丐,叫花子,,tɕiɔ xuɑ tsʌʔ,tɕiɔ35 xuɑ13-53 tsʌʔ13-31,t͡ɕiɔ xuɑ t͡sʌʔ,t͡ɕiɔ35 xuɑ13-53 t͡sʌʔ13-31
+PY,Pingyao,98,保姆,料孩儿,,liɔ xei ʐʌʔ tiʌʔ,liɔ35-13 xei13 ʐʌʔ13-31 tiʌʔ13-35,liɔ xei ʐʌʔ tiʌʔ,liɔ35-13 xei13 ʐʌʔ13-31 tiʌʔ13-35
+PY,Pingyao,99,病了,不得受,,pʌʔ tʌʔ ʂəu,pʌʔ13 tʌʔ13-35 ʂəu35-53,pʌʔ tʌʔ ʂəu,pʌʔ13 tʌʔ13-35 ʂəu35-53
+PY,Pingyao,100,伤风,拍着了,,pˈiʌʔ tsuʌʔ liɑ,pˈiʌʔ13 tsuʌʔ53 liɑ53,pʰiʌʔ t͡suʌʔ liɑ,pʰiʌʔ13 t͡suʌʔ53 liɑ53
+PY,Pingyao,101,泻肚,跑茅子,,pˈɔ mɔ tsʌʔ,pˈɔ53 mɔ13 tsʌʔ13,pʰɔ mɔ t͡sʌʔ,pʰɔ53 mɔ13 t͡sʌʔ13
+PY,Pingyao,102,瘸子,拐子,,kuæ tsʌʔ,kuæ53 tsʌʔ13,kuæ t͡sʌʔ,kuæ53 t͡sʌʔ13
+PY,Pingyao,103,驼背,背锅锅,,pæ kuei kuei,pæ35 kuei13-53 kuei13-31,pæ kuei kuei,pæ35 kuei13-53 kuei13-31
+PY,Pingyao,104,死了,没了,,mɑ liɑ,mɑ35 liɑ53,mɑ liɑ,mɑ35 liɑ53
+PY,Pingyao,105,看病,料病,,liɔ pi,liɔ35-31 pi35,liɔ pi,liɔ35-31 pi35
+PY,Pingyao,106,我,我,,ŋiE,ŋiE53,ŋiɤ,ŋiɤ53
+PY,Pingyao,107,你,你,,n̩,n̩53,n̩,n̩53
+PY,Pingyao,108,他,兀家 ,,uʌʔ tɕiɑ,uʌʔ13 tɕiɑ13,uʌʔ t͡ɕiɑ,uʌʔ13 t͡ɕiɑ13
+PY,Pingyao,109,我们,哑,,ŋɑ,ŋɑ53,ŋɑ,ŋɑ53
+PY,Pingyao,110,你们,年,,ȵiE,ȵiE13,ɲiɤ,ɲiɤ13
+PY,Pingyao,111,他们,兀家□,,uʌʔ tɕiɑ miɑ,uʌʔ13 tɕiɑ13-31 miɑ35,uʌʔ t͡ɕiɑ miɑ,uʌʔ13 t͡ɕiɑ13-31 miɑ35
+PY,Pingyao,112,咱们,咱们,,tsʌʔ məŋ,tsʌʔ13-31 məŋ13-35,t͡sʌʔ məŋ,t͡sʌʔ13-31 məŋ13-35
+PY,Pingyao,113,自己,自家,,tsɿ tɕiɑ,tsɿ35 tɕiɑ13-53,t͡sɹ̩ t͡ɕiɑ,t͡sɹ̩35 t͡ɕiɑ13-53
+PY,Pingyao,114,谁,谁,,suei,suei13,suei,suei13
+PY,Pingyao,115,什么,甚,,ʂəŋ,ʂəŋ35,ʂəŋ,ʂəŋ35
+PY,Pingyao,116,这里, 啐儿 ,,tsæ ʐʌʔ,tsæ53 ʐʌʔ13,t͡sæ ʐʌʔ,t͡sæ53 ʐʌʔ13
+PY,Pingyao,117,那里,外儿,,uæ ʐʌʔ,uæ35 ʐʌʔ13-53,uæ ʐʌʔ,uæ35 ʐʌʔ13-53
+PY,Pingyao,118,哪里,哪儿,,lɑ ʐʌʔ,lɑ13 ʐʌʔ13,lɑ ʐʌʔ,lɑ13 ʐʌʔ13
+PY,Pingyao,119,这个,这块,,tsʌʔ xuæ,tsʌʔ53 xuæ35,t͡sʌʔ xuæ,t͡sʌʔ53 xuæ35
+PY,Pingyao,120,那个,兀块,,uʌʔ xuæ,uʌʔ13-31 xuæ53,uʌʔ xuæ,uʌʔ13-31 xuæ53
+PY,Pingyao,121,哪一个,哪一块,,lɑ iʌʔ xuæ,lɑ13 iʌʔ13-31 xuæ53,lɑ iʌʔ xuæ,lɑ13 iʌʔ13-31 xuæ53
+PY,Pingyao,122,怎么样,咋底块,,tsɑ ti xuæ,tsɑ53 ti53-35 xuæ53,t͡sɑ ti xuæ,t͡sɑ53 ti53-35 xuæ53
+PY,Pingyao,123,一位客人,,,,,,
+PY,Pingyao,124,粗,粗,,tsˈəu,tsˈəu13,t͡sʰəu,t͡sʰəu13
+PY,Pingyao,125,细,细,,sei,sei35,sei,sei35
+PY,Pingyao,126,长,长,,tʂˈɑŋ,tʂˈɑŋ13,tʂʰɑŋ,tʂʰɑŋ13
+PY,Pingyao,127,短,短,,tˈuɑŋ,tˈuɑŋ53,tʰuɑŋ,tʰuɑŋ53
+PY,Pingyao,128,脏,日脏,,ʐʌʔ tsɑŋ,ʐʌʔ53 tsɑŋ13,ʐʌʔ t͡sɑŋ,ʐʌʔ53 t͡sɑŋ13
+PY,Pingyao,129,干净,干净,,kɑŋ tɕiŋ,kɑŋ13 tɕiŋ35-13,kɑŋ t͡ɕiŋ,kɑŋ13 t͡ɕiŋ35-13
+PY,Pingyao,130,便宜,便宜,,pˈiE i,pˈiE13 i35-13,pʰiɤ i,pʰiɤ13 i35-13
+PY,Pingyao,131,刚(来),乍,,sɑ,sɑ35,sɑ,sɑ35
+PY,Pingyao,132,刚(合适),刚,,tɕiɑŋ,tɕiɑŋ13,t͡ɕiɑŋ,t͡ɕiɑŋ13
+PY,Pingyao,133,正好,正好好,,tʂʅ xɔ xɔ,tʂʅ35 xɔ53 xɔ53-13,tʂɻ̩ xɔ xɔ,tʂɻ̩35 xɔ53 xɔ53-13
+PY,Pingyao,134,和,和,,xu,xu53,xu,xu53
+PY,Pingyao,135,只,划,,tsˈɑŋ,tsˈɑŋ53,t͡sʰɑŋ,t͡sʰɑŋ53
+PY,Pingyao,136,从,从,,tsˈuŋ,tsˈuŋ13,t͡sʰuŋ,t͡sʰuŋ13
+PY,Pingyao,137,替,替,,tˈi,tˈi35,tʰi,tʰi35
+PY,Pingyao,138,拿,荷,,xei,xei53,xei,xei53
+PY,Pingyao,139,故意,专意故儿,,tsuɑŋ i ku ʐʌʔ,tsuɑŋ13-31 i35 ku35-53 ʐʌʔ13,t͡suɑŋ i ku ʐʌʔ,t͡suɑŋ13-31 i35 ku35-53 ʐʌʔ13
+PY,Pingyao,140,一,一,,iʌʔ,iʌʔ13,iʌʔ,iʌʔ13
+PY,Pingyao,141,二,二,,ər,ər35,ər,ər35
+PY,Pingyao,142,三,三,,sɑŋ,sɑŋ13,sɑŋ,sɑŋ13
+PY,Pingyao,143,四,四,,sɿ,sɿ35,sɹ̩,sɹ̩35
+PY,Pingyao,144,五,五,,u,u53,u,u53
+PY,Pingyao,145,六,六,,liəu,liəu35,liəu,liəu35
+PY,Pingyao,146,七,七,,tɕˈiʌʔ,tɕˈiʌʔ13,t͡ɕʰiʌʔ,t͡ɕʰiʌʔ13
+PY,Pingyao,147,九,九,,tɕiəu,tɕiəu53,t͡ɕiəu,t͡ɕiəu53
+PY,Pingyao,148,十,十,,ʂʌʔ,ʂʌʔ53,ʂʌʔ,ʂʌʔ53
+PY,Pingyao,149,十一,十一,,ʂʌʔ iʌʔ,ʂʌʔ53 iʌʔ13,ʂʌʔ iʌʔ,ʂʌʔ53 iʌʔ13
+PY,Pingyao,150,十二,十二,,ʂʌʔ ər,ʂʌʔ53 ər35,ʂʌʔ ər,ʂʌʔ53 ər35
+PY,Pingyao,151,二十,二十,,ər ʂʌʔ,ər35 ʂʌʔ53,ər ʂʌʔ,ər35 ʂʌʔ53
+PY,Pingyao,152,二十一,二十一,,ər ʂʌʔ iʌʔ,ər35 ʂʌʔ53 iʌʔ13,ər ʂʌʔ iʌʔ,ər35 ʂʌʔ53 iʌʔ13
+PY,Pingyao,153,一百二十一,一百二十一,,iʌʔ piʌʔ ər ʂʌʔ iʌʔ,iʌʔ13 piʌʔ13 ər35 ʂʌʔ53 iʌʔ13,iʌʔ piʌʔ ər ʂʌʔ iʌʔ,iʌʔ13 piʌʔ13 ər35 ʂʌʔ53 iʌʔ13
+PY,Pingyao,154,第二,第二,,ti ər,ti35-31 ər35,ti ər,ti35-31 ər35
+PY,Pingyao,155,二两,二两,,ər liɑ,ər35 liɑ53,ər liɑ,ər35 liɑ53
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

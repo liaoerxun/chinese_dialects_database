@@ -1,0 +1,156 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+KM,Kunming,1,太阳,太阳,,tˈæ iÃ,tˈæ212 iÃ31,tʰæ iÃ,tʰæ212 iÃ31
+KM,Kunming,2,月亮,月亮,,iɛ liÃ,iɛ31 liÃ212,iɛ liÃ,iɛ31 liÃ212
+KM,Kunming,3,星星,星宿,,ɕĩ ɕiəu,ɕĩ44 ɕiəu212,ɕĩ ɕiəu,ɕĩ44 ɕiəu212
+KM,Kunming,4,打雷,升雷,,ʂə̃ luei,ʂə̃44 luei31,ʂə̃ luei,ʂə̃44 luei31
+KM,Kunming,5,闪电,扯闪,,tʂˈə ʂÃ,tʂˈə53 ʂÃ53,tʂʰə ʂÃ,tʂʰə53 ʂÃ53
+KM,Kunming,6,下雨,下雨,,ɕiA i,ɕiA212 i53,ɕiA i,ɕiA212 i53
+KM,Kunming,7,下雪,下雪,,ɕiA ɕiɛ,ɕiA212 ɕiɛ31,ɕiA ɕiɛ,ɕiA212 ɕiɛ31
+KM,Kunming,8,冰雹,冰雹,,pĩ pɔ,pĩ44 pɔ212,pĩ pɔ,pĩ44 pɔ212
+KM,Kunming,9,结冰,结冰,,tɕiɛ pĩ,tɕiɛ31 pĩ44,t͡ɕiɛ pĩ,t͡ɕiɛ31 pĩ44
+KM,Kunming,10,刮风,刮风,,kuA foŋ,kuA31 foŋ44,kuA foŋ,kuA31 foŋ44
+KM,Kunming,11,虹,虹,,kÃ,kÃ,kÃ,kÃ
+KM,Kunming,12,端午节,五月端午,,u iɛ tuÃ u,u53 iɛ31-44 tuÃ44 u53,u iɛ tuÃ u,u53 iɛ31-44 tuÃ44 u53
+KM,Kunming,13,中秋节,中秋节,,tʂoŋ tɕˈiəu tɕiɛ,tʂoŋ44 tɕˈiəu44 tɕiɛ31,tʂoŋ t͡ɕʰiəu t͡ɕiɛ,tʂoŋ44 t͡ɕʰiəu44 t͡ɕiɛ31
+KM,Kunming,14,除夕,三十晚辰,,sÃ ʂʅ uÃ ʂə̃,sÃ44 ʂʅ31 uÃ53 ʂə̃31-44,sÃ ʂɻ̩ uÃ ʂə̃,sÃ44 ʂɻ̩31 uÃ53 ʂə̃31-44
+KM,Kunming,15,今年,今年,,tɕĩ niɛ̃,tɕĩ44 niɛ̃31-44,t͡ɕĩ niɛ̃,t͡ɕĩ44 niɛ̃31-44
+KM,Kunming,16,明年,明儿年 ,,mĩ ə niɛ̃,mĩ31 ə31 niɛ̃31,mĩ ə niɛ̃,mĩ31 ə31 niɛ̃31
+KM,Kunming,17,去年,去年,,tɕˈi niɛ̃,tɕˈi212 niɛ̃31-44,t͡ɕʰi niɛ̃,t͡ɕʰi212 niɛ̃31-44
+KM,Kunming,18,明天,明儿日,,mĩ ə ʐʅ,mĩ31 ə31 ʐʅ31-44,mĩ ə ʐɻ̩,mĩ31 ə31 ʐɻ̩31-44
+KM,Kunming,19,昨天,昨日,,tso ʐʅ,tso31 ʐʅ31-44,t͡so ʐɻ̩,t͡so31 ʐɻ̩31-44
+KM,Kunming,20,今天,今儿日,,tɕĩ ə ʐʅ,tɕĩ44 ə31 ʐʅ31,t͡ɕĩ ə ʐɻ̩,t͡ɕĩ44 ə31 ʐɻ̩31
+KM,Kunming,21,星期天,星期,,ɕĩ tɕˈi,ɕĩ44 tɕˈi44,ɕĩ t͡ɕʰi,ɕĩ44 t͡ɕʰi44
+KM,Kunming,22,麦子,麦子,,mə tsɿ,mə31 tsɿ53,mə t͡sɹ̩,mə31 t͡sɹ̩53
+KM,Kunming,23,大米,米,,mi,mi53,mi,mi53
+KM,Kunming,24,蚕豆,蚕豆,,tsˈÃ təu,tsˈÃ31 təu212,t͡sʰÃ təu,t͡sʰÃ31 təu212
+KM,Kunming,25,向日葵,朝阳饼,,tʂˈɔ iÃ pĩ,tʂˈɔ31 iÃ31 pĩ53,tʂʰɔ iÃ pĩ,tʂʰɔ31 iÃ31 pĩ53
+KM,Kunming,26,菠菜,菠菜,,po tsˈæ,po44 tsˈæ212,po t͡sʰæ,po44 t͡sʰæ212
+KM,Kunming,27,卷心菜,莲花白,,liɛ̃ xuA pə,liɛ̃31 xuA44 pə31,liɛ̃ xuA pə,liɛ̃31 xuA44 pə31
+KM,Kunming,28,西红柿,番茄,,fÃ tɕˈiɛ,fÃ44 tɕˈiɛ31,fÃ t͡ɕʰiɛ,fÃ44 t͡ɕʰiɛ31
+KM,Kunming,29,茄子,茄子,,tɕˈiɛ tsɿ,tɕˈiɛ31 tsɿ53,t͡ɕʰiɛ t͡sɹ̩,t͡ɕʰiɛ31 t͡sɹ̩53
+KM,Kunming,30,白薯,白薯,,pə tʂˈu,pə31 tʂˈu53,pə tʂʰu,pə31 tʂʰu53
+KM,Kunming,31,马铃薯,洋芋,,iÃ i,iÃ31 i212,iÃ i,iÃ31 i212
+KM,Kunming,32,南瓜,麦瓜,,mə kuA,mə31 kuA44,mə kuA,mə31 kuA44
+KM,Kunming,33,猪,猪,,tʂu,tʂu44,tʂu,tʂu44
+KM,Kunming,34,公猪,牙猪,,iA tʂu,iA31 tʂu44,iA tʂu,iA31 tʂu44
+KM,Kunming,35,母猪,母猪,,mu tʂu,mu53 tʂu44,mu tʂu,mu53 tʂu44
+KM,Kunming,36,公鸡,公鸡,,koŋ tɕi,koŋ44 tɕi44,koŋ t͡ɕi,koŋ44 t͡ɕi44
+KM,Kunming,37,母鸡,母鸡,,mu tɕi,mu53 tɕi44,mu t͡ɕi,mu53 t͡ɕi44
+KM,Kunming,38,麻雀,谷雀,,ku tɕˈio,ku31 tɕˈio31,ku t͡ɕʰio,ku31 t͡ɕʰio31
+KM,Kunming,39,老鼠,老鼠,,lɔ tʂˈu,lɔ53 tʂˈu53,lɔ tʂʰu,lɔ53 tʂʰu53
+KM,Kunming,40,臭虫,壁虱,,pi sə,pi31 sə31,pi sə,pi31 sə31
+KM,Kunming,41,房子(整),房子,,fÃ tsɿ,fÃ31 tsɿ53,fÃ t͡sɹ̩,fÃ31 t͡sɹ̩53
+KM,Kunming,42,房子(单),房间,,fÃ tɕiɛ̃,fÃ31 tɕiɛ̃44,fÃ t͡ɕiɛ̃,fÃ31 t͡ɕiɛ̃44
+KM,Kunming,43,窗户,窗户,,tʂˈuÃ xoŋ,tʂˈuÃ44 xoŋ44,tʂʰuÃ xoŋ,tʂʰuÃ44 xoŋ44
+KM,Kunming,44,门坎,门坎,,mə̃ kˈÃ,mə̃31 kˈÃ53,mə̃ kʰÃ,mə̃31 kʰÃ53
+KM,Kunming,45,厕所,茅厕,,mɔ sɿ,mɔ31 sɿ44,mɔ sɹ̩,mɔ31 sɹ̩44
+KM,Kunming,46,厨房,灶房,,tsɔ fÃ,tsɔ212 fÃ31-44,t͡sɔ fÃ,t͡sɔ212 fÃ31-44
+KM,Kunming,47,烟囱,烟囱,,iɛ̃ tsˈoŋ,iɛ̃44 tsˈoŋ44,iɛ̃ t͡sʰoŋ,iɛ̃44 t͡sʰoŋ44
+KM,Kunming,48,桌子,桌子,,tʂo tsɿ,tʂo31 tsɿ53,tʂo t͡sɹ̩,tʂo31 t͡sɹ̩53
+KM,Kunming,49,楼梯,楼梯,,ləu tˈi,ləu31 tˈi44,ləu tʰi,ləu31 tʰi44
+KM,Kunming,50,头,脑壳,,nɔ kˈo,nɔ53 kˈo31,nɔ kʰo,nɔ53 kʰo31
+KM,Kunming,51,额头,脑门,,nɔ mə̃,nɔ53 mə̃31,nɔ mə̃,nɔ53 mə̃31
+KM,Kunming,52,脸,脸,,liɛ̃,liɛ̃53,liɛ̃,liɛ̃53
+KM,Kunming,53,鼻子,鼻子,,pi tsɿ,pi31 tsɿ53,pi t͡sɹ̩,pi31 t͡sɹ̩53
+KM,Kunming,54,脖子,脖子,,po tsɿ,po31 tsɿ53,po t͡sɹ̩,po31 t͡sɹ̩53
+KM,Kunming,55,左手,左手,,tso ʂəu,tso53 ʂəu53,t͡so ʂəu,t͡so53 ʂəu53
+KM,Kunming,56,右手,右手,,iəu ʂəu,iəu212 ʂəu53,iəu ʂəu,iəu212 ʂəu53
+KM,Kunming,57,拳头,捶头,,tʂˈuei tˈəu,tʂˈuei31 tˈəu31-44,tʂʰuei tʰəu,tʂʰuei31 tʰəu31-44
+KM,Kunming,58,手指头,手指头,,ʂəu tʂʅ tˈəu,ʂəu53 tʂʅ31 tˈəu31-44,ʂəu tʂɻ̩ tʰəu,ʂəu53 tʂɻ̩31 tʰəu31-44
+KM,Kunming,59,指甲,指甲,,tʂʅ tɕiA,tʂʅ31 tɕiA31-44,tʂɻ̩ t͡ɕiA,tʂɻ̩31 t͡ɕiA31-44
+KM,Kunming,60,膝盖,磕膝头,,kˈə ɕi tˈəu,kˈə31 ɕi31-44 tˈəu31,kʰə ɕi tʰəu,kʰə31 ɕi31-44 tʰəu31
+KM,Kunming,61,腿,腿肚包,,tˈuei tu pɔ,tˈuei53 tu212 pɔ44,tʰuei tu pɔ,tʰuei53 tu212 pɔ44
+KM,Kunming,62,父亲,爹  ,,tiɛ,tiɛ44,tiɛ,tiɛ44
+KM,Kunming,63,母亲,妈 ,,mA,mA44,mA,mA44
+KM,Kunming,64,祖父,老爹,,lɔ tiɛ,lɔ53 tiɛ44,lɔ tiɛ,lɔ53 tiɛ44
+KM,Kunming,65,祖母,奶,,næ,næ44,næ,næ44
+KM,Kunming,66,伯父,大爹,,tA tiɛ,tA212 tiɛ44,tA tiɛ,tA212 tiɛ44
+KM,Kunming,67,伯母,大嫫,,tA mo,tA212 mo44,tA mo,tA212 mo44
+KM,Kunming,68,叔父,耶耶,,iɛ iɛ,iɛ44 iɛ44,iɛ iɛ,iɛ44 iɛ44
+KM,Kunming,69,叔母,婶婶,,ʂə̃ ʂə̃,ʂə̃53 ʂə̃53,ʂə̃ ʂə̃,ʂə̃53 ʂə̃53
+KM,Kunming,70,外祖父,公公,,koŋ koŋ,koŋ44 koŋ44,koŋ koŋ,koŋ44 koŋ44
+KM,Kunming,71,外祖母,婆婆,,pˈo pˈo,pˈo31 pˈo31-44,pʰo pʰo,pʰo31 pʰo31-44
+KM,Kunming,72,舅舅,舅爹,,tɕiəu tiɛ,tɕiəu212 tiɛ44,t͡ɕiəu tiɛ,t͡ɕiəu212 tiɛ44
+KM,Kunming,73,舅母,舅妈,,tɕiəu mA,tɕiəu212 mA44,t͡ɕiəu mA,t͡ɕiəu212 mA44
+KM,Kunming,74,丈夫,男人,,nÃ ʐə̃,nÃ31 ʐə̃31,nÃ ʐə̃,nÃ31 ʐə̃31
+KM,Kunming,75,妻子,婆娘,,pˈo niA,pˈo31 niA31-44,pʰo niA,pʰo31 niA31-44
+KM,Kunming,76,儿子,儿子,,ə tsɿ,ə31 tsɿ53,ə t͡sɹ̩,ə31 t͡sɹ̩53
+KM,Kunming,77,女儿,囡,,nuə,nuə31,nuə,nuə31
+KM,Kunming,78,早饭,早点,,tsɔ tiɛ̃,tsɔ53 tiɛ̃53,t͡sɔ tiɛ̃,t͡sɔ53 tiɛ̃53
+KM,Kunming,79,午饭,早饭,,tsɔ fÃ,tsɔ53 fÃ212,t͡sɔ fÃ,t͡sɔ53 fÃ212
+KM,Kunming,80,晚饭,晚饭,,uÃ fÃ,uÃ53 fÃ212,uÃ fÃ,uÃ53 fÃ212
+KM,Kunming,81,面条,面,,miɛ̃,miɛ̃212,miɛ̃,miɛ̃212
+KM,Kunming,82,馒头,馒头,,mÃ tˈəu,mÃ31 tˈəu31-44,mÃ tʰəu,mÃ31 tʰəu31-44
+KM,Kunming,83,包子,包子,,pɔ tsɿ,pɔ44 tsɿ53,pɔ t͡sɹ̩,pɔ44 t͡sɹ̩53
+KM,Kunming,84,馄饨,饺,,tɕiɔ,tɕiɔ31,t͡ɕiɔ,t͡ɕiɔ31
+KM,Kunming,85,醋,酸醋,,suÃ tsˈu,suÃ44 tsˈu212,suÃ t͡sʰu,suÃ44 t͡sʰu212
+KM,Kunming,86,酱油,清酱,,tɕˈĩ tɕiÃ,tɕˈĩ44 tɕiÃ212,t͡ɕʰĩ t͡ɕiÃ,t͡ɕʰĩ44 t͡ɕiÃ212
+KM,Kunming,87,盐,盐巴,,iɛ̃ pA,iɛ̃31 pA44,iɛ̃ pA,iɛ̃31 pA44
+KM,Kunming,88,筷子,筷儿,,kˈuə ,kˈuə212 ,kʰuə ,kʰuə212 
+KM,Kunming,89,勺儿,调羹,,tˈiɔ kə̃,tˈiɔ31 kə̃44,tʰiɔ kə̃,tʰiɔ31 kə̃44
+KM,Kunming,90,男人,男呢,,nÃ nə,nÃ31 nə44,nÃ nə,nÃ31 nə44
+KM,Kunming,91,女人,女呢,,ni nə,ni53 nə44,ni nə,ni53 nə44
+KM,Kunming,92,男孩子,男娃娃,,nÃ uA uA,nÃ31 uA31 uA31-44,nÃ uA uA,nÃ31 uA31 uA31-44
+KM,Kunming,93,女孩子,女娃娃,,ni uA uA,ni53 uA31 uA31-44,ni uA uA,ni53 uA31 uA31-44
+KM,Kunming,94,老头儿,老倌儿,,lɔ kuÃ ə,lɔ53 kuÃ44 ə31,lɔ kuÃ ə,lɔ53 kuÃ44 ə31
+KM,Kunming,95,医生,医生,,i sə̃,i44 sə̃44,i sə̃,i44 sə̃44
+KM,Kunming,96,厨师,厨师,,tʂˈu sɿ,tʂˈu31 sɿ44,tʂʰu sɹ̩,tʂʰu31 sɹ̩44
+KM,Kunming,97,乞丐,花子,,xuA tsɿ,xuA44 tsɿ53,xuA t͡sɹ̩,xuA44 t͡sɹ̩53
+KM,Kunming,98,保姆,保姆,,pɔ mu,pɔ53 mu53,pɔ mu,pɔ53 mu53
+KM,Kunming,99,病了,病了,,pĩ lə,pĩ212 lə53,pĩ lə,pĩ212 lə53
+KM,Kunming,100,伤风,伤风,,ʂÃ foŋ,ʂÃ44 foŋ44,ʂÃ foŋ,ʂÃ44 foŋ44
+KM,Kunming,101,泻肚,泻肚子,,ɕiɛ tu tsɿ,ɕiɛ212 tu212 tsɿ53,ɕiɛ tu t͡sɹ̩,ɕiɛ212 tu212 t͡sɹ̩53
+KM,Kunming,102,瘸子,,,pæ pæ,pæ44 pæ44,pæ pæ,pæ44 pæ44
+KM,Kunming,103,驼背,背锅,,pei ko,pei44 ko44,pei ko,pei44 ko44
+KM,Kunming,104,死了,不在了,,pu tsæ lə,pu31 tsæ212 lə53,pu t͡sæ lə,pu31 t͡sæ212 lə53
+KM,Kunming,105,看病,瞧病,,tɕˈiɔ pĩ,tɕˈiɔ31 pĩ212,t͡ɕʰiɔ pĩ,t͡ɕʰiɔ31 pĩ212
+KM,Kunming,106,我,我 ,,o,o53,o,o53
+KM,Kunming,107,你,你,,ni,ni53,ni,ni53
+KM,Kunming,108,他,他  ,,tˈA,tˈA44,tʰA,tʰA44
+KM,Kunming,109,我们,我们,,o mə̃,o53 mə̃44,o mə̃,o53 mə̃44
+KM,Kunming,110,你们,你们,,ni mə̃,ni53 mə̃44,ni mə̃,ni53 mə̃44
+KM,Kunming,111,他们,他们,,tˈA mə̃,tˈA44 mə̃44,tʰA mə̃,tʰA44 mə̃44
+KM,Kunming,112,咱们,我们,,o mə̃,o53 mə̃44,o mə̃,o53 mə̃44
+KM,Kunming,113,自己,自己,,tsɿ tɕi,tsɿ212 tɕi53,t͡sɹ̩ t͡ɕi,t͡sɹ̩212 t͡ɕi53
+KM,Kunming,114,谁,哪个,,nA kə,nA53 kə212,nA kə,nA53 kə212
+KM,Kunming,115,什么,哪样,,nA iÃ,nA53 iÃ212,nA iÃ,nA53 iÃ212
+KM,Kunming,116,这里,这点儿,,tʂʅ tiə,tʂʅ212 tiə31,tʂɻ̩ tiə,tʂɻ̩212 tiə31
+KM,Kunming,117,那里,那点儿,,nə tiə,nə212 tiə31,nə tiə,nə212 tiə31
+KM,Kunming,118,哪里,哪点儿,,nA tiə,nA53 tiə31,nA tiə,nA53 tiə31
+KM,Kunming,119,这个,这个,,tʂʅ kə,tʂʅ44 kə212,tʂɻ̩ kə,tʂɻ̩44 kə212
+KM,Kunming,120,那个,那个,,nə kə,nə212 kə212,nə kə,nə212 kə212
+KM,Kunming,121,哪一个,哪个,,nA kə,nA53 kə212,nA kə,nA53 kə212
+KM,Kunming,122,怎么样,咋个了,,tsA kə lə,tsA31 kə212 lə53,t͡sA kə lə,t͡sA31 kə212 lə53
+KM,Kunming,123,一位客人,一个客人,,,,,
+KM,Kunming,124,粗,粗,,tsˈu,tsˈu44,t͡sʰu,t͡sʰu44
+KM,Kunming,125,细,细,,ɕi,ɕi212,ɕi,ɕi212
+KM,Kunming,126,长,长,,tʂˈÃ,tʂˈÃ31,tʂʰÃ,tʂʰÃ31
+KM,Kunming,127,短,短,,tuÃ,tuÃ53,tuÃ,tuÃ53
+KM,Kunming,128,脏,脏,,tsÃ,tsÃ44,t͡sÃ,t͡sÃ44
+KM,Kunming,129,干净,干净,,kÃ tɕĩ,kÃ44 tɕĩ212,kÃ t͡ɕĩ,kÃ44 t͡ɕĩ212
+KM,Kunming,130,便宜,相因,,ɕiÃ ĩ,ɕiÃ44 ĩ44,ɕiÃ ĩ,ɕiÃ44 ĩ44
+KM,Kunming,131,刚(来),才将,,tsˈæ tɕiÃ,tsˈæ31 tɕiÃ44,t͡sʰæ t͡ɕiÃ,t͡sʰæ31 t͡ɕiÃ44
+KM,Kunming,132,刚(合适),将将 ,,tɕiÃ tɕiÃ,tɕiÃ44 tɕiÃ44,t͡ɕiÃ t͡ɕiÃ,t͡ɕiÃ44 t͡ɕiÃ44
+KM,Kunming,133,正好,刚好  ,,kÃ xɔ,kÃ44 xɔ53,kÃ xɔ,kÃ44 xɔ53
+KM,Kunming,134,和,挨  ,,æ,æ44,æ,æ44
+KM,Kunming,135,只,只,,tʂʅ,tʂʅ53,tʂɻ̩,tʂɻ̩53
+KM,Kunming,136,从,从,,tsˈoŋ,tsˈoŋ31,t͡sʰoŋ,t͡sʰoŋ31
+KM,Kunming,137,替,挨,,æ,æ44,æ,æ44
+KM,Kunming,138,拿,拿,,nA,nA31,nA,nA31
+KM,Kunming,139,故意,罢意,,pA i,pA212 i212,pA i,pA212 i212
+KM,Kunming,140,一,一,,i,i31,i,i31
+KM,Kunming,141,二,二,,ə,ə212,ə,ə212
+KM,Kunming,142,三,三,,sÃ,sÃ44,sÃ,sÃ44
+KM,Kunming,143,四,四,,sɿ,sɿ212,sɹ̩,sɹ̩212
+KM,Kunming,144,五,五,,u,u53,u,u53
+KM,Kunming,145,六,六,,lu,lu31,lu,lu31
+KM,Kunming,146,七,七,,tɕˈi,tɕˈi31,t͡ɕʰi,t͡ɕʰi31
+KM,Kunming,147,九,九,,tɕiəu,tɕiəu53,t͡ɕiəu,t͡ɕiəu53
+KM,Kunming,148,十,十,,ʂʅ,ʂʅ31,ʂɻ̩,ʂɻ̩31
+KM,Kunming,149,十一,十一,,ʂʅ i,ʂʅ31 i31,ʂɻ̩ i,ʂɻ̩31 i31
+KM,Kunming,150,十二,十二,,ʂʅ ə,ʂʅ31 ə212,ʂɻ̩ ə,ʂɻ̩31 ə212
+KM,Kunming,151,二十,二十,,ə ʂʅ,ə212 ʂʅ31,ə ʂɻ̩,ə212 ʂɻ̩31
+KM,Kunming,152,二十一,二十一,,ə ʂʅ i,ə212 ʂʅ31 i31,ə ʂɻ̩ i,ə212 ʂɻ̩31 i31
+KM,Kunming,153,一百二十一,一百二十一,,i pə ə ʂʅ i,i31 pə31 ə212 ʂʅ31 i31,i pə ə ʂɻ̩ i,i31 pə31 ə212 ʂɻ̩31 i31
+KM,Kunming,154,第二,第二,,ti ə,ti212 ə212,ti ə,ti212 ə212
+KM,Kunming,155,二两,二两,,ə liÃ,ə212 liÃ53,ə liÃ,ə212 liÃ53

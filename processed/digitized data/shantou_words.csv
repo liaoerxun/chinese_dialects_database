@@ -1,0 +1,178 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
+ST,Shantou,1,太阳,日头 ,,zik tˈau,zik5-2 tˈau55,zik tʰau,zik5-2 tʰau55
+ST,Shantou,2,月亮,月 ,,gueʔ,gueʔ5,gueʔ,gueʔ5
+ST,Shantou,3,星星,星 ,,tsˈẽ,tsˈẽ33,t͡sʰẽ,t͡sʰẽ33
+ST,Shantou,4,打雷,响雷 ,,hiaŋ lui,hiaŋ53-24 lui55,hiaŋ lui,hiaŋ53-24 lui55
+ST,Shantou,5,闪电,阿公□目 ,,a koŋ nĩʔ mak,a33 koŋ33 nĩʔ2-5 mak5,a koŋ nĩʔ mak,a33 koŋ33 nĩʔ2-5 mak5
+ST,Shantou,6,下雨,落雨 ,,loʔ hou,loʔ5-2 hou35,loʔ hou,loʔ5-2 hou35
+ST,Shantou,7,下雪,落雪 ,,loʔ soʔ,loʔ5-2 soʔ2,loʔ soʔ,loʔ5-2 soʔ2
+ST,Shantou,8,冰雹,雹,,pˈak,pˈak5,pʰak,pʰak5
+ST,Shantou,9,结冰,结冰 ,,kak piã,kak2-5 piã33,kak piã,kak2-5 piã33
+ST,Shantou,10,刮风,透风 ,,tˈau huaŋ,tˈau213-55 huaŋ33,tʰau huaŋ,tʰau213-55 huaŋ33
+ST,Shantou,11,虹,虹 ,,kˈeŋ,kˈeŋ35,kʰeŋ,kʰeŋ35
+ST,Shantou,12,端午节,五月节 ,,ŋõu gueʔ tsoiʔ,ŋõu35-31 gueʔ5-2 tsoiʔ2,ŋõu gueʔ t͡soiʔ,ŋõu35-31 gueʔ5-2 t͡soiʔ2
+ST,Shantou,13,中秋节,中秋 ,,toŋ tsˈiu,toŋ33 tsˈiu33,toŋ t͡sʰiu,toŋ33 t͡sʰiu33
+ST,Shantou,14,除夕,廿九暝 ,,ziʔ kau mẽ,ziʔ5-2 kau53-24 mẽ55,ziʔ kau mẽ,ziʔ5-2 kau53-24 mẽ55
+ST,Shantou,15,今年,今年 ,,kim nĩ,kim33 nĩ55,kim nĩ,kim33 nĩ55
+ST,Shantou,16,明年,明年,,mẽ nĩ,mẽ55-31 nĩ55,mẽ nĩ,mẽ55-31 nĩ55
+ST,Shantou,17,去年,旧年 ,,ku nĩ,ku31 nĩ55,ku nĩ,ku31 nĩ55
+ST,Shantou,18,明天,□日,,mã zik,mã213-55 zik5,mã zik,mã213-55 zik5
+ST,Shantou,19,昨天,□日,,tsa zik,tsa33 zik5,t͡sa zik,t͡sa33 zik5
+ST,Shantou,20,今天,今日,,kim zik,kim33 zik5,kim zik,kim33 zik5
+ST,Shantou,21,星期天,星期日,,tsˈẽ kˈi zik,tsˈẽ33 kˈi55-31 zik5,t͡sʰẽ kʰi zik,t͡sʰẽ33 kʰi55-31 zik5
+ST,Shantou,22,麦子,麦,,beʔ,beʔ5,beʔ,beʔ5
+ST,Shantou,23,大米,粙,,tiu,tiu35,tiu,tiu35
+ST,Shantou,24,蚕豆,扁豆 ,,piaŋ tau,piaŋ53-24 tau31,piaŋ tau,piaŋ53-24 tau31
+ST,Shantou,25,向日葵,向日葵 ,,hiaŋ zik kˈui,hiaŋ213-55 zik5-2 kˈui55,hiaŋ zik kʰui,hiaŋ213-55 zik5-2 kʰui55
+ST,Shantou,26,菠菜,菠薐 ,,pue leŋ,pue33 leŋ55,pue leŋ,pue33 leŋ55
+ST,Shantou,27,卷心菜,䔅苈,,ko le,ko33 le35,ko le,ko33 le35
+ST,Shantou,28,西红柿,番茄,,huaŋ kio,huaŋ33 kio55,huaŋ kio,huaŋ33 kio55
+ST,Shantou,29,茄子,茄,,kio,kio55,kio,kio55
+ST,Shantou,30,白薯,番薯 ,,huaŋ tsɯ,huaŋ33 tsɯ55,huaŋ t͡sɯ,huaŋ33 t͡sɯ55
+ST,Shantou,31,马铃薯,荷兰薯 ,,ho laŋ tsɯ,ho55-31 laŋ33 tsɯ55,ho laŋ t͡sɯ,ho55-31 laŋ33 t͡sɯ55
+ST,Shantou,32,南瓜,番瓜 ,,huŋ kue,huŋ33 kue33,huŋ kue,huŋ33 kue33
+ST,Shantou,33,猪,猪 ,,tɯ,tɯ33,tɯ,tɯ33
+ST,Shantou,34,公猪,猪哥 ,,tɯ ko,tɯ33 ko33,tɯ ko,tɯ33 ko33
+ST,Shantou,35,母猪,猪母 ,,tɯ bo,tɯ33 bo53,tɯ bo,tɯ33 bo53
+ST,Shantou,36,公鸡,鸡翁 ,,koi aŋ,koi33 aŋ33,koi aŋ,koi33 aŋ33
+ST,Shantou,37,母鸡,鸡母 ,,koi bo,koi33 bo33,koi bo,koi33 bo33
+ST,Shantou,38,麻雀,麻雀 ,,muã tsiauʔ,muã55-31 tsiauʔ2,muã t͡siauʔ,muã55-31 t͡siauʔ2
+ST,Shantou,39,老鼠,□鼠,,ŋiãu tsˈɯ,ŋiãu53-24 tsˈɯ53,ŋiãu t͡sʰɯ,ŋiãu53-24 t͡sʰɯ53
+ST,Shantou,40,臭虫,木虱 ,,bak sak,bak5-2 sak2,bak sak,bak5-2 sak2
+ST,Shantou,41,房子(整),厝,,tsˈu,tsˈu213,t͡sʰu,t͡sʰu213
+ST,Shantou,42,房子(单),房,,paŋ,paŋ55,paŋ,paŋ55
+ST,Shantou,43,窗户,窗 ,,tˈeŋ,tˈeŋ33,tʰeŋ,tʰeŋ33
+ST,Shantou,44,门坎,门第 ,,muŋ tõi,muŋ55-31 tõi35,muŋ tõi,muŋ55-31 tõi35
+ST,Shantou,45,厕所,厕所,,tsˈe so,tsˈe213-55 so53,t͡sʰe so,t͡sʰe213-55 so53
+ST,Shantou,46,厨房,厨房,,tou paŋ,tou55-31 paŋ55,tou paŋ,tou55-31 paŋ55
+ST,Shantou,47,烟囱,烟筒 ,,iŋ taŋ,iŋ33 taŋ55,iŋ taŋ,iŋ33 taŋ55
+ST,Shantou,48,桌子,床 ,,tsˈɯŋ,tsˈɯŋ55,t͡sʰɯŋ,t͡sʰɯŋ55
+ST,Shantou,49,楼梯,楼梯,,lau tˈui,lau55-31 tˈui33,lau tʰui,lau55-31 tʰui33
+ST,Shantou,50,头,头,,tˈau,tˈau55,tʰau,tʰau55
+ST,Shantou,51,额头,额,,hiaʔ,hiaʔ5,hiaʔ,hiaʔ5
+ST,Shantou,52,脸,面,,miŋ,miŋ31,miŋ,miŋ31
+ST,Shantou,53,鼻子,鼻,,pˈĩ,pˈĩ31,pʰĩ,pʰĩ31
+ST,Shantou,54,脖子,颔,,am,am35,am,am35
+ST,Shantou,55,左手,倒手 ,,to tsˈiu,to213-55 tsˈiu53,to t͡sʰiu,to213-55 t͡sʰiu53
+ST,Shantou,56,右手,正手 ,,tsiã tsˈiu,tsiã213-55 tsˈiu53,t͡siã t͡sʰiu,t͡siã213-55 t͡sʰiu53
+ST,Shantou,57,拳头,拳头 ,,kˈuŋ tˈau,kˈuŋ55-31 tˈau55-31,kʰuŋ tʰau,kʰuŋ55-31 tʰau55-31
+ST,Shantou,58,手指头,手指 ,,tsˈiu tsõi,tsˈiu53-24 tsõi53,t͡sʰiu t͡sõi,t͡sʰiu53-24 t͡sõi53
+ST,Shantou,59,指甲,指甲 ,,tsõi kaʔ,tsõi53-24 kaʔ2,t͡sõi kaʔ,t͡sõi53-24 kaʔ2
+ST,Shantou,60,膝盖,骹头□,,kˈa tˈau u,kˈa33 tˈau55-31 u33,kʰa tʰau u,kʰa33 tʰau55-31 u33
+ST,Shantou,61,腿,骹,,kˈa,kˈa33,kʰa,kʰa33
+ST,Shantou,62,父亲,阿爸,,a pa,a33 pa33,a pa,a33 pa33
+ST,Shantou,63,母亲,阿妈,,a nã,a33 nã55,a nã,a33 nã55
+ST,Shantou,64,祖父,阿公 ,,a koŋ,a33 koŋ33,a koŋ,a33 koŋ33
+ST,Shantou,65,祖母,阿妈 ,,a mã,a33 mã53,a mã,a33 mã53
+ST,Shantou,66,伯父,阿伯,,a peʔ,a33 peʔ2,a peʔ,a33 peʔ2
+ST,Shantou,67,伯母,阿姆,,a m,a33 m53,a m,a33 m53
+ST,Shantou,68,叔父,阿叔,,a tsek,a33 tsek2,a t͡sek,a33 t͡sek2
+ST,Shantou,69,叔母,阿婶 ,,a sim,a33 sim53,a sim,a33 sim53
+ST,Shantou,70,外祖父,外公 ,,gua koŋ,gua31 koŋ33,gua koŋ,gua31 koŋ33
+ST,Shantou,71,外祖母,外妈 ,,guamã,gua31mã53,guamã,gua31mã53
+ST,Shantou,72,舅舅,阿舅,,a ku,a33 ku35,a ku,a33 ku35
+ST,Shantou,73,舅母,阿妗,,a kim,a33 kim35,a kim,a33 kim35
+ST,Shantou,74,丈夫,翁,,aŋ,aŋ33,aŋ,aŋ33
+ST,Shantou,75,妻子,𡚸,,bou,bou53,bou,bou53
+ST,Shantou,76,儿子,囝 ,,kiã,kiã53,kiã,kiã53
+ST,Shantou,77,女儿,□囝 ,,tsau kiã,tsau53-24 kiã53,t͡sau kiã,t͡sau53-24 kiã53
+ST,Shantou,78,早饭,猛早,,mẽ tsa,mẽ53-24 tsa53,mẽ t͡sa,mẽ53-24 t͡sa53
+ST,Shantou,79,午饭,日昼,,zik tau,zik5-2 tau213,zik tau,zik5-2 tau213
+ST,Shantou,80,晚饭,猛暗,,mẽ am,mẽ53-24 am213,mẽ am,mẽ53-24 am213
+ST,Shantou,81,面条,面,,mĩ,mĩ31,mĩ,mĩ31
+ST,Shantou,82,馒头,馒头 ,,maŋ tˈau,maŋ35-31 tˈau55,maŋ tʰau,maŋ35-31 tʰau55
+ST,Shantou,83,包子,包,,pau,pau33,pau,pau33
+ST,Shantou,84,馄饨,饺,,kiau,kiau53,kiau,kiau53
+ST,Shantou,85,醋,醋 ,,tsˈou,tsˈou213,t͡sʰou,t͡sʰou213
+ST,Shantou,86,酱油,豉油,,si iu,si31 iu55,si iu,si31 iu55
+ST,Shantou,87,盐,盐,,iam,iam55,iam,iam55
+ST,Shantou,88,筷子,箸,,tɯ,tɯ31,tɯ,tɯ31
+ST,Shantou,89,勺儿,汤匙,,tˈɯŋ si,tˈɯŋ33 si55,tʰɯŋ si,tʰɯŋ33 si55
+ST,Shantou,90,男人,□夫 ,,ta pou,ta33 pou33,ta pou,ta33 pou33
+ST,Shantou,91,女人,姿娘,,tsɯ niõ,tsɯ33 niõ55,t͡sɯ niõ,t͡sɯ33 niõ55
+ST,Shantou,92,男孩子,□夫囝 ,,ta pou kiã,ta33 pou33 kiã53,ta pou kiã,ta33 pou33 kiã53
+ST,Shantou,93,女孩子,姿娘囝,,tsɯ niõ kiã,tsɯ33 niõ55-31 kiã53,t͡sɯ niõ kiã,t͡sɯ33 niõ55-31 kiã53
+ST,Shantou,94,老头儿,老□夫,,lau ta pou,lau35-31 ta33 pou33,lau ta pou,lau35-31 ta33 pou33
+ST,Shantou,95,医生,医生,,ui seŋ,ui33 seŋ33,ui seŋ,ui33 seŋ33
+ST,Shantou,96,厨师,厨师,,tou sɯ,tou55-31 sɯ33,tou sɯ,tou55-31 sɯ33
+ST,Shantou,97,乞丐,乞食,,kˈɯk tsiaʔ,kˈɯk2-5 tsiaʔ5,kʰɯk t͡siaʔ,kʰɯk2-5 t͡siaʔ5
+ST,Shantou,98,保姆,保姆,,po m,po53-24 m53,po m,po53-24 m53
+ST,Shantou,99,病了,人孬,,naŋ mõ,naŋ55 mõ53-213,naŋ mõ,naŋ55 mõ53-213
+ST,Shantou,100,伤风,寒着,,kuã tioʔ,kuã55 tioʔ5-2,kuã tioʔ,kuã55 tioʔ5-2
+ST,Shantou,101,泻肚,□屎,,lau sai,lau213-55 sai53,lau sai,lau213-55 sai53
+ST,Shantou,102,瘸子,拐骹,,kuai kˈa,kuai53-24 kˈa33,kuai kʰa,kuai53-24 kʰa33
+ST,Shantou,103,驼背,腰疴,,io ku,io33 ku33,io ku,io33 ku33
+ST,Shantou,104,死了,死去 ,,si kˈɯ,si53 kˈɯ213-31,si kʰɯ,si53 kʰɯ213-31
+ST,Shantou,105,看病,睇医生,,tˈõi ui seŋ,tˈõi53-24 ui33 seŋ33,tʰõi ui seŋ,tʰõi53-24 ui33 seŋ33
+ST,Shantou,106,我,我,,ua,ua53,ua,ua53
+ST,Shantou,107,你,汝,,lɯ,lɯ53,lɯ,lɯ53
+ST,Shantou,108,他,伊,,i,i33,i,i33
+ST,Shantou,109,我们,阮,,uaŋ,uaŋ53,uaŋ,uaŋ53
+ST,Shantou,110,你们,恁,,niŋ,niŋ53,niŋ,niŋ53
+ST,Shantou,111,他们,伊人,,i naŋ,i33 naŋ55-31,i naŋ,i33 naŋ55-31
+ST,Shantou,112,咱们,俺 ,,naŋ,naŋ53,naŋ,naŋ53
+ST,Shantou,113,自己,家己,,ka ki,ka33 ki31,ka ki,ka33 ki31
+ST,Shantou,114,谁,地俢,,ti tiaŋ,ti31 tiaŋ55,ti tiaŋ,ti31 tiaŋ55
+ST,Shantou,115,什么,乜个,,mĩʔ kai,mĩʔ2-5 kai55,mĩʔ kai,mĩʔ2-5 kai55
+ST,Shantou,116,这里,只块,,tsi ko,tsi53-24 ko213,t͡si ko,t͡si53-24 ko213
+ST,Shantou,117,那里,许块,,hɯ ko,hɯ53-24 ko213,hɯ ko,hɯ53-24 ko213
+ST,Shantou,118,哪里,地块,,ti ko,ti31 ko213,ti ko,ti31 ko213
+ST,Shantou,119,这个,只个,,tsi kai,tsi53 kai55-31,t͡si kai,t͡si53 kai55-31
+ST,Shantou,120,那个,许个,,hɯ kai,hɯ53 kai55-31,hɯ kai,hɯ53 kai55-31
+ST,Shantou,121,哪一个,地一个,,ti tsek kai,ti31 tsek5-2 kai55,ti t͡sek kai,ti31 t͡sek5-2 kai55
+ST,Shantou,122,怎么样,乜生样,,mĩʔ sẽ iõ,mĩʔ2-5 sẽ33 iõ31,mĩʔ sẽ iõ,mĩʔ2-5 sẽ33 iõ31
+ST,Shantou,123,一位客人,,,,,,
+ST,Shantou,124,粗,,,,,,
+ST,Shantou,125,细,,,,,,
+ST,Shantou,126,长,长 ,,tɯŋ,tɯŋ55,tɯŋ,tɯŋ55
+ST,Shantou,127,短,短,,to,to53,to,to53
+ST,Shantou,128,脏,□□,,tsˈi ĩ,tsˈi33 ĩ55,t͡sʰi ĩ,t͡sʰi33 ĩ55
+ST,Shantou,129,干净,清气,,tsˈeŋ kˈi,tsˈeŋ33 kˈi213,t͡sʰeŋ kʰi,t͡sʰeŋ33 kʰi213
+ST,Shantou,130,便宜,□,,pˈĩ,pˈĩ33,pʰĩ,pʰĩ33
+ST,Shantou,131,刚(来),□正,,tã tsiã,tã33 tsiã213,tã t͡siã,tã33 t͡siã213
+ST,Shantou,132,刚(合适),啱啱,,ŋam ŋam,ŋam33 ŋam33,ŋam ŋam,ŋam33 ŋam33
+ST,Shantou,133,正好,啱啱,,ŋam ŋam,ŋam33 ŋam33,ŋam ŋam,ŋam33 ŋam33
+ST,Shantou,134,和,佮,,kaʔ,kaʔ2,kaʔ,kaʔ2
+ST,Shantou,135,只,清,,tsˈeŋ,tsˈeŋ33,t͡sʰeŋ,t͡sʰeŋ33
+ST,Shantou,136,从,同,,taŋ,taŋ55,taŋ,taŋ55
+ST,Shantou,137,替,佮,,kaʔ,kaʔ2,kaʔ,kaʔ2
+ST,Shantou,138,拿,挈,,kˈioʔ,kˈioʔ5,kʰioʔ,kʰioʔ5
+ST,Shantou,139,故意,专,,tsuaŋ,tsuaŋ33,t͡suaŋ,t͡suaŋ33
+ST,Shantou,140,一,蜀,,tsek,tsek5,t͡sek,t͡sek5
+ST,Shantou,141,二,两,,nõ,nõ35,nõ,nõ35
+ST,Shantou,142,三,三,,sã,sã33,sã,sã33
+ST,Shantou,143,四,四,,si,si213,si,si213
+ST,Shantou,144,五,五,,ŋõu,ŋõu35,ŋõu,ŋõu35
+ST,Shantou,145,六,六,,lak,lak5,lak,lak5
+ST,Shantou,146,七,七,,tsˈik,tsˈik2,t͡sʰik,t͡sʰik2
+ST,Shantou,147,九,九,,kau,kau53,kau,kau53
+ST,Shantou,148,十,十,,tsap,tsap5,t͡sap,t͡sap5
+ST,Shantou,149,十一,十一,,tsap ik,tsap5-2 ik2,t͡sap ik,t͡sap5-2 ik2
+ST,Shantou,150,十二,十二,,tsap zi,tsap5-2 zi35,t͡sap zi,t͡sap5-2 zi35
+ST,Shantou,151,二十,二十,,zi tsap,zi35-31 tsap5,zi t͡sap,zi35-31 t͡sap5
+ST,Shantou,152,二十一,二十一,,zi tsap ik,zi35-31 tsap5-2 ik2,zi t͡sap ik,zi35-31 t͡sap5-2 ik2
+ST,Shantou,153,一百二十一,,,,,,
+ST,Shantou,154,第二,第二,,tõi zi,tõi35-31 zi35,tõi zi,tõi35-31 zi35
+ST,Shantou,155,二两,两两,,nõ niõ,nõ35-31 niõ53,nõ niõ,nõ35-31 niõ53
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

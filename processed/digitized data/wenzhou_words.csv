@@ -1,0 +1,178 @@
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+WZ,Wenzhou,1,太阳,太阳,,tˈa ji,tˈa42-22 ji31-12,tʰa42-22 ji31-12,tʰa ji
+WZ,Wenzhou,2,月亮,月光 ,,ȵy kuɔ,ȵy213-21 kuɔ33,ɲy213-21 kuɔ33,ɲy kuɔ
+WZ,Wenzhou,3,星星,星,,seŋ,seŋ33,seŋ33,seŋ
+WZ,Wenzhou,4,打雷,打雷 ,,tiɛ lai,tiɛ35-21 lai31,tiɛ35-21 lai31,tiɛ lai
+WZ,Wenzhou,5,闪电,烁电 ,,ɕa di,ɕa213-21 di22,ɕa213-21 di22,ɕa di
+WZ,Wenzhou,6,下雨,落雨 ,,lo vu,lo213-21 vu35,lo213-21 vu35,lo vu
+WZ,Wenzhou,7,下雪,落雪 ,,lo ɕy,lo213-21 ɕy213-13,lo213-21 ɕy213-13,lo ɕy
+WZ,Wenzhou,8,冰雹,龙雹 ,,liɛ bu,liɛ31-35 bu213-13,liɛ31-35 bu213-13,liɛ bu
+WZ,Wenzhou,9,结冰,结冰 ,,tɕi peŋ,tɕi213-21 peŋ33,t͡ɕi213-21 peŋ33,t͡ɕi peŋ
+WZ,Wenzhou,10,刮风,打风 ,,tiɛ hoŋ,tiɛ35-21 hoŋ33,tiɛ35-21 hoŋ33,tiɛ hoŋ
+WZ,Wenzhou,11,虹,鲎 ,,hau,hau42,hau42,hau
+WZ,Wenzhou,12,端午节,重五 ,,dʑyɔ ŋ̩,dʑyɔ31-42 ŋ̩35,dʑyɔ31-42 ŋ̩35,dʑyɔ ŋ̩
+WZ,Wenzhou,13,中秋节,八月十五 ,,po ȵy zai ŋ,po213-21 ȵy213-21 zai213-21 ŋ35,po213-21 ɲy213-21 zai213-21 ŋ35,po ɲy zai ŋ
+WZ,Wenzhou,14,除夕,三十日黄昏 ,,sa zai ȵai ɦa ɕy,sa33-21 zai213-35 ȵai213-13 ɦa31-22 ɕy33,sa33-21 zai213-35 ɲai213-13 ɦa31-22 ɕy33,sa zai ɲai ɦa ɕy
+WZ,Wenzhou,15,今年,居年 ,,ke ȵi,ke213-22 ȵi12,ke213-22 ɲi12,ke ɲi
+WZ,Wenzhou,16,明年,明年 ,,maŋ ȵi,maŋ31-22 ȵi31-12,maŋ31-22 ɲi31-12,maŋ ɲi
+WZ,Wenzhou,17,去年,旧年 ,,dʑau ȵi,dʑau22-22 ȵi31-12,dʑau22-22 ɲi31-12,dʑau ɲi
+WZ,Wenzhou,18,明天,明朝 ,,maŋ tɕiɛ,maŋ31-22 tɕiɛ33,maŋ31-22 t͡ɕiɛ33,maŋ t͡ɕiɛ
+WZ,Wenzhou,19,昨天,昨夜 ,,zo ji,zo31-22 ji22-42,zo31-22 ji22-42,zo ji
+WZ,Wenzhou,20,今天,居日 ,,ke ne,ke213-21 ne213-13,ke213-21 ne213-13,ke ne
+WZ,Wenzhou,21,星期天,礼拜日 ,,lei pa ne,lei35-21 pa42-35 ne213-13,lei35-21 pa42-35 ne213-13,lei pa ne
+WZ,Wenzhou,22,麦子,麦 ,,ma,ma213,ma213,ma
+WZ,Wenzhou,23,大米,米,,mei,mei35,mei35,mei
+WZ,Wenzhou,24,蚕豆,淮豆 ,,va dɤu,va31-22 dɤu22-42,va31-22 dɤu22-42,va dɤu
+WZ,Wenzhou,25,向日葵,太阳佛花 ,,tˈa ji vai ho,tˈa42-21 ji31-21 vai213-42 ho33,tʰa42-21 ji31-21 vai213-42 ho33,tʰa ji vai ho
+WZ,Wenzhou,26,菠菜,菠棱菜 ,,pa laŋ tsˈe,pa33-35 laŋ31-22 tsˈe42,pa33-35 laŋ31-22 t͡sʰe42,pa laŋ t͡sʰe
+WZ,Wenzhou,27,卷心菜,球菜 ,,dʑau tsˈe,dʑau31-22 tsˈe42,dʑau31-22 t͡sʰe42,dʑau t͡sʰe
+WZ,Wenzhou,28,西红柿,番茄 ,,fa ga,fa33-22 ga31-12,fa33-22 ga31-12,fa ga
+WZ,Wenzhou,29,茄子,茄儿 ,,dzɿ ŋ̩,dzɿ31-22 ŋ̩31-12,dzɹ̩31-22 ŋ̩31-12,dzɹ̩ ŋ̩
+WZ,Wenzhou,30,白薯,番薯 ,,fa zei,fa33-22 zei31-12,fa33-22 zei31-12,fa zei
+WZ,Wenzhou,31,马铃薯,番侬芋 ,,fa naŋ vu,fa33-35 naŋ31-22 vu22-42,fa33-35 naŋ31-22 vu22-42,fa naŋ vu
+WZ,Wenzhou,32,南瓜,金瓜 ,,tɕaŋ ko,tɕaŋ33 ko33,t͡ɕaŋ33 ko33,t͡ɕaŋ ko
+WZ,Wenzhou,33,猪,猪,,tsei,tsei33,t͡sei33,t͡sei
+WZ,Wenzhou,34,公猪,雄个猪 ,,joŋ ke tsei,joŋ33 ke42-21 tsei33,joŋ33 ke42-21 t͡sei33,joŋ ke t͡sei
+WZ,Wenzhou,35,母猪,草个猪 ,,tsˈɜ ke tsei,tsˈɜ35 ke42-45 tsei33,t͡sʰɜ35 ke42-45 t͡sei33,t͡sʰɜ ke t͡sei
+WZ,Wenzhou,36,公鸡,雄鸡 ,,joŋ tsɿ,joŋ31-22 tsɿ33,joŋ31-22 t͡sɹ̩33,joŋ t͡sɹ̩
+WZ,Wenzhou,37,母鸡,草鸡 ,,tsˈɜ tsɿ,tsˈɜ35-42 tsɿ33,t͡sʰɜ35-42 t͡sɹ̩33,t͡sʰɜ t͡sɹ̩
+WZ,Wenzhou,38,麻雀,雀儿 ,,tɕi ŋ̩,tɕi213-22 ŋ̩31-12,t͡ɕi213-22 ŋ̩31-12,t͡ɕi ŋ̩
+WZ,Wenzhou,39,老鼠,老鼠 ,,lɜ tsˈei,lɜ35-42 tsˈei35,lɜ35-42 t͡sʰei35,lɜ t͡sʰei
+WZ,Wenzhou,40,臭虫,茭虱 ,,kuɔ sai,kuɔ33-35 sai213-13,kuɔ33-35 sai213-13,kuɔ sai
+WZ,Wenzhou,41,房子(整),屋宕 ,,vu duɔ,vu213-21 duɔ35,vu213-21 duɔ35,vu duɔ
+WZ,Wenzhou,42,房子(单),房间 ,,ɦuɔ ka,ɦuɔ31-22 ka33,ɦuɔ31-22 ka33,ɦuɔ ka
+WZ,Wenzhou,43,窗户,窗 ,,tɕˈyɔ,tɕˈyɔ3,t͡ɕʰyɔ3,t͡ɕʰyɔ
+WZ,Wenzhou,44,门坎,门槛 ,,maŋ kˈa,maŋ31-42 kˈa35,maŋ31-42 kʰa35,maŋ kʰa
+WZ,Wenzhou,45,厕所,茅坑 ,,muɔ kˈiɛ,muɔ31-22 kˈiɛ33,muɔ31-22 kʰiɛ33,muɔ kʰiɛ
+WZ,Wenzhou,46,厨房,镬灶间 ,,ɦo tsɜ ka,ɦo213-21 tsɜ42 ka33,ɦo213-21 t͡sɜ42 ka33,ɦo t͡sɜ ka
+WZ,Wenzhou,47,烟囱,烟囱 ,,ji tɕˈoŋ,ji33 tɕˈoŋ33,ji33 t͡ɕʰoŋ33,ji t͡ɕʰoŋ
+WZ,Wenzhou,48,桌子,桌 ,,tɕo,tɕo213,t͡ɕo213,t͡ɕo
+WZ,Wenzhou,49,楼梯,楼梯 ,,tɕolau tˈei,tɕo213lau31-22 tˈei33,t͡ɕo213lau31-22 tʰei33,t͡ɕolau tʰei
+WZ,Wenzhou,50,头,头,,dɤu,dɤu31,dɤu31,dɤu
+WZ,Wenzhou,51,额头,额头 ,,ŋa dɤu,ŋa213-22 dɤu31-12,ŋa213-22 dɤu31-12,ŋa dɤu
+WZ,Wenzhou,52,脸,面 ,,mi,mi22,mi22,mi
+WZ,Wenzhou,53,鼻子,鼻头 ,,bei dɤu,bei213-22 dɤu31-12,bei213-22 dɤu31-12,bei dɤu
+WZ,Wenzhou,54,脖子,头颈 ,,dɤu tɕaŋ,dɤu31-42 tɕaŋ35,dɤu31-42 t͡ɕaŋ35,dɤu t͡ɕaŋ
+WZ,Wenzhou,55,左手,济手 ,,tsei ɕɤu,tsei42 ɕɤu35,t͡sei42 ɕɤu35,t͡sei ɕɤu
+WZ,Wenzhou,56,右手,顺手 ,,joŋ ɕɤu,joŋ22-42 ɕɤu35,joŋ22-42 ɕɤu35,joŋ ɕɤu
+WZ,Wenzhou,57,拳头,拳头 ,,dʑy dɤu,dʑy31-22 dɤu31-12,dʑy31-22 dɤu31-12,dʑy dɤu
+WZ,Wenzhou,58,手指头,手指头儿 ,,ɕɤu tsɿ dʑy ŋ̩,ɕɤu35-21 tsɿ35 dʑy31-22 ŋ̩31-12,ɕɤu35-21 t͡sɹ̩35 dʑy31-22 ŋ̩31-12,ɕɤu t͡sɹ̩ dʑy ŋ̩
+WZ,Wenzhou,59,指甲,指甲 ,,tsɿ ka,tsɿ35 ka213-13,t͡sɹ̩35 ka213-13,t͡sɹ̩ ka
+WZ,Wenzhou,60,膝盖,脚□头 ,,tɕa kˈy dɤu,tɕa213-35 kˈy213-22 dɤu31-12,t͡ɕa213-35 kʰy213-22 dɤu31-12,t͡ɕa kʰy dɤu
+WZ,Wenzhou,61,腿,腿 ,,tˈai,tˈai35,tʰai35,tʰai
+WZ,Wenzhou,62,父亲,阿伯 ,,a pa,a33-21 pa213-13,a33-21 pa213-13,a pa
+WZ,Wenzhou,63,母亲,阿妈 ,,a ma,a33-21 ma35,a33-21 ma35,a ma
+WZ,Wenzhou,64,祖父,阿爷 ,,a ji,a33-21 ji31,a33-21 ji31,a ji
+WZ,Wenzhou,65,祖母,娘娘 ,,ȵi ȵi,ȵi31-21 ȵi31,ɲi31-21 ɲi31,ɲi ɲi
+WZ,Wenzhou,66,伯父,伯伯 ,,pa pa,pa213-21 pa213-13,pa213-21 pa213-13,pa pa
+WZ,Wenzhou,67,伯母,阿姥 ,,a mo,a33-21 mo33,a33-21 mo33,a mo
+WZ,Wenzhou,68,叔父,阿叔 ,,a ɕɤy,a33-21 ɕɤy213,a33-21 ɕɤy213,a ɕɤy
+WZ,Wenzhou,69,叔母,阿婶,,a saŋ,a33-21 saŋ35,a33-21 saŋ35,a saŋ
+WZ,Wenzhou,70,外祖父,阿爷 ,,a ji,a33-21 ji31,a33-21 ji31,a ji
+WZ,Wenzhou,71,外祖母,娘娘 ,,ȵi ȵi,ȵi31-21 ȵi31,ɲi31-21 ɲi31,ɲi ɲi
+WZ,Wenzhou,72,舅舅,舅舅 ,,dʑau dʑau,dʑau35-21 dʑau35,dʑau35-21 dʑau35,dʑau dʑau
+WZ,Wenzhou,73,舅母,妗娘儿,,,,,
+WZ,Wenzhou,74,丈夫,老公,,lɜ koŋ,lɜ35-42 koŋ33,lɜ35-42 koŋ33,lɜ koŋ
+WZ,Wenzhou,75,妻子,老安,,lɜ jy,lɜ35-42 jy33,lɜ35-42 jy33,lɜ jy
+WZ,Wenzhou,76,儿子,儿,,ŋ̩,ŋ̩31,ŋ̩31,ŋ̩
+WZ,Wenzhou,77,女儿,女儿 ,,na ŋ̩,na35-42 ŋ̩31-21,na35-42 ŋ̩31-21,na ŋ̩
+WZ,Wenzhou,78,早饭,天光厨 ,,tˈi kuɔ dzɿ,tˈi33-35 kuɔ33-22 dzɿ31-12,tʰi33-35 kuɔ33-22 dzɹ̩31-12,tʰi kuɔ dzɹ̩
+WZ,Wenzhou,79,午饭,日昼厨 ,,ne tɕɤu dzɿ,ne213-35 tɕɤu42-22 dzɿ31-12,ne213-35 t͡ɕɤu42-22 dzɹ̩31-12,ne t͡ɕɤu dzɹ̩
+WZ,Wenzhou,80,晚饭,黄昏厨 ,,ɦa ɕy dzɿ,ɦa31-35 ɕy33-22 dzɿ31-12,ɦa31-35 ɕy33-22 dzɹ̩31-12,ɦa ɕy dzɹ̩
+WZ,Wenzhou,81,面条,面 ,,mi,mi22,mi22,mi
+WZ,Wenzhou,82,馒头,实心包 ,,zai saŋ puɔ,zai213-21 saŋ33 puɔ33,zai213-21 saŋ33 puɔ33,zai saŋ puɔ
+WZ,Wenzhou,83,包子,馒头 ,,mø dɤu,mø31-22 dɤu31-12,mø31-22 dɤu31-12,mø dɤu
+WZ,Wenzhou,84,馄饨,馄饨 ,,vaŋ daŋ,vaŋ31-22 daŋ31-12,vaŋ31-22 daŋ31-12,vaŋ daŋ
+WZ,Wenzhou,85,醋,醋,,tsˈøy,tsˈøy42,t͡sʰøy42,t͡sʰøy
+WZ,Wenzhou,86,酱油,酱油 ,,tɕi jau,tɕi42-22 jau31-12,t͡ɕi42-22 jau31-12,t͡ɕi jau
+WZ,Wenzhou,87,盐,盐,,ji,ji31,ji31,ji
+WZ,Wenzhou,88,筷子,箸,,dzei,dzei22,dzei22,dzei
+WZ,Wenzhou,89,勺儿,挑儿,,tˈiɛ ŋ̩,tˈiɛ333-22 ŋ̩31-12,tʰiɛ333-22 ŋ̩31-12,tʰiɛ ŋ̩
+WZ,Wenzhou,90,男人,男子客 ,,nø tsɿ kˈa,nø31-21 tsɿ35 kˈa213-13,nø31-21 t͡sɹ̩35 kʰa213-13,nø t͡sɹ̩ kʰa
+WZ,Wenzhou,91,女人,老人客,,lɜ ȵaŋ kˈa,lɜ35-21 ȵaŋ31-35 kˈa213-13,lɜ35-21 ɲaŋ31-35 kʰa213-13,lɜ ɲaŋ kʰa
+WZ,Wenzhou,92,男孩子,男儿,,nø ŋ̩,nø31-22 ŋ̩31-12,nø31-22 ŋ̩31-12,nø ŋ̩
+WZ,Wenzhou,93,女孩子,女儿 ,,na ŋ̩,na35-42 ŋ̩31-12,na35-42 ŋ̩31-12,na ŋ̩
+WZ,Wenzhou,94,老头儿,老老,,lɜ lɜ,lɜ35-21 lɜ35,lɜ35-21 lɜ35,lɜ lɜ
+WZ,Wenzhou,95,医生,医生 ,,ji siɛ,ji33 siɛ33,ji33 siɛ33,ji siɛ
+WZ,Wenzhou,96,厨师,厨房老师 ,,dzɿ ɦuɔ lɜ sɿ,dzɿ31-21 ɦuɔ31-21 lɜ35-42 sɿ33,dzɹ̩31-21 ɦuɔ31-21 lɜ35-42 sɹ̩33,dzɹ̩ ɦuɔ lɜ sɹ̩
+WZ,Wenzhou,97,乞丐,丐儿,,kˈø ŋ̩,kˈø213-22 ŋ̩31-12,kʰø213-22 ŋ̩31-12,kʰø ŋ̩
+WZ,Wenzhou,98,保姆,阿姥 ,,a mo,a33-21 mo33,a33-21 mo33,a mo
+WZ,Wenzhou,99,病了,生病 ,,siɛ beŋ,siɛ33-22 beŋ22-42,siɛ33-22 beŋ22-42,siɛ beŋ
+WZ,Wenzhou,100,伤风,伤风 ,,ɕi hoŋ,ɕi33 hoŋ33,ɕi33 hoŋ33,ɕi hoŋ
+WZ,Wenzhou,101,泻肚,泻肚 ,,sei døy,sei42 døy35,sei42 døy35,sei døy
+WZ,Wenzhou,102,瘸子,躄脚 ,,pˈi tɕa,pˈi213-21 tɕa213-13,pʰi213-21 t͡ɕa213-13,pʰi t͡ɕa
+WZ,Wenzhou,103,驼背,佝背 ,,hau pai,hau33-22 pai42,hau33-22 pai42,hau pai
+WZ,Wenzhou,104,死了,死爻 ,,sɿ ɦuɔ,sɿ35 ɦuɔ31-45,sɹ̩35 ɦuɔ31-45,sɹ̩ ɦuɔ
+WZ,Wenzhou,105,看病,□病 ,,tsˈɿ beŋ,tsˈɿ42-21 beŋ22,t͡sʰɹ̩42-21 beŋ22,t͡sʰɹ̩ beŋ
+WZ,Wenzhou,106,我,我,,ŋ̩,ŋ̩35,ŋ̩35,ŋ̩
+WZ,Wenzhou,107,你,你,,ȵi,ȵi35,ɲi35,ɲi
+WZ,Wenzhou,108,他,渠,,gi,gi31,gi31,gi
+WZ,Wenzhou,109,我们,我俫 ,,ŋ̩ le,ŋ̩35 le31-45,ŋ̩35 le31-45,ŋ̩ le
+WZ,Wenzhou,110,你们,你俫 ,,ȵi le,ȵi35 le31-45,ɲi35 le31-45,ɲi le
+WZ,Wenzhou,111,他们,渠俫,,gi le,gi31 le31-21,gi31 le31-21,gi le
+WZ,Wenzhou,112,咱们,我伉你 ,,ŋuɔ ȵi,ŋuɔ35 ȵi35-45,ŋuɔ35 ɲi35-45,ŋuɔ ɲi
+WZ,Wenzhou,113,自己,自,,zɿ,zɿ22,zɹ̩22,zɹ̩
+WZ,Wenzhou,114,谁,样侬 ,,ȵi naŋ,ȵi42 naŋ31-21,ɲi42 naŋ31-21,ɲi naŋ
+WZ,Wenzhou,115,什么,何样 ,,ga ȵi,ga31-21 ȵi42-31,ga31-21 ɲi42-31,ga ɲi
+WZ,Wenzhou,116,这里,居里 ,,ke lei,ke213-21 lei35-33,ke213-21 lei35-33,ke lei
+WZ,Wenzhou,117,那里,旁埯 ,,buɔ ta,buɔ31-22 ta213-33,buɔ31-22 ta213-33,buɔ ta
+WZ,Wenzhou,118,哪里,若屋宕 ,,ȵau duɔ,ȵau213-21 duɔ35,ɲau213-21 duɔ35,ɲau duɔ
+WZ,Wenzhou,119,这个,居个 ,,ki kai,ki213 kai42-12,ki213 kai42-12,ki kai
+WZ,Wenzhou,120,那个,许个 ,,he kai,he35 kai42-45,he35 kai42-45,he kai
+WZ,Wenzhou,121,哪一个,若屋个 ,,ȵau kai,ȵau213 kai42-12,ɲau213 kai42-12,ɲau kai
+WZ,Wenzhou,122,怎么样,訾那能,,tsɿ na naŋ,tsɿ33-22 na31-12 naŋ31-12,t͡sɹ̩33-22 na31-12 naŋ31-12,t͡sɹ̩ na naŋ
+WZ,Wenzhou,123,一位客人,个,,kai,kai42-21,kai42-21,kai
+WZ,Wenzhou,124,粗,粗 ,,tɕˈøy,tɕˈøy33,t͡ɕʰøy33,t͡ɕʰøy
+WZ,Wenzhou,125,细,细,,sei,sei42,sei42,sei
+WZ,Wenzhou,126,长,长,,dʑi,dʑi31,dʑi31,dʑi
+WZ,Wenzhou,127,短,短,,tø,tø35,tø35,tø
+WZ,Wenzhou,128,脏,鏖糟 ,,ɜ tsɜ,ɜ33 tsɜ33,ɜ33 t͡sɜ33,ɜ t͡sɜ
+WZ,Wenzhou,129,干净,了滞 ,,liɛ dzei,liɛ35-42 dzei22,liɛ35-42 dzei22,liɛ dzei
+WZ,Wenzhou,130,便宜,便宜,,bi ji,bi31-22 ji31-12,bi31-22 ji31-12,bi ji
+WZ,Wenzhou,131,刚(来),新,,saŋ,saŋ33,saŋ33,saŋ
+WZ,Wenzhou,132,刚(合适),正好 ,,tseŋ hɜ,tseŋ42 hɜ35,t͡seŋ42 hɜ35,t͡seŋ hɜ
+WZ,Wenzhou,133,正好,正好 ,,tseŋ hɜ,tseŋ42 hɜ35,t͡seŋ42 hɜ35,t͡seŋ hɜ
+WZ,Wenzhou,134,和,伉 ,,kˈuɔ,kˈuɔ42,kʰuɔ42,kʰuɔ
+WZ,Wenzhou,135,只,只 ,,tsɿ,tsɿ213,t͡sɹ̩213,t͡sɹ̩
+WZ,Wenzhou,136,从,从 ,,juɔ,juɔ31,juɔ31,juɔ
+WZ,Wenzhou,137,替,代,,de,de22,de22,de
+WZ,Wenzhou,138,拿,用 ,,jyɔ,jyɔ22,jyɔ22,jyɔ
+WZ,Wenzhou,139,故意,故意 ,,ku ji,ku42 ji42-21,ku42 ji42-21,ku ji
+WZ,Wenzhou,140,一,一,,jai,jai213,jai213,jai
+WZ,Wenzhou,141,二,二,,ŋ̩,ŋ̩22,ŋ̩22,ŋ̩
+WZ,Wenzhou,142,三,三,,sa,sa33,sa33,sa
+WZ,Wenzhou,143,四,四,,sɿ,sɿ42,sɹ̩42,sɹ̩
+WZ,Wenzhou,144,五,五,,ŋ̩,ŋ̩35,ŋ̩35,ŋ̩
+WZ,Wenzhou,145,六,六,,lɤu,lɤu213,lɤu213,lɤu
+WZ,Wenzhou,146,七,七,,tsˈai,tsˈai213,t͡sʰai213,t͡sʰai
+WZ,Wenzhou,147,九,九,,tɕau,tɕau35,t͡ɕau35,t͡ɕau
+WZ,Wenzhou,148,十,十,,zai,zai213,zai213,zai
+WZ,Wenzhou,149,十一,十一,,zai jai,zai213-21 jai213-13,zai213-21 jai213-13,zai jai
+WZ,Wenzhou,150,十二,十二,,zai ŋ̩,zai213-21 ŋ̩22,zai213-21 ŋ̩22,zai ŋ̩
+WZ,Wenzhou,151,二十,念 ,,ȵi,ȵi22,ɲi22,ɲi
+WZ,Wenzhou,152,二十一,念一 ,,ȵi jai,ȵi22-35 jai213-13,ɲi22-35 jai213-13,ɲi jai
+WZ,Wenzhou,153,一百二十一,一百念一,,ji pa ȵi jai,ji213-21 pa213-21 ȵi22-35 jai213-13,ji213-21 pa213-21 ɲi22-35 jai213-13,ji pa ɲi jai
+WZ,Wenzhou,154,第二,第二,,dei ŋ̩,dei22-21 ŋ̩22,dei22-21 ŋ̩22,dei ŋ̩
+WZ,Wenzhou,155,二两,两两,,liɛ li,liɛ35 li35,liɛ35 li35,liɛ li
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
+WZ,Wenzhou,,,,,,,,
