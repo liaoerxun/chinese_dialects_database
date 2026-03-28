@@ -1,169 +1,167 @@
 dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
-HB,Harbin,1,太阳,太阳,,tˈai iaŋ,tˈai53 iaŋ,tʰai53 iaŋ,tʰai iaŋ
-HB,Harbin,2,月亮,月亮,,yɛ liaŋ,yɛ53 liaŋ,yɛ53 liaŋ,yɛ liaŋ
-HB,Harbin,3,星星,星星 ,,ɕiŋ ɕiŋ,ɕiŋ44 ɕiŋ,ɕiŋ44 ɕiŋ,ɕiŋ ɕiŋ
-HB,Harbin,4,打雷,打雷,,ta lei,ta21321 lei24,ta21321 lei24,ta lei
-HB,Harbin,5,闪电,打闪 ,,ta ʂan,ta21324 ʂan213,ta21324 ʂan213,ta ʂan
-HB,Harbin,6,下雨,下雨 ,,ɕia y,ɕia53 y213,ɕia53 y213,ɕia y
-HB,Harbin,7,下雪,下雪 ,,ɕia ɕyɛ,ɕia53 ɕyɛ213,ɕia53 ɕyɛ213,ɕia ɕyɛ
-HB,Harbin,8,冰雹,雹子 ,,pau tsɿ,pau24 tsɿ,pau24 t͡sɹ̩,pau t͡sɹ̩
-HB,Harbin,9,结冰,冻冰,,tuŋ piŋ,tuŋ53 piŋ44,tuŋ53 piŋ44,tuŋ piŋ
-HB,Harbin,10,刮风,刮风 ,,kua fəŋ,kua21321 fəŋ44,kua21321 fəŋ44,kua fəŋ
+HB,Harbin,1,太阳,太阳,,tˈai iaŋ,tˈai53 iaŋ,tʰai53iaŋ,tʰaiiaŋ
+HB,Harbin,2,月亮,月亮,,yɛ liaŋ,yɛ53 liaŋ,yɛ53liaŋ,yɛliaŋ
+HB,Harbin,3,星星,星星 ,,ɕiŋ ɕiŋ,ɕiŋ44 ɕiŋ,ɕiŋ44ɕiŋ,ɕiŋɕiŋ
+HB,Harbin,4,打雷,打雷,,ta lei,ta21321 lei24,ta21321lei24,talei
+HB,Harbin,5,闪电,打闪 ,,ta ʂan,ta21324 ʂan213,ta21324ʂan213,taʂan
+HB,Harbin,6,下雨,下雨 ,,ɕia y,ɕia53 y213,ɕia53y213,ɕiay
+HB,Harbin,7,下雪,下雪 ,,ɕia ɕyɛ,ɕia53 ɕyɛ213,ɕia53ɕyɛ213,ɕiaɕyɛ
+HB,Harbin,8,冰雹,雹子 ,,pau tsɿ,pau24 tsɿ,pau24t͡sɹ̩,paut͡sɹ̩
+HB,Harbin,9,结冰,冻冰,,tuŋ piŋ,tuŋ53 piŋ44,tuŋ53piŋ44,tuŋpiŋ
+HB,Harbin,10,刮风,刮风 ,,kua fəŋ,kua21321 fəŋ44,kua21321fəŋ44,kuafəŋ
 HB,Harbin,11,虹,虹,,kaŋ,kaŋ53,kaŋ53,kaŋ
-HB,Harbin,12,端午节,五月节 ,,u yɛ tɕiɛ,u21321 yɛ53 tɕiɛ213,u21321 yɛ53 t͡ɕiɛ213,u yɛ t͡ɕiɛ
-HB,Harbin,13,中秋节,八月节 ,,pa yɛ tɕiɛ,pa4424 yɛ53 tɕiɛ213,pa4424 yɛ53 t͡ɕiɛ213,pa yɛ t͡ɕiɛ
-HB,Harbin,14,除夕,三十儿晚上,,san ʂər uan ʂaŋ,san44 ʂər24 uan21321 ʂaŋ,san44 ʂər24 uan21321 ʂaŋ,san ʂər uan ʂaŋ
-HB,Harbin,15,今年,今年 ,,tɕin nian,tɕin44 nian24,t͡ɕin44 nian24,t͡ɕin nian
-HB,Harbin,16,明年,来年 ,,lai nian,lai24 nian24,lai24 nian24,lai nian
-HB,Harbin,17,去年,去年 ,,tɕˈy nian,tɕˈy53 nian24,t͡ɕʰy53 nian24,t͡ɕʰy nian
-HB,Harbin,18,明天,明天 ,,miŋ tˈian,miŋ24 tˈian44,miŋ24 tʰian44,miŋ tʰian
-HB,Harbin,19,昨天,昨天 ,,tsuo tˈian,tsuo24 tˈian44,t͡suo24 tʰian44,t͡suo tʰian
-HB,Harbin,20,今天,今天 ,,tɕin tˈian,tɕin44 tˈian44,t͡ɕin44 tʰian44,t͡ɕin tʰian
-HB,Harbin,21,星期天,礼拜天 ,,li pai tˈian,li21321 pai53 tˈian44,li21321 pai53 tʰian44,li pai tʰian
-HB,Harbin,22,麦子,麦子 ,,mai tsɿ,mai53 tsɿ,mai53 t͡sɹ̩,mai t͡sɹ̩
-HB,Harbin,23,大米,大米,,ta mi,ta53 mi213,ta53 mi213,ta mi
-HB,Harbin,24,蚕豆,蚕豆,,tsˈan tou,tsˈan24 tou53,t͡sʰan24 tou53,t͡sʰan tou
-HB,Harbin,25,向日葵,大葵花 ,,ta kˈuei xua,ta53 kˈuei24 xua,ta53 kʰuei24 xua,ta kʰuei xua
-HB,Harbin,26,菠菜,菠菜 ,,pɤ tsˈai,pɤ44 tsˈai53,pɤ44 t͡sʰai53,pɤ t͡sʰai
-HB,Harbin,27,卷心菜,大头菜,,ta tˈou tsˈai,ta53 tˈou24 tsˈai53,ta53 tʰou24 t͡sʰai53,ta tʰou t͡sʰai
-HB,Harbin,28,西红柿,柿子 ,,ʂʅ tsɿ,ʂʅ53 tsɿ,ʂɻ̩53 t͡sɹ̩,ʂɻ̩ t͡sɹ̩
-HB,Harbin,29,茄子,茄子 ,,tɕˈiɛ tsɿ,tɕˈiɛ24 tsɿ,t͡ɕʰiɛ24 t͡sɹ̩,t͡ɕʰiɛ t͡sɹ̩
-HB,Harbin,30,白薯,地瓜,,ti kua,ti53 kua44,ti53 kua44,ti kua
-HB,Harbin,31,马铃薯,土豆儿,,tˈu tour,tˈu21321 tour53,tʰu21321 tour53,tʰu tour
-HB,Harbin,32,南瓜,倭瓜,,uo kua,uo44 kua,uo44 kua,uo kua
+HB,Harbin,12,端午节,五月节 ,,u yɛ tɕiɛ,u21321 yɛ53 tɕiɛ213,u21321yɛ53t͡ɕiɛ213,uyɛt͡ɕiɛ
+HB,Harbin,13,中秋节,八月节 ,,pa yɛ tɕiɛ,pa4424 yɛ53 tɕiɛ213,pa4424yɛ53t͡ɕiɛ213,payɛt͡ɕiɛ
+HB,Harbin,14,除夕,三十儿晚上,,san ʂər uan ʂaŋ,san44 ʂər24 uan21321 ʂaŋ,san44ʂər24uan21321ʂaŋ,sanʂəruanʂaŋ
+HB,Harbin,15,今年,今年 ,,tɕin nian,tɕin44 nian24,t͡ɕin44nian24,t͡ɕinnian
+HB,Harbin,16,明年,来年 ,,lai nian,lai24 nian24,lai24nian24,lainian
+HB,Harbin,17,去年,去年 ,,tɕˈy nian,tɕˈy53 nian24,t͡ɕʰy53nian24,t͡ɕʰynian
+HB,Harbin,18,明天,明天 ,,miŋ tˈian,miŋ24 tˈian44,miŋ24tʰian44,miŋtʰian
+HB,Harbin,19,昨天,昨天 ,,tsuo tˈian,tsuo24 tˈian44,t͡suo24tʰian44,t͡suotʰian
+HB,Harbin,20,今天,今天 ,,tɕin tˈian,tɕin44 tˈian44,t͡ɕin44tʰian44,t͡ɕintʰian
+HB,Harbin,21,星期天,礼拜天 ,,li pai tˈian,li21321 pai53 tˈian44,li21321pai53tʰian44,lipaitʰian
+HB,Harbin,22,麦子,麦子 ,,mai tsɿ,mai53 tsɿ,mai53t͡sɹ̩,mait͡sɹ̩
+HB,Harbin,23,大米,大米,,ta mi,ta53 mi213,ta53mi213,tami
+HB,Harbin,24,蚕豆,蚕豆,,tsˈan tou,tsˈan24 tou53,t͡sʰan24tou53,t͡sʰantou
+HB,Harbin,25,向日葵,大葵花 ,,ta kˈuei xua,ta53 kˈuei24 xua,ta53kʰuei24xua,takʰueixua
+HB,Harbin,26,菠菜,菠菜 ,,pɤ tsˈai,pɤ44 tsˈai53,pɤ44t͡sʰai53,pɤt͡sʰai
+HB,Harbin,27,卷心菜,大头菜,,ta tˈou tsˈai,ta53 tˈou24 tsˈai53,ta53tʰou24t͡sʰai53,tatʰout͡sʰai
+HB,Harbin,28,西红柿,柿子 ,,ʂʅ tsɿ,ʂʅ53 tsɿ,ʂɻ̩53t͡sɹ̩,ʂɻ̩t͡sɹ̩
+HB,Harbin,29,茄子,茄子 ,,tɕˈiɛ tsɿ,tɕˈiɛ24 tsɿ,t͡ɕʰiɛ24t͡sɹ̩,t͡ɕʰiɛt͡sɹ̩
+HB,Harbin,30,白薯,地瓜,,ti kua,ti53 kua44,ti53kua44,tikua
+HB,Harbin,31,马铃薯,土豆儿,,tˈu tour,tˈu21321 tour53,tʰu21321tour53,tʰutour
+HB,Harbin,32,南瓜,倭瓜,,uo kua,uo44 kua,uo44kua,uokua
 HB,Harbin,33,猪,猪 ,,tʂu,tʂu44,tʂu44,tʂu
-HB,Harbin,34,公猪,泡卵子,,pˈau lan tsɿ,pˈau44 lan21321 tsɿ,pʰau44 lan21321 t͡sɹ̩,pʰau lan t͡sɹ̩
-HB,Harbin,35,母猪,母猪 ,,mu tʂu,mu21321 tʂu44,mu21321 tʂu44,mu tʂu
-HB,Harbin,36,公鸡,公鸡 ,,kuŋ tɕi,kuŋ44 tɕi44,kuŋ44 t͡ɕi44,kuŋ t͡ɕi
-HB,Harbin,37,母鸡,母鸡,,mu tɕi,mu21321 tɕi44,mu21321 t͡ɕi44,mu t͡ɕi
-HB,Harbin,38,麻雀,家雀儿 ,,tɕia tɕˈiaur,tɕia44 tɕˈiaur213,t͡ɕia44 t͡ɕʰiaur213,t͡ɕia t͡ɕʰiaur
-HB,Harbin,39,老鼠,耗子,,xau tsɿ,xau53 tsɿ,xau53 t͡sɹ̩,xau t͡sɹ̩
-HB,Harbin,40,臭虫,臭虫,,tʂˈou tʂˈuŋ,tʂˈou53 tʂˈuŋ,tʂʰou53 tʂʰuŋ,tʂʰou tʂʰuŋ
-HB,Harbin,41,房子(整),房子,,faŋ tsɿ,faŋ24 tsɿ,faŋ24 t͡sɹ̩,faŋ t͡sɹ̩
-HB,Harbin,42,房子(单),屋子,,u tsɿ,u44 tsɿ,u44 t͡sɹ̩,u t͡sɹ̩
-HB,Harbin,43,窗户,窗户,,tʂˈuaŋ xu,tʂˈuaŋ44 xu,tʂʰuaŋ44 xu,tʂʰuaŋ xu
-HB,Harbin,44,门坎,门坎儿 ,,mən kˈar,mən24 kˈar213,mən24 kʰar213,mən kʰar
-HB,Harbin,45,厕所,茅楼儿,,mau lour,mau24 lour24,mau24 lour24,mau lour
-HB,Harbin,46,厨房,厨房 ,,tʂˈu faŋ,tʂˈu24 faŋ24,tʂʰu24 faŋ24,tʂʰu faŋ
-HB,Harbin,47,烟囱,烟筒,,ian tˈuŋ,ian44 tˈuŋ,ian44 tʰuŋ,ian tʰuŋ
-HB,Harbin,48,桌子,桌子,,tʂuo tsɿ,tʂuo44 tsɿ,tʂuo44 t͡sɹ̩,tʂuo t͡sɹ̩
-HB,Harbin,49,楼梯,楼梯 ,,lou tˈi,lou24 tˈi44,lou24 tʰi44,lou tʰi
+HB,Harbin,34,公猪,泡卵子,,pˈau lan tsɿ,pˈau44 lan21321 tsɿ,pʰau44lan21321t͡sɹ̩,pʰaulant͡sɹ̩
+HB,Harbin,35,母猪,母猪 ,,mu tʂu,mu21321 tʂu44,mu21321tʂu44,mutʂu
+HB,Harbin,36,公鸡,公鸡 ,,kuŋ tɕi,kuŋ44 tɕi44,kuŋ44t͡ɕi44,kuŋt͡ɕi
+HB,Harbin,37,母鸡,母鸡,,mu tɕi,mu21321 tɕi44,mu21321t͡ɕi44,mut͡ɕi
+HB,Harbin,38,麻雀,家雀儿 ,,tɕia tɕˈiaur,tɕia44 tɕˈiaur213,t͡ɕia44t͡ɕʰiaur213,t͡ɕiat͡ɕʰiaur
+HB,Harbin,39,老鼠,耗子,,xau tsɿ,xau53 tsɿ,xau53t͡sɹ̩,xaut͡sɹ̩
+HB,Harbin,40,臭虫,臭虫,,tʂˈou tʂˈuŋ,tʂˈou53 tʂˈuŋ,tʂʰou53tʂʰuŋ,tʂʰoutʂʰuŋ
+HB,Harbin,41,房子(整),房子,,faŋ tsɿ,faŋ24 tsɿ,faŋ24t͡sɹ̩,faŋt͡sɹ̩
+HB,Harbin,42,房子(单),屋子,,u tsɿ,u44 tsɿ,u44t͡sɹ̩,ut͡sɹ̩
+HB,Harbin,43,窗户,窗户,,tʂˈuaŋ xu,tʂˈuaŋ44 xu,tʂʰuaŋ44xu,tʂʰuaŋxu
+HB,Harbin,44,门坎,门坎儿 ,,mən kˈar,mən24 kˈar213,mən24kʰar213,mənkʰar
+HB,Harbin,45,厕所,茅楼儿,,mau lour,mau24 lour24,mau24lour24,maulour
+HB,Harbin,46,厨房,厨房 ,,tʂˈu faŋ,tʂˈu24 faŋ24,tʂʰu24faŋ24,tʂʰufaŋ
+HB,Harbin,47,烟囱,烟筒,,ian tˈuŋ,ian44 tˈuŋ,ian44tʰuŋ,iantʰuŋ
+HB,Harbin,48,桌子,桌子,,tʂuo tsɿ,tʂuo44 tsɿ,tʂuo44t͡sɹ̩,tʂuot͡sɹ̩
+HB,Harbin,49,楼梯,楼梯 ,,lou tˈi,lou24 tˈi44,lou24tʰi44,loutʰi
 HB,Harbin,50,头,头,,tˈou,tˈou24,tʰou24,tʰou
-HB,Harbin,51,额头,锛儿娄 ,,pər lou,pər24 lou,pər24 lou,pər lou
+HB,Harbin,51,额头,锛儿娄 ,,pər lou,pər24 lou,pər24lou,pərlou
 HB,Harbin,52,脸,脸 ,,lian,lian213,lian213,lian
-HB,Harbin,53,鼻子,鼻子 ,,pi tsɿ,pi24 tsɿ,pi24 t͡sɹ̩,pi t͡sɹ̩
-HB,Harbin,54,脖子,脖子,,pɤ tsɿ,pɤ24 tsɿ,pɤ24 t͡sɹ̩,pɤ t͡sɹ̩
-HB,Harbin,55,左手,左手,,tsuo ʂou,tsuo21324 ʂou213,t͡suo21324 ʂou213,t͡suo ʂou
-HB,Harbin,56,右手,右手 ,,iou ʂou,iou53 ʂou213,iou53 ʂou213,iou ʂou
-HB,Harbin,57,拳头,拳头,,tɕˈyan tˈou,tɕˈyan24 tˈou,t͡ɕʰyan24 tʰou,t͡ɕʰyan tʰou
-HB,Harbin,58,手指头,手指头 ,,ʂou tʂɿ tˈou,ʂou21324 tʂɿ21321 tˈou,ʂou21324 tʂɹ̩21321 tʰou,ʂou tʂɹ̩ tʰou
-HB,Harbin,59,指甲,手指盖儿 ,,ʂou tʂʅ kar,ʂou21321 tʂʅ kar53,ʂou21321 tʂɻ̩ kar53,ʂou tʂɻ̩ kar
-HB,Harbin,60,膝盖,簸棱盖儿 ,,pɤ ləŋ kar,pɤ21321 ləŋ kar53,pɤ21321 ləŋ kar53,pɤ ləŋ kar
+HB,Harbin,53,鼻子,鼻子 ,,pi tsɿ,pi24 tsɿ,pi24t͡sɹ̩,pit͡sɹ̩
+HB,Harbin,54,脖子,脖子,,pɤ tsɿ,pɤ24 tsɿ,pɤ24t͡sɹ̩,pɤt͡sɹ̩
+HB,Harbin,55,左手,左手,,tsuo ʂou,tsuo21324 ʂou213,t͡suo21324ʂou213,t͡suoʂou
+HB,Harbin,56,右手,右手 ,,iou ʂou,iou53 ʂou213,iou53ʂou213,iouʂou
+HB,Harbin,57,拳头,拳头,,tɕˈyan tˈou,tɕˈyan24 tˈou,t͡ɕʰyan24tʰou,t͡ɕʰyantʰou
+HB,Harbin,58,手指头,手指头 ,,ʂou tʂɿ tˈou,ʂou21324 tʂɿ21321 tˈou,ʂou21324tʂɹ̩21321tʰou,ʂoutʂɹ̩tʰou
+HB,Harbin,59,指甲,手指盖儿 ,,ʂou tʂʅ kar,ʂou21321 tʂʅ kar53,ʂou21321tʂɻ̩kar53,ʂoutʂɻ̩kar
+HB,Harbin,60,膝盖,簸棱盖儿 ,,pɤ ləŋ kar,pɤ21321 ləŋ kar53,pɤ21321ləŋkar53,pɤləŋkar
 HB,Harbin,61,腿,腿 ,,tˈuei,tˈuei213,tʰuei213,tʰuei
 HB,Harbin,62,父亲,爸,,pa,pa53,pa53,pa
 HB,Harbin,63,母亲,妈,,ma,ma44,ma44,ma
-HB,Harbin,64,祖父,爷,,iɛ iɛ,iɛ24 iɛ,iɛ24 iɛ,iɛ iɛ
+HB,Harbin,64,祖父,爷,,iɛ iɛ,iɛ24 iɛ,iɛ24iɛ,iɛiɛ
 HB,Harbin,65,祖母,奶 ,,nai,nai213,nai213,nai
-HB,Harbin,66,伯父,大爷 ,,ta iɛ,ta53 iɛ,ta53 iɛ,ta iɛ
-HB,Harbin,67,伯母,大娘,,ta niaŋ,ta53 niaŋ24,ta53 niaŋ24,ta niaŋ
+HB,Harbin,66,伯父,大爷 ,,ta iɛ,ta53 iɛ,ta53iɛ,taiɛ
+HB,Harbin,67,伯母,大娘,,ta niaŋ,ta53 niaŋ24,ta53niaŋ24,taniaŋ
 HB,Harbin,68,叔父,叔,,ʂu,ʂu24,ʂu24,ʂu
 HB,Harbin,69,叔母,婶儿 ,,ʂər,ʂər213,ʂər213,ʂər
-HB,Harbin,70,外祖父,姥爷 ,,lau iɛ,lau21321 iɛ,lau21321 iɛ,lau iɛ
+HB,Harbin,70,外祖父,姥爷 ,,lau iɛ,lau21321 iɛ,lau21321iɛ,lauiɛ
 HB,Harbin,71,外祖母,姥儿 ,,laur,laur213,laur213,laur
 HB,Harbin,72,舅舅,舅,,tɕiou,tɕiou53,t͡ɕiou53,t͡ɕiou
-HB,Harbin,73,舅母,舅母,,tɕiou mu,tɕiou53 mu,t͡ɕiou53 mu,t͡ɕiou mu
-HB,Harbin,74,丈夫,丈夫 ,,tʂaŋ fu,tʂaŋ53 fu,tʂaŋ53 fu,tʂaŋ fu
-HB,Harbin,75,妻子,老婆 ,,lau pˈɤ,lau21321 pˈɤ,lau21321 pʰɤ,lau pʰɤ
-HB,Harbin,76,儿子,儿子 ,,ə˞ tsɿ,ə˞24 tsɿ,ə˞24 t͡sɹ̩,ə˞ t͡sɹ̩
-HB,Harbin,77,女儿,姑娘 ,,ku niaŋ,ku44 niaŋ,ku44 niaŋ,ku niaŋ
-HB,Harbin,78,早饭,早上饭,,tsau ʂaŋ fan,tsau21321 ʂaŋ fan53,t͡sau21321 ʂaŋ fan53,t͡sau ʂaŋ fan
-HB,Harbin,79,午饭,晌午饭,,ʂaŋ u fan,ʂaŋ21321 u fan53,ʂaŋ21321 u fan53,ʂaŋ u fan
-HB,Harbin,80,晚饭,晚上饭 ,,uan ʂaŋ fan,uan21321 ʂaŋ fan53,uan21321 ʂaŋ fan53,uan ʂaŋ fan
-HB,Harbin,81,面条,面条儿,,mian tˈiaur,mian53 tˈiaur24,mian53 tʰiaur24,mian tʰiaur
-HB,Harbin,82,馒头,馒头 ,,man tˈou,man24 tˈou,man24 tʰou,man tʰou
-HB,Harbin,83,包子,包子 ,,pau tsɿ,pau44 tsɿ,pau44 t͡sɹ̩,pau t͡sɹ̩
-HB,Harbin,84,馄饨,馄饨 ,,xuən tuən,xuən24 tuən,xuən24 tuən,xuən tuən
-HB,Harbin,85,醋,忌讳 ,,tɕi xuei,tɕi53 xuei,t͡ɕi53 xuei,t͡ɕi xuei
-HB,Harbin,86,酱油,青酱 ,,tɕˈiŋ tɕiaŋ,tɕˈiŋ44 tɕiaŋ53,t͡ɕʰiŋ44 t͡ɕiaŋ53,t͡ɕʰiŋ t͡ɕiaŋ
-HB,Harbin,87,盐,咸盐 ,,ɕian ian,ɕian24 ian24,ɕian24 ian24,ɕian ian
-HB,Harbin,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai53 tsɿ,kʰuai53 t͡sɹ̩,kʰuai t͡sɹ̩
-HB,Harbin,89,勺儿,勺子 ,,ʂau tsɿ,ʂau24 tsɿ,ʂau24 t͡sɹ̩,ʂau t͡sɹ̩
-HB,Harbin,90,男人,男人,,nan ʐən,nan24 ʐən24,nan24 ʐən24,nan ʐən
-HB,Harbin,91,女人,女人,,ny ʐən,ny21321 ʐən24,ny21321 ʐən24,ny ʐən
-HB,Harbin,92,男孩子,小子 ,,ɕiau tsɿ,ɕiau21321 tsɿ,ɕiau21321 t͡sɹ̩,ɕiau t͡sɹ̩
-HB,Harbin,93,女孩子,丫头 ,,ia tˈou,ia44 tˈou,ia44 tʰou,ia tʰou
-HB,Harbin,94,老头儿,老头儿 ,,lau tˈour,lau21321 tˈour24,lau21321 tʰour24,lau tʰour
-HB,Harbin,95,医生,大夫 ,,tai fu,tai53 fu,tai53 fu,tai fu
-HB,Harbin,96,厨师,大师傅 ,,ta ʂʅ fu,ta53 ʂʅ fu,ta53 ʂɻ̩ fu,ta ʂɻ̩ fu
-HB,Harbin,97,乞丐,要饭的,,iau fan ti,iau53 fan53 ti,iau53 fan53 ti,iau fan ti
-HB,Harbin,98,保姆,老妈子 ,,lau ma tsɿ,lau21321 ma44 tsɿ,lau21321 ma44 t͡sɹ̩,lau ma t͡sɹ̩
-HB,Harbin,99,病了,病了,,piŋ lə,piŋ53 lə,piŋ53 lə,piŋ lə
-HB,Harbin,100,伤风,伤风,,ʂaŋ fəŋ,ʂaŋ44 fəŋ44,ʂaŋ44 fəŋ44,ʂaŋ fəŋ
-HB,Harbin,101,泻肚,闹肚子 ,,nau tu tsɿ,nau53 tu53 tsɿ,nau53 tu53 t͡sɹ̩,nau tu t͡sɹ̩
-HB,Harbin,102,瘸子,瘸子 ,,tɕˈyɛ tsɿ,tɕˈyɛ24 tsɿ,t͡ɕʰyɛ24 t͡sɹ̩,t͡ɕʰyɛ t͡sɹ̩
-HB,Harbin,103,驼背,罗锅儿 ,,luo kuor,luo24 kuor44,luo24 kuor44,luo kuor
-HB,Harbin,104,死了,死了 ,,sɿ lə,sɿ21321 lə,sɹ̩21321 lə,sɹ̩ lə
-HB,Harbin,105,看病,看病 ,,kˈan piŋ,kˈan53 piŋ53,kʰan53 piŋ53,kʰan piŋ
+HB,Harbin,73,舅母,舅母,,tɕiou mu,tɕiou53 mu,t͡ɕiou53mu,t͡ɕioumu
+HB,Harbin,74,丈夫,丈夫 ,,tʂaŋ fu,tʂaŋ53 fu,tʂaŋ53fu,tʂaŋfu
+HB,Harbin,75,妻子,老婆 ,,lau pˈɤ,lau21321 pˈɤ,lau21321pʰɤ,laupʰɤ
+HB,Harbin,76,儿子,儿子 ,,ə˞ tsɿ,ə˞24 tsɿ,ə˞24t͡sɹ̩,ə˞t͡sɹ̩
+HB,Harbin,77,女儿,姑娘 ,,ku niaŋ,ku44 niaŋ,ku44niaŋ,kuniaŋ
+HB,Harbin,78,早饭,早上饭,,tsau ʂaŋ fan,tsau21321 ʂaŋ fan53,t͡sau21321ʂaŋfan53,t͡sauʂaŋfan
+HB,Harbin,79,午饭,晌午饭,,ʂaŋ u fan,ʂaŋ21321 u fan53,ʂaŋ21321ufan53,ʂaŋufan
+HB,Harbin,80,晚饭,晚上饭 ,,uan ʂaŋ fan,uan21321 ʂaŋ fan53,uan21321ʂaŋfan53,uanʂaŋfan
+HB,Harbin,81,面条,面条儿,,mian tˈiaur,mian53 tˈiaur24,mian53tʰiaur24,miantʰiaur
+HB,Harbin,82,馒头,馒头 ,,man tˈou,man24 tˈou,man24tʰou,mantʰou
+HB,Harbin,83,包子,包子 ,,pau tsɿ,pau44 tsɿ,pau44t͡sɹ̩,paut͡sɹ̩
+HB,Harbin,84,馄饨,馄饨 ,,xuən tuən,xuən24 tuən,xuən24tuən,xuəntuən
+HB,Harbin,85,醋,忌讳 ,,tɕi xuei,tɕi53 xuei,t͡ɕi53xuei,t͡ɕixuei
+HB,Harbin,86,酱油,青酱 ,,tɕˈiŋ tɕiaŋ,tɕˈiŋ44 tɕiaŋ53,t͡ɕʰiŋ44t͡ɕiaŋ53,t͡ɕʰiŋt͡ɕiaŋ
+HB,Harbin,87,盐,咸盐 ,,ɕian ian,ɕian24 ian24,ɕian24ian24,ɕianian
+HB,Harbin,88,筷子,筷子 ,,kˈuai tsɿ,kˈuai53 tsɿ,kʰuai53t͡sɹ̩,kʰuait͡sɹ̩
+HB,Harbin,89,勺儿,勺子 ,,ʂau tsɿ,ʂau24 tsɿ,ʂau24t͡sɹ̩,ʂaut͡sɹ̩
+HB,Harbin,90,男人,男人,,nan ʐən,nan24 ʐən24,nan24ʐən24,nanʐən
+HB,Harbin,91,女人,女人,,ny ʐən,ny21321 ʐən24,ny21321ʐən24,nyʐən
+HB,Harbin,92,男孩子,小子 ,,ɕiau tsɿ,ɕiau21321 tsɿ,ɕiau21321t͡sɹ̩,ɕiaut͡sɹ̩
+HB,Harbin,93,女孩子,丫头 ,,ia tˈou,ia44 tˈou,ia44tʰou,iatʰou
+HB,Harbin,94,老头儿,老头儿 ,,lau tˈour,lau21321 tˈour24,lau21321tʰour24,lautʰour
+HB,Harbin,95,医生,大夫 ,,tai fu,tai53 fu,tai53fu,taifu
+HB,Harbin,96,厨师,大师傅 ,,ta ʂʅ fu,ta53 ʂʅ fu,ta53ʂɻ̩fu,taʂɻ̩fu
+HB,Harbin,97,乞丐,要饭的,,iau fan ti,iau53 fan53 ti,iau53fan53ti,iaufanti
+HB,Harbin,98,保姆,老妈子 ,,lau ma tsɿ,lau21321 ma44 tsɿ,lau21321ma44t͡sɹ̩,laumat͡sɹ̩
+HB,Harbin,99,病了,病了,,piŋ lə,piŋ53 lə,piŋ53lə,piŋlə
+HB,Harbin,100,伤风,伤风,,ʂaŋ fəŋ,ʂaŋ44 fəŋ44,ʂaŋ44fəŋ44,ʂaŋfəŋ
+HB,Harbin,101,泻肚,闹肚子 ,,nau tu tsɿ,nau53 tu53 tsɿ,nau53tu53t͡sɹ̩,nautut͡sɹ̩
+HB,Harbin,102,瘸子,瘸子 ,,tɕˈyɛ tsɿ,tɕˈyɛ24 tsɿ,t͡ɕʰyɛ24t͡sɹ̩,t͡ɕʰyɛt͡sɹ̩
+HB,Harbin,103,驼背,罗锅儿 ,,luo kuor,luo24 kuor44,luo24kuor44,luokuor
+HB,Harbin,104,死了,死了 ,,sɿ lə,sɿ21321 lə,sɹ̩21321lə,sɹ̩lə
+HB,Harbin,105,看病,看病 ,,kˈan piŋ,kˈan53 piŋ53,kʰan53piŋ53,kʰanpiŋ
 HB,Harbin,106,我,我,,uo,uo213,uo213,uo
 HB,Harbin,107,你,你,,ni,ni213,ni213,ni
 HB,Harbin,108,他,他,,tˈa,tˈa44,tʰa44,tʰa
-HB,Harbin,109,我们,我们,,uo mən,uo21321 mən,uo21321 mən,uo mən
-HB,Harbin,110,你们,你们,,ni mən,ni21321 mən,ni21321 mən,ni mən
-HB,Harbin,111,他们,他们,,tˈa mən,tˈa44 mən,tʰa44 mən,tʰa mən
-HB,Harbin,112,咱们,咱们,,tsan mən,tsan24 mən,t͡san24 mən,t͡san mən
-HB,Harbin,113,自己,自己,,tsɿ tɕi,tsɿ53 tɕi213,t͡sɹ̩53 t͡ɕi213,t͡sɹ̩ t͡ɕi
+HB,Harbin,109,我们,我们,,uo mən,uo21321 mən,uo21321mən,uomən
+HB,Harbin,110,你们,你们,,ni mən,ni21321 mən,ni21321mən,nimən
+HB,Harbin,111,他们,他们,,tˈa mən,tˈa44 mən,tʰa44mən,tʰamən
+HB,Harbin,112,咱们,咱们,,tsan mən,tsan24 mən,t͡san24mən,t͡sanmən
+HB,Harbin,113,自己,自己,,tsɿ tɕi,tsɿ53 tɕi213,t͡sɹ̩53t͡ɕi213,t͡sɹ̩t͡ɕi
 HB,Harbin,114,谁,谁,,ʂei,ʂei24,ʂei24,ʂei
 HB,Harbin,115,什么,啥,,ʂa,ʂa24,ʂa24,ʂa
-HB,Harbin,116,这里,这疙儿 ,,tʂei kar,tʂei53 kar44,tʂei53 kar44,tʂei kar
-HB,Harbin,117,那里,那疙儿 ,,nei kar,nei53 kar44,nei53 kar44,nei kar
-HB,Harbin,118,哪里,哪疙儿 ,,nei kar,nei21321 kar44,nei21321 kar44,nei kar
-HB,Harbin,119,这个,这个 ,,tʂei kɤ,tʂei53 kɤ,tʂei53 kɤ,tʂei kɤ
-HB,Harbin,120,那个,那个,,nei kɤ,nei53 kɤ,nei53 kɤ,nei kɤ
-HB,Harbin,121,哪一个,哪一个,,nei i kɤ,nei21321 i kɤ,nei21321 i kɤ,nei i kɤ
-HB,Harbin,122,怎么样,咋样 ,,tsa iaŋ,tsa21321 iaŋ53,t͡sa21321 iaŋ53,t͡sa iaŋ
-HB,Harbin,123,一位客人,位,,uei,uei53,uei53,uei
-HB,Harbin,124,刚(合适),正 ,,tʂəŋ,tʂəŋ53,tʂəŋ53,tʂəŋ
-HB,Harbin,125,正好,正好儿,,tʂəŋ xaur,tʂəŋ53 xaur213,tʂəŋ53 xaur213,tʂəŋ xaur
-HB,Harbin,126,和,和,,xɤ,xɤ53,xɤ53,xɤ
-HB,Harbin,127,只,只,,tʂʅ,tʂʅ213,tʂɻ̩213,tʂɻ̩
-HB,Harbin,128,从,从,,tsˈuŋ,tsˈuŋ24,t͡sʰuŋ24,t͡sʰuŋ
-HB,Harbin,129,替,替 ,,tˈi,tˈi53,tʰi53,tʰi
-HB,Harbin,130,拿,拿,,na,na24,na24,na
-HB,Harbin,131,故意,净意儿,,tɕiŋ iər,tɕiŋ53 iər213,t͡ɕiŋ53 iər213,t͡ɕiŋ iər
-HB,Harbin,132,一,一,,i,i44,i44,i
-HB,Harbin,133,二,二,,ə˞,ə˞53,ə˞53,ə˞
-HB,Harbin,134,三,三,,san,san44,san44,san
-HB,Harbin,135,四,四,,sɿ,sɿ53,sɹ̩53,sɹ̩
-HB,Harbin,136,五,五,,u,u213,u213,u
-HB,Harbin,137,六,六,,liou,liou53,liou53,liou
-HB,Harbin,138,七,七,,tɕˈi,tɕˈi44,t͡ɕʰi44,t͡ɕʰi
-HB,Harbin,139,八,八,,pa,pa44,pa44,pa
-HB,Harbin,140,九,九,,tɕiou,tɕiou213,t͡ɕiou213,t͡ɕiou
-HB,Harbin,141,十,十,,ʂʅ,ʂʅ24,ʂɻ̩24,ʂɻ̩
-HB,Harbin,142,十一,十一,,ʂʅ i,ʂʅ24 i44,ʂɻ̩24 i44,ʂɻ̩ i
-HB,Harbin,143,十二,十二,,ʂʅ ə˞,ʂʅ24 ə˞53,ʂɻ̩24 ə˞53,ʂɻ̩ ə˞
-HB,Harbin,144,二十,二十,,ə˞ ʂʅ,ə˞53 ʂʅ24,ə˞53 ʂɻ̩24,ə˞ ʂɻ̩
-HB,Harbin,145,二十一,二十一,,ə˞ ʂʅ i,ə˞53 ʂʅ24 i44,ə˞53 ʂɻ̩24 i44,ə˞ ʂɻ̩ i
-HB,Harbin,146,一百二十一,一百二十一,,i pai ə˞ ʂʅ i,i4453 pai21321 ə˞53 ʂʅ i44,i4453 pai21321 ə˞53 ʂɻ̩ i44,i pai ə˞ ʂɻ̩ i
-HB,Harbin,147,两里,二里,,ə˞ li,ə˞53 li213,ə˞53 li213,ə˞ li
-HB,Harbin,148,二两,二两,,ə˞ liaŋ,ə˞53 liaŋ213,ə˞53 liaŋ213,ə˞ liaŋ
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
-HB,Harbin,,,,,,,,
+HB,Harbin,116,这里,这疙儿 ,,tʂei kar,tʂei53 kar44,tʂei53kar44,tʂeikar
+HB,Harbin,117,那里,那疙儿 ,,nei kar,nei53 kar44,nei53kar44,neikar
+HB,Harbin,118,哪里,哪疙儿 ,,nei kar,nei21321 kar44,nei21321kar44,neikar
+HB,Harbin,119,这个,这个 ,,tʂei kɤ,tʂei53 kɤ,tʂei53kɤ,tʂeikɤ
+HB,Harbin,120,那个,那个,,nei kɤ,nei53 kɤ,nei53kɤ,neikɤ
+HB,Harbin,121,哪一个,哪一个,,nei i kɤ,nei21321 i kɤ,nei21321ikɤ,neiikɤ
+HB,Harbin,122,怎么样,咋样 ,,tsa iaŋ,tsa21321 iaŋ53,t͡sa21321iaŋ53,t͡saiaŋ
+HB,Harbin,123,上头,上边儿拉,,ʂaŋ piar la,ʂaŋ53 piar44 la213,ʂaŋ53piar44la213,ʂaŋpiarla
+HB,Harbin,124,下头,下边儿拉,,ɕia piar la,ɕia53 piar44 la213,ɕia53piar44la213,ɕiapiarla
+HB,Harbin,125,左边,左边儿拉,,tsuo piar la,tsuo21321 piar44 la213,t͡suo21321piar44la213,t͡suopiarla
+HB,Harbin,126,右边,右边儿拉 ,,iou piar la,iou53 piar44 la213,iou53piar44la213,ioupiarla
+HB,Harbin,127,当中,当间儿,,taŋ tɕiar,taŋ44 tɕiar53,taŋ44t͡ɕiar53,taŋt͡ɕiar
+HB,Harbin,128,里面,里边儿拉,,li piar la,li21321 piar44 la213,li21321piar44la213,lipiarla
+HB,Harbin,129,外面,外边儿拉 ,,uai piar la,uai53 piar44 la213,uai53piar44la213,uaipiarla
+HB,Harbin,130,甜,甜,,tˈian,tˈian24,tʰian24,tʰian
+HB,Harbin,131,酸,酸,,suan,suan44,suan44,suan
+HB,Harbin,132,咸,咸,,ɕian,ɕian24,ɕian24,ɕian
+HB,Harbin,133,淡,淡,,tan,tan53,tan53,tan
+HB,Harbin,134,胖,胖,,pˈaŋ,pˈaŋ53,pʰaŋ53,pʰaŋ
+HB,Harbin,135,瘦,瘦,,ʂou,ʂou53,ʂou53,ʂou
+HB,Harbin,136,冷,冷,,ləŋ,ləŋ213,ləŋ213,ləŋ
+HB,Harbin,137,热,热,,ʐɤ,ʐɤ53,ʐɤ53,ʐɤ
+HB,Harbin,138,香,香,,ɕiaŋ,ɕiaŋ44,ɕiaŋ44,ɕiaŋ
+HB,Harbin,139,臭,臭,,tʂˈou,tʂˈou53,tʂʰou53,tʂʰou
+HB,Harbin,140,粗,粗,,tsˈu,tsˈu44,t͡sʰu44,t͡sʰu
+HB,Harbin,141,细,细,,ɕi,ɕi53,ɕi53,ɕi
+HB,Harbin,142,长,长,,tʂˈaŋ,tʂˈaŋ24,tʂʰaŋ24,tʂʰaŋ
+HB,Harbin,143,短,短,,tuan,tuan213,tuan213,tuan
+HB,Harbin,144,脏,埋汰,,mai tˈai,mai24 tˈai,mai24tʰai,maitʰai
+HB,Harbin,145,干净,干净 ,,kan tɕiŋ,kan24 tɕiŋ,kan24t͡ɕiŋ,kant͡ɕiŋ
+HB,Harbin,146,便宜,便宜 ,,pˈian i,pˈian24 i,pʰian24i,pʰiani
+HB,Harbin,147,刚(来),刚 ,,kaŋ,kaŋ44,kaŋ44,kaŋ
+HB,Harbin,148,刚(合适),正 ,,tʂəŋ,tʂəŋ53,tʂəŋ53,tʂəŋ
+HB,Harbin,149,正好,正好儿,,tʂəŋ xaur,tʂəŋ53 xaur213,tʂəŋ53xaur213,tʂəŋxaur
+HB,Harbin,150,和,和,,xɤ,xɤ53,xɤ53,xɤ
+HB,Harbin,151,只,只,,tʂʅ,tʂʅ213,tʂɻ̩213,tʂɻ̩
+HB,Harbin,152,从,从,,tsˈuŋ,tsˈuŋ24,t͡sʰuŋ24,t͡sʰuŋ
+HB,Harbin,153,替,替 ,,tˈi,tˈi53,tʰi53,tʰi
+HB,Harbin,154,拿,拿,,na,na24,na24,na
+HB,Harbin,155,故意,净意儿,,tɕiŋ iər,tɕiŋ53 iər213,t͡ɕiŋ53iər213,t͡ɕiŋiər
+HB,Harbin,156,一,一,,i,i44,i44,i
+HB,Harbin,157,二,二,,ə˞,ə˞53,ə˞53,ə˞
+HB,Harbin,158,三,三,,san,san44,san44,san
+HB,Harbin,159,四,四,,sɿ,sɿ53,sɹ̩53,sɹ̩
+HB,Harbin,160,五,五,,u,u213,u213,u
+HB,Harbin,161,六,六,,liou,liou53,liou53,liou
+HB,Harbin,162,七,七,,tɕˈi,tɕˈi44,t͡ɕʰi44,t͡ɕʰi
+HB,Harbin,163,八,八,,pa,pa44,pa44,pa
+HB,Harbin,164,九,九,,tɕiou,tɕiou213,t͡ɕiou213,t͡ɕiou
+HB,Harbin,165,十,十,,ʂʅ,ʂʅ24,ʂɻ̩24,ʂɻ̩
+HB,Harbin,166,十一,十一,,ʂʅ i,ʂʅ24 i44,ʂɻ̩24i44,ʂɻ̩i

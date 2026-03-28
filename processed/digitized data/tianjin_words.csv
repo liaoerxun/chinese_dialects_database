@@ -1,169 +1,167 @@
-dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-TJ,Tianjin,1,太阳,太阳 ,,tˈai iɑŋ,tˈai53 iɑŋ45,tʰai iɑŋ,tʰai53 iɑŋ45
-TJ,Tianjin,2,月亮,月亮 ,,ye liɑŋ,ye53 liɑŋ1,ye liɑŋ,ye53 liɑŋ1
-TJ,Tianjin,3,星星,星星 ,,ɕiŋ ɕiŋ,ɕiŋ21 ɕiŋ1,ɕiŋ ɕiŋ,ɕiŋ21 ɕiŋ1
-TJ,Tianjin,4,打雷,打雷 ,,tɑ lei,tɑ13 lei45,tɑ lei,tɑ13 lei45
-TJ,Tianjin,5,闪电,打闪 ,,tɑ san,tɑ13-45 san13,tɑ san,tɑ13-45 san13
-TJ,Tianjin,6,下雨,下雨 ,,ɕiɑ y,ɕiɑ53 y13,ɕiɑ y,ɕiɑ53 y13
-TJ,Tianjin,7,下雪,下雪 ,,ɕiɑ ɕye,ɕiɑ53 ɕye21,ɕiɑ ɕye,ɕiɑ53 ɕye21
-TJ,Tianjin,8,冰雹,雹子 ,,pɑu tsə,pɑu45 tsə3,pɑu t͡sə,pɑu45 t͡sə3
-TJ,Tianjin,9,结冰,上冻 ,,ʂɑŋ tuŋ,ʂɑŋ53-21 tuŋ53,ʂɑŋ tuŋ,ʂɑŋ53-21 tuŋ53
-TJ,Tianjin,10,刮风,刮风 ,,kuɑ fəŋ,kuɑ13 fəŋ21,kuɑ fəŋ,kuɑ13 fəŋ21
-TJ,Tianjin,11,虹,虹 ,,tɕiɑŋ,tɕiɑŋ53,t͡ɕiɑŋ,t͡ɕiɑŋ53
-TJ,Tianjin,12,端午节,五月节 ,,u ye tɕie,u13 ye3 tɕie45,u ye t͡ɕie,u13 ye3 t͡ɕie45
-TJ,Tianjin,13,中秋节,八月节 ,,pɑ ye tɕie,pɑ45 ye3 tɕie45,pɑ ye t͡ɕie,pɑ45 ye3 t͡ɕie45
-TJ,Tianjin,14,除夕,三十儿晚上 ,,san ʃər van ʂɑŋ,san21 ʃər45 van13 ʂɑŋ3,san ʃər van ʂɑŋ,san21 ʃər45 van13 ʂɑŋ3
-TJ,Tianjin,15,今年,今年 ,,tɕin nian,tɕin21 nian3,t͡ɕin nian,t͡ɕin21 nian3
-TJ,Tianjin,16,明年,来年 ,,lai nian,lai45 nian3,lai nian,lai45 nian3
-TJ,Tianjin,17,去年,去年 ,,tɕˈy nian,tɕˈy53 nian1,t͡ɕʰy nian,t͡ɕʰy53 nian1
-TJ,Tianjin,18,明天,明儿个 ,,mier kə,mier45 kə3,mier kə,mier45 kə3
-TJ,Tianjin,19,昨天,昨儿个 ,,tsuor kə,tsuor45 kə3,t͡suor kə,t͡suor45 kə3
-TJ,Tianjin,20,今天,今儿个 ,,tɕiər kə,tɕiər21 kə1,t͡ɕiər kə,t͡ɕiər21 kə1
-TJ,Tianjin,21,星期天,礼拜 ,,li pai,li13 pai53,li pai,li13 pai53
-TJ,Tianjin,22,麦子,麦子 ,,mai tsɿ,mai53 tsɿ1,mai t͡sɹ̩,mai53 t͡sɹ̩1
-TJ,Tianjin,23,大米,大米 ,,tɑ mi,tɑ53 mi13,tɑ mi,tɑ53 mi13
-TJ,Tianjin,24,蚕豆,蚕豆 ,,tsˈan tou,tsˈan45 tou53,t͡sʰan tou,t͡sʰan45 tou53
-TJ,Tianjin,25,向日葵,转莲 ,,tʂuan lian,tʂuan53 lian45,tʂuan lian,tʂuan53 lian45
-TJ,Tianjin,26,菠菜,菠菜 ,,po tsˈai,po21 tsˈai53,po t͡sʰai,po21 t͡sʰai53
-TJ,Tianjin,27,卷心菜,洋白菜 ,,iɑŋ pai tsˈai,iɑŋ45 pai45 tsˈai53,iɑŋ pai t͡sʰai,iɑŋ45 pai45 t͡sʰai53
-TJ,Tianjin,28,西红柿,火柿子 ,,xuo sɿ tsə,xuo13 sɿ53 tsə1,xuo sɹ̩ t͡sə,xuo13 sɹ̩53 t͡sə1
-TJ,Tianjin,29,茄子,茄子 ,,tɕˈie tsə,tɕˈie45 tsə1,t͡ɕʰie t͡sə,t͡ɕʰie45 t͡sə1
-TJ,Tianjin,30,白薯,山芋 ,,san y,san21 y53,san y,san21 y53
-TJ,Tianjin,31,马铃薯,土豆儿 ,,tˈu tour,tˈu13 tour53,tʰu tour,tʰu13 tour53
-TJ,Tianjin,32,南瓜,倭瓜 ,,uo kuɑ,uo21 kuɑ1,uo kuɑ,uo21 kuɑ1
-TJ,Tianjin,33,猪,猪 ,,tʂu,tʂu21,tʂu,tʂu21
-TJ,Tianjin,34,公猪,公猪 ,,kuŋ tʂu,kuŋ21 tʂu1,kuŋ tʂu,kuŋ21 tʂu1
-TJ,Tianjin,35,母猪,母猪 ,,mu tʂu,mu13 tʂu21,mu tʂu,mu13 tʂu21
-TJ,Tianjin,36,公鸡,公鸡 ,,kuŋ tɕi,kuŋ21 tɕi1,kuŋ t͡ɕi,kuŋ21 t͡ɕi1
-TJ,Tianjin,37,母鸡,母鸡 ,,mu tɕi,mu13 tɕi21,mu t͡ɕi,mu13 t͡ɕi21
-TJ,Tianjin,38,麻雀,家雀儿 ,,tɕiɑ tɕˈiɑur,tɕiɑ21-13 tɕˈiɑur21,t͡ɕiɑ t͡ɕʰiɑur,t͡ɕiɑ21-13 t͡ɕʰiɑur21
-TJ,Tianjin,39,老鼠,老鼠 ,,lɑu ʂu,lɑu13 ʂu3,lɑu ʂu,lɑu13 ʂu3
-TJ,Tianjin,40,臭虫,臭虫 ,,tʂˈou tsˈuŋ,tʂˈou53 tsˈuŋ45,tʂʰou t͡sʰuŋ,tʂʰou53 t͡sʰuŋ45
-TJ,Tianjin,41,房子(整),房子 ,,fɑŋ tsɿ,fɑŋ45 tsɿ3,fɑŋ t͡sɹ̩,fɑŋ45 t͡sɹ̩3
-TJ,Tianjin,42,房子(单),屋子 ,,u tsɿ,u21 tsɿ1,u t͡sɹ̩,u21 t͡sɹ̩1
-TJ,Tianjin,43,窗户,窗户 ,,tsˈuɑŋ xu,tsˈuɑŋ21 xu1,t͡sʰuɑŋ xu,t͡sʰuɑŋ21 xu1
-TJ,Tianjin,44,门坎,门坎儿 ,,mən kˈar,mən45 kˈar13,mən kʰar,mən45 kʰar13
-TJ,Tianjin,45,厕所,毛□,,mɑu sou,mɑu45 sou3,mɑu sou,mɑu45 sou3
-TJ,Tianjin,46,厨房,厨房 ,,tʂˈu fɑŋ,tʂˈu45 fɑŋ45,tʂʰu fɑŋ,tʂʰu45 fɑŋ45
-TJ,Tianjin,47,烟囱,烟筒 ,,ian tˈuŋ,ian21 tˈuŋ1,ian tʰuŋ,ian21 tʰuŋ1
-TJ,Tianjin,48,桌子,桌子 ,,tsuo tsɿ,tsuo21 tsɿ1,t͡suo t͡sɹ̩,t͡suo21 t͡sɹ̩1
-TJ,Tianjin,49,楼梯,楼梯儿 ,,lou tˈiər,lou45 tˈiər21,lou tʰiər,lou45 tʰiər21
-TJ,Tianjin,50,头,脑袋 ,,nɑu tai,nɑu13 tai3,nɑu tai,nɑu13 tai3
-TJ,Tianjin,51,额头,页灵盖儿 ,,ie liŋ kar,ie53 liŋ1 kar53,ie liŋ kar,ie53 liŋ1 kar53
-TJ,Tianjin,52,脸,脸 ,,lian,lian13,lian,lian13
-TJ,Tianjin,53,鼻子,鼻子 ,,pi tsɿ,pi45 tsɿ3,pi t͡sɹ̩,pi45 t͡sɹ̩3
-TJ,Tianjin,54,脖子,脖子 ,,po tsɿ,po45 tsɿ3,po t͡sɹ̩,po45 t͡sɹ̩3
-TJ,Tianjin,55,左手,左手 ,,tsuo sou,tsuo13-45 sou13,t͡suo sou,t͡suo13-45 sou13
-TJ,Tianjin,56,右手,右手 ,,iou sou,iou53 sou13,iou sou,iou53 sou13
-TJ,Tianjin,57,拳头,拳头 ,,tɕˈyɑn tˈou,tɕˈyɑn45 tˈou3,t͡ɕʰyɑn tʰou,t͡ɕʰyɑn45 tʰou3
-TJ,Tianjin,58,手指头,手指头,,sou tsɿ tˈou,sou13 tsɿ21 tˈou1,sou t͡sɹ̩ tʰou,sou13 t͡sɹ̩21 tʰou1
-TJ,Tianjin,59,指甲,指盖子 ,,tsɿ kai tsə,tsɿ21 kai53 tsə1,t͡sɹ̩ kai t͡sə,t͡sɹ̩21 kai53 t͡sə1
-TJ,Tianjin,60,膝盖,波棱盖儿 ,,po liŋ kar,po21 liŋ1 kar53,po liŋ kar,po21 liŋ1 kar53
-TJ,Tianjin,61,腿,腿,,tˈuei,tˈuei13,tʰuei,tʰuei13
-TJ,Tianjin,62,父亲,爸 ,,pɑ,pɑ53,pɑ,pɑ53
-TJ,Tianjin,63,母亲,妈 ,,mɑ,mɑ21,mɑ,mɑ21
-TJ,Tianjin,64,祖父,爷爷 ,,ie ie,ie45 ie3,ie ie,ie45 ie3
-TJ,Tianjin,65,祖母,奶奶 ,,nai nai,nai13 nai3,nai nai,nai13 nai3
-TJ,Tianjin,66,伯父,大爷 ,,tɑ ie,tɑ53 ie1,tɑ ie,tɑ53 ie1
-TJ,Tianjin,67,伯母,大娘 ,,tɑ niɑŋ,tɑ53 niɑŋ45,tɑ niɑŋ,tɑ53 niɑŋ45
-TJ,Tianjin,68,叔父,伯伯 ,,pai pai,pai21 pai1,pai pai,pai21 pai1
-TJ,Tianjin,69,叔母,婶儿 ,,ʂər,ʂər13,ʂər,ʂər13
-TJ,Tianjin,70,外祖父,老爷 ,,lɑu ie,lɑu13 ie3,lɑu ie,lɑu13 ie3
-TJ,Tianjin,71,外祖母,姥姥 ,,lɑu lɑu,lɑu13 lɑu3,lɑu lɑu,lɑu13 lɑu3
-TJ,Tianjin,72,舅舅,舅舅 ,,tɕiou tɕiou,tɕiou53 tɕiou1,t͡ɕiou t͡ɕiou,t͡ɕiou53 t͡ɕiou1
-TJ,Tianjin,73,舅母,舅母 ,,tɕiou mu,tɕiou53 mu1,t͡ɕiou mu,t͡ɕiou53 mu1
-TJ,Tianjin,74,丈夫,当家的 ,,tɑŋ tɕiɑ tie,tɑŋ21-13 tɕiɑ21 tie1,tɑŋ t͡ɕiɑ tie,tɑŋ21-13 t͡ɕiɑ21 tie1
-TJ,Tianjin,75,妻子,家里的 ,,tɕiɑ li ti,tɕiɑ21 li1 ti1,t͡ɕiɑ li ti,t͡ɕiɑ21 li1 ti1
-TJ,Tianjin,76,儿子,儿子 ,,ɘr tsə,ɘr45 tsə3,ɘr t͡sə,ɘr45 t͡sə3
-TJ,Tianjin,77,女儿,闺女 ,,kuən ny,kuən21 ny1,kuən ny,kuən21 ny1
-TJ,Tianjin,78,早饭,点心 ,,tian ɕin,tian13 ɕin3,tian ɕin,tian13 ɕin3
-TJ,Tianjin,79,午饭,早饭 ,,tsɑu fan,tsɑu13 fan53,t͡sɑu fan,t͡sɑu13 fan53
-TJ,Tianjin,80,晚饭,晚饭 ,,van fan,van13 fan53,van fan,van13 fan53
-TJ,Tianjin,81,面条,面条儿 ,,mian tˈiɑur,mian53 tˈiɑur45,mian tʰiɑur,mian53 tʰiɑur45
-TJ,Tianjin,82,馒头,馒头 ,,man tˈou,man45 tˈou3,man tʰou,man45 tʰou3
-TJ,Tianjin,83,包子,包子 ,,pɑu tsə,pɑu21 tsə1,pɑu t͡sə,pɑu21 t͡sə1
-TJ,Tianjin,84,馄饨,馄饨 ,,xuən tˈuən,xuən45 tˈuən3,xuən tʰuən,xuən45 tʰuən3
-TJ,Tianjin,85,醋,醋 ,,tsˈu,tsˈu53,t͡sʰu,t͡sʰu53
-TJ,Tianjin,86,酱油,青酱 ,,tɕˈiŋ tɕiɑŋ,tɕˈiŋ21 tɕiɑŋ53,t͡ɕʰiŋ t͡ɕiɑŋ,t͡ɕʰiŋ21 t͡ɕiɑŋ53
-TJ,Tianjin,87,盐,盐 ,,ian,ian45,ian,ian45
-TJ,Tianjin,88,筷子,筷子 ,,kˈuai tsə,kˈuai53 tsə1,kʰuai t͡sə,kʰuai53 t͡sə1
-TJ,Tianjin,89,勺儿,勺儿 ,,ʂɑur,ʂɑur45,ʂɑur,ʂɑur45
-TJ,Tianjin,90,男人,男人 ,,nan ʐən,nan45 ʐən3,nan ʐən,nan45 ʐən3
-TJ,Tianjin,91,女人,女人 ,,ny ʐən,ny13 ʐən45,ny ʐən,ny13 ʐən45
-TJ,Tianjin,92,男孩子,小子 ,,ɕiɑu tsə,ɕiɑu13 tsə3,ɕiɑu t͡sə,ɕiɑu13 t͡sə3
-TJ,Tianjin,93,女孩子,闺女 ,,kuən ny,kuən21 ny1,kuən ny,kuən21 ny1
-TJ,Tianjin,94,老头儿,老头儿 ,,lɑu tˈour,lɑu13 tˈour45,lɑu tʰour,lɑu13 tʰour45
-TJ,Tianjin,95,医生,大夫,,tai fu,tai53 fu1,tai fu,tai53 fu1
-TJ,Tianjin,96,厨师,厨子,,tsˈu tsə,tsˈu45 tsə3,t͡sʰu t͡sə,t͡sʰu45 t͡sə3
-TJ,Tianjin,97,乞丐,要饭的,,iɑu fan ti,iɑu53 fan53 ti1,iɑu fan ti,iɑu53 fan53 ti1
-TJ,Tianjin,98,保姆,奶妈子 ,,nai mɑ tsə,nai13 mɑ21 tsə1,nai mɑ t͡sə,nai13 mɑ21 t͡sə1
-TJ,Tianjin,99,病了,病了 ,,piŋ lə,piŋ45 lə3,piŋ lə,piŋ45 lə3
-TJ,Tianjin,100,伤风,伤风 ,,ʂɑŋ fəŋ,ʂɑŋ21-13 fəŋ21,ʂɑŋ fəŋ,ʂɑŋ21-13 fəŋ21
-TJ,Tianjin,101,泻肚,闹肚子 ,,nɑu tu tsɿ,nɑu53-21 tu53 tsɿ1,nɑu tu t͡sɹ̩,nɑu53-21 tu53 t͡sɹ̩1
-TJ,Tianjin,102,瘸子,瘸子 ,,tɕˈye tsə,tɕˈye45 tsə3,t͡ɕʰye t͡sə,t͡ɕʰye45 t͡sə3
-TJ,Tianjin,103,驼背,罗锅儿 ,,luo kuor,luo45 kuor21,luo kuor,luo45 kuor21
-TJ,Tianjin,104,死了,死了,,sɿ lə,sɿ13 lə1,sɹ̩ lə,sɹ̩13 lə1
-TJ,Tianjin,105,看病,看病 ,,kˈan piŋ,kˈan53-21 piŋ53,kʰan piŋ,kʰan53-21 piŋ53
-TJ,Tianjin,106,我,我,,uo,uo13,uo,uo13
-TJ,Tianjin,107,你,你,,ni,ni13,ni,ni13
-TJ,Tianjin,108,他,他,,tˈɑ,tˈɑ21,tʰɑ,tʰɑ21
-TJ,Tianjin,109,我们,我们,,uo mən,uo13 mən3,uo mən,uo13 mən3
-TJ,Tianjin,110,你们,你们,,ni mən,ni13 mən3,ni mən,ni13 mən3
-TJ,Tianjin,111,他们,他们,,tˈɑ mən,tˈɑ21 mən1,tʰɑ mən,tʰɑ21 mən1
-TJ,Tianjin,112,咱们,咱们,,tsan mən,tsan45 mən3,t͡san mən,t͡san45 mən3
-TJ,Tianjin,113,自己,自个儿 ,,tsɿ kɤr,tsɿ53 kɤr45,t͡sɹ̩ kɤr,t͡sɹ̩53 kɤr45
-TJ,Tianjin,114,谁,谁 ,,sei,sei45,sei,sei45
-TJ,Tianjin,115,什么,嘛 ,,mɑ,mɑ53,mɑ,mɑ53
-TJ,Tianjin,116,这里,这合儿 ,,tɕie xər,tɕie53 xər1,t͡ɕie xər,t͡ɕie53 xər1
-TJ,Tianjin,117,那里,那合儿 ,,nɑ xər,nɑ53 xər1,nɑ xər,nɑ53 xər1
-TJ,Tianjin,118,哪里,哪合儿 ,,nɑ xər,nɑ13 xər1,nɑ xər,nɑ13 xər1
-TJ,Tianjin,119,这个,这个,,tɕie kə,tɕie53 kə1,t͡ɕie kə,t͡ɕie53 kə1
-TJ,Tianjin,120,那个,那个 ,,nɑ kə,nɑ53 kə1,nɑ kə,nɑ53 kə1
-TJ,Tianjin,121,哪一个,哪个 ,,nei kə,nei13 kə3,nei kə,nei13 kə3
-TJ,Tianjin,122,怎么样,□么样 ,,nən mə iɑŋ,nən13 mə3 iɑŋ53,nən mə iɑŋ,nən13 mə3 iɑŋ53
-TJ,Tianjin,123,一位客人,,,,,,
-TJ,Tianjin,124,刚(合适),整,,tsəŋ,tsəŋ13,t͡səŋ,t͡səŋ13
-TJ,Tianjin,125,正好,正好儿 ,,tsəŋ xɑur,tsəŋ53 xɑur13,t͡səŋ xɑur,t͡səŋ53 xɑur13
-TJ,Tianjin,126,和,跟 ,,kən,kən21,kən,kən21
-TJ,Tianjin,127,只,只,,tsɿ,tsɿ13,t͡sɹ̩,t͡sɹ̩13
-TJ,Tianjin,128,从,从 ,,tsˈuŋ,tsˈuŋ45,t͡sʰuŋ,t͡sʰuŋ45
-TJ,Tianjin,129,替,替,,tˈi,tˈi53,tʰi,tʰi53
-TJ,Tianjin,130,拿,拿 ,,nɑ,nɑ45,nɑ,nɑ45
-TJ,Tianjin,131,故意,成心 ,,tsˈəŋ ɕin,tsˈəŋ45 ɕin21,t͡sʰəŋ ɕin,t͡sʰəŋ45 ɕin21
-TJ,Tianjin,132,一,一,,i,i21,i,i21
-TJ,Tianjin,133,二,二,,ər,ər53,ər,ər53
-TJ,Tianjin,134,三,三,,san,san21,san,san21
-TJ,Tianjin,135,四,四,,sɿ,sɿ53,sɹ̩,sɹ̩53
-TJ,Tianjin,136,五,五,,u,u13,u,u13
-TJ,Tianjin,137,六,六,,liou,liou53,liou,liou53
-TJ,Tianjin,138,七,七,,tɕˈi,tɕˈi21,t͡ɕʰi,t͡ɕʰi21
-TJ,Tianjin,139,八,八,,pɑ,pɑ21,pɑ,pɑ21
-TJ,Tianjin,140,九,九,,tɕiou,tɕiou13,t͡ɕiou,t͡ɕiou13
-TJ,Tianjin,141,十,十,,ʂʅ,ʂʅ45,ʂɻ̩,ʂɻ̩45
-TJ,Tianjin,142,十一,十一,,ʂʅ i,ʂʅ45 i21,ʂɻ̩ i,ʂɻ̩45 i21
-TJ,Tianjin,143,十二,十二,,ʂʅ ər,ʂʅ45 ər53,ʂɻ̩ ər,ʂɻ̩45 ər53
-TJ,Tianjin,144,二十,二十,,ər ʂʅ,ər53 ʂʅ45,ər ʂɻ̩,ər53 ʂɻ̩45
-TJ,Tianjin,145,二十一,二十一,,ər ʂʅ i,ər53 ʂʅ45 i21,ər ʂɻ̩ i,ər53 ʂɻ̩45 i21
-TJ,Tianjin,146,一百二十一,一百二十一,,i pai ər ʂʅ i,i53 pai13 ər53 ʂʅ45 i21,i pai ər ʂɻ̩ i,i53 pai13 ər53 ʂɻ̩45 i21
-TJ,Tianjin,147,两里,二里,,ər li,ər53 li13,ər li,ər53 li13
-TJ,Tianjin,148,二两,二两,,ər liɑŋ,ər53 liɑŋ13,ər liɑŋ,ər53 liɑŋ13
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+TJ,Tianjin,1,太阳,太阳 ,,tˈai iɑŋ,tˈai53 iɑŋ45,tʰai53iɑŋ45,tʰaiiɑŋ
+TJ,Tianjin,2,月亮,月亮 ,,ye liɑŋ,ye53 liɑŋ1,ye53liɑŋ1,yeliɑŋ
+TJ,Tianjin,3,星星,星星 ,,ɕiŋ ɕiŋ,ɕiŋ21 ɕiŋ1,ɕiŋ21ɕiŋ1,ɕiŋɕiŋ
+TJ,Tianjin,4,打雷,打雷 ,,tɑ lei,tɑ13 lei45,tɑ13lei45,tɑlei
+TJ,Tianjin,5,闪电,打闪 ,,tɑ san,tɑ13-45 san13,tɑ13-45san13,tɑsan
+TJ,Tianjin,6,下雨,下雨 ,,ɕiɑ y,ɕiɑ53 y13,ɕiɑ53y13,ɕiɑy
+TJ,Tianjin,7,下雪,下雪 ,,ɕiɑ ɕye,ɕiɑ53 ɕye21,ɕiɑ53ɕye21,ɕiɑɕye
+TJ,Tianjin,8,冰雹,雹子 ,,pɑu tsə,pɑu45 tsə3,pɑu45t͡sə3,pɑut͡sə
+TJ,Tianjin,9,结冰,上冻 ,,ʂɑŋ tuŋ,ʂɑŋ53-21 tuŋ53,ʂɑŋ53-21tuŋ53,ʂɑŋtuŋ
+TJ,Tianjin,10,刮风,刮风 ,,kuɑ fəŋ,kuɑ13 fəŋ21,kuɑ13fəŋ21,kuɑfəŋ
+TJ,Tianjin,11,虹,虹 ,,tɕiɑŋ,tɕiɑŋ53,t͡ɕiɑŋ53,t͡ɕiɑŋ
+TJ,Tianjin,12,端午节,五月节 ,,u ye tɕie,u13 ye3 tɕie45,u13ye3t͡ɕie45,uyet͡ɕie
+TJ,Tianjin,13,中秋节,八月节 ,,pɑ ye tɕie,pɑ45 ye3 tɕie45,pɑ45ye3t͡ɕie45,pɑyet͡ɕie
+TJ,Tianjin,14,除夕,三十儿晚上 ,,san ʃər van ʂɑŋ,san21 ʃər45 van13 ʂɑŋ3,san21ʃər45van13ʂɑŋ3,sanʃərvanʂɑŋ
+TJ,Tianjin,15,今年,今年 ,,tɕin nian,tɕin21 nian3,t͡ɕin21nian3,t͡ɕinnian
+TJ,Tianjin,16,明年,来年 ,,lai nian,lai45 nian3,lai45nian3,lainian
+TJ,Tianjin,17,去年,去年 ,,tɕˈy nian,tɕˈy53 nian1,t͡ɕʰy53nian1,t͡ɕʰynian
+TJ,Tianjin,18,明天,明儿个 ,,mier kə,mier45 kə3,mier45kə3,mierkə
+TJ,Tianjin,19,昨天,昨儿个 ,,tsuor kə,tsuor45 kə3,t͡suor45kə3,t͡suorkə
+TJ,Tianjin,20,今天,今儿个 ,,tɕiər kə,tɕiər21 kə1,t͡ɕiər21kə1,t͡ɕiərkə
+TJ,Tianjin,21,星期天,礼拜 ,,li pai,li13 pai53,li13pai53,lipai
+TJ,Tianjin,22,麦子,麦子 ,,mai tsɿ,mai53 tsɿ1,mai53t͡sɹ̩1,mait͡sɹ̩
+TJ,Tianjin,23,大米,大米 ,,tɑ mi,tɑ53 mi13,tɑ53mi13,tɑmi
+TJ,Tianjin,24,蚕豆,蚕豆 ,,tsˈan tou,tsˈan45 tou53,t͡sʰan45tou53,t͡sʰantou
+TJ,Tianjin,25,向日葵,转莲 ,,tʂuan lian,tʂuan53 lian45,tʂuan53lian45,tʂuanlian
+TJ,Tianjin,26,菠菜,菠菜 ,,po tsˈai,po21 tsˈai53,po21t͡sʰai53,pot͡sʰai
+TJ,Tianjin,27,卷心菜,洋白菜 ,,iɑŋ pai tsˈai,iɑŋ45 pai45 tsˈai53,iɑŋ45pai45t͡sʰai53,iɑŋpait͡sʰai
+TJ,Tianjin,28,西红柿,火柿子 ,,xuo sɿ tsə,xuo13 sɿ53 tsə1,xuo13sɹ̩53t͡sə1,xuosɹ̩t͡sə
+TJ,Tianjin,29,茄子,茄子 ,,tɕˈie tsə,tɕˈie45 tsə1,t͡ɕʰie45t͡sə1,t͡ɕʰiet͡sə
+TJ,Tianjin,30,白薯,山芋 ,,san y,san21 y53,san21y53,sany
+TJ,Tianjin,31,马铃薯,土豆儿 ,,tˈu tour,tˈu13 tour53,tʰu13tour53,tʰutour
+TJ,Tianjin,32,南瓜,倭瓜 ,,uo kuɑ,uo21 kuɑ1,uo21kuɑ1,uokuɑ
+TJ,Tianjin,33,猪,猪 ,,tʂu,tʂu21,tʂu21,tʂu
+TJ,Tianjin,34,公猪,公猪 ,,kuŋ tʂu,kuŋ21 tʂu1,kuŋ21tʂu1,kuŋtʂu
+TJ,Tianjin,35,母猪,母猪 ,,mu tʂu,mu13 tʂu21,mu13tʂu21,mutʂu
+TJ,Tianjin,36,公鸡,公鸡 ,,kuŋ tɕi,kuŋ21 tɕi1,kuŋ21t͡ɕi1,kuŋt͡ɕi
+TJ,Tianjin,37,母鸡,母鸡 ,,mu tɕi,mu13 tɕi21,mu13t͡ɕi21,mut͡ɕi
+TJ,Tianjin,38,麻雀,家雀儿 ,,tɕiɑ tɕˈiɑur,tɕiɑ21-13 tɕˈiɑur21,t͡ɕiɑ21-13t͡ɕʰiɑur21,t͡ɕiɑt͡ɕʰiɑur
+TJ,Tianjin,39,老鼠,老鼠 ,,lɑu ʂu,lɑu13 ʂu3,lɑu13ʂu3,lɑuʂu
+TJ,Tianjin,40,臭虫,臭虫 ,,tʂˈou tsˈuŋ,tʂˈou53 tsˈuŋ45,tʂʰou53t͡sʰuŋ45,tʂʰout͡sʰuŋ
+TJ,Tianjin,41,房子(整),房子 ,,fɑŋ tsɿ,fɑŋ45 tsɿ3,fɑŋ45t͡sɹ̩3,fɑŋt͡sɹ̩
+TJ,Tianjin,42,房子(单),屋子 ,,u tsɿ,u21 tsɿ1,u21t͡sɹ̩1,ut͡sɹ̩
+TJ,Tianjin,43,窗户,窗户 ,,tsˈuɑŋ xu,tsˈuɑŋ21 xu1,t͡sʰuɑŋ21xu1,t͡sʰuɑŋxu
+TJ,Tianjin,44,门坎,门坎儿 ,,mən kˈar,mən45 kˈar13,mən45kʰar13,mənkʰar
+TJ,Tianjin,45,厕所,毛□,,mɑu sou,mɑu45 sou3,mɑu45sou3,mɑusou
+TJ,Tianjin,46,厨房,厨房 ,,tʂˈu fɑŋ,tʂˈu45 fɑŋ45,tʂʰu45fɑŋ45,tʂʰufɑŋ
+TJ,Tianjin,47,烟囱,烟筒 ,,ian tˈuŋ,ian21 tˈuŋ1,ian21tʰuŋ1,iantʰuŋ
+TJ,Tianjin,48,桌子,桌子 ,,tsuo tsɿ,tsuo21 tsɿ1,t͡suo21t͡sɹ̩1,t͡suot͡sɹ̩
+TJ,Tianjin,49,楼梯,楼梯儿 ,,lou tˈiər,lou45 tˈiər21,lou45tʰiər21,loutʰiər
+TJ,Tianjin,50,头,脑袋 ,,nɑu tai,nɑu13 tai3,nɑu13tai3,nɑutai
+TJ,Tianjin,51,额头,页灵盖儿 ,,ie liŋ kar,ie53 liŋ1 kar53,ie53liŋ1kar53,ieliŋkar
+TJ,Tianjin,52,脸,脸 ,,lian,lian13,lian13,lian
+TJ,Tianjin,53,鼻子,鼻子 ,,pi tsɿ,pi45 tsɿ3,pi45t͡sɹ̩3,pit͡sɹ̩
+TJ,Tianjin,54,脖子,脖子 ,,po tsɿ,po45 tsɿ3,po45t͡sɹ̩3,pot͡sɹ̩
+TJ,Tianjin,55,左手,左手 ,,tsuo sou,tsuo13-45 sou13,t͡suo13-45sou13,t͡suosou
+TJ,Tianjin,56,右手,右手 ,,iou sou,iou53 sou13,iou53sou13,iousou
+TJ,Tianjin,57,拳头,拳头 ,,tɕˈyɑn tˈou,tɕˈyɑn45 tˈou3,t͡ɕʰyɑn45tʰou3,t͡ɕʰyɑntʰou
+TJ,Tianjin,58,手指头,手指头,,sou tsɿ tˈou,sou13 tsɿ21 tˈou1,sou13t͡sɹ̩21tʰou1,sout͡sɹ̩tʰou
+TJ,Tianjin,59,指甲,指盖子 ,,tsɿ kai tsə,tsɿ21 kai53 tsə1,t͡sɹ̩21kai53t͡sə1,t͡sɹ̩kait͡sə
+TJ,Tianjin,60,膝盖,波棱盖儿 ,,po liŋ kar,po21 liŋ1 kar53,po21liŋ1kar53,poliŋkar
+TJ,Tianjin,61,腿,腿,,tˈuei,tˈuei13,tʰuei13,tʰuei
+TJ,Tianjin,62,父亲,爸 ,,pɑ,pɑ53,pɑ53,pɑ
+TJ,Tianjin,63,母亲,妈 ,,mɑ,mɑ21,mɑ21,mɑ
+TJ,Tianjin,64,祖父,爷爷 ,,ie ie,ie45 ie3,ie45ie3,ieie
+TJ,Tianjin,65,祖母,奶奶 ,,nai nai,nai13 nai3,nai13nai3,nainai
+TJ,Tianjin,66,伯父,大爷 ,,tɑ ie,tɑ53 ie1,tɑ53ie1,tɑie
+TJ,Tianjin,67,伯母,大娘 ,,tɑ niɑŋ,tɑ53 niɑŋ45,tɑ53niɑŋ45,tɑniɑŋ
+TJ,Tianjin,68,叔父,伯伯 ,,pai pai,pai21 pai1,pai21pai1,paipai
+TJ,Tianjin,69,叔母,婶儿 ,,ʂər,ʂər13,ʂər13,ʂər
+TJ,Tianjin,70,外祖父,老爷 ,,lɑu ie,lɑu13 ie3,lɑu13ie3,lɑuie
+TJ,Tianjin,71,外祖母,姥姥 ,,lɑu lɑu,lɑu13 lɑu3,lɑu13lɑu3,lɑulɑu
+TJ,Tianjin,72,舅舅,舅舅 ,,tɕiou tɕiou,tɕiou53 tɕiou1,t͡ɕiou53t͡ɕiou1,t͡ɕiout͡ɕiou
+TJ,Tianjin,73,舅母,舅母 ,,tɕiou mu,tɕiou53 mu1,t͡ɕiou53mu1,t͡ɕioumu
+TJ,Tianjin,74,丈夫,当家的 ,,tɑŋ tɕiɑ tie,tɑŋ21-13 tɕiɑ21 tie1,tɑŋ21-13t͡ɕiɑ21tie1,tɑŋt͡ɕiɑtie
+TJ,Tianjin,75,妻子,家里的 ,,tɕiɑ li ti,tɕiɑ21 li1 ti1,t͡ɕiɑ21li1ti1,t͡ɕiɑliti
+TJ,Tianjin,76,儿子,儿子 ,,ɘr tsə,ɘr45 tsə3,ɘr45t͡sə3,ɘrt͡sə
+TJ,Tianjin,77,女儿,闺女 ,,kuən ny,kuən21 ny1,kuən21ny1,kuənny
+TJ,Tianjin,78,早饭,点心 ,,tian ɕin,tian13 ɕin3,tian13ɕin3,tianɕin
+TJ,Tianjin,79,午饭,早饭 ,,tsɑu fan,tsɑu13 fan53,t͡sɑu13fan53,t͡sɑufan
+TJ,Tianjin,80,晚饭,晚饭 ,,van fan,van13 fan53,van13fan53,vanfan
+TJ,Tianjin,81,面条,面条儿 ,,mian tˈiɑur,mian53 tˈiɑur45,mian53tʰiɑur45,miantʰiɑur
+TJ,Tianjin,82,馒头,馒头 ,,man tˈou,man45 tˈou3,man45tʰou3,mantʰou
+TJ,Tianjin,83,包子,包子 ,,pɑu tsə,pɑu21 tsə1,pɑu21t͡sə1,pɑut͡sə
+TJ,Tianjin,84,馄饨,馄饨 ,,xuən tˈuən,xuən45 tˈuən3,xuən45tʰuən3,xuəntʰuən
+TJ,Tianjin,85,醋,醋 ,,tsˈu,tsˈu53,t͡sʰu53,t͡sʰu
+TJ,Tianjin,86,酱油,青酱 ,,tɕˈiŋ tɕiɑŋ,tɕˈiŋ21 tɕiɑŋ53,t͡ɕʰiŋ21t͡ɕiɑŋ53,t͡ɕʰiŋt͡ɕiɑŋ
+TJ,Tianjin,87,盐,盐 ,,ian,ian45,ian45,ian
+TJ,Tianjin,88,筷子,筷子 ,,kˈuai tsə,kˈuai53 tsə1,kʰuai53t͡sə1,kʰuait͡sə
+TJ,Tianjin,89,勺儿,勺儿 ,,ʂɑur,ʂɑur45,ʂɑur45,ʂɑur
+TJ,Tianjin,90,男人,男人 ,,nan ʐən,nan45 ʐən3,nan45ʐən3,nanʐən
+TJ,Tianjin,91,女人,女人 ,,ny ʐən,ny13 ʐən45,ny13ʐən45,nyʐən
+TJ,Tianjin,92,男孩子,小子 ,,ɕiɑu tsə,ɕiɑu13 tsə3,ɕiɑu13t͡sə3,ɕiɑut͡sə
+TJ,Tianjin,93,女孩子,闺女 ,,kuən ny,kuən21 ny1,kuən21ny1,kuənny
+TJ,Tianjin,94,老头儿,老头儿 ,,lɑu tˈour,lɑu13 tˈour45,lɑu13tʰour45,lɑutʰour
+TJ,Tianjin,95,医生,大夫,,tai fu,tai53 fu1,tai53fu1,taifu
+TJ,Tianjin,96,厨师,厨子,,tsˈu tsə,tsˈu45 tsə3,t͡sʰu45t͡sə3,t͡sʰut͡sə
+TJ,Tianjin,97,乞丐,要饭的,,iɑu fan ti,iɑu53 fan53 ti1,iɑu53fan53ti1,iɑufanti
+TJ,Tianjin,98,保姆,奶妈子 ,,nai mɑ tsə,nai13 mɑ21 tsə1,nai13mɑ21t͡sə1,naimɑt͡sə
+TJ,Tianjin,99,病了,病了 ,,piŋ lə,piŋ45 lə3,piŋ45lə3,piŋlə
+TJ,Tianjin,100,伤风,伤风 ,,ʂɑŋ fəŋ,ʂɑŋ21-13 fəŋ21,ʂɑŋ21-13fəŋ21,ʂɑŋfəŋ
+TJ,Tianjin,101,泻肚,闹肚子 ,,nɑu tu tsɿ,nɑu53-21 tu53 tsɿ1,nɑu53-21tu53t͡sɹ̩1,nɑutut͡sɹ̩
+TJ,Tianjin,102,瘸子,瘸子 ,,tɕˈye tsə,tɕˈye45 tsə3,t͡ɕʰye45t͡sə3,t͡ɕʰyet͡sə
+TJ,Tianjin,103,驼背,罗锅儿 ,,luo kuor,luo45 kuor21,luo45kuor21,luokuor
+TJ,Tianjin,104,死了,死了,,sɿ lə,sɿ13 lə1,sɹ̩13lə1,sɹ̩lə
+TJ,Tianjin,105,看病,看病 ,,kˈan piŋ,kˈan53-21 piŋ53,kʰan53-21piŋ53,kʰanpiŋ
+TJ,Tianjin,106,我,我,,uo,uo13,uo13,uo
+TJ,Tianjin,107,你,你,,ni,ni13,ni13,ni
+TJ,Tianjin,108,他,他,,tˈɑ,tˈɑ21,tʰɑ21,tʰɑ
+TJ,Tianjin,109,我们,我们,,uo mən,uo13 mən3,uo13mən3,uomən
+TJ,Tianjin,110,你们,你们,,ni mən,ni13 mən3,ni13mən3,nimən
+TJ,Tianjin,111,他们,他们,,tˈɑ mən,tˈɑ21 mən1,tʰɑ21mən1,tʰɑmən
+TJ,Tianjin,112,咱们,咱们,,tsan mən,tsan45 mən3,t͡san45mən3,t͡sanmən
+TJ,Tianjin,113,自己,自个儿 ,,tsɿ kɤr,tsɿ53 kɤr45,t͡sɹ̩53kɤr45,t͡sɹ̩kɤr
+TJ,Tianjin,114,谁,谁 ,,sei,sei45,sei45,sei
+TJ,Tianjin,115,什么,嘛 ,,mɑ,mɑ53,mɑ53,mɑ
+TJ,Tianjin,116,这里,这合儿 ,,tɕie xər,tɕie53 xər1,t͡ɕie53xər1,t͡ɕiexər
+TJ,Tianjin,117,那里,那合儿 ,,nɑ xər,nɑ53 xər1,nɑ53xər1,nɑxər
+TJ,Tianjin,118,哪里,哪合儿 ,,nɑ xər,nɑ13 xər1,nɑ13xər1,nɑxər
+TJ,Tianjin,119,这个,这个,,tɕie kə,tɕie53 kə1,t͡ɕie53kə1,t͡ɕiekə
+TJ,Tianjin,120,那个,那个 ,,nɑ kə,nɑ53 kə1,nɑ53kə1,nɑkə
+TJ,Tianjin,121,哪一个,哪个 ,,nei kə,nei13 kə3,nei13kə3,neikə
+TJ,Tianjin,122,怎么样,□么样 ,,nən mə iɑŋ,nən13 mə3 iɑŋ53,nən13mə3iɑŋ53,nənməiɑŋ
+TJ,Tianjin,123,上头,上头 ,,ʂɑŋ tˈou,ʂɑŋ53 tˈou1,ʂɑŋ53tʰou1,ʂɑŋtʰou
+TJ,Tianjin,124,下头,下头 ,,ɕiɑ tˈou,ɕiɑ53 tˈou1,ɕiɑ53tʰou1,ɕiɑtʰou
+TJ,Tianjin,125,左边,左边儿 ,,tsuo piar,tsuo13 piar3,t͡suo13piar3,t͡suopiar
+TJ,Tianjin,126,右边,右边儿 ,,iou piar,iou53 piar1,iou53piar1,ioupiar
+TJ,Tianjin,127,当中,当中 ,,tɑŋ tsuŋ,tɑŋ21-13 tsuŋ21,tɑŋ21-13t͡suŋ21,tɑŋt͡suŋ
+TJ,Tianjin,128,里面,里边儿 ,,li piar,li13 piar3,li13piar3,lipiar
+TJ,Tianjin,129,外面,外边儿 ,,vai piar,vai53 piar1,vai53piar1,vaipiar
+TJ,Tianjin,130,甜,甜 ,,tˈian,tˈian45,tʰian45,tʰian
+TJ,Tianjin,131,酸,酸 ,,suan,suan21,suan21,suan
+TJ,Tianjin,132,咸,咸,,ɕian,ɕian45,ɕian45,ɕian
+TJ,Tianjin,133,淡,淡 ,,tan,tan53,tan53,tan
+TJ,Tianjin,134,胖,胖,,pˈɑŋ,pˈɑŋ53,pʰɑŋ53,pʰɑŋ
+TJ,Tianjin,135,瘦,瘦 ,,sou,sou53,sou53,sou
+TJ,Tianjin,136,冷,冷 ,,ləŋ,ləŋ13,ləŋ13,ləŋ
+TJ,Tianjin,137,热,热 ,,iɤ,iɤ53,iɤ53,iɤ
+TJ,Tianjin,138,香,香 ,,ɕiɑŋ,ɕiɑŋ21,ɕiɑŋ21,ɕiɑŋ
+TJ,Tianjin,139,臭,臭 ,,tsˈou,tsˈou53,t͡sʰou53,t͡sʰou
+TJ,Tianjin,140,粗,粗 ,,tsˈu,tsˈu21,t͡sʰu21,t͡sʰu
+TJ,Tianjin,141,细,细,,ɕi,ɕi53,ɕi53,ɕi
+TJ,Tianjin,142,长,长 ,,tsˈɑŋ,tsˈɑŋ45,t͡sʰɑŋ45,t͡sʰɑŋ
+TJ,Tianjin,143,短,短 ,,tuan,tuan13,tuan13,tuan
+TJ,Tianjin,144,脏,脏 ,,tsɑŋ,tsɑŋ21,t͡sɑŋ21,t͡sɑŋ
+TJ,Tianjin,145,干净,干净 ,,kan tɕiŋ,kan21 tɕiŋ1,kan21t͡ɕiŋ1,kant͡ɕiŋ
+TJ,Tianjin,146,便宜,便宜 ,,pˈian i,pˈian45 i3,pʰian45i3,pʰiani
+TJ,Tianjin,147,刚(来),刚,,kɑŋ,kɑŋ21,kɑŋ21,kɑŋ
+TJ,Tianjin,148,刚(合适),整,,tsəŋ,tsəŋ13,t͡səŋ13,t͡səŋ
+TJ,Tianjin,149,正好,正好儿 ,,tsəŋ xɑur,tsəŋ53 xɑur13,t͡səŋ53xɑur13,t͡səŋxɑur
+TJ,Tianjin,150,和,跟 ,,kən,kən21,kən21,kən
+TJ,Tianjin,151,只,只,,tsɿ,tsɿ13,t͡sɹ̩13,t͡sɹ̩
+TJ,Tianjin,152,从,从 ,,tsˈuŋ,tsˈuŋ45,t͡sʰuŋ45,t͡sʰuŋ
+TJ,Tianjin,153,替,替,,tˈi,tˈi53,tʰi53,tʰi
+TJ,Tianjin,154,拿,拿 ,,nɑ,nɑ45,nɑ45,nɑ
+TJ,Tianjin,155,故意,成心 ,,tsˈəŋ ɕin,tsˈəŋ45 ɕin21,t͡sʰəŋ45ɕin21,t͡sʰəŋɕin
+TJ,Tianjin,156,一,一,,i,i21,i21,i
+TJ,Tianjin,157,二,二,,ər,ər53,ər53,ər
+TJ,Tianjin,158,三,三,,san,san21,san21,san
+TJ,Tianjin,159,四,四,,sɿ,sɿ53,sɹ̩53,sɹ̩
+TJ,Tianjin,160,五,五,,u,u13,u13,u
+TJ,Tianjin,161,六,六,,liou,liou53,liou53,liou
+TJ,Tianjin,162,七,七,,tɕˈi,tɕˈi21,t͡ɕʰi21,t͡ɕʰi
+TJ,Tianjin,163,八,八,,pɑ,pɑ21,pɑ21,pɑ
+TJ,Tianjin,164,九,九,,tɕiou,tɕiou13,t͡ɕiou13,t͡ɕiou
+TJ,Tianjin,165,十,十,,ʂʅ,ʂʅ45,ʂɻ̩45,ʂɻ̩
+TJ,Tianjin,166,十一,十一,,ʂʅ i,ʂʅ45 i21,ʂɻ̩45i21,ʂɻ̩i

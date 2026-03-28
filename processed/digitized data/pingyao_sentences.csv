@@ -1,68 +1,71 @@
 dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
-PY,Pingyao,1,谁啊?我是老三。,谁咧?我是老三,,suei liʌʔ ŋiE sɿ lɔ sɑŋ,suei13 liʌʔ13 ŋiE53 sɿ35 lɔ53 sɑŋ13,suei13 liʌʔ13 ŋiɤ53 sɹ̩35 lɔ53 sɑŋ13,suei liʌʔ ŋiɤ sɹ̩ lɔ sɑŋ
-PY,Pingyao,2,老四呢?她正跟一个朋友说着话呢。,老四咧?兀家正和块朋友捣歇咧。,,lɔ sɿ liʌʔ uʌʔ tɕiɑ tʂʅ xu xuæ pˈəŋ iəu tɔ ɕiʌʔ liʌʔ,lɔ53 sɿ35 liʌʔ13-53 uʌʔ13 tɕiɑ13 tʂʅ35 xu53 xuæ53 pˈəŋ13-35 iəu53-423 tɔ53 ɕiʌʔ13 liʌʔ13,lɔ53 sɹ̩35 liʌʔ13-53 uʌʔ13 t͡ɕiɑ13 tʂɻ̩35 xu53 xuæ53 pʰəŋ13-35 iəu53-423 tɔ53 ɕiʌʔ13 liʌʔ13,lɔ sɹ̩ liʌʔ uʌʔ t͡ɕiɑ tʂɻ̩ xu xuæ pʰəŋ iəu tɔ ɕiʌʔ liʌʔ
-PY,Pingyao,3,她还没说完吗?,兀家还没啦说完咧?,,uʌʔ tɕiɑ xɑŋ mʌʔ lɑ suʌʔ uɑŋ liʌʔ,uʌʔ13 tɕiɑ13 xɑŋ13 mʌʔ53 lɑ13 suʌʔ13 uɑŋ13 liʌʔ13,uʌʔ13 t͡ɕiɑ13 xɑŋ13 mʌʔ53 lɑ13 suʌʔ13 uɑŋ13 liʌʔ13,uʌʔ t͡ɕiɑ xɑŋ mʌʔ lɑ suʌʔ uɑŋ liʌʔ
-PY,Pingyao,4,还没有。大概再有一会儿就说完了。,没啦咧。还得₂阵阵,,mɑ liʌʔ xɑŋ tiʌʔ tʂəŋ tʂəŋ,mɑ53-423 liʌʔ13-35 xɑŋ13 tiʌʔ13 tʂəŋ35 tʂəŋ35-53,mɑ53-423 liʌʔ13-35 xɑŋ13 tiʌʔ13 tʂəŋ35 tʂəŋ35-53,mɑ liʌʔ xɑŋ tiʌʔ tʂəŋ tʂəŋ
-PY,Pingyao,5,他说马上就走，怎么这半天了还在家里?,兀家说凑住就走，咋底这应盏番还在居舍咧?,,uʌʔ tɕiɑ suʌʔ tsˈəu tsɥ tɕiəu tsəu tsɑ ti tsʌʔ iŋ tsɑŋ xuɑŋ xɑŋ tsæ tɕyE ʂʅE liʌʔ,uʌʔ13 tɕiɑ13 suʌʔ13 tsˈəu35 tsɥ35-53 tɕiəu35 tsəu53 tsɑ53 ti53-35 tsʌʔ53 iŋ31 tsɑŋ53 xuɑŋ13 xɑŋ13 tsæ35 tɕyE13 ʂʅE35-13 liʌʔ13,uʌʔ13 t͡ɕiɑ13 suʌʔ13 t͡sʰəu35 t͡sɥ35-53 t͡ɕiəu35 t͡səu53 t͡sɑ53 ti53-35 t͡sʌʔ53 iŋ31 t͡sɑŋ53 xuɑŋ13 xɑŋ13 t͡sæ35 t͡ɕyɤ13 ʂɻ̩ɤ35-13 liʌʔ13,uʌʔ t͡ɕiɑ suʌʔ t͡sʰəu t͡sɥ t͡ɕiəu t͡səu t͡sɑ ti t͡sʌʔ iŋ t͡sɑŋ xuɑŋ xɑŋ t͡sæ t͡ɕyɤ ʂɻ̩ɤ liʌʔ
-PY,Pingyao,6,你到哪儿去?我到城里去。,你到哪儿的味?我到城合里的崃,,n̩ tɔ lɑ ʐʌʔ tiʌʔ læ ŋiE tɔ tʂˈəŋ xʌʔ lei tiʌʔ læ,n̩53 tɔ35 lɑ13 ʐʌʔ13 tiʌʔ13 læ13 ŋiE53 tɔ35 tʂˈəŋ13 xʌʔ53 lei53-423 tiʌʔ13 læ13,n̩53 tɔ35 lɑ13 ʐʌʔ13 tiʌʔ13 læ13 ŋiɤ53 tɔ35 tʂʰəŋ13 xʌʔ53 lei53-423 tiʌʔ13 læ13,n̩ tɔ lɑ ʐʌʔ tiʌʔ læ ŋiɤ tɔ tʂʰəŋ xʌʔ lei tiʌʔ læ
-PY,Pingyao,7,在那儿，不在这儿。,在𠰻儿，不在哰儿。,,tsæ uæ ʐʌʔ pʌʔ tsæ tsæ ʐʌʔ,tsæ35 uæ35-53 ʐʌʔ13 pʌʔ13 tsæ35 tsæ53 ʐʌʔ13,t͡sæ35 uæ35-53 ʐʌʔ13 pʌʔ13 t͡sæ35 t͡sæ53 ʐʌʔ13,t͡sæ uæ ʐʌʔ pʌʔ t͡sæ t͡sæ ʐʌʔ
-PY,Pingyao,8,不是那么做，要这么做。,不是兀底块做，要这底块做。,,pʌʔ sɿ uʌʔ ti xuæ tsuʌʔ iɔ tsʌʔ ti xuæ tsuʌʔ,pʌʔ13-31 sɿ35 uʌʔ13-35 ti53 xuæ53 tsuʌʔ13 iɔ35 tsʌʔ53-31 ti53 xuæ53 tsuʌʔ13,pʌʔ13-31 sɹ̩35 uʌʔ13-35 ti53 xuæ53 t͡suʌʔ13 iɔ35 t͡sʌʔ53-31 ti53 xuæ53 t͡suʌʔ13,pʌʔ sɹ̩ uʌʔ ti xuæ t͡suʌʔ iɔ t͡sʌʔ ti xuæ t͡suʌʔ
-PY,Pingyao,9,太多了，用不着那么多，只要这么多就够了。,太多了，用不着兀些些，这些些就行了,,tˈæ tei lɑ yŋ pʌʔ tsuʌʔ uʌʔ ɕiE ɕiE tsʌʔ ɕiE ɕiE tɕiəu ɕiɑ liɑ,tˈæ35 tei13-31 lɑ31 yŋ35 pʌʔ13-53 tsuʌʔ13 uʌʔ13-53 ɕiE13-31 ɕiE13-35 tsʌʔ53 ɕiE13-31 ɕiE13-35 tɕiəu35-53 ɕiɑ13-35 liɑ53-423,tʰæ35 tei13-31 lɑ31 yŋ35 pʌʔ13-53 t͡suʌʔ13 uʌʔ13-53 ɕiɤ13-31 ɕiɤ13-35 t͡sʌʔ53 ɕiɤ13-31 ɕiɤ13-35 t͡ɕiəu35-53 ɕiɑ13-35 liɑ53-423,tʰæ tei lɑ yŋ pʌʔ t͡suʌʔ uʌʔ ɕiɤ ɕiɤ t͡sʌʔ ɕiɤ ɕiɤ t͡ɕiəu ɕiɑ liɑ
-PY,Pingyao,10,这个大，那个小，这两个哪一个好一点呢?,这块大，兀块小，这两块哪一块好些儿咧,,tsʌʔ xuæ tei uʌʔ xuæ ɕiɔ tsʌʔ liɑŋ xuæ lɑ iʌʔ xuæ xɔ ɕiE ʐʌʔ liʌʔ,tsʌʔ53 xuæ53 tei35 uʌʔ13-35 xuæ53-423 ɕiɔ53 tsʌʔ53 liɑŋ53 xuæ53 lɑ13 iʌʔ13-31 xuæ53 xɔ53 ɕiE13-31 ʐʌʔ13-35 liʌʔ13,t͡sʌʔ53 xuæ53 tei35 uʌʔ13-35 xuæ53-423 ɕiɔ53 t͡sʌʔ53 liɑŋ53 xuæ53 lɑ13 iʌʔ13-31 xuæ53 xɔ53 ɕiɤ13-31 ʐʌʔ13-35 liʌʔ13,t͡sʌʔ xuæ tei uʌʔ xuæ ɕiɔ t͡sʌʔ liɑŋ xuæ lɑ iʌʔ xuæ xɔ ɕiɤ ʐʌʔ liʌʔ
-PY,Pingyao,11,这个比那个好。,这块比兀块好,,tsʌʔ xuæ pi uʌʔ xuæ xɔ,tsʌʔ53 xuæ53 pi53 uʌʔ13-35 xuæ53 xɔ53,t͡sʌʔ53 xuæ53 pi53 uʌʔ13-35 xuæ53 xɔ53,t͡sʌʔ xuæ pi uʌʔ xuæ xɔ
-PY,Pingyao,12,这些房子不如那些房子好。,这些儿房子不抵兀些房子好,,tsʌʔ ɕiE ʐʌʔ xuə tsʌʔ pʌʔ ti uʌʔ ɕiE ʐʌʔ xuə tsʌʔ xɔ,tsʌʔ53 ɕiE13-31 ʐʌʔ13 xuə13 tsʌʔ13 pʌʔ13-35 ti53 uʌʔ13 ɕiE13-31 ʐʌʔ13-35 xuə13 tsʌʔ13 xɔ53,t͡sʌʔ53 ɕiɤ13-31 ʐʌʔ13 xuə13 t͡sʌʔ13 pʌʔ13-35 ti53 uʌʔ13 ɕiɤ13-31 ʐʌʔ13-35 xuə13 t͡sʌʔ13 xɔ53,t͡sʌʔ ɕiɤ ʐʌʔ xuə t͡sʌʔ pʌʔ ti uʌʔ ɕiɤ ʐʌʔ xuə t͡sʌʔ xɔ
-PY,Pingyao,13,这句话用成都话怎么说?,,,,,,
-PY,Pingyao,14,拿得动吗?,荷动了,,xei tuŋ lɔ,xei53 tuŋ35 lɔ53,xei53 tuŋ35 lɔ53,xei tuŋ lɔ
-PY,Pingyao,15,我拿得动，他拿不动。,我荷动了，兀家荷不动,,ŋiE xei tuŋ lɔ uʌʔ tɕiɑxei pʌʔ tuŋ,ŋiE53 xei53 tuŋ35 lɔ53 uʌʔ13 tɕiɑ13xei53 pʌʔ13-31 tuŋ35,ŋiɤ53 xei53 tuŋ35 lɔ53 uʌʔ13 t͡ɕiɑ13xei53 pʌʔ13-31 tuŋ35,ŋiɤ xei tuŋ lɔ uʌʔ t͡ɕiɑxei pʌʔ tuŋ
-PY,Pingyao,16,真不轻，重得连我也拿不动。,不轻咧，连我也荷不动,,pʌʔ tɕˈiŋ liʌʔ liE ŋiE iE xei pʌʔ tuŋ,pʌʔ13 tɕˈiŋ13 liʌʔ13 liE13 ŋiE53 iE53 xei53 pʌʔ13-31 tuŋ35,pʌʔ13 t͡ɕʰiŋ13 liʌʔ13 liɤ13 ŋiɤ53 iɤ53 xei53 pʌʔ13-31 tuŋ35,pʌʔ t͡ɕʰiŋ liʌʔ liɤ ŋiɤ iɤ xei pʌʔ tuŋ
-PY,Pingyao,17,你说得很好，你还会说点什么呢?,你说得不赖，你还会说些儿甚咧,,n̩ suʌʔ tiʌʔ pʌʔ læ n̩ xɑŋ xuæ suʌʔ ɕiE ʐʌʔ ʂəŋ liʌʔ,n̩53 suʌʔ13-31 tiʌʔ13-35 pʌʔ13-31 læ35 n̩53 xɑŋ13-31 xuæ35 suʌʔ13-31 ɕiE13-31 ʐʌʔ13-35 ʂəŋ35 liʌʔ13,n̩53 suʌʔ13-31 tiʌʔ13-35 pʌʔ13-31 læ35 n̩53 xɑŋ13-31 xuæ35 suʌʔ13-31 ɕiɤ13-31 ʐʌʔ13-35 ʂəŋ35 liʌʔ13,n̩ suʌʔ tiʌʔ pʌʔ læ n̩ xɑŋ xuæ suʌʔ ɕiɤ ʐʌʔ ʂəŋ liʌʔ
-PY,Pingyao,18,我嘴笨，我说不过他。,我嘴笨，我说不过兀家的,,ŋiE tsuei pəŋ ŋiE suʌʔ pʌʔ kuei uʌʔ tɕiɑ tiʌʔ,ŋiE53 tsuei53 pəŋ35 ŋiE53 suʌʔ13-31 pʌʔ13-31 kuei35 uʌʔ13 tɕiɑ13-31 tiʌʔ13-35,ŋiɤ53 t͡suei53 pəŋ35 ŋiɤ53 suʌʔ13-31 pʌʔ13-31 kuei35 uʌʔ13 t͡ɕiɑ13-31 tiʌʔ13-35,ŋiɤ t͡suei pəŋ ŋiɤ suʌʔ pʌʔ kuei uʌʔ t͡ɕiɑ tiʌʔ
-PY,Pingyao,19,说了一遍，又说一遍。,说了一遍，又说一遍,,suʌʔ lɔ iʌʔ piE iəu suʌʔ iʌʔ piE,suʌʔ13-53 lɔ53 iʌʔ13-31 piE35 iəu35 suʌʔ13-31 iʌʔ13-31 piE35,suʌʔ13-53 lɔ53 iʌʔ13-31 piɤ35 iəu35 suʌʔ13-31 iʌʔ13-31 piɤ35,suʌʔ lɔ iʌʔ piɤ iəu suʌʔ iʌʔ piɤ
-PY,Pingyao,20,请你再说一遍。,请你再说一遍,,tɕˈiŋ n̩ tsæ suʌʔ iʌʔ piE,tɕˈiŋ53-35 n̩53 tsæ35 suʌʔ13-53 iʌʔ13-31 piE35,t͡ɕʰiŋ53-35 n̩53 t͡sæ35 suʌʔ13-53 iʌʔ13-31 piɤ35,t͡ɕʰiŋ n̩ t͡sæ suʌʔ iʌʔ piɤ
-PY,Pingyao,21,不早了，快去吧。,不早了，快些儿去哇,,pʌʔ tsɔ lɑ kˈuæ ɕiE ʐʌʔ tɕˈy uɑ,pʌʔ13-31 tsɔ53 lɑ31 kˈuæ35 ɕiE13-53 ʐʌʔ13-31 tɕˈy35 uɑ53,pʌʔ13-31 t͡sɔ53 lɑ31 kʰuæ35 ɕiɤ13-53 ʐʌʔ13-31 t͡ɕʰy35 uɑ53,pʌʔ t͡sɔ lɑ kʰuæ ɕiɤ ʐʌʔ t͡ɕʰy uɑ
-PY,Pingyao,22,现在还早着呢，等一会儿再去吧。,这阵阵还早咧，等阵阵再去哇,,tsʌʔ tʂəŋ tʂəŋ xɑŋ tsɔ liʌʔ təŋ tʂəŋ tʂəŋ tsæ tɕˈy uɑ,tsʌʔ53 tʂəŋ35 tʂəŋ35-53 xɑŋ13 tsɔ53 liʌʔ13 təŋ53 tʂəŋ35 tʂəŋ35-53 tsæ35 tɕˈy35-53 uɑ31,t͡sʌʔ53 tʂəŋ35 tʂəŋ35-53 xɑŋ13 t͡sɔ53 liʌʔ13 təŋ53 tʂəŋ35 tʂəŋ35-53 t͡sæ35 t͡ɕʰy35-53 uɑ31,t͡sʌʔ tʂəŋ tʂəŋ xɑŋ t͡sɔ liʌʔ təŋ tʂəŋ tʂəŋ t͡sæ t͡ɕʰy uɑ
-PY,Pingyao,23,吃了饭再去好吗?,吃了饭再去行不行,,tʂˈʌʔ lɔ xuɑŋ tsæ tɕˈy ɕiɑ pʌʔ ɕiɑ,tʂˈʌʔ13-31 lɔ53 xuɑŋ35 tsæ35 tɕˈy35-53 ɕiɑ13 pʌʔ13-31 ɕiɑ13-35,tʂʰʌʔ13-31 lɔ53 xuɑŋ35 t͡sæ35 t͡ɕʰy35-53 ɕiɑ13 pʌʔ13-31 ɕiɑ13-35,tʂʰʌʔ lɔ xuɑŋ t͡sæ t͡ɕʰy ɕiɑ pʌʔ ɕiɑ
-PY,Pingyao,24,慢慢儿吃啊，不要着急。,慢些儿吃，不用着急,,mɑŋ ɕiE ʐʔ tʂˈʌʔ pʌʔ yŋ tʂɔ tɕiʌʔ,mɑŋ35 ɕiE13-31 ʐʔ13 tʂˈʌʔ13 pʌʔ13-31 yŋ35 tʂɔ13 tɕiʌʔ13,mɑŋ35 ɕiɤ13-31 ʐʔ13 tʂʰʌʔ13 pʌʔ13-31 yŋ35 tʂɔ13 t͡ɕiʌʔ13,mɑŋ ɕiɤ ʐʔ tʂʰʌʔ pʌʔ yŋ tʂɔ t͡ɕiʌʔ
-PY,Pingyao,25,坐着吃比站着吃好些。,坐的吃比站的吃好些儿,,tɕyE tiʌʔ tʂˈʌʔ pi tsɑŋ tiʌʔ tʂˈʌʔ xɔ ɕiE ʐʌʔ,tɕyE35 tiʌʔ13-31 tʂˈʌʔ13 pi53 tsɑŋ35 tiʌʔ13-31 tʂˈʌʔ13 xɔ53 ɕiE13-31 ʐʌʔ13,t͡ɕyɤ35 tiʌʔ13-31 tʂʰʌʔ13 pi53 t͡sɑŋ35 tiʌʔ13-31 tʂʰʌʔ13 xɔ53 ɕiɤ13-31 ʐʌʔ13,t͡ɕyɤ tiʌʔ tʂʰʌʔ pi t͡sɑŋ tiʌʔ tʂʰʌʔ xɔ ɕiɤ ʐʌʔ
-PY,Pingyao,26,他吃了饭了，你吃了饭没有呢?,兀家吃了饭了，你吃了饭了没啦,,uʌʔ tɕiɑ tʂˈʌʔ lɔ xuɑŋ lɑ n̩ tʂˈʌʔ lɔ xuɑŋ lɑ mʌʔ lɑ,uʌʔ13 tɕiɑ13 tʂˈʌʔ13 lɔ53 xuɑŋ35 lɑ31 n̩53 tʂˈʌʔ13 lɔ53 xuɑŋ35 lɑ53 mʌʔ53 lɑ13,uʌʔ13 t͡ɕiɑ13 tʂʰʌʔ13 lɔ53 xuɑŋ35 lɑ31 n̩53 tʂʰʌʔ13 lɔ53 xuɑŋ35 lɑ53 mʌʔ53 lɑ13,uʌʔ t͡ɕiɑ tʂʰʌʔ lɔ xuɑŋ lɑ n̩ tʂʰʌʔ lɔ xuɑŋ lɑ mʌʔ lɑ
-PY,Pingyao,27,他去过上海，我没有去过。,兀家去过上海，我没啦去过,,uʌʔ tɕiɑ tɕˈy kuei ʂɑŋ xæ ŋiE mʌʔ lɑ tɕˈy kuei,uʌʔ13 tɕiɑ13 tɕˈy35 kuei35-53 ʂɑŋ35 xæ ŋiE53 mʌʔ53 lɑ13 tɕˈy35 kuei35-53,uʌʔ13 t͡ɕiɑ13 t͡ɕʰy35 kuei35-53 ʂɑŋ35 xæ ŋiɤ53 mʌʔ53 lɑ13 t͡ɕʰy35 kuei35-53,uʌʔ t͡ɕiɑ t͡ɕʰy kuei ʂɑŋ xæ ŋiɤ mʌʔ lɑ t͡ɕʰy kuei
-PY,Pingyao,28,来闻闻这朵花香不香。,你来闻闻这朵花香不香,,n̩ læ uŋ uŋ tsʌʔ tuei xuɑ ɕiɑŋ pʌʔ ɕiɑŋ,n̩53 læ13 uŋ13-35 uŋ13-53 tsʌʔ53-35 tuei53 xuɑ13-31 ɕiɑŋ13-31 pʌʔ13 ɕiɑŋ13-31,n̩53 læ13 uŋ13-35 uŋ13-53 t͡sʌʔ53-35 tuei53 xuɑ13-31 ɕiɑŋ13-31 pʌʔ13 ɕiɑŋ13-31,n̩ læ uŋ uŋ t͡sʌʔ tuei xuɑ ɕiɑŋ pʌʔ ɕiɑŋ
-PY,Pingyao,29,给我一本书。,给我一本书,,tɕy ŋiE iʌʔ pəŋ sɥ,tɕy53 ŋiE53 iʌʔ13-31 pəŋ53 sɥ13-31,t͡ɕy53 ŋiɤ53 iʌʔ13-31 pəŋ53 sɥ13-31,t͡ɕy ŋiɤ iʌʔ pəŋ sɥ
-PY,Pingyao,30,我真的没有那本书呀。,我真的没啦兀本书,,ŋiE tʂəŋ tiʌʔ mʌʔ lɑ uʌʔ pəŋ sɥ,ŋiE53 tʂəŋ13-31 tiʌʔ13-35 mʌʔ53 lɑ13 uʌʔ13-35 pəŋ53 sɥ13-31,ŋiɤ53 tʂəŋ13-31 tiʌʔ13-35 mʌʔ53 lɑ13 uʌʔ13-35 pəŋ53 sɥ13-31,ŋiɤ tʂəŋ tiʌʔ mʌʔ lɑ uʌʔ pəŋ sɥ
-PY,Pingyao,31,你告诉他。,你告给兀家,,n̩ kɔ tɕy uʌʔ tɕiɑ,n̩53 kɔ35 tɕy53 uʌʔ13 tɕiɑ13,n̩53 kɔ35 t͡ɕy53 uʌʔ13 t͡ɕiɑ13,n̩ kɔ t͡ɕy uʌʔ t͡ɕiɑ
-PY,Pingyao,32,好好地走，不要跑。,好好底走，不用跑,,xɔ xɔ ti tsəu pʌʔ yŋ pˈɔ,xɔ53 xɔ53-35 ti53 tsəu53 pʌʔ13-31 yŋ35 pˈɔ53,xɔ53 xɔ53-35 ti53 t͡səu53 pʌʔ13-31 yŋ35 pʰɔ53,xɔ xɔ ti t͡səu pʌʔ yŋ pʰɔ
-PY,Pingyao,33,小心跌下去爬不上来。,小心跌下去爬不上来。,,ɕiɔ ɕiŋ tiʌʔ xɑ tiʌʔ pɑ pʌʔ suə læ,ɕiɔ53 ɕiŋ13-31 tiʌʔ13-31 xɑ35 tiʌʔ13-31 pɑ13 pʌʔ13 suə35 læ31,ɕiɔ53 ɕiŋ13-31 tiʌʔ13-31 xɑ35 tiʌʔ13-31 pɑ13 pʌʔ13 suə35 læ31,ɕiɔ ɕiŋ tiʌʔ xɑ tiʌʔ pɑ pʌʔ suə læ
-PY,Pingyao,34,医生叫你多睡睡。,医生叫你多睡睡,,i səŋ tɕiɔ n̩ tei suei suei,i13-31 səŋ13-35 tɕiɔ35 n̩53 tei13-31 suei35-53 suei35-31,i13-31 səŋ13-35 t͡ɕiɔ35 n̩53 tei13-31 suei35-53 suei35-31,i səŋ t͡ɕiɔ n̩ tei suei suei
-PY,Pingyao,35,抽烟或者喝茶都不许。,吃烟喝茶都不行,,tʂˈʌʔ iE xʌʔ tsˈɑ tu pʌʔ ɕiɑ,tʂˈʌʔ13 iE13 xʌʔ13 tsˈɑ13 tu13-31 pʌʔ13-31 ɕiɑ13-35,tʂʰʌʔ13 iɤ13 xʌʔ13 t͡sʰɑ13 tu13-31 pʌʔ13-31 ɕiɑ13-35,tʂʰʌʔ iɤ xʌʔ t͡sʰɑ tu pʌʔ ɕiɑ
-PY,Pingyao,36,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我多不好,,iE iE xɔ tsˈɑ iE xɔ ŋiE tei pʌʔ xɔ,iE13-31 iE53-35 xɔ53 tsˈɑ13-31 iE53-35 xɔ53 ŋiE53 tei13-31 pʌʔ13-31 xɔ35,iɤ13-31 iɤ53-35 xɔ53 t͡sʰɑ13-31 iɤ53-35 xɔ53 ŋiɤ53 tei13-31 pʌʔ13-31 xɔ35,iɤ iɤ xɔ t͡sʰɑ iɤ xɔ ŋiɤ tei pʌʔ xɔ
-PY,Pingyao,37,不管你去不去，反正我是要去的。,不管你去不去，反正我是要去咧,,pʌʔ kuɑŋ n̩ tɕˈy pʌʔ tɕˈy xuɑŋ tʂəŋ ŋiE sɿ iɔ tɕˈy liʌʔ,pʌʔ13-31 kuɑŋ53 n̩53 tɕˈy35 pʌʔ13 tɕˈy35 xuɑŋ53 tʂəŋ35 ŋiE53 sɿ35-31 iɔ35 tɕˈy35 liʌʔ13-31,pʌʔ13-31 kuɑŋ53 n̩53 t͡ɕʰy35 pʌʔ13 t͡ɕʰy35 xuɑŋ53 tʂəŋ35 ŋiɤ53 sɹ̩35-31 iɔ35 t͡ɕʰy35 liʌʔ13-31,pʌʔ kuɑŋ n̩ t͡ɕʰy pʌʔ t͡ɕʰy xuɑŋ tʂəŋ ŋiɤ sɹ̩ iɔ t͡ɕʰy liʌʔ
-PY,Pingyao,38,我非去不可。,我非去不行,,ŋiE xuei tɕˈy pʌʔ ɕiɑ,ŋiE53 xuei13-31 tɕˈy35 pʌʔ13-31 ɕiɑ13-35,ŋiɤ53 xuei13-31 t͡ɕʰy35 pʌʔ13-31 ɕiɑ13-35,ŋiɤ xuei t͡ɕʰy pʌʔ ɕiɑ
-PY,Pingyao,39,你是哪一年来的?,你是哪(一)年来的咧,,n̩ sɿ lɑ ȵiE læ tiʌʔ liʌʔ,n̩53 sɿ35-31 lɑ13-31 ȵiE13 læ13 tiʌʔ13-31 liʌʔ13-35,n̩53 sɹ̩35-31 lɑ13-31 ɲiɤ13 læ13 tiʌʔ13-31 liʌʔ13-35,n̩ sɹ̩ lɑ ɲiɤ læ tiʌʔ liʌʔ
-PY,Pingyao,40,我是前年到的北京。,我是前年到的北京,,ŋiE sɿ tɕiE ȵiE tɔ tiʌʔ piʌʔ tɕiŋ,ŋiE53 sɿ35 tɕiE13 ȵiE13 tɔ35 tiʌʔ13-31 piʌʔ13-31 tɕiŋ13-35,ŋiɤ53 sɹ̩35 t͡ɕiɤ13 ɲiɤ13 tɔ35 tiʌʔ13-31 piʌʔ13-31 t͡ɕiŋ13-35,ŋiɤ sɹ̩ t͡ɕiɤ ɲiɤ tɔ tiʌʔ piʌʔ t͡ɕiŋ
-PY,Pingyao,41,今天开会谁的主席?,今儿开会谁的主席,,tɕiŋ ʐʌʔ kˈæ xuæ suei tiʌʔ tsɥ ɕiʌʔ,tɕiŋ13-31 ʐʌʔ13-53 kˈæ13-31 xuæ35 suei13 tiʌʔ13-31 tsɥ53 ɕiʌʔ53,t͡ɕiŋ13-31 ʐʌʔ13-53 kʰæ13-31 xuæ35 suei13 tiʌʔ13-31 t͡sɥ53 ɕiʌʔ53,t͡ɕiŋ ʐʌʔ kʰæ xuæ suei tiʌʔ t͡sɥ ɕiʌʔ
-PY,Pingyao,42,你得请我的客。,你得请请我,,n̩ tiʌʔ tɕˈiŋ tɕˈiŋ ŋiE,n̩53 tiʌʔ13 tɕˈiŋ53-423 tɕˈiŋ53-31 ŋiE53,n̩53 tiʌʔ13 t͡ɕʰiŋ53-423 t͡ɕʰiŋ53-31 ŋiɤ53,n̩ tiʌʔ t͡ɕʰiŋ t͡ɕʰiŋ ŋiɤ
-PY,Pingyao,43,一边走，一边讲。,一边走，一边说,,iʌʔ piE tsəu iʌʔ piE suʌʔ,iʌʔ13 piE13 tsəu53 iʌʔ13 piE13 suʌʔ13,iʌʔ13 piɤ13 t͡səu53 iʌʔ13 piɤ13 suʌʔ13,iʌʔ piɤ t͡səu iʌʔ piɤ suʌʔ
-PY,Pingyao,44,越走越远，越说越多。,越走越远，越说越多,,yʌʔ tsəu yʌʔ yE yʌʔ suʌʔ yʌʔ tei,yʌʔ13-35 tsəu53-423 yʌʔ13-31 yE53 yʌʔ13 suʌʔ13 yʌʔ13 tei13,yʌʔ13-35 t͡səu53-423 yʌʔ13-31 yɤ53 yʌʔ13 suʌʔ13 yʌʔ13 tei13,yʌʔ t͡səu yʌʔ yɤ yʌʔ suʌʔ yʌʔ tei
-PY,Pingyao,45,把那个东西拿给我。,把兀块东西给我荷过来,,pɑ uʌʔ xuæ tuŋ sei tɕy ŋiE xei kuei læ,pɑ53-31 uʌʔ13-35 xuæ53 tuŋ13-31 sei13-35 tɕy53 ŋiE53 xei53 kuei35 læ13-31,pɑ53-31 uʌʔ13-35 xuæ53 tuŋ13-31 sei13-35 t͡ɕy53 ŋiɤ53 xei53 kuei35 læ13-31,pɑ uʌʔ xuæ tuŋ sei t͡ɕy ŋiɤ xei kuei læ
-PY,Pingyao,46,有些地方把太阳叫日头。,有些地方方把太阳唤日头爷,,iəu ɕiE ti xuə xuə pɑ tˈæ iɑŋ xuɑŋ ʐʌʔ təu iE,iəu53 ɕiE13 ti35 xuə13-53 xuə13-31 pɑ53 tˈæ35 iɑŋ13-31 xuɑŋ35 ʐʌʔ53 təu13-53 iE13-31,iəu53 ɕiɤ13 ti35 xuə13-53 xuə13-31 pɑ53 tʰæ35 iɑŋ13-31 xuɑŋ35 ʐʌʔ53 təu13-53 iɤ13-31,iəu ɕiɤ ti xuə xuə pɑ tʰæ iɑŋ xuɑŋ ʐʌʔ təu iɤ
-PY,Pingyao,47,您贵姓?我姓王。,你姓甚咧?我姓王,,n̩ ɕiŋ ʂəŋ liʌʔ ŋiE ɕiŋ uə,n̩53 ɕiŋ35-31 ʂəŋ35 liʌʔ13-31 ŋiE53 ɕiŋ35-31 uə13,n̩53 ɕiŋ35-31 ʂəŋ35 liʌʔ13-31 ŋiɤ53 ɕiŋ35-31 uə13,n̩ ɕiŋ ʂəŋ liʌʔ ŋiɤ ɕiŋ uə
-PY,Pingyao,48,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，咱两块人都姓王,,n̩ ɕiŋ uə ŋiE iE ɕiŋ uə tsɑ liɑŋ xuæ ʐəŋ tei ɕiŋ uə,n̩53 ɕiŋ35 uə13 ŋiE53 iE53 ɕiŋ35-31 uə13 tsɑ13 liɑŋ53 xuæ53 ʐəŋ13 tei13 ɕiŋ35-13 uə13-31,n̩53 ɕiŋ35 uə13 ŋiɤ53 iɤ53 ɕiŋ35-31 uə13 t͡sɑ13 liɑŋ53 xuæ53 ʐəŋ13 tei13 ɕiŋ35-13 uə13-31,n̩ ɕiŋ uə ŋiɤ iɤ ɕiŋ uə t͡sɑ liɑŋ xuæ ʐəŋ tei ɕiŋ uə
-PY,Pingyao,49,你先去吧，我们等一会儿再去。,你先去哇，我们等等再去,,n̩ ɕiE tɕˈy uɑ ŋʌʔ məŋ təŋ təŋ tsæ tɕˈy,n̩53 ɕiE13-31 tɕˈy35 uɑ31 ŋʌʔ53 məŋ13-35 təŋ53-423 təŋ53-31 tsæ35-31 tɕˈy35,n̩53 ɕiɤ13-31 t͡ɕʰy35 uɑ31 ŋʌʔ53 məŋ13-35 təŋ53-423 təŋ53-31 t͡sæ35-31 t͡ɕʰy35,n̩ ɕiɤ t͡ɕʰy uɑ ŋʌʔ məŋ təŋ təŋ t͡sæ t͡ɕʰy
-PY,Pingyao,50,你抽烟不抽?/你抽不抽烟?,你吃烟不吃,,n̩ tʂˈʌʔ pʌʔ tʂˈʌʔ iE,n̩53 tʂˈʌʔ13-31 pʌʔ13 tʂˈʌʔ13-31 iE13,n̩53 tʂʰʌʔ13-31 pʌʔ13 tʂʰʌʔ13-31 iɤ13,n̩ tʂʰʌʔ pʌʔ tʂʰʌʔ iɤ
-PY,Pingyao,51,你认得那个人不认得?,你认得兀块人不认得,,n̩ ʐəŋ tiʌʔ uʌʔ xuæ ʐəŋ pʌʔ ʐəŋ tiʌʔ,n̩53 ʐəŋ35 tiʌʔ13-53 uʌʔ13 xuæ53 ʐəŋ13 pʌʔ13 ʐəŋ35 tiʌʔ13-53,n̩53 ʐəŋ35 tiʌʔ13-53 uʌʔ13 xuæ53 ʐəŋ13 pʌʔ13 ʐəŋ35 tiʌʔ13-53,n̩ ʐəŋ tiʌʔ uʌʔ xuæ ʐəŋ pʌʔ ʐəŋ tiʌʔ
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+PY,Pingyao,1,谁啊?我是老三。,谁咧?我是老三,,suei liʌʔ ŋiE sɿ lɔ sɑŋ,suei13 liʌʔ13 ŋiE53 sɿ35 lɔ53 sɑŋ13,suei13liʌʔ13ŋiɤ53sɹ̩35lɔ53sɑŋ13,sueiliʌʔŋiɤsɹ̩lɔsɑŋ
+PY,Pingyao,2,老四呢?她正跟一个朋友说着话呢。,老四咧?兀家正和块朋友捣歇咧。,,lɔ sɿ liʌʔ uʌʔ tɕiɑ tʂʅ xu xuæ pˈəŋ iəu tɔ ɕiʌʔ liʌʔ,lɔ53 sɿ35 liʌʔ13-53 uʌʔ13 tɕiɑ13 tʂʅ35 xu53 xuæ53 pˈəŋ13-35 iəu53-423 tɔ53 ɕiʌʔ13 liʌʔ13,lɔ53sɹ̩35liʌʔ13-53uʌʔ13t͡ɕiɑ13tʂɻ̩35xu53xuæ53pʰəŋ13-35iəu53-423tɔ53ɕiʌʔ13liʌʔ13,lɔsɹ̩liʌʔuʌʔt͡ɕiɑtʂɻ̩xuxuæpʰəŋiəutɔɕiʌʔliʌʔ
+PY,Pingyao,3,她还没说完吗?,兀家还没啦说完咧?,,uʌʔ tɕiɑ xɑŋ mʌʔ lɑ suʌʔ uɑŋ liʌʔ,uʌʔ13 tɕiɑ13 xɑŋ13 mʌʔ53 lɑ13 suʌʔ13 uɑŋ13 liʌʔ13,uʌʔ13t͡ɕiɑ13xɑŋ13mʌʔ53lɑ13suʌʔ13uɑŋ13liʌʔ13,uʌʔt͡ɕiɑxɑŋmʌʔlɑsuʌʔuɑŋliʌʔ
+PY,Pingyao,4,还没有。大概再有一会儿就说完了。,没啦咧。还得₂阵阵,,mɑ liʌʔ xɑŋ tiʌʔ tʂəŋ tʂəŋ,mɑ53-423 liʌʔ13-35 xɑŋ13 tiʌʔ13 tʂəŋ35 tʂəŋ35-53,mɑ53-423liʌʔ13-35xɑŋ13tiʌʔ13tʂəŋ35tʂəŋ35-53,mɑliʌʔxɑŋtiʌʔtʂəŋtʂəŋ
+PY,Pingyao,5,他说马上就走，怎么这半天了还在家里?,兀家说凑住就走，咋底这应盏番还在居舍咧?,,uʌʔ tɕiɑ suʌʔ tsˈəu tsɥ tɕiəu tsəu tsɑ ti tsʌʔ iŋ tsɑŋ xuɑŋ xɑŋ tsæ tɕyE ʂʅE liʌʔ,uʌʔ13 tɕiɑ13 suʌʔ13 tsˈəu35 tsɥ35-53 tɕiəu35 tsəu53 tsɑ53 ti53-35 tsʌʔ53 iŋ31 tsɑŋ53 xuɑŋ13 xɑŋ13 tsæ35 tɕyE13 ʂʅE35-13 liʌʔ13,uʌʔ13t͡ɕiɑ13suʌʔ13t͡sʰəu35t͡sɥ35-53t͡ɕiəu35t͡səu53t͡sɑ53ti53-35t͡sʌʔ53iŋ31t͡sɑŋ53xuɑŋ13xɑŋ13t͡sæ35t͡ɕyɤ13ʂɻ̩ɤ35-13liʌʔ13,uʌʔt͡ɕiɑsuʌʔt͡sʰəut͡sɥt͡ɕiəut͡səut͡sɑtit͡sʌʔiŋt͡sɑŋxuɑŋxɑŋt͡sæt͡ɕyɤʂɻ̩ɤliʌʔ
+PY,Pingyao,6,你到哪儿去?我到城里去。,你到哪儿的味?我到城合里的崃,,n̩ tɔ lɑ ʐʌʔ tiʌʔ læ ŋiE tɔ tʂˈəŋ xʌʔ lei tiʌʔ læ,n̩53 tɔ35 lɑ13 ʐʌʔ13 tiʌʔ13 læ13 ŋiE53 tɔ35 tʂˈəŋ13 xʌʔ53 lei53-423 tiʌʔ13 læ13,n̩53tɔ35lɑ13ʐʌʔ13tiʌʔ13læ13ŋiɤ53tɔ35tʂʰəŋ13xʌʔ53lei53-423tiʌʔ13læ13,n̩tɔlɑʐʌʔtiʌʔlæŋiɤtɔtʂʰəŋxʌʔleitiʌʔlæ
+PY,Pingyao,7,在那儿，不在这儿。,在𠰻儿，不在哰儿。,,tsæ uæ ʐʌʔ pʌʔ tsæ tsæ ʐʌʔ,tsæ35 uæ35-53 ʐʌʔ13 pʌʔ13 tsæ35 tsæ53 ʐʌʔ13,t͡sæ35uæ35-53ʐʌʔ13pʌʔ13t͡sæ35t͡sæ53ʐʌʔ13,t͡sæuæʐʌʔpʌʔt͡sæt͡sæʐʌʔ
+PY,Pingyao,8,不是那么做，要这么做。,不是兀底块做，要这底块做。,,pʌʔ sɿ uʌʔ ti xuæ tsuʌʔ iɔ tsʌʔ ti xuæ tsuʌʔ,pʌʔ13-31 sɿ35 uʌʔ13-35 ti53 xuæ53 tsuʌʔ13 iɔ35 tsʌʔ53-31 ti53 xuæ53 tsuʌʔ13,pʌʔ13-31sɹ̩35uʌʔ13-35ti53xuæ53t͡suʌʔ13iɔ35t͡sʌʔ53-31ti53xuæ53t͡suʌʔ13,pʌʔsɹ̩uʌʔtixuæt͡suʌʔiɔt͡sʌʔtixuæt͡suʌʔ
+PY,Pingyao,9,太多了，用不着那么多，只要这么多就够了。,太多了，用不着兀些些，这些些就行了,,tˈæ tei lɑ yŋ pʌʔ tsuʌʔ uʌʔ ɕiE ɕiE tsʌʔ ɕiE ɕiE tɕiəu ɕiɑ liɑ,tˈæ35 tei13-31 lɑ31 yŋ35 pʌʔ13-53 tsuʌʔ13 uʌʔ13-53 ɕiE13-31 ɕiE13-35 tsʌʔ53 ɕiE13-31 ɕiE13-35 tɕiəu35-53 ɕiɑ13-35 liɑ53-423,tʰæ35tei13-31lɑ31yŋ35pʌʔ13-53t͡suʌʔ13uʌʔ13-53ɕiɤ13-31ɕiɤ13-35t͡sʌʔ53ɕiɤ13-31ɕiɤ13-35t͡ɕiəu35-53ɕiɑ13-35liɑ53-423,tʰæteilɑyŋpʌʔt͡suʌʔuʌʔɕiɤɕiɤt͡sʌʔɕiɤɕiɤt͡ɕiəuɕiɑliɑ
+PY,Pingyao,10,这个大，那个小，这两个哪一个好一点呢?,这块大，兀块小，这两块哪一块好些儿咧,,tsʌʔ xuæ tei uʌʔ xuæ ɕiɔ tsʌʔ liɑŋ xuæ lɑ iʌʔ xuæ xɔ ɕiE ʐʌʔ liʌʔ,tsʌʔ53 xuæ53 tei35 uʌʔ13-35 xuæ53-423 ɕiɔ53 tsʌʔ53 liɑŋ53 xuæ53 lɑ13 iʌʔ13-31 xuæ53 xɔ53 ɕiE13-31 ʐʌʔ13-35 liʌʔ13,t͡sʌʔ53xuæ53tei35uʌʔ13-35xuæ53-423ɕiɔ53t͡sʌʔ53liɑŋ53xuæ53lɑ13iʌʔ13-31xuæ53xɔ53ɕiɤ13-31ʐʌʔ13-35liʌʔ13,t͡sʌʔxuæteiuʌʔxuæɕiɔt͡sʌʔliɑŋxuælɑiʌʔxuæxɔɕiɤʐʌʔliʌʔ
+PY,Pingyao,11,这个比那个好。,这块比兀块好,,tsʌʔ xuæ pi uʌʔ xuæ xɔ,tsʌʔ53 xuæ53 pi53 uʌʔ13-35 xuæ53 xɔ53,t͡sʌʔ53xuæ53pi53uʌʔ13-35xuæ53xɔ53,t͡sʌʔxuæpiuʌʔxuæxɔ
+PY,Pingyao,12,这些房子不如那些房子好。,这些儿房子不抵兀些房子好,,tsʌʔ ɕiE ʐʌʔ xuə tsʌʔ pʌʔ ti uʌʔ ɕiE ʐʌʔ xuə tsʌʔ xɔ,tsʌʔ53 ɕiE13-31 ʐʌʔ13 xuə13 tsʌʔ13 pʌʔ13-35 ti53 uʌʔ13 ɕiE13-31 ʐʌʔ13-35 xuə13 tsʌʔ13 xɔ53,t͡sʌʔ53ɕiɤ13-31ʐʌʔ13xuə13t͡sʌʔ13pʌʔ13-35ti53uʌʔ13ɕiɤ13-31ʐʌʔ13-35xuə13t͡sʌʔ13xɔ53,t͡sʌʔɕiɤʐʌʔxuət͡sʌʔpʌʔtiuʌʔɕiɤʐʌʔxuət͡sʌʔxɔ
+PY,Pingyao,13,他今年多大岁数了?,兀家今年多少年纪了,,uʌʔ tɕiɑ tɕiŋ ȵiE tei ʂɔ ȵiE tɕi liɑ,uʌʔ13 tɕiɑ13 tɕiŋ13-31 ȵiE13-35 tei13 ʂɔ53 ȵiE13-31 tɕi35 liɑ31,uʌʔ13t͡ɕiɑ13t͡ɕiŋ13-31ɲiɤ13-35tei13ʂɔ53ɲiɤ13-31t͡ɕi35liɑ31,uʌʔt͡ɕiɑt͡ɕiŋɲiɤteiʂɔɲiɤt͡ɕiliɑ
+PY,Pingyao,14,大概三十来岁吧。,约摸有三十来岁哇,,yʌʔ mʌʔ iəu sɑŋ ʂʌʔ læ suei uɑ,yʌʔ13-31 mʌʔ53 iəu53 sɑŋ13-31 ʂʌʔ53 læ13 suei35 uɑ31,yʌʔ13-31mʌʔ53iəu53sɑŋ13-31ʂʌʔ53læ13suei35uɑ31,yʌʔmʌʔiəusɑŋʂʌʔlæsueiuɑ
+PY,Pingyao,15,这个东西有多重呢?,这块东西有多来重咧?,,tsʌʔ xuæ tuŋ sei iəu tei læ tsuŋ liʌʔ,tsʌʔ53 xuæ53 tuŋ13-31 sei13 iəu53 tei13 læ13-31 tsuŋ35 liʌʔ13,t͡sʌʔ53xuæ53tuŋ13-31sei13iəu53tei13læ13-31t͡suŋ35liʌʔ13,t͡sʌʔxuætuŋseiiəuteilæt͡suŋliʌʔ
+PY,Pingyao,16,有五十斤重呢。,有五十斤重咧,,iəu uʌʔ ʂʌʔ tɕiŋ tsuŋ liʌʔ,iəu53 uʌʔ53 ʂʌʔ53 tɕiŋ13-31 tsuŋ35 liʌʔ13,iəu53uʌʔ53ʂʌʔ53t͡ɕiŋ13-31t͡suŋ35liʌʔ13,iəuuʌʔʂʌʔt͡ɕiŋt͡suŋliʌʔ
+PY,Pingyao,17,拿得动吗?,荷动了,,xei tuŋ lɔ,xei53 tuŋ35 lɔ53,xei53tuŋ35lɔ53,xeituŋlɔ
+PY,Pingyao,18,我拿得动，他拿不动。,我荷动了，兀家荷不动,,ŋiE xei tuŋ lɔ uʌʔ tɕiɑxei pʌʔ tuŋ,ŋiE53 xei53 tuŋ35 lɔ53 uʌʔ13 tɕiɑ13xei53 pʌʔ13-31 tuŋ35,ŋiɤ53xei53tuŋ35lɔ53uʌʔ13t͡ɕiɑ13xei53pʌʔ13-31tuŋ35,ŋiɤxeituŋlɔuʌʔt͡ɕiɑxeipʌʔtuŋ
+PY,Pingyao,19,真不轻，重得连我也拿不动。,不轻咧，连我也荷不动,,pʌʔ tɕˈiŋ liʌʔ liE ŋiE iE xei pʌʔ tuŋ,pʌʔ13 tɕˈiŋ13 liʌʔ13 liE13 ŋiE53 iE53 xei53 pʌʔ13-31 tuŋ35,pʌʔ13t͡ɕʰiŋ13liʌʔ13liɤ13ŋiɤ53iɤ53xei53pʌʔ13-31tuŋ35,pʌʔt͡ɕʰiŋliʌʔliɤŋiɤiɤxeipʌʔtuŋ
+PY,Pingyao,20,你说得很好，你还会说点什么呢?,你说得不赖，你还会说些儿甚咧,,n̩ suʌʔ tiʌʔ pʌʔ læ n̩ xɑŋ xuæ suʌʔ ɕiE ʐʌʔ ʂəŋ liʌʔ,n̩53 suʌʔ13-31 tiʌʔ13-35 pʌʔ13-31 læ35 n̩53 xɑŋ13-31 xuæ35 suʌʔ13-31 ɕiE13-31 ʐʌʔ13-35 ʂəŋ35 liʌʔ13,n̩53suʌʔ13-31tiʌʔ13-35pʌʔ13-31læ35n̩53xɑŋ13-31xuæ35suʌʔ13-31ɕiɤ13-31ʐʌʔ13-35ʂəŋ35liʌʔ13,n̩suʌʔtiʌʔpʌʔlæn̩xɑŋxuæsuʌʔɕiɤʐʌʔʂəŋliʌʔ
+PY,Pingyao,21,我嘴笨，我说不过他。,我嘴笨，我说不过兀家的,,ŋiE tsuei pəŋ ŋiE suʌʔ pʌʔ kuei uʌʔ tɕiɑ tiʌʔ,ŋiE53 tsuei53 pəŋ35 ŋiE53 suʌʔ13-31 pʌʔ13-31 kuei35 uʌʔ13 tɕiɑ13-31 tiʌʔ13-35,ŋiɤ53t͡suei53pəŋ35ŋiɤ53suʌʔ13-31pʌʔ13-31kuei35uʌʔ13t͡ɕiɑ13-31tiʌʔ13-35,ŋiɤt͡sueipəŋŋiɤsuʌʔpʌʔkueiuʌʔt͡ɕiɑtiʌʔ
+PY,Pingyao,22,说了一遍，又说一遍。,说了一遍，又说一遍,,suʌʔ lɔ iʌʔ piE iəu suʌʔ iʌʔ piE,suʌʔ13-53 lɔ53 iʌʔ13-31 piE35 iəu35 suʌʔ13-31 iʌʔ13-31 piE35,suʌʔ13-53lɔ53iʌʔ13-31piɤ35iəu35suʌʔ13-31iʌʔ13-31piɤ35,suʌʔlɔiʌʔpiɤiəusuʌʔiʌʔpiɤ
+PY,Pingyao,23,请你再说一遍。,请你再说一遍,,tɕˈiŋ n̩ tsæ suʌʔ iʌʔ piE,tɕˈiŋ53-35 n̩53 tsæ35 suʌʔ13-53 iʌʔ13-31 piE35,t͡ɕʰiŋ53-35n̩53t͡sæ35suʌʔ13-53iʌʔ13-31piɤ35,t͡ɕʰiŋn̩t͡sæsuʌʔiʌʔpiɤ
+PY,Pingyao,24,不早了，快去吧。,不早了，快些儿去哇,,pʌʔ tsɔ lɑ kˈuæ ɕiE ʐʌʔ tɕˈy uɑ,pʌʔ13-31 tsɔ53 lɑ31 kˈuæ35 ɕiE13-53 ʐʌʔ13-31 tɕˈy35 uɑ53,pʌʔ13-31t͡sɔ53lɑ31kʰuæ35ɕiɤ13-53ʐʌʔ13-31t͡ɕʰy35uɑ53,pʌʔt͡sɔlɑkʰuæɕiɤʐʌʔt͡ɕʰyuɑ
+PY,Pingyao,25,现在还早着呢，等一会儿再去吧。,这阵阵还早咧，等阵阵再去哇,,tsʌʔ tʂəŋ tʂəŋ xɑŋ tsɔ liʌʔ təŋ tʂəŋ tʂəŋ tsæ tɕˈy uɑ,tsʌʔ53 tʂəŋ35 tʂəŋ35-53 xɑŋ13 tsɔ53 liʌʔ13 təŋ53 tʂəŋ35 tʂəŋ35-53 tsæ35 tɕˈy35-53 uɑ31,t͡sʌʔ53tʂəŋ35tʂəŋ35-53xɑŋ13t͡sɔ53liʌʔ13təŋ53tʂəŋ35tʂəŋ35-53t͡sæ35t͡ɕʰy35-53uɑ31,t͡sʌʔtʂəŋtʂəŋxɑŋt͡sɔliʌʔtəŋtʂəŋtʂəŋt͡sæt͡ɕʰyuɑ
+PY,Pingyao,26,吃了饭再去好吗?,吃了饭再去行不行,,tʂˈʌʔ lɔ xuɑŋ tsæ tɕˈy ɕiɑ pʌʔ ɕiɑ,tʂˈʌʔ13-31 lɔ53 xuɑŋ35 tsæ35 tɕˈy35-53 ɕiɑ13 pʌʔ13-31 ɕiɑ13-35,tʂʰʌʔ13-31lɔ53xuɑŋ35t͡sæ35t͡ɕʰy35-53ɕiɑ13pʌʔ13-31ɕiɑ13-35,tʂʰʌʔlɔxuɑŋt͡sæt͡ɕʰyɕiɑpʌʔɕiɑ
+PY,Pingyao,27,慢慢儿吃啊，不要着急。,慢些儿吃，不用着急,,mɑŋ ɕiE ʐʔ tʂˈʌʔ pʌʔ yŋ tʂɔ tɕiʌʔ,mɑŋ35 ɕiE13-31 ʐʔ13 tʂˈʌʔ13 pʌʔ13-31 yŋ35 tʂɔ13 tɕiʌʔ13,mɑŋ35ɕiɤ13-31ʐʔ13tʂʰʌʔ13pʌʔ13-31yŋ35tʂɔ13t͡ɕiʌʔ13,mɑŋɕiɤʐʔtʂʰʌʔpʌʔyŋtʂɔt͡ɕiʌʔ
+PY,Pingyao,28,坐着吃比站着吃好些。,坐的吃比站的吃好些儿,,tɕyE tiʌʔ tʂˈʌʔ pi tsɑŋ tiʌʔ tʂˈʌʔ xɔ ɕiE ʐʌʔ,tɕyE35 tiʌʔ13-31 tʂˈʌʔ13 pi53 tsɑŋ35 tiʌʔ13-31 tʂˈʌʔ13 xɔ53 ɕiE13-31 ʐʌʔ13,t͡ɕyɤ35tiʌʔ13-31tʂʰʌʔ13pi53t͡sɑŋ35tiʌʔ13-31tʂʰʌʔ13xɔ53ɕiɤ13-31ʐʌʔ13,t͡ɕyɤtiʌʔtʂʰʌʔpit͡sɑŋtiʌʔtʂʰʌʔxɔɕiɤʐʌʔ
+PY,Pingyao,29,他吃了饭了，你吃了饭没有呢?,兀家吃了饭了，你吃了饭了没啦,,uʌʔ tɕiɑ tʂˈʌʔ lɔ xuɑŋ lɑ n̩ tʂˈʌʔ lɔ xuɑŋ lɑ mʌʔ lɑ,uʌʔ13 tɕiɑ13 tʂˈʌʔ13 lɔ53 xuɑŋ35 lɑ31 n̩53 tʂˈʌʔ13 lɔ53 xuɑŋ35 lɑ53 mʌʔ53 lɑ13,uʌʔ13t͡ɕiɑ13tʂʰʌʔ13lɔ53xuɑŋ35lɑ31n̩53tʂʰʌʔ13lɔ53xuɑŋ35lɑ53mʌʔ53lɑ13,uʌʔt͡ɕiɑtʂʰʌʔlɔxuɑŋlɑn̩tʂʰʌʔlɔxuɑŋlɑmʌʔlɑ
+PY,Pingyao,30,他去过上海，我没有去过。,兀家去过上海，我没啦去过,,uʌʔ tɕiɑ tɕˈy kuei ʂɑŋ xæ ŋiE mʌʔ lɑ tɕˈy kuei,uʌʔ13 tɕiɑ13 tɕˈy35 kuei35-53 ʂɑŋ35 xæ ŋiE53 mʌʔ53 lɑ13 tɕˈy35 kuei35-53,uʌʔ13t͡ɕiɑ13t͡ɕʰy35kuei35-53ʂɑŋ35xæŋiɤ53mʌʔ53lɑ13t͡ɕʰy35kuei35-53,uʌʔt͡ɕiɑt͡ɕʰykueiʂɑŋxæŋiɤmʌʔlɑt͡ɕʰykuei
+PY,Pingyao,31,来闻闻这朵花香不香。,你来闻闻这朵花香不香,,n̩ læ uŋ uŋ tsʌʔ tuei xuɑ ɕiɑŋ pʌʔ ɕiɑŋ,n̩53 læ13 uŋ13-35 uŋ13-53 tsʌʔ53-35 tuei53 xuɑ13-31 ɕiɑŋ13-31 pʌʔ13 ɕiɑŋ13-31,n̩53læ13uŋ13-35uŋ13-53t͡sʌʔ53-35tuei53xuɑ13-31ɕiɑŋ13-31pʌʔ13ɕiɑŋ13-31,n̩læuŋuŋt͡sʌʔtueixuɑɕiɑŋpʌʔɕiɑŋ
+PY,Pingyao,32,给我一本书。,给我一本书,,tɕy ŋiE iʌʔ pəŋ sɥ,tɕy53 ŋiE53 iʌʔ13-31 pəŋ53 sɥ13-31,t͡ɕy53ŋiɤ53iʌʔ13-31pəŋ53sɥ13-31,t͡ɕyŋiɤiʌʔpəŋsɥ
+PY,Pingyao,33,我真的没有那本书呀。,我真的没啦兀本书,,ŋiE tʂəŋ tiʌʔ mʌʔ lɑ uʌʔ pəŋ sɥ,ŋiE53 tʂəŋ13-31 tiʌʔ13-35 mʌʔ53 lɑ13 uʌʔ13-35 pəŋ53 sɥ13-31,ŋiɤ53tʂəŋ13-31tiʌʔ13-35mʌʔ53lɑ13uʌʔ13-35pəŋ53sɥ13-31,ŋiɤtʂəŋtiʌʔmʌʔlɑuʌʔpəŋsɥ
+PY,Pingyao,34,你告诉他。,你告给兀家,,n̩ kɔ tɕy uʌʔ tɕiɑ,n̩53 kɔ35 tɕy53 uʌʔ13 tɕiɑ13,n̩53kɔ35t͡ɕy53uʌʔ13t͡ɕiɑ13,n̩kɔt͡ɕyuʌʔt͡ɕiɑ
+PY,Pingyao,35,好好地走，不要跑。,好好底走，不用跑,,xɔ xɔ ti tsəu pʌʔ yŋ pˈɔ,xɔ53 xɔ53-35 ti53 tsəu53 pʌʔ13-31 yŋ35 pˈɔ53,xɔ53xɔ53-35ti53t͡səu53pʌʔ13-31yŋ35pʰɔ53,xɔxɔtit͡səupʌʔyŋpʰɔ
+PY,Pingyao,36,小心跌下去爬不上来。,小心跌下去爬不上来。,,ɕiɔ ɕiŋ tiʌʔ xɑ tiʌʔ pɑ pʌʔ suə læ,ɕiɔ53 ɕiŋ13-31 tiʌʔ13-31 xɑ35 tiʌʔ13-31 pɑ13 pʌʔ13 suə35 læ31,ɕiɔ53ɕiŋ13-31tiʌʔ13-31xɑ35tiʌʔ13-31pɑ13pʌʔ13suə35læ31,ɕiɔɕiŋtiʌʔxɑtiʌʔpɑpʌʔsuəlæ
+PY,Pingyao,37,医生叫你多睡睡。,医生叫你多睡睡,,i səŋ tɕiɔ n̩ tei suei suei,i13-31 səŋ13-35 tɕiɔ35 n̩53 tei13-31 suei35-53 suei35-31,i13-31səŋ13-35t͡ɕiɔ35n̩53tei13-31suei35-53suei35-31,isəŋt͡ɕiɔn̩teisueisuei
+PY,Pingyao,38,抽烟或者喝茶都不许。,吃烟喝茶都不行,,tʂˈʌʔ iE xʌʔ tsˈɑ tu pʌʔ ɕiɑ,tʂˈʌʔ13 iE13 xʌʔ13 tsˈɑ13 tu13-31 pʌʔ13-31 ɕiɑ13-35,tʂʰʌʔ13iɤ13xʌʔ13t͡sʰɑ13tu13-31pʌʔ13-31ɕiɑ13-35,tʂʰʌʔiɤxʌʔt͡sʰɑtupʌʔɕiɑ
+PY,Pingyao,39,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我多不好,,iE iE xɔ tsˈɑ iE xɔ ŋiE tei pʌʔ xɔ,iE13-31 iE53-35 xɔ53 tsˈɑ13-31 iE53-35 xɔ53 ŋiE53 tei13-31 pʌʔ13-31 xɔ35,iɤ13-31iɤ53-35xɔ53t͡sʰɑ13-31iɤ53-35xɔ53ŋiɤ53tei13-31pʌʔ13-31xɔ35,iɤiɤxɔt͡sʰɑiɤxɔŋiɤteipʌʔxɔ
+PY,Pingyao,40,不管你去不去，反正我是要去的。,不管你去不去，反正我是要去咧,,pʌʔ kuɑŋ n̩ tɕˈy pʌʔ tɕˈy xuɑŋ tʂəŋ ŋiE sɿ iɔ tɕˈy liʌʔ,pʌʔ13-31 kuɑŋ53 n̩53 tɕˈy35 pʌʔ13 tɕˈy35 xuɑŋ53 tʂəŋ35 ŋiE53 sɿ35-31 iɔ35 tɕˈy35 liʌʔ13-31,pʌʔ13-31kuɑŋ53n̩53t͡ɕʰy35pʌʔ13t͡ɕʰy35xuɑŋ53tʂəŋ35ŋiɤ53sɹ̩35-31iɔ35t͡ɕʰy35liʌʔ13-31,pʌʔkuɑŋn̩t͡ɕʰypʌʔt͡ɕʰyxuɑŋtʂəŋŋiɤsɹ̩iɔt͡ɕʰyliʌʔ
+PY,Pingyao,41,我非去不可。,我非去不行,,ŋiE xuei tɕˈy pʌʔ ɕiɑ,ŋiE53 xuei13-31 tɕˈy35 pʌʔ13-31 ɕiɑ13-35,ŋiɤ53xuei13-31t͡ɕʰy35pʌʔ13-31ɕiɑ13-35,ŋiɤxueit͡ɕʰypʌʔɕiɑ
+PY,Pingyao,42,你是哪一年来的?,你是哪(一)年来的咧,,n̩ sɿ lɑ ȵiE læ tiʌʔ liʌʔ,n̩53 sɿ35-31 lɑ13-31 ȵiE13 læ13 tiʌʔ13-31 liʌʔ13-35,n̩53sɹ̩35-31lɑ13-31ɲiɤ13læ13tiʌʔ13-31liʌʔ13-35,n̩sɹ̩lɑɲiɤlætiʌʔliʌʔ
+PY,Pingyao,43,我是前年到的北京。,我是前年到的北京,,ŋiE sɿ tɕiE ȵiE tɔ tiʌʔ piʌʔ tɕiŋ,ŋiE53 sɿ35 tɕiE13 ȵiE13 tɔ35 tiʌʔ13-31 piʌʔ13-31 tɕiŋ13-35,ŋiɤ53sɹ̩35t͡ɕiɤ13ɲiɤ13tɔ35tiʌʔ13-31piʌʔ13-31t͡ɕiŋ13-35,ŋiɤsɹ̩t͡ɕiɤɲiɤtɔtiʌʔpiʌʔt͡ɕiŋ
+PY,Pingyao,44,今天开会谁的主席?,今儿开会谁的主席,,tɕiŋ ʐʌʔ kˈæ xuæ suei tiʌʔ tsɥ ɕiʌʔ,tɕiŋ13-31 ʐʌʔ13-53 kˈæ13-31 xuæ35 suei13 tiʌʔ13-31 tsɥ53 ɕiʌʔ53,t͡ɕiŋ13-31ʐʌʔ13-53kʰæ13-31xuæ35suei13tiʌʔ13-31t͡sɥ53ɕiʌʔ53,t͡ɕiŋʐʌʔkʰæxuæsueitiʌʔt͡sɥɕiʌʔ
+PY,Pingyao,45,你得请我的客。,你得请请我,,n̩ tiʌʔ tɕˈiŋ tɕˈiŋ ŋiE,n̩53 tiʌʔ13 tɕˈiŋ53-423 tɕˈiŋ53-31 ŋiE53,n̩53tiʌʔ13t͡ɕʰiŋ53-423t͡ɕʰiŋ53-31ŋiɤ53,n̩tiʌʔt͡ɕʰiŋt͡ɕʰiŋŋiɤ
+PY,Pingyao,46,一边走，一边讲。,一边走，一边说,,iʌʔ piE tsəu iʌʔ piE suʌʔ,iʌʔ13 piE13 tsəu53 iʌʔ13 piE13 suʌʔ13,iʌʔ13piɤ13t͡səu53iʌʔ13piɤ13suʌʔ13,iʌʔpiɤt͡səuiʌʔpiɤsuʌʔ
+PY,Pingyao,47,越走越远，越说越多。,越走越远，越说越多,,yʌʔ tsəu yʌʔ yE yʌʔ suʌʔ yʌʔ tei,yʌʔ13-35 tsəu53-423 yʌʔ13-31 yE53 yʌʔ13 suʌʔ13 yʌʔ13 tei13,yʌʔ13-35t͡səu53-423yʌʔ13-31yɤ53yʌʔ13suʌʔ13yʌʔ13tei13,yʌʔt͡səuyʌʔyɤyʌʔsuʌʔyʌʔtei
+PY,Pingyao,48,把那个东西拿给我。,把兀块东西给我荷过来,,pɑ uʌʔ xuæ tuŋ sei tɕy ŋiE xei kuei læ,pɑ53-31 uʌʔ13-35 xuæ53 tuŋ13-31 sei13-35 tɕy53 ŋiE53 xei53 kuei35 læ13-31,pɑ53-31uʌʔ13-35xuæ53tuŋ13-31sei13-35t͡ɕy53ŋiɤ53xei53kuei35læ13-31,pɑuʌʔxuætuŋseit͡ɕyŋiɤxeikueilæ
+PY,Pingyao,49,有些地方把太阳叫日头。,有些地方方把太阳唤日头爷,,iəu ɕiE ti xuə xuə pɑ tˈæ iɑŋ xuɑŋ ʐʌʔ təu iE,iəu53 ɕiE13 ti35 xuə13-53 xuə13-31 pɑ53 tˈæ35 iɑŋ13-31 xuɑŋ35 ʐʌʔ53 təu13-53 iE13-31,iəu53ɕiɤ13ti35xuə13-53xuə13-31pɑ53tʰæ35iɑŋ13-31xuɑŋ35ʐʌʔ53təu13-53iɤ13-31,iəuɕiɤtixuəxuəpɑtʰæiɑŋxuɑŋʐʌʔtəuiɤ
+PY,Pingyao,50,您贵姓?我姓王。,你姓甚咧?我姓王,,n̩ ɕiŋ ʂəŋ liʌʔ ŋiE ɕiŋ uə,n̩53 ɕiŋ35-31 ʂəŋ35 liʌʔ13-31 ŋiE53 ɕiŋ35-31 uə13,n̩53ɕiŋ35-31ʂəŋ35liʌʔ13-31ŋiɤ53ɕiŋ35-31uə13,n̩ɕiŋʂəŋliʌʔŋiɤɕiŋuə
+PY,Pingyao,51,你姓王我也姓王，咱们两个人都姓王。,你姓王我也姓王，咱两块人都姓王,,n̩ ɕiŋ uə ŋiE iE ɕiŋ uə tsɑ liɑŋ xuæ ʐəŋ tei ɕiŋ uə,n̩53 ɕiŋ35 uə13 ŋiE53 iE53 ɕiŋ35-31 uə13 tsɑ13 liɑŋ53 xuæ53 ʐəŋ13 tei13 ɕiŋ35-13 uə13-31,n̩53ɕiŋ35uə13ŋiɤ53iɤ53ɕiŋ35-31uə13t͡sɑ13liɑŋ53xuæ53ʐəŋ13tei13ɕiŋ35-13uə13-31,n̩ɕiŋuəŋiɤiɤɕiŋuət͡sɑliɑŋxuæʐəŋteiɕiŋuə
+PY,Pingyao,52,你先去吧，我们等一会儿再去。,你先去哇，我们等等再去,,n̩ ɕiE tɕˈy uɑ ŋʌʔ məŋ təŋ təŋ tsæ tɕˈy,n̩53 ɕiE13-31 tɕˈy35 uɑ31 ŋʌʔ53 məŋ13-35 təŋ53-423 təŋ53-31 tsæ35-31 tɕˈy35,n̩53ɕiɤ13-31t͡ɕʰy35uɑ31ŋʌʔ53məŋ13-35təŋ53-423təŋ53-31t͡sæ35-31t͡ɕʰy35,n̩ɕiɤt͡ɕʰyuɑŋʌʔməŋtəŋtəŋt͡sæt͡ɕʰy
+PY,Pingyao,53,你抽烟不抽?/你抽不抽烟?,你吃烟不吃,,n̩ tʂˈʌʔ pʌʔ tʂˈʌʔ iE,n̩53 tʂˈʌʔ13-31 pʌʔ13 tʂˈʌʔ13-31 iE13,n̩53tʂʰʌʔ13-31pʌʔ13tʂʰʌʔ13-31iɤ13,n̩tʂʰʌʔpʌʔtʂʰʌʔiɤ
+PY,Pingyao,54,你认得那个人不认得?,你认得兀块人不认得,,n̩ ʐəŋ tiʌʔ uʌʔ xuæ ʐəŋ pʌʔ ʐəŋ tiʌʔ,n̩53 ʐəŋ35 tiʌʔ13-53 uʌʔ13 xuæ53 ʐəŋ13 pʌʔ13 ʐəŋ35 tiʌʔ13-53,n̩53ʐəŋ35tiʌʔ13-53uʌʔ13xuæ53ʐəŋ13pʌʔ13ʐəŋ35tiʌʔ13-53,n̩ʐəŋtiʌʔuʌʔxuæʐəŋpʌʔʐəŋtiʌʔ
+,,55,,,,,,,
+,,56,,,,,,,
+,,57,,,,,,,
+,,58,,,,,,,
+,,59,,,,,,,
+,,60,,,,,,,
+,,61,,,,,,,
+,,62,,,,,,,
+,,63,,,,,,,
+,,64,,,,,,,
+,,65,,,,,,,
+,,66,,,,,,,
+,,67,,,,,,,
+,,68,,,,,,,
+,,69,,,,,,,
+,,70,,,,,,,

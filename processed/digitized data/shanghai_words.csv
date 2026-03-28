@@ -1,178 +1,167 @@
-dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_no_tone,ipa_converted_with_tone
-SH,Shanghai,1,太阳,太阳,,tˈa ɦiã,tˈa34-33 ɦiã13-44,tʰa ɦiã,tʰa34-33 ɦiã13-44
-SH,Shanghai,2,月亮,月亮,,ɦyɪʔ liã,ɦyɪʔ1-11 liã13-23,ɦyɪʔ liã,ɦyɪʔ1-11 liã13-23
-SH,Shanghai,3,星星,星,,ɕiŋ,ɕiŋ53,ɕiŋ,ɕiŋ53
-SH,Shanghai,4,打雷,雷响,,le ɕiã,le13-22 ɕiã34-44,le ɕiã,le13-22 ɕiã34-44
-SH,Shanghai,5,闪电,霍险,,hoʔ ɕi,hoʔ5-3 ɕi35-44,hoʔ ɕi,hoʔ5-3 ɕi35-44
-SH,Shanghai,6,下雨,落雨,,loʔ ɦy,loʔ1-1 ɦy23,loʔ ɦy,loʔ1-1 ɦy23
-SH,Shanghai,7,下雪,落雪,,loʔ ɕiɪʔ,loʔ1-1 ɕiɪʔ5-23,loʔ ɕiɪʔ,loʔ1-1 ɕiɪʔ5-23
-SH,Shanghai,8,冰雹,冰雹,,piŋ bɔ,piŋ53-55 bɔ3-21,piŋ bɔ,piŋ53-55 bɔ3-21
-SH,Shanghai,9,结冰,结冰 ,,tɕiɪʔ piŋ,tɕiɪʔ5-4 piŋ53,t͡ɕiɪʔ piŋ,t͡ɕiɪʔ5-4 piŋ53
-SH,Shanghai,10,刮风,起风,,tɕˈi foŋ,tɕˈi35-33 foŋ53-44,t͡ɕʰi foŋ,t͡ɕʰi35-33 foŋ53-44
-SH,Shanghai,11,虹,鲎,,hɤ,hɤ35,hɤ,hɤ35
-SH,Shanghai,12,端午节,端午 ,,tø ɦŋ̩,tø53-55 ɦŋ̩13-21,tø ɦŋ̩,tø53-55 ɦŋ̩13-21
-SH,Shanghai,13,中秋节,中秋,,tsoŋ tɕˈiɤ,tsoŋ53-55 tɕˈiɤ53-21,t͡soŋ t͡ɕʰiɤ,t͡soŋ53-55 t͡ɕʰiɤ53-21
-SH,Shanghai,14,除夕,大年夜,,du ȵi ɦia,du13-22 ȵi13-55 ɦia13-21,du ɲi ɦia,du13-22 ɲi13-55 ɦia13-21
-SH,Shanghai,15,今年,今年,,tɕiŋ ȵi,tɕiŋ53-55 ȵi13-21,t͡ɕiŋ ɲi,t͡ɕiŋ53-55 ɲi13-21
-SH,Shanghai,16,明年,开年,,kˈe ȵi,kˈe53-55 ȵi13-21,kʰe ɲi,kʰe53-55 ɲi13-21
-SH,Shanghai,17,去年,旧年,,dʑiɤ ȵi,dʑiɤ13-22 ȵi13-44,dʑiɤ ɲi,dʑiɤ13-22 ɲi13-44
-SH,Shanghai,18,明天,明朝,,miŋ tsɔ,miŋ13-22 tsɔ53-44,miŋ t͡sɔ,miŋ13-22 t͡sɔ53-44
-SH,Shanghai,19,昨天,昨日,,zoʔ ȵiɪʔ,zoʔ1-1 ȵiɪʔ1-23,zoʔ ɲiɪʔ,zoʔ1-1 ɲiɪʔ1-23
-SH,Shanghai,20,今天,今朝 ,,tɕiŋ tsɔ,tɕiŋ53-55 tsɔ53-21,t͡ɕiŋ t͡sɔ,t͡ɕiŋ53-55 t͡sɔ53-21
-SH,Shanghai,21,星期天,礼拜天,,li pa tˈi,li13-22 pa35-44 tˈi53-21,li pa tʰi,li13-22 pa35-44 tʰi53-21
-SH,Shanghai,22,麦子,麦子,,maʔ tsɿ,maʔ1-1 tsɿ35-23,maʔ t͡sɹ̩,maʔ1-1 t͡sɹ̩35-23
-SH,Shanghai,23,大米,大米 ,,du mi,du13-22 mi13-44,du mi,du13-22 mi13-44
-SH,Shanghai,24,蚕豆,寒豆,,ɦø dɤ,ɦø13-22 dɤ13-44,ɦø dɤ,ɦø13-22 dɤ13-44
-SH,Shanghai,25,向日葵,向日葵 ,,ɕiã zəʔ gue,ɕiã35-33 zəʔ12-55 gue13-21,ɕiã zəʔ gue,ɕiã35-33 zəʔ12-55 gue13-21
-SH,Shanghai,26,菠菜,菠菜 ,,pu tsˈe,pu53-55 tsˈe35-21,pu t͡sʰe,pu53-55 t͡sʰe35-21
-SH,Shanghai,27,卷心菜,卷心菜 ,,tɕyø ɕiŋ tsˈe,tɕyø35-33 ɕiŋ53-55 tsˈe35-21,t͡ɕyø ɕiŋ t͡sʰe,t͡ɕyø35-33 ɕiŋ53-55 t͡sʰe35-21
-SH,Shanghai,28,西红柿,番茄 ,,fe ga,fe53-55 ga13-21,fe ga,fe53-55 ga13-21
-SH,Shanghai,29,茄子,落苏,,loʔ su,loʔ1-1 su53-23,loʔ su,loʔ1-1 su53-23
-SH,Shanghai,30,白薯,山芋 ,,se ɦy,se53-55 ɦy13-21,se ɦy,se53-55 ɦy13-21
-SH,Shanghai,31,马铃薯,洋山芋,,ɦiã se ɦy,ɦiã13-22 se53-55 ɦy13-21,ɦiã se ɦy,ɦiã13-22 se53-55 ɦy13-21
-SH,Shanghai,32,南瓜,饭瓜 ,,ve ko,ve13-22 ko53-44,ve ko,ve13-22 ko53-44
-SH,Shanghai,33,猪,猪猡 ,,tsɿ lu,tsɿ53-55 lu13-21,t͡sɹ̩ lu,t͡sɹ̩53-55 lu13-21
-SH,Shanghai,34,公猪,猪郎,,tsɿ lɑ̃,tsɿ53-55 lɑ̃13-21,t͡sɹ̩ lɑ̃,t͡sɹ̩53-55 lɑ̃13-21
-SH,Shanghai,35,母猪,老母猪,,lɔ m̩ tsɿ,lɔ13-22 m̩55 tsɿ53-21,lɔ m̩ t͡sɹ̩,lɔ13-22 m̩55 t͡sɹ̩53-21
-SH,Shanghai,36,公鸡,雄鸡,,ɦioŋ tɕi,ɦioŋ13-22 tɕi53-44,ɦioŋ t͡ɕi,ɦioŋ13-22 t͡ɕi53-44
-SH,Shanghai,37,母鸡,雌鸡 ,,tsˈɿ tɕi,tsˈɿ53-55 tɕi53-21,t͡sʰɹ̩ t͡ɕi,t͡sʰɹ̩53-55 t͡ɕi53-21
-SH,Shanghai,38,麻雀,麻雀,,mo tɕˈiaʔ,mo13-22 tɕˈiaʔ5-4,mo t͡ɕʰiaʔ,mo13-22 t͡ɕʰiaʔ5-4
-SH,Shanghai,39,老鼠,老虫,,lɔ zoŋ,lɔ13-22 zoŋ23-44,lɔ zoŋ,lɔ13-22 zoŋ23-44
-SH,Shanghai,40,臭虫,臭虫 ,,tsˈɤ zoŋ,tsˈɤ35-33 zoŋ23-44,t͡sʰɤ zoŋ,t͡sʰɤ35-33 zoŋ23-44
-SH,Shanghai,41,房子(整),房子,,vɑ̃ tsɿ,vɑ̃13-22 tsɿ35-44,vɑ̃ t͡sɹ̩,vɑ̃13-22 t͡sɹ̩35-44
-SH,Shanghai,42,房子(单),房间 ,,vɑ̃ ke,vɑ̃13-22 ke53-44,vɑ̃ ke,vɑ̃13-22 ke53-44
-SH,Shanghai,43,窗户,窗门 ,,tsˈɑ̃ məŋ,tsˈɑ̃53-55 məŋ13-21,t͡sʰɑ̃ məŋ,t͡sʰɑ̃53-55 məŋ13-21
-SH,Shanghai,44,门坎,门槛,,məŋ kˈe,məŋ13-22 kˈe35-44,məŋ kʰe,məŋ13-22 kʰe35-44
-SH,Shanghai,45,厕所,马桶间,,mo doŋ ke,mo13-22 doŋ13-55 ke53-21,mo doŋ ke,mo13-22 doŋ13-55 ke53-21
-SH,Shanghai,46,厨房,灶披间,,tsɔ pˈi ke,tsɔ35-33 pˈi53-55 ke53-21,t͡sɔ pʰi ke,t͡sɔ35-33 pʰi53-55 ke53-21
-SH,Shanghai,47,烟囱,烟囱,,i tsˈoŋ,i53-55 tsˈoŋ53-21,i t͡sʰoŋ,i53-55 t͡sʰoŋ53-21
-SH,Shanghai,48,桌子,台子 ,,de tsɿ,de13-22 tsɿ35-44,de t͡sɹ̩,de13-22 t͡sɹ̩35-44
-SH,Shanghai,49,楼梯,胡梯,,ɦu tˈi,ɦu13-22 tˈi53-44,ɦu tʰi,ɦu13-22 tʰi53-44
-SH,Shanghai,50,头,头,,dɤ,dɤ13,dɤ,dɤ13
-SH,Shanghai,51,额头,额角头 ,,ŋaʔ koʔ dɤ,ŋaʔ13-11 koʔ5-2 dɤ13-23,ŋaʔ koʔ dɤ,ŋaʔ13-11 koʔ5-2 dɤ13-23
-SH,Shanghai,52,脸,面孔 ,,mi kˈoŋ,mi13-22 kˈoŋ35-44,mi kʰoŋ,mi13-22 kʰoŋ35-44
-SH,Shanghai,53,鼻子,鼻头 ,,biɪʔ dɤ,biɪʔ1-1 dɤ13-23,biɪʔ dɤ,biɪʔ1-1 dɤ13-23
-SH,Shanghai,54,脖子,头颈,,dɤ tɕiŋ,dɤ13-22 tɕiŋ35-44,dɤ t͡ɕiŋ,dɤ13-22 t͡ɕiŋ35-44
-SH,Shanghai,55,左手,左手 ,,tsu sɤ,tsu35-33 sɤ35-44,t͡su sɤ,t͡su35-33 sɤ35-44
-SH,Shanghai,56,右手,右手,,ɦiɤ sɤ,ɦiɤ13-22 sɤ35-44,ɦiɤ sɤ,ɦiɤ13-22 sɤ35-44
-SH,Shanghai,57,拳头,拳头 ,,dʑyø dɤ,dʑyø13-22 dɤ13-44,dʑyø dɤ,dʑyø13-22 dɤ13-44
-SH,Shanghai,58,手指头,手节头,,sɤ tɕiɪʔ dɤ,sɤ35-33 tɕiɪʔ5-5 dɤ13-21,sɤ t͡ɕiɪʔ dɤ,sɤ35-33 t͡ɕiɪʔ5-5 dɤ13-21
-SH,Shanghai,59,指甲,手节掐,,sɤ tɕiɪʔ kˈaʔ,sɤ35-33 tɕiɪʔ5-5 kˈaʔ5-21,sɤ t͡ɕiɪʔ kʰaʔ,sɤ35-33 t͡ɕiɪʔ5-5 kʰaʔ5-21
-SH,Shanghai,60,膝盖,脚馒头,,tɕiaʔ mø dɤ,tɕiaʔ5-3 mø13-55 dɤ13-21,t͡ɕiaʔ mø dɤ,t͡ɕiaʔ5-3 mø13-55 dɤ13-21
-SH,Shanghai,61,腿,脚膀 ,,tɕiaʔ pˈɑ̃,tɕiaʔ5-3 pˈɑ̃35-44,t͡ɕiaʔ pʰɑ̃,t͡ɕiaʔ5-3 pʰɑ̃35-44
-SH,Shanghai,62,父亲,爹爹,,tia tia,tia53-55 tia53-21,tia tia,tia53-55 tia53-21
-SH,Shanghai,63,母亲,姆妈,,m̩ ma,m̩53-55 ma13-21,m̩ ma,m̩53-55 ma13-21
-SH,Shanghai,64,祖父,老爹,,lɔ tia,lɔ23-22 tia53-44,lɔ tia,lɔ23-22 tia53-44
-SH,Shanghai,65,祖母,□奶 ,,n̩ na,n̩53-55 na13-21,n̩ na,n̩53-55 na13-21
-SH,Shanghai,66,伯父,伯伯,,paʔ paʔ,paʔ5-3 paʔ5-4,paʔ paʔ,paʔ5-3 paʔ5-4
-SH,Shanghai,67,伯母,伯母,,paʔ mu,paʔ5-3 mu13-44,paʔ mu,paʔ5-3 mu13-44
-SH,Shanghai,68,叔父,爷叔,,ɦia soʔ,ɦia13-22 soʔ5-4,ɦia soʔ,ɦia13-22 soʔ5-4
-SH,Shanghai,69,叔母,婶娘,,səŋ ȵiã,səŋ3-33 ȵiã13-44,səŋ ɲiã,səŋ3-33 ɲiã13-44
-SH,Shanghai,70,外祖父,外公 ,,ŋa koŋ,ŋa13-22 koŋ53-44,ŋa koŋ,ŋa13-22 koŋ53-44
-SH,Shanghai,71,外祖母,外婆 ,,ŋa bu,ŋa13-22 bu13-44,ŋa bu,ŋa13-22 bu13-44
-SH,Shanghai,72,舅舅,娘舅,,ȵiã dʑiɤ,ȵiã13-22 dʑiɤ3-44,ɲiã dʑiɤ,ɲiã13-22 dʑiɤ3-44
-SH,Shanghai,73,舅母,舅妈 ,,dʑiɤ ma,dʑiɤ13-22 ma13-44,dʑiɤ ma,dʑiɤ13-22 ma13-44
-SH,Shanghai,74,丈夫,爱人,,e ȵiŋ,e35-33 ȵiŋ13-44,e ɲiŋ,e35-33 ɲiŋ13-44
-SH,Shanghai,75,妻子,爱人 ,,e ȵiŋ,e35-33 ȵiŋ13-44,e ɲiŋ,e35-33 ɲiŋ13-44
-SH,Shanghai,76,儿子,儿子 ,,ȵi tsɿ,ȵi13-22 tsɿ35-44,ɲi t͡sɹ̩,ɲi13-22 t͡sɹ̩35-44
-SH,Shanghai,77,女儿,囡五,,nø ŋ̩,nø13-22 ŋ̩13-44,nø ŋ̩,nø13-22 ŋ̩13-44
-SH,Shanghai,78,早饭,早饭 ,,tsɔ ve,tsɔ35-33 ve13-44,t͡sɔ ve,t͡sɔ35-33 ve13-44
-SH,Shanghai,79,午饭,中饭 ,,tsoŋ  ve,tsoŋ53-55  ve13-21,t͡soŋ  ve,t͡soŋ53-55  ve13-21
-SH,Shanghai,80,晚饭,夜饭 ,,ɦia  ve,ɦia13-22  ve13-44,ɦia  ve,ɦia13-22  ve13-44
-SH,Shanghai,81,面条,面,,mi,mi13,mi,mi13
-SH,Shanghai,82,馒头,馒头 ,,mø dɤ,mø13-22 dɤ13-44,mø dɤ,mø13-22 dɤ13-44
-SH,Shanghai,83,包子,馒头 ,,mø dɤ,mø13-22 dɤ13-44,mø dɤ,mø13-22 dɤ13-44
-SH,Shanghai,84,馄饨,馄饨 ,,ɦuəŋ dəŋ,ɦuəŋ13-22 dəŋ13-44,ɦuəŋ dəŋ,ɦuəŋ13-22 dəŋ13-44
-SH,Shanghai,85,醋,醋 ,,tsˈu,tsˈu35,t͡sʰu,t͡sʰu35
-SH,Shanghai,86,酱油,酱油 ,,tɕiã ɦiɤ,tɕiã53-55 ɦiɤ13-21,t͡ɕiã ɦiɤ,t͡ɕiã53-55 ɦiɤ13-21
-SH,Shanghai,87,盐,盐 ,,ɦi,ɦi13,ɦi,ɦi13
-SH,Shanghai,88,筷子,筷 ,,kue,kue53,kue,kue53
-SH,Shanghai,89,勺儿,勺子 ,,zoʔ tsɿ,zoʔ1-1 tsɿ35-23,zoʔ t͡sɹ̩,zoʔ1-1 t͡sɹ̩35-23
-SH,Shanghai,90,男人,男人 ,,nø ȵiŋ,nø13-22 ȵiŋ13-44,nø ɲiŋ,nø13-22 ɲiŋ13-44
-SH,Shanghai,91,女人,女人 ,,ȵy ȵiŋ,ȵy13-22 ȵiŋ13-44,ɲy ɲiŋ,ɲy13-22 ɲiŋ13-44
-SH,Shanghai,92,男孩子,男小囡 ,,nø ɕiɔ nø,nø13-22 ɕiɔ35-55 nø13-21,nø ɕiɔ nø,nø13-22 ɕiɔ35-55 nø13-21
-SH,Shanghai,93,女孩子,女小囡 ,,ȵy ɕiɔ nø,ȵy13-22 ɕiɔ35-55 nø13-21,ɲy ɕiɔ nø,ɲy13-22 ɕiɔ35-55 nø13-21
-SH,Shanghai,94,老头儿,老公公 ,,lɔ koŋ koŋ,lɔ13-22 koŋ53-55 koŋ53-21,lɔ koŋ koŋ,lɔ13-22 koŋ53-55 koŋ53-21
-SH,Shanghai,95,医生,医生 ,,i sã,i53-55 sã53-21,i sã,i53-55 sã53-21
-SH,Shanghai,96,厨师,厨师 ,,zɿ sɿ,zɿ13-22 sɿ53-44,zɹ̩ sɹ̩,zɹ̩13-22 sɹ̩53-44
-SH,Shanghai,97,乞丐,叫化子 ,,kø ho tsɿ,kø35-33 ho35-55 tsɿ35-21,kø ho t͡sɹ̩,kø35-33 ho35-55 t͡sɹ̩35-21
-SH,Shanghai,98,保姆,娘姨 ,,ȵiã ɦi,ȵiã13-22 ɦi13-44,ɲiã ɦi,ɲiã13-22 ɦi13-44
-SH,Shanghai,99,病了,生病,,sã biŋ,sã53-44 biŋ13-13,sã biŋ,sã53-44 biŋ13-13
-SH,Shanghai,100,伤风,伤风,,sɑ̃ foŋ,sɑ̃53-55 foŋ53-21,sɑ̃ foŋ,sɑ̃53-55 foŋ53-21
-SH,Shanghai,101,泻肚,肚皮,,du bi za,du3-22 bi13-55 za13-21,du bi za,du3-22 bi13-55 za13-21
-SH,Shanghai,102,瘸子,跷脚 ,,tɕˈiɔ tɕiaʔ,tɕˈiɔ53-55 tɕiaʔ5-21,t͡ɕʰiɔ t͡ɕiaʔ,t͡ɕʰiɔ53-55 t͡ɕiaʔ5-21
-SH,Shanghai,103,驼背,驼子 ,,du tsɿ,du13-22 tsɿ35-44,du t͡sɹ̩,du13-22 t͡sɹ̩35-44
-SH,Shanghai,104,死了,死脱勒 ,,ɕi tˈəʔ ləʔ,ɕi35-33 tˈəʔ5-4 ləʔ1-21,ɕi tʰəʔ ləʔ,ɕi35-33 tʰəʔ5-4 ləʔ1-21
-SH,Shanghai,105,看病,看医生 ,,kˈø i sã,kˈø35-33 i53-55 sã53-21,kʰø i sã,kʰø35-33 i53-55 sã53-21
-SH,Shanghai,106,我,我,,ŋu,ŋu13,ŋu,ŋu13
-SH,Shanghai,107,你,侬,,noŋ,noŋ13,noŋ,noŋ13
-SH,Shanghai,108,他,伊,,ɦi,ɦi13,ɦi,ɦi13
-SH,Shanghai,109,我们,阿拉,,aʔ la,aʔ5-3 la53-44,aʔ la,aʔ5-3 la53-44
-SH,Shanghai,110,你们,倷,,na,na13,na,na13
-SH,Shanghai,111,他们,伊拉,,ɦi la,ɦi13-22 la53-44,ɦi la,ɦi13-22 la53-44
-SH,Shanghai,112,咱们,阿拉 ,,aʔ la,aʔ5-3 la53-44,aʔ la,aʔ5-3 la53-44
-SH,Shanghai,113,自己,自家 ,,zɿ ka,zɿ13-22 ka53-44,zɹ̩ ka,zɹ̩13-22 ka53-44
-SH,Shanghai,114,谁,啥人 ,,sa ȵiŋ,sa35-33 ȵiŋ13-44,sa ɲiŋ,sa35-33 ɲiŋ13-44
-SH,Shanghai,115,什么,啥 ,,sa,sa35,sa,sa35
-SH,Shanghai,116,这里,迭搭 ,,diɪʔ taʔ,diɪʔ1-1 taʔ5-2,diɪʔ taʔ,diɪʔ1-1 taʔ5-2
-SH,Shanghai,117,那里,伊搭,,i taʔ,i53-55 taʔ5-21,i taʔ,i53-55 taʔ5-21
-SH,Shanghai,118,哪里,啥地方 ,,sa di fɑ̃,sa34-33 di13-55 fɑ̃53-21,sa di fɑ̃,sa34-33 di13-55 fɑ̃53-21
-SH,Shanghai,119,这个,迭个,,diɪʔ gəʔ,diɪʔ1-1 gəʔ1-23,diɪʔ gəʔ,diɪʔ1-1 gəʔ1-23
-SH,Shanghai,120,那个,伊个,,i gəʔ,i53-55 gəʔ1-21,i gəʔ,i53-55 gəʔ1-21
-SH,Shanghai,121,哪一个,鞋里个,,ɦa li gəʔ,ɦa13-22 li13-55 gəʔ1-21,ɦa li gəʔ,ɦa13-22 li13-55 gəʔ1-21
-SH,Shanghai,122,怎么样,哪能,,na nəŋ,na13-22 nəŋ13-44,na nəŋ,na13-22 nəŋ13-44
-SH,Shanghai,123,一位客人,,,,,,
-SH,Shanghai,124,粗,粗,,tsˈu,tsˈu53,t͡sʰu,t͡sʰu53
-SH,Shanghai,125,细,细,,ɕi,ɕi35,ɕi,ɕi35
-SH,Shanghai,126,长,长,,zɑ̃,zɑ̃13,zɑ̃,zɑ̃13
-SH,Shanghai,127,短,短,,tø,tø35,tø,tø35
-SH,Shanghai,128,脏,龌龊,,oʔ tsˈoʔ,oʔ5-3 tsˈoʔ5-4,oʔ t͡sʰoʔ,oʔ5-3 t͡sʰoʔ5-4
-SH,Shanghai,129,干净,清爽,,tɕˈiŋ sɑ̃,tɕˈiŋ53-55 sɑ̃35-21,t͡ɕʰiŋ sɑ̃,t͡ɕʰiŋ53-55 sɑ̃35-21
-SH,Shanghai,130,便宜,啜,,dʑiã,dʑiã13,dʑiã,dʑiã13
-SH,Shanghai,131,刚(来),刚刚,,kɑ̃ kɑ̃,kɑ̃53-55 kɑ̃53-21,kɑ̃ kɑ̃,kɑ̃53-55 kɑ̃53-21
-SH,Shanghai,132,刚(合适),刚好,,kɑ̃ hɔ,kɑ̃53 hɔ35-21,kɑ̃ hɔ,kɑ̃53 hɔ35-21
-SH,Shanghai,133,正好,刚正好 ,,kɑ̃ tsəŋ hɔ,kɑ̃53-55 tsəŋ35-33 hɔ3-21,kɑ̃ t͡səŋ hɔ,kɑ̃53-55 t͡səŋ35-33 hɔ3-21
-SH,Shanghai,134,和,搭,,taʔ,taʔ5,taʔ,taʔ5
-SH,Shanghai,135,只,只 ,,tsəʔ,tsəʔ5,t͡səʔ,t͡səʔ5
-SH,Shanghai,136,从,从 ,,zoŋ,zoŋ13,zoŋ,zoŋ13
-SH,Shanghai,137,替,代 ,,de,de13,de,de13
-SH,Shanghai,138,拿,拿 ,,ne,ne53,ne,ne53
-SH,Shanghai,139,故意,有意,,ɦiɤ i,ɦiɤ13-22 i53-44,ɦiɤ i,ɦiɤ13-22 i53-44
-SH,Shanghai,140,一,一,,iɪʔ,iɪʔ,iɪʔ,iɪʔ
-SH,Shanghai,141,二,二,,ȵi,ȵi13,ɲi,ɲi13
-SH,Shanghai,142,三,三,,se,se53,se,se53
-SH,Shanghai,143,四,四,,sɿ,sɿ35,sɹ̩,sɹ̩35
-SH,Shanghai,144,五,五,,ŋ̩,ŋ̩13,ŋ̩,ŋ̩13
-SH,Shanghai,145,六,六,,loʔ,loʔ1,loʔ,loʔ1
-SH,Shanghai,146,七,七,,tɕˈiɪʔ,tɕˈiɪʔ5,t͡ɕʰiɪʔ,t͡ɕʰiɪʔ5
-SH,Shanghai,147,九,九,,tɕiɤ,tɕiɤ35,t͡ɕiɤ,t͡ɕiɤ35
-SH,Shanghai,148,十,十,,zəʔ,zəʔ1,zəʔ,zəʔ1
-SH,Shanghai,149,十一,十一,,zəʔ iɪʔ,zəʔ1-1 iɪʔ5-23,zəʔ iɪʔ,zəʔ1-1 iɪʔ5-23
-SH,Shanghai,150,十二,十二,,zəʔ ȵi,zəʔ1-1 ȵi13-23,zəʔ ɲi,zəʔ1-1 ɲi13-23
-SH,Shanghai,151,二十,念,,ȵie,ȵie13,ɲie,ɲie13
-SH,Shanghai,152,二十一,念一,,ȵie iɪʔ,ȵie13-22 iɪʔ5-4,ɲie iɪʔ,ɲie13-22 iɪʔ5-4
-SH,Shanghai,153,一百二十一,一百念一,,iɪʔ paʔ ȵie iɪʔ,iɪʔ5-3 paʔ5-4 ȵie13-22 iɪʔ5-4,iɪʔ paʔ ɲie iɪʔ,iɪʔ5-3 paʔ5-4 ɲie13-22 iɪʔ5-4
-SH,Shanghai,154,第二,第二,,di ȵi,di13-22 ȵi13-44,di ɲi,di13-22 ɲi13-44
-SH,Shanghai,155,二两,二两,,ȵi liã,ȵi13-22 liã13-44,ɲi liã,ɲi13-22 liã13-44
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+dialect_id,dialect_name,word_id,concept,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
+SH,Shanghai,1,太阳,太阳,,tˈa ɦiã,tˈa34-33 ɦiã13-44,tʰa34-33ɦiã13-44,tʰaɦiã
+SH,Shanghai,2,月亮,月亮,,ɦyɪʔ liã,ɦyɪʔ1-11 liã13-23,ɦyɪʔ1-11liã13-23,ɦyɪʔliã
+SH,Shanghai,3,星星,星,,ɕiŋ,ɕiŋ53,ɕiŋ53,ɕiŋ
+SH,Shanghai,4,打雷,雷响,,le ɕiã,le13-22 ɕiã34-44,le13-22ɕiã34-44,leɕiã
+SH,Shanghai,5,闪电,霍险,,hoʔ ɕi,hoʔ5-3 ɕi35-44,hoʔ5-3ɕi35-44,hoʔɕi
+SH,Shanghai,6,下雨,落雨,,loʔ ɦy,loʔ1-1 ɦy23,loʔ1-1ɦy23,loʔɦy
+SH,Shanghai,7,下雪,落雪,,loʔ ɕiɪʔ,loʔ1-1 ɕiɪʔ5-23,loʔ1-1ɕiɪʔ5-23,loʔɕiɪʔ
+SH,Shanghai,8,冰雹,冰雹,,piŋ bɔ,piŋ53-55 bɔ3-21,piŋ53-55bɔ3-21,piŋbɔ
+SH,Shanghai,9,结冰,结冰 ,,tɕiɪʔ piŋ,tɕiɪʔ5-4 piŋ53,t͡ɕiɪʔ5-4piŋ53,t͡ɕiɪʔpiŋ
+SH,Shanghai,10,刮风,起风,,tɕˈi foŋ,tɕˈi35-33 foŋ53-44,t͡ɕʰi35-33foŋ53-44,t͡ɕʰifoŋ
+SH,Shanghai,11,虹,鲎,,hɤ,hɤ35,hɤ35,hɤ
+SH,Shanghai,12,端午节,端午 ,,tø ɦŋ̩,tø53-55 ɦŋ̩13-21,tø53-55ɦŋ̩13-21,tøɦŋ̩
+SH,Shanghai,13,中秋节,中秋,,tsoŋ tɕˈiɤ,tsoŋ53-55 tɕˈiɤ53-21,t͡soŋ53-55t͡ɕʰiɤ53-21,t͡soŋt͡ɕʰiɤ
+SH,Shanghai,14,除夕,大年夜,,du ȵi ɦia,du13-22 ȵi13-55 ɦia13-21,du13-22ɲi13-55ɦia13-21,duɲiɦia
+SH,Shanghai,15,今年,今年,,tɕiŋ ȵi,tɕiŋ53-55 ȵi13-21,t͡ɕiŋ53-55ɲi13-21,t͡ɕiŋɲi
+SH,Shanghai,16,明年,开年,,kˈe ȵi,kˈe53-55 ȵi13-21,kʰe53-55ɲi13-21,kʰeɲi
+SH,Shanghai,17,去年,旧年,,dʑiɤ ȵi,dʑiɤ13-22 ȵi13-44,dʑiɤ13-22ɲi13-44,dʑiɤɲi
+SH,Shanghai,18,明天,明朝,,miŋ tsɔ,miŋ13-22 tsɔ53-44,miŋ13-22t͡sɔ53-44,miŋt͡sɔ
+SH,Shanghai,19,昨天,昨日,,zoʔ ȵiɪʔ,zoʔ1-1 ȵiɪʔ1-23,zoʔ1-1ɲiɪʔ1-23,zoʔɲiɪʔ
+SH,Shanghai,20,今天,今朝 ,,tɕiŋ tsɔ,tɕiŋ53-55 tsɔ53-21,t͡ɕiŋ53-55t͡sɔ53-21,t͡ɕiŋt͡sɔ
+SH,Shanghai,21,星期天,礼拜天,,li pa tˈi,li13-22 pa35-44 tˈi53-21,li13-22pa35-44tʰi53-21,lipatʰi
+SH,Shanghai,22,麦子,麦子,,maʔ tsɿ,maʔ1-1 tsɿ35-23,maʔ1-1t͡sɹ̩35-23,maʔt͡sɹ̩
+SH,Shanghai,23,大米,大米 ,,du mi,du13-22 mi13-44,du13-22mi13-44,dumi
+SH,Shanghai,24,蚕豆,寒豆,,ɦø dɤ,ɦø13-22 dɤ13-44,ɦø13-22dɤ13-44,ɦødɤ
+SH,Shanghai,25,向日葵,向日葵 ,,ɕiã zəʔ gue,ɕiã35-33 zəʔ12-55 gue13-21,ɕiã35-33zəʔ12-55gue13-21,ɕiãzəʔgue
+SH,Shanghai,26,菠菜,菠菜 ,,pu tsˈe,pu53-55 tsˈe35-21,pu53-55t͡sʰe35-21,put͡sʰe
+SH,Shanghai,27,卷心菜,卷心菜 ,,tɕyø ɕiŋ tsˈe,tɕyø35-33 ɕiŋ53-55 tsˈe35-21,t͡ɕyø35-33ɕiŋ53-55t͡sʰe35-21,t͡ɕyøɕiŋt͡sʰe
+SH,Shanghai,28,西红柿,番茄 ,,fe ga,fe53-55 ga13-21,fe53-55ga13-21,fega
+SH,Shanghai,29,茄子,落苏,,loʔ su,loʔ1-1 su53-23,loʔ1-1su53-23,loʔsu
+SH,Shanghai,30,白薯,山芋 ,,se ɦy,se53-55 ɦy13-21,se53-55ɦy13-21,seɦy
+SH,Shanghai,31,马铃薯,洋山芋,,ɦiã se ɦy,ɦiã13-22 se53-55 ɦy13-21,ɦiã13-22se53-55ɦy13-21,ɦiãseɦy
+SH,Shanghai,32,南瓜,饭瓜 ,,ve ko,ve13-22 ko53-44,ve13-22ko53-44,veko
+SH,Shanghai,33,猪,猪猡 ,,tsɿ lu,tsɿ53-55 lu13-21,t͡sɹ̩53-55lu13-21,t͡sɹ̩lu
+SH,Shanghai,34,公猪,猪郎,,tsɿ lɑ̃,tsɿ53-55 lɑ̃13-21,t͡sɹ̩53-55lɑ̃13-21,t͡sɹ̩lɑ̃
+SH,Shanghai,35,母猪,老母猪,,lɔ m̩ tsɿ,lɔ13-22 m̩55 tsɿ53-21,lɔ13-22m̩55t͡sɹ̩53-21,lɔm̩t͡sɹ̩
+SH,Shanghai,36,公鸡,雄鸡,,ɦioŋ tɕi,ɦioŋ13-22 tɕi53-44,ɦioŋ13-22t͡ɕi53-44,ɦioŋt͡ɕi
+SH,Shanghai,37,母鸡,雌鸡 ,,tsˈɿ tɕi,tsˈɿ53-55 tɕi53-21,t͡sʰɹ̩53-55t͡ɕi53-21,t͡sʰɹ̩t͡ɕi
+SH,Shanghai,38,麻雀,麻雀,,mo tɕˈiaʔ,mo13-22 tɕˈiaʔ5-4,mo13-22t͡ɕʰiaʔ5-4,mot͡ɕʰiaʔ
+SH,Shanghai,39,老鼠,老虫,,lɔ zoŋ,lɔ13-22 zoŋ23-44,lɔ13-22zoŋ23-44,lɔzoŋ
+SH,Shanghai,40,臭虫,臭虫 ,,tsˈɤ zoŋ,tsˈɤ35-33 zoŋ23-44,t͡sʰɤ35-33zoŋ23-44,t͡sʰɤzoŋ
+SH,Shanghai,41,房子(整),房子,,vɑ̃ tsɿ,vɑ̃13-22 tsɿ35-44,vɑ̃13-22t͡sɹ̩35-44,vɑ̃t͡sɹ̩
+SH,Shanghai,42,房子(单),房间 ,,vɑ̃ ke,vɑ̃13-22 ke53-44,vɑ̃13-22ke53-44,vɑ̃ke
+SH,Shanghai,43,窗户,窗门 ,,tsˈɑ̃ məŋ,tsˈɑ̃53-55 məŋ13-21,t͡sʰɑ̃53-55məŋ13-21,t͡sʰɑ̃məŋ
+SH,Shanghai,44,门坎,门槛,,məŋ kˈe,məŋ13-22 kˈe35-44,məŋ13-22kʰe35-44,məŋkʰe
+SH,Shanghai,45,厕所,马桶间,,mo doŋ ke,mo13-22 doŋ13-55 ke53-21,mo13-22doŋ13-55ke53-21,modoŋke
+SH,Shanghai,46,厨房,灶披间,,tsɔ pˈi ke,tsɔ35-33 pˈi53-55 ke53-21,t͡sɔ35-33pʰi53-55ke53-21,t͡sɔpʰike
+SH,Shanghai,47,烟囱,烟囱,,i tsˈoŋ,i53-55 tsˈoŋ53-21,i53-55t͡sʰoŋ53-21,it͡sʰoŋ
+SH,Shanghai,48,桌子,台子 ,,de tsɿ,de13-22 tsɿ35-44,de13-22t͡sɹ̩35-44,det͡sɹ̩
+SH,Shanghai,49,楼梯,胡梯,,ɦu tˈi,ɦu13-22 tˈi53-44,ɦu13-22tʰi53-44,ɦutʰi
+SH,Shanghai,50,头,头,,dɤ,dɤ13,dɤ13,dɤ
+SH,Shanghai,51,额头,额角头 ,,ŋaʔ koʔ dɤ,ŋaʔ13-11 koʔ5-2 dɤ13-23,ŋaʔ13-11koʔ5-2dɤ13-23,ŋaʔkoʔdɤ
+SH,Shanghai,52,脸,面孔 ,,mi kˈoŋ,mi13-22 kˈoŋ35-44,mi13-22kʰoŋ35-44,mikʰoŋ
+SH,Shanghai,53,鼻子,鼻头 ,,biɪʔ dɤ,biɪʔ1-1 dɤ13-23,biɪʔ1-1dɤ13-23,biɪʔdɤ
+SH,Shanghai,54,脖子,头颈,,dɤ tɕiŋ,dɤ13-22 tɕiŋ35-44,dɤ13-22t͡ɕiŋ35-44,dɤt͡ɕiŋ
+SH,Shanghai,55,左手,左手 ,,tsu sɤ,tsu35-33 sɤ35-44,t͡su35-33sɤ35-44,t͡susɤ
+SH,Shanghai,56,右手,右手,,ɦiɤ sɤ,ɦiɤ13-22 sɤ35-44,ɦiɤ13-22sɤ35-44,ɦiɤsɤ
+SH,Shanghai,57,拳头,拳头 ,,dʑyø dɤ,dʑyø13-22 dɤ13-44,dʑyø13-22dɤ13-44,dʑyødɤ
+SH,Shanghai,58,手指头,手节头,,sɤ tɕiɪʔ dɤ,sɤ35-33 tɕiɪʔ5-5 dɤ13-21,sɤ35-33t͡ɕiɪʔ5-5dɤ13-21,sɤt͡ɕiɪʔdɤ
+SH,Shanghai,59,指甲,手节掐,,sɤ tɕiɪʔ kˈaʔ,sɤ35-33 tɕiɪʔ5-5 kˈaʔ5-21,sɤ35-33t͡ɕiɪʔ5-5kʰaʔ5-21,sɤt͡ɕiɪʔkʰaʔ
+SH,Shanghai,60,膝盖,脚馒头,,tɕiaʔ mø dɤ,tɕiaʔ5-3 mø13-55 dɤ13-21,t͡ɕiaʔ5-3mø13-55dɤ13-21,t͡ɕiaʔmødɤ
+SH,Shanghai,61,腿,脚膀 ,,tɕiaʔ pˈɑ̃,tɕiaʔ5-3 pˈɑ̃35-44,t͡ɕiaʔ5-3pʰɑ̃35-44,t͡ɕiaʔpʰɑ̃
+SH,Shanghai,62,父亲,爹爹,,tia tia,tia53-55 tia53-21,tia53-55tia53-21,tiatia
+SH,Shanghai,63,母亲,姆妈,,m̩ ma,m̩53-55 ma13-21,m̩53-55ma13-21,m̩ma
+SH,Shanghai,64,祖父,老爹,,lɔ tia,lɔ23-22 tia53-44,lɔ23-22tia53-44,lɔtia
+SH,Shanghai,65,祖母,□奶 ,,n̩ na,n̩53-55 na13-21,n̩53-55na13-21,n̩na
+SH,Shanghai,66,伯父,伯伯,,paʔ paʔ,paʔ5-3 paʔ5-4,paʔ5-3paʔ5-4,paʔpaʔ
+SH,Shanghai,67,伯母,伯母,,paʔ mu,paʔ5-3 mu13-44,paʔ5-3mu13-44,paʔmu
+SH,Shanghai,68,叔父,爷叔,,ɦia soʔ,ɦia13-22 soʔ5-4,ɦia13-22soʔ5-4,ɦiasoʔ
+SH,Shanghai,69,叔母,婶娘,,səŋ ȵiã,səŋ3-33 ȵiã13-44,səŋ3-33ɲiã13-44,səŋɲiã
+SH,Shanghai,70,外祖父,外公 ,,ŋa koŋ,ŋa13-22 koŋ53-44,ŋa13-22koŋ53-44,ŋakoŋ
+SH,Shanghai,71,外祖母,外婆 ,,ŋa bu,ŋa13-22 bu13-44,ŋa13-22bu13-44,ŋabu
+SH,Shanghai,72,舅舅,娘舅,,ȵiã dʑiɤ,ȵiã13-22 dʑiɤ3-44,ɲiã13-22dʑiɤ3-44,ɲiãdʑiɤ
+SH,Shanghai,73,舅母,舅妈 ,,dʑiɤ ma,dʑiɤ13-22 ma13-44,dʑiɤ13-22ma13-44,dʑiɤma
+SH,Shanghai,74,丈夫,爱人,,e ȵiŋ,e35-33 ȵiŋ13-44,e35-33ɲiŋ13-44,eɲiŋ
+SH,Shanghai,75,妻子,爱人 ,,e ȵiŋ,e35-33 ȵiŋ13-44,e35-33ɲiŋ13-44,eɲiŋ
+SH,Shanghai,76,儿子,儿子 ,,ȵi tsɿ,ȵi13-22 tsɿ35-44,ɲi13-22t͡sɹ̩35-44,ɲit͡sɹ̩
+SH,Shanghai,77,女儿,囡五,,nø ŋ̩,nø13-22 ŋ̩13-44,nø13-22ŋ̩13-44,nøŋ̩
+SH,Shanghai,78,早饭,早饭 ,,tsɔ ve,tsɔ35-33 ve13-44,t͡sɔ35-33ve13-44,t͡sɔve
+SH,Shanghai,79,午饭,中饭 ,,tsoŋ  ve,tsoŋ53-55  ve13-21,t͡soŋ53-55ve13-21,t͡soŋve
+SH,Shanghai,80,晚饭,夜饭 ,,ɦia  ve,ɦia13-22  ve13-44,ɦia13-22ve13-44,ɦiave
+SH,Shanghai,81,面条,面,,mi,mi13,mi13,mi
+SH,Shanghai,82,馒头,馒头 ,,mø dɤ,mø13-22 dɤ13-44,mø13-22dɤ13-44,mødɤ
+SH,Shanghai,83,包子,馒头 ,,mø dɤ,mø13-22 dɤ13-44,mø13-22dɤ13-44,mødɤ
+SH,Shanghai,84,馄饨,馄饨 ,,ɦuəŋ dəŋ,ɦuəŋ13-22 dəŋ13-44,ɦuəŋ13-22dəŋ13-44,ɦuəŋdəŋ
+SH,Shanghai,85,醋,醋 ,,tsˈu,tsˈu35,t͡sʰu35,t͡sʰu
+SH,Shanghai,86,酱油,酱油 ,,tɕiã ɦiɤ,tɕiã53-55 ɦiɤ13-21,t͡ɕiã53-55ɦiɤ13-21,t͡ɕiãɦiɤ
+SH,Shanghai,87,盐,盐 ,,ɦi,ɦi13,ɦi13,ɦi
+SH,Shanghai,88,筷子,筷 ,,kue,kue53,kue53,kue
+SH,Shanghai,89,勺儿,勺子 ,,zoʔ tsɿ,zoʔ1-1 tsɿ35-23,zoʔ1-1t͡sɹ̩35-23,zoʔt͡sɹ̩
+SH,Shanghai,90,男人,男人 ,,nø ȵiŋ,nø13-22 ȵiŋ13-44,nø13-22ɲiŋ13-44,nøɲiŋ
+SH,Shanghai,91,女人,女人 ,,ȵy ȵiŋ,ȵy13-22 ȵiŋ13-44,ɲy13-22ɲiŋ13-44,ɲyɲiŋ
+SH,Shanghai,92,男孩子,男小囡 ,,nø ɕiɔ nø,nø13-22 ɕiɔ35-55 nø13-21,nø13-22ɕiɔ35-55nø13-21,nøɕiɔnø
+SH,Shanghai,93,女孩子,女小囡 ,,ȵy ɕiɔ nø,ȵy13-22 ɕiɔ35-55 nø13-21,ɲy13-22ɕiɔ35-55nø13-21,ɲyɕiɔnø
+SH,Shanghai,94,老头儿,老公公 ,,lɔ koŋ koŋ,lɔ13-22 koŋ53-55 koŋ53-21,lɔ13-22koŋ53-55koŋ53-21,lɔkoŋkoŋ
+SH,Shanghai,95,医生,医生 ,,i sã,i53-55 sã53-21,i53-55sã53-21,isã
+SH,Shanghai,96,厨师,厨师 ,,zɿ sɿ,zɿ13-22 sɿ53-44,zɹ̩13-22sɹ̩53-44,zɹ̩sɹ̩
+SH,Shanghai,97,乞丐,叫化子 ,,kø ho tsɿ,kø35-33 ho35-55 tsɿ35-21,kø35-33ho35-55t͡sɹ̩35-21,køhot͡sɹ̩
+SH,Shanghai,98,保姆,娘姨 ,,ȵiã ɦi,ȵiã13-22 ɦi13-44,ɲiã13-22ɦi13-44,ɲiãɦi
+SH,Shanghai,99,病了,生病,,sã biŋ,sã53-44 biŋ13-13,sã53-44biŋ13-13,sãbiŋ
+SH,Shanghai,100,伤风,伤风,,sɑ̃ foŋ,sɑ̃53-55 foŋ53-21,sɑ̃53-55foŋ53-21,sɑ̃foŋ
+SH,Shanghai,101,泻肚,肚皮,,du bi za,du3-22 bi13-55 za13-21,du3-22bi13-55za13-21,dubiza
+SH,Shanghai,102,瘸子,跷脚 ,,tɕˈiɔ tɕiaʔ,tɕˈiɔ53-55 tɕiaʔ5-21,t͡ɕʰiɔ53-55t͡ɕiaʔ5-21,t͡ɕʰiɔt͡ɕiaʔ
+SH,Shanghai,103,驼背,驼子 ,,du tsɿ,du13-22 tsɿ35-44,du13-22t͡sɹ̩35-44,dut͡sɹ̩
+SH,Shanghai,104,死了,死脱勒 ,,ɕi tˈəʔ ləʔ,ɕi35-33 tˈəʔ5-4 ləʔ1-21,ɕi35-33tʰəʔ5-4ləʔ1-21,ɕitʰəʔləʔ
+SH,Shanghai,105,看病,看医生 ,,kˈø i sã,kˈø35-33 i53-55 sã53-21,kʰø35-33i53-55sã53-21,kʰøisã
+SH,Shanghai,106,我,我,,ŋu,ŋu13,ŋu13,ŋu
+SH,Shanghai,107,你,侬,,noŋ,noŋ13,noŋ13,noŋ
+SH,Shanghai,108,他,伊,,ɦi,ɦi13,ɦi13,ɦi
+SH,Shanghai,109,我们,阿拉,,aʔ la,aʔ5-3 la53-44,aʔ5-3la53-44,aʔla
+SH,Shanghai,110,你们,倷,,na,na13,na13,na
+SH,Shanghai,111,他们,伊拉,,ɦi la,ɦi13-22 la53-44,ɦi13-22la53-44,ɦila
+SH,Shanghai,112,咱们,阿拉 ,,aʔ la,aʔ5-3 la53-44,aʔ5-3la53-44,aʔla
+SH,Shanghai,113,自己,自家 ,,zɿ ka,zɿ13-22 ka53-44,zɹ̩13-22ka53-44,zɹ̩ka
+SH,Shanghai,114,谁,啥人 ,,sa ȵiŋ,sa35-33 ȵiŋ13-44,sa35-33ɲiŋ13-44,saɲiŋ
+SH,Shanghai,115,什么,啥 ,,sa,sa35,sa35,sa
+SH,Shanghai,116,这里,迭搭 ,,diɪʔ taʔ,diɪʔ1-1 taʔ5-2,diɪʔ1-1taʔ5-2,diɪʔtaʔ
+SH,Shanghai,117,那里,伊搭,,i taʔ,i53-55 taʔ5-21,i53-55taʔ5-21,itaʔ
+SH,Shanghai,118,哪里,啥地方 ,,sa di fɑ̃,sa34-33 di13-55 fɑ̃53-21,sa34-33di13-55fɑ̃53-21,sadifɑ̃
+SH,Shanghai,119,这个,迭个,,diɪʔ gəʔ,diɪʔ1-1 gəʔ1-23,diɪʔ1-1gəʔ1-23,diɪʔgəʔ
+SH,Shanghai,120,那个,伊个,,i gəʔ,i53-55 gəʔ1-21,i53-55gəʔ1-21,igəʔ
+SH,Shanghai,121,哪一个,鞋里个,,ɦa li gəʔ,ɦa13-22 li13-55 gəʔ1-21,ɦa13-22li13-55gəʔ1-21,ɦaligəʔ
+SH,Shanghai,122,怎么样,哪能,,na nəŋ,na13-22 nəŋ13-44,na13-22nəŋ13-44,nanəŋ
+SH,Shanghai,123,上头,上头,,zɑ̃ dɤ,zɑ̃13-22 dɤ13-44,zɑ̃13-22dɤ13-44,zɑ̃dɤ
+SH,Shanghai,124,下头,下头,,ɦo dɤ,ɦo13-22 dɤ13-44,ɦo13-22dɤ13-44,ɦodɤ
+SH,Shanghai,125,左边,左面 ,,tsu mi,tsu35-33 mi13-44,t͡su35-33mi13-44,t͡sumi
+SH,Shanghai,126,右边,右面 ,,ɦiɤ mi,ɦiɤ13-22 mi13-44,ɦiɤ13-22mi13-44,ɦiɤmi
+SH,Shanghai,127,当中,当中 ,,tɑ̃ tsoŋ,tɑ̃53-55 tsoŋ53-21,tɑ̃53-55t͡soŋ53-21,tɑ̃t͡soŋ
+SH,Shanghai,128,里面,里向,,li ɕiã,li13-22 ɕiã34-33,li13-22ɕiã34-33,liɕiã
+SH,Shanghai,129,外面,外面 ,,ŋa mi,ŋa13-22 mi13-44,ŋa13-22mi13-44,ŋami
+SH,Shanghai,130,甜,甜,,di,di13,di13,di
+SH,Shanghai,131,酸,酸,,sø,sø53,sø53,sø
+SH,Shanghai,132,咸,咸,,ɦe,ɦe13,ɦe13,ɦe
+SH,Shanghai,133,淡,淡,,de,de13,de13,de
+SH,Shanghai,134,胖,壮 ,,tsɑ̃,tsɑ̃3,t͡sɑ̃3,t͡sɑ̃
+SH,Shanghai,135,瘦,瘦 ,,sɤ,sɤ35,sɤ35,sɤ
+SH,Shanghai,136,冷,冷,,lã,lã13,lã13,lã
+SH,Shanghai,137,热,暖热,,nø ȵiɪ,nø13-22 ȵiɪ1-4,nø13-22ɲiɪ1-4,nøɲiɪ
+SH,Shanghai,138,香,香 ,,ɕiã,ɕiã53,ɕiã53,ɕiã
+SH,Shanghai,139,臭,臭 ,,tsˈɤ,tsˈɤ35,t͡sʰɤ35,t͡sʰɤ
+SH,Shanghai,140,粗,粗,,tsˈu,tsˈu53,t͡sʰu53,t͡sʰu
+SH,Shanghai,141,细,细,,ɕi,ɕi35,ɕi35,ɕi
+SH,Shanghai,142,长,长,,zɑ̃,zɑ̃13,zɑ̃13,zɑ̃
+SH,Shanghai,143,短,短,,tø,tø35,tø35,tø
+SH,Shanghai,144,脏,龌龊,,oʔ tsˈoʔ,oʔ5-3 tsˈoʔ5-4,oʔ5-3t͡sʰoʔ5-4,oʔt͡sʰoʔ
+SH,Shanghai,145,干净,清爽,,tɕˈiŋ sɑ̃,tɕˈiŋ53-55 sɑ̃35-21,t͡ɕʰiŋ53-55sɑ̃35-21,t͡ɕʰiŋsɑ̃
+SH,Shanghai,146,便宜,啜,,dʑiã,dʑiã13,dʑiã13,dʑiã
+SH,Shanghai,147,刚(来),刚刚,,kɑ̃ kɑ̃,kɑ̃53-55 kɑ̃53-21,kɑ̃53-55kɑ̃53-21,kɑ̃kɑ̃
+SH,Shanghai,148,刚(合适),刚好,,kɑ̃ hɔ,kɑ̃53 hɔ35-21,kɑ̃53hɔ35-21,kɑ̃hɔ
+SH,Shanghai,149,正好,刚正好 ,,kɑ̃ tsəŋ hɔ,kɑ̃53-55 tsəŋ35-33 hɔ3-21,kɑ̃53-55t͡səŋ35-33hɔ3-21,kɑ̃t͡səŋhɔ
+SH,Shanghai,150,和,搭,,taʔ,taʔ5,taʔ5,taʔ
+SH,Shanghai,151,只,只 ,,tsəʔ,tsəʔ5,t͡səʔ5,t͡səʔ
+SH,Shanghai,152,从,从 ,,zoŋ,zoŋ13,zoŋ13,zoŋ
+SH,Shanghai,153,替,代 ,,de,de13,de13,de
+SH,Shanghai,154,拿,拿 ,,ne,ne53,ne53,ne
+SH,Shanghai,155,故意,有意,,ɦiɤ i,ɦiɤ13-22 i53-44,ɦiɤ13-22i53-44,ɦiɤi
+SH,Shanghai,156,一,一,,iɪʔ,iɪʔ,iɪʔ,iɪʔ
+SH,Shanghai,157,二,二,,ȵi,ȵi13,ɲi13,ɲi
+SH,Shanghai,158,三,三,,se,se53,se53,se
+SH,Shanghai,159,四,四,,sɿ,sɿ35,sɹ̩35,sɹ̩
+SH,Shanghai,160,五,五,,ŋ̩,ŋ̩13,ŋ̩13,ŋ̩
+SH,Shanghai,161,六,六,,loʔ,loʔ1,loʔ1,loʔ
+SH,Shanghai,162,七,七,,tɕˈiɪʔ,tɕˈiɪʔ5,t͡ɕʰiɪʔ5,t͡ɕʰiɪʔ
+SH,Shanghai,163,八,八,,paʔ,paʔ5,paʔ5,paʔ
+SH,Shanghai,164,九,九,,tɕiɤ,tɕiɤ35,t͡ɕiɤ35,t͡ɕiɤ
+SH,Shanghai,165,十,十,,zəʔ,zəʔ1,zəʔ1,zəʔ
+SH,Shanghai,166,十一,十一,,zəʔ iɪʔ,zəʔ1-1 iɪʔ5-23,zəʔ1-1iɪʔ5-23,zəʔiɪʔ

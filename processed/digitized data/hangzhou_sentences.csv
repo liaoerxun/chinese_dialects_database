@@ -1,57 +1,60 @@
 dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
-HZ,Hangzhou,1,谁啊?我是老三。,哪个?我是老三,,nɑ koʔ ŋo zɿ lɔ sẼ,nɑ53 koʔ5 ŋo53 zɿ13 lɔ13 sẼ33,nɑ53 koʔ5 ŋo53 zɹ̩13 lɔ13 sɤ̃33,nɑ koʔ ŋo zɹ̩ lɔ sɤ̃
-HZ,Hangzhou,2,老四呢?她正跟一个朋友说着话呢。,老四呢?她齐巧同一个朋友勒哈说话语,,lɔ sɿ nə tˈɑ dʑi tɕˈiɔ doŋ ʔiəʔ koʔ boŋ ʔiø lɑʔ hɑ sɥəʔ ɦuɑ ʔɥ,lɔ53 sɿ445 nə tˈɑ33 dʑi21321 tɕˈiɔ53 doŋ21321 ʔiəʔ5 koʔ5 boŋ21321 ʔiø53 lɑʔ2 hɑ33 sɥəʔ5 ɦuɑ13 ʔɥ53,lɔ53 sɹ̩445 nə tʰɑ33 dʑi21321 t͡ɕʰiɔ53 doŋ21321 ʔiəʔ5 koʔ5 boŋ21321 ʔiø53 lɑʔ2 hɑ33 sɥəʔ5 ɦuɑ13 ʔɥ53,lɔ sɹ̩ nə tʰɑ dʑi t͡ɕʰiɔ doŋ ʔiəʔ koʔ boŋ ʔiø lɑʔ hɑ sɥəʔ ɦuɑ ʔɥ
-HZ,Hangzhou,3,她还没说完吗?,她还没有说好啊,,tˈɑ ɦɑ mi ʔi sɥəʔ hɔ ʔɑ,tˈɑ33 ɦɑ213 mi13 ʔi53 sɥəʔ5 hɔ53 ʔɑ,tʰɑ33 ɦɑ213 mi13 ʔi53 sɥəʔ5 hɔ53 ʔɑ,tʰɑ ɦɑ mi ʔi sɥəʔ hɔ ʔɑ
-HZ,Hangzhou,4,还没有。大概再有一会儿就说完了。,还□崃，大概再过一歇儿就说完得,,ɦɑ mi lE dɑ kE tsE ku ʔiəʔ ɕiəʔ əl dʑiø sɥəʔ ɦuõ tə,ɦɑ21321 mi13 lE dɑ13 kE53 tsE445 ku445 ʔiəʔ5 ɕiəʔ5 əl31 dʑiø13 sɥəʔ5 ɦuõ213 tə,ɦɑ21321 mi13 lɤ dɑ13 kɤ53 t͡sɤ445 ku445 ʔiəʔ5 ɕiəʔ5 əl31 dʑiø13 sɥəʔ5 ɦuõ213 tə,ɦɑ mi lɤ dɑ kɤ t͡sɤ ku ʔiəʔ ɕiəʔ əl dʑiø sɥəʔ ɦuõ tə
-HZ,Hangzhou,5,他说马上就走，怎么这半天了还在家里?,他说当忙就走，接葛格时光还勒哈屋里,,tˈɑ sɥəʔ tɑŋ mɑŋ dʑiø tsø tɕiəʔ kəʔ kəʔ zɿ kuɑŋ ɦɑ lɑʔ hɑ ʔoʔ li,tˈɑ33 sɥəʔ5 tɑŋ33 mɑŋ33 dʑiø13 tsø53 tɕiəʔ5 kəʔ5 kəʔ5 zɿ21312 kuɑŋ33 ɦɑ21321 lɑʔ2 hɑ33 ʔoʔ5 li,tʰɑ33 sɥəʔ5 tɑŋ33 mɑŋ33 dʑiø13 t͡sø53 t͡ɕiəʔ5 kəʔ5 kəʔ5 zɹ̩21312 kuɑŋ33 ɦɑ21321 lɑʔ2 hɑ33 ʔoʔ5 li,tʰɑ sɥəʔ tɑŋ mɑŋ dʑiø t͡sø t͡ɕiəʔ kəʔ kəʔ zɹ̩ kuɑŋ ɦɑ lɑʔ hɑ ʔoʔ li
-HZ,Hangzhou,6,你到哪儿去?我到城里去。,你到哪里去?我到城里去,,ni tɔ nɑ li tɕˈi ŋo tɔ dzen li tɕˈi,ni53 tɔ445 nɑ53 li5331 tɕˈi445 ŋo53 tɔ445 dzen21321 li53 tɕˈi44531,ni53 tɔ445 nɑ53 li5331 t͡ɕʰi445 ŋo53 tɔ445 dzen21321 li53 t͡ɕʰi44531,ni tɔ nɑ li t͡ɕʰi ŋo tɔ dzen li t͡ɕʰi
-HZ,Hangzhou,7,在那儿，不在这儿。,勒哈那头，不勒哈格里,,lɑʔ hɑ nɑ dei pəʔ lɑʔ hɑ kəʔ li,lɑʔ2 hɑ33 nɑ13 dei pəʔ5 lɑʔ2 hɑ33 kəʔ5 li,lɑʔ2 hɑ33 nɑ13 dei pəʔ5 lɑʔ2 hɑ33 kəʔ5 li,lɑʔ hɑ nɑ dei pəʔ lɑʔ hɑ kəʔ li
-HZ,Hangzhou,8,不是那么做，要这么做。,不是实价套做，要价做,,pəʔ zɿ zəʔ kɑ tˈoɸ tso ʔiɔ kɑ tso,pəʔ5 zɿ13 zəʔ2 kɑ445 tˈoɸ5331 tso445 ʔiɔ445 kɑ445 tso445,pəʔ5 zɹ̩13 zəʔ2 kɑ445 tʰoɸ5331 t͡so445 ʔiɔ445 kɑ445 t͡so445,pəʔ zɹ̩ zəʔ kɑ tʰoɸ t͡so ʔiɔ kɑ t͡so
-HZ,Hangzhou,9,太多了，用不着那么多，只要这么多就够了。,忒价多得，用不着价许多，只要实价多就够得,,tˈəʔ kɑ to tə ɦioŋ pəʔ dzɑʔ kɑ sɥ to tsəʔ ɦiɔ zəʔ kɑ to dʑiø kø tə,tˈəʔ5 kɑ445 to33 tə ɦioŋ13 pəʔ5 dzɑʔ2 kɑ445 sɥ53 to33 tsəʔ5 ɦiɔ13 zəʔ2 kɑ445 to33 dʑiø13 kø445 tə,tʰəʔ5 kɑ445 to33 tə ɦioŋ13 pəʔ5 dzɑʔ2 kɑ445 sɥ53 to33 t͡səʔ5 ɦiɔ13 zəʔ2 kɑ445 to33 dʑiø13 kø445 tə,tʰəʔ kɑ to tə ɦioŋ pəʔ dzɑʔ kɑ sɥ to t͡səʔ ɦiɔ zəʔ kɑ to dʑiø kø tə
-HZ,Hangzhou,10,这个大，那个小，这两个哪一个好一点呢?,接个大，那个小，格两个哪个好一点儿,,tɕiəʔ koʔ do nɑ koʔ ɕiɔ kəʔ liɑŋ koʔ nɑ koʔ hɔ ʔiəʔ tiẼ əl,tɕiəʔ5 koʔ5 do13 nɑ13 koʔ5 ɕiɔ53 kəʔ5 liɑŋ53 koʔ5 nɑ53 koʔ5 hɔ53 ʔiəʔ5 tiẼ53 əl21331,t͡ɕiəʔ5 koʔ5 do13 nɑ13 koʔ5 ɕiɔ53 kəʔ5 liɑŋ53 koʔ5 nɑ53 koʔ5 hɔ53 ʔiəʔ5 tiɤ̃53 əl21331,t͡ɕiəʔ koʔ do nɑ koʔ ɕiɔ kəʔ liɑŋ koʔ nɑ koʔ hɔ ʔiəʔ tiɤ̃ əl
-HZ,Hangzhou,11,这个比那个好。,格个比那个好,,kəʔ koʔ pi nɑ koʔ hɔ,kəʔ5 koʔ5 pi53 nɑ13 koʔ5 hɔ53,kəʔ5 koʔ5 pi53 nɑ13 koʔ5 hɔ53,kəʔ koʔ pi nɑ koʔ hɔ
-HZ,Hangzhou,12,这些房子不如那些房子好。,格些房子还是那些房子好,,kəʔ ɕi vɑŋ tsɿ ɦɑ zɿ nɑ ɕi vɑŋ tsɿ hɔ,kəʔ5 ɕi33 vɑŋ21321 tsɿ ɦɑ21321 zɿ13 nɑ13 ɕi3353 vɑŋ21321 tsɿ hɔ53,kəʔ5 ɕi33 vɑŋ21321 t͡sɹ̩ ɦɑ21321 zɹ̩13 nɑ13 ɕi3353 vɑŋ21321 t͡sɹ̩ hɔ53,kəʔ ɕi vɑŋ t͡sɹ̩ ɦɑ zɹ̩ nɑ ɕi vɑŋ t͡sɹ̩ hɔ
-HZ,Hangzhou,13,这句话用成都话怎么说?,,,,,,
-HZ,Hangzhou,14,拿得动吗?,驮得动哇,,do təʔ doŋ ʔuɑ,do21321 təʔ5 doŋ13 ʔuɑ,do21321 təʔ5 doŋ13 ʔuɑ,do təʔ doŋ ʔuɑ
-HZ,Hangzhou,15,我拿得动，他拿不动。,我驮得动，他驮不动,,ŋo do təʔ doŋ tˈɑ do pəʔ doŋ,ŋo53 do21321 təʔ5 doŋ13 tˈɑ do21321 pəʔ5 doŋ13,ŋo53 do21321 təʔ5 doŋ13 tʰɑ do21321 pəʔ5 doŋ13,ŋo do təʔ doŋ tʰɑ do pəʔ doŋ
-HZ,Hangzhou,16,真不轻，重得连我也拿不动。,真当不轻，重得连我都驮不动,,tsen tɑŋ pəʔ tɕˈin dzoŋ təʔ liẼ ŋo tu do pəʔ doŋ,tsen33 tɑŋ33 pəʔ5 tɕˈin3331 dzoŋ13 təʔ5 liẼ21321 ŋo53 tu33 do21321 pəʔ5 doŋ13,t͡sen33 tɑŋ33 pəʔ5 t͡ɕʰin3331 dzoŋ13 təʔ5 liɤ̃21321 ŋo53 tu33 do21321 pəʔ5 doŋ13,t͡sen tɑŋ pəʔ t͡ɕʰin dzoŋ təʔ liɤ̃ ŋo tu do pəʔ doŋ
-HZ,Hangzhou,17,你说得很好，你还会说点什么呢?,你说得蛮好，你还会说点儿啥个东西,,ni sɥəʔ təʔ mẼ hɔ ni ɦɑ ɦio sɥəʔ tiẼ əl sɑ kəʔ toŋ ɕi,ni53 sɥəʔ5 təʔ5 mẼ33 hɔ53 ni53 ɦɑ21321 ɦio13 sɥəʔ5 tiẼ53 əl21331 sɑ53 kəʔ5 toŋ33 ɕi,ni53 sɥəʔ5 təʔ5 mɤ̃33 hɔ53 ni53 ɦɑ21321 ɦio13 sɥəʔ5 tiɤ̃53 əl21331 sɑ53 kəʔ5 toŋ33 ɕi,ni sɥəʔ təʔ mɤ̃ hɔ ni ɦɑ ɦio sɥəʔ tiɤ̃ əl sɑ kəʔ toŋ ɕi
-HZ,Hangzhou,18,我嘴笨，我说不过他。,我嘴巴笨，我说他不过,,ŋo tsɥei pɑ ben ŋo sɥəʔ tˈɑ pəʔ ku,ŋo53 tsɥei53 pɑ3331 ben13 ŋo53 sɥəʔ5 tˈɑ33 pəʔ5 ku445,ŋo53 t͡sɥei53 pɑ3331 ben13 ŋo53 sɥəʔ5 tʰɑ33 pəʔ5 ku445,ŋo t͡sɥei pɑ ben ŋo sɥəʔ tʰɑ pəʔ ku
-HZ,Hangzhou,19,说了一遍，又说一遍。,说了一遍，又说了一遍,,sɥəʔ lə ʔiəʔ piẼ ɦi sɥəʔ lə ʔiəʔ piẼ,sɥəʔ5 lə ʔiəʔ5 piẼ445 ɦi13 sɥəʔ5 lə ʔiəʔ5 piẼ445,sɥəʔ5 lə ʔiəʔ5 piɤ̃445 ɦi13 sɥəʔ5 lə ʔiəʔ5 piɤ̃445,sɥəʔ lə ʔiəʔ piɤ̃ ɦi sɥəʔ lə ʔiəʔ piɤ̃
-HZ,Hangzhou,20,请你再说一遍。,请你再说一遍,,tɕˈin ni tsE sɥəʔ ʔiəʔ piẼ,tɕˈin53 ni53 tsE445 sɥəʔ5 ʔiəʔ5 piẼ445,t͡ɕʰin53 ni53 t͡sɤ445 sɥəʔ5 ʔiəʔ5 piɤ̃445,t͡ɕʰin ni t͡sɤ sɥəʔ ʔiəʔ piɤ̃
-HZ,Hangzhou,21,不早了，快去吧。,不早得，豪㥪去呀,,pəʔ tsɔ tə ɦɔ sɔ tɕˈi ʔiɑ,pəʔ5 tsɔ53 tə ɦɔ21321 sɔ33 tɕˈi445 ʔiɑ,pəʔ5 t͡sɔ53 tə ɦɔ21321 sɔ33 t͡ɕʰi445 ʔiɑ,pəʔ t͡sɔ tə ɦɔ sɔ t͡ɕʰi ʔiɑ
-HZ,Hangzhou,22,现在还早着呢，等一会儿再去吧。,格毛还早崃，等一歇儿再去好得,,kəʔ mɔ ɦɑ tsɔ lE ten ʔiəʔ ɕiəʔ əl tsE tɕˈi hɔ təʔ,kəʔ5 mɔ33 ɦɑ21321 tsɔ53 lE ten53 ʔiəʔ5 ɕiəʔ5 əl21331 tsE445 tɕˈi445 hɔ53 təʔ,kəʔ5 mɔ33 ɦɑ21321 t͡sɔ53 lɤ ten53 ʔiəʔ5 ɕiəʔ5 əl21331 t͡sɤ445 t͡ɕʰi445 hɔ53 təʔ,kəʔ mɔ ɦɑ t͡sɔ lɤ ten ʔiəʔ ɕiəʔ əl t͡sɤ t͡ɕʰi hɔ təʔ
-HZ,Hangzhou,23,吃了饭再去好吗?,饭吃了再去好不好,,vẼ tɕˈioʔ lə tsE tɕˈi hɔ pəʔ hɔ,vẼ13 tɕˈioʔ5 lə tsE445 tɕˈi445 hɔ53 pəʔ5 hɔ53,vɤ̃13 t͡ɕʰioʔ5 lə t͡sɤ445 t͡ɕʰi445 hɔ53 pəʔ5 hɔ53,vɤ̃ t͡ɕʰioʔ lə t͡sɤ t͡ɕʰi hɔ pəʔ hɔ
-HZ,Hangzhou,24,慢慢儿吃啊，不要着急。,慢慢交吃啊，不要急煞活煞,,mẼ mẼ tɕiɔ tɕˈioʔ ʔɑ pəʔ ʔiɔ tɕiəʔ sɑʔ ɦuoʔ sɑʔ,mẼ13 mẼ1353 tɕiɔ3331 tɕˈioʔ5 ʔɑ pəʔ5 ʔiɔ445 tɕiəʔ5 sɑʔ5 ɦuoʔ2 sɑʔ5,mɤ̃13 mɤ̃1353 t͡ɕiɔ3331 t͡ɕʰioʔ5 ʔɑ pəʔ5 ʔiɔ445 t͡ɕiəʔ5 sɑʔ5 ɦuoʔ2 sɑʔ5,mɤ̃ mɤ̃ t͡ɕiɔ t͡ɕʰioʔ ʔɑ pəʔ ʔiɔ t͡ɕiəʔ sɑʔ ɦuoʔ sɑʔ
-HZ,Hangzhou,25,坐着吃比站着吃好些。,坐勒吃比立勒吃要好,,dzo lɑʔ tɕˈioʔ pi liəʔ lɑʔ tɕˈioʔ ʔiɔ hɔ,dzo13 lɑʔ2 tɕˈioʔ5 pi53 liəʔ2 lɑʔ2 tɕˈioʔ5 ʔiɔ445 hɔ53,dzo13 lɑʔ2 t͡ɕʰioʔ5 pi53 liəʔ2 lɑʔ2 t͡ɕʰioʔ5 ʔiɔ445 hɔ53,dzo lɑʔ t͡ɕʰioʔ pi liəʔ lɑʔ t͡ɕʰioʔ ʔiɔ hɔ
-HZ,Hangzhou,26,他吃了饭了，你吃了饭没有呢?,他饭吃过得，你饭有不有吃过,,tˈɑ vẼ tɕˈioʔ ku tə ni vẼ ʔiø pəʔ ʔiø tɕˈioʔ ku,tˈɑ33 vẼ13 tɕˈioʔ5 ku445 tə ni53 vẼ13 ʔiø53 pəʔ5 ʔiø53 tɕˈioʔ5 ku445,tʰɑ33 vɤ̃13 t͡ɕʰioʔ5 ku445 tə ni53 vɤ̃13 ʔiø53 pəʔ5 ʔiø53 t͡ɕʰioʔ5 ku445,tʰɑ vɤ̃ t͡ɕʰioʔ ku tə ni vɤ̃ ʔiø pəʔ ʔiø t͡ɕʰioʔ ku
-HZ,Hangzhou,27,他去过上海，我没有去过。,他上海去过得，我还没有去过,,tˈɑ zɑŋ hE tɕˈi ku tə ŋo ɦɑ məʔ ʔiø tɕˈi ku,tˈɑ33 zɑŋ13 hE53 tɕˈi445 ku44531 tə ŋo53 ɦɑ21321 məʔ2 ʔiø53 tɕˈi445 ku44531,tʰɑ33 zɑŋ13 hɤ53 t͡ɕʰi445 ku44531 tə ŋo53 ɦɑ21321 məʔ2 ʔiø53 t͡ɕʰi445 ku44531,tʰɑ zɑŋ hɤ t͡ɕʰi ku tə ŋo ɦɑ məʔ ʔiø t͡ɕʰi ku
-HZ,Hangzhou,28,来闻闻这朵花香不香。,来闻闻看，格朵花儿香不香,,lE ven ven kˈE kəʔ to huɑ əl ɕiɑŋ pəʔ ɕiɑŋ,lE21321 ven21321 ven21313 kˈE kəʔ5 to53 huɑ əl21333 ɕiɑŋ33 pəʔ5 ɕiɑŋ33,lɤ21321 ven21321 ven21313 kʰɤ kəʔ5 to53 huɑ əl21333 ɕiɑŋ33 pəʔ5 ɕiɑŋ33,lɤ ven ven kʰɤ kəʔ to huɑ əl ɕiɑŋ pəʔ ɕiɑŋ
-HZ,Hangzhou,29,给我一本书。,拨我一本书,,pəʔ ŋo ʔiəʔ pen sɥ,pəʔ5 ŋo53 ʔiəʔ5 pen53 sɥ33,pəʔ5 ŋo53 ʔiəʔ5 pen53 sɥ33,pəʔ ŋo ʔiəʔ pen sɥ
-HZ,Hangzhou,30,我真的没有那本书呀。,我真当没有那本书辣,,ŋo tsen tɑŋ məʔ ʔiø nɑ pen sɥ lɑʔ,ŋo53 tsen33 tɑŋ33 məʔ2 ʔiø53 nɑ445 pen53 sɥ33 lɑʔ,ŋo53 t͡sen33 tɑŋ33 məʔ2 ʔiø53 nɑ445 pen53 sɥ33 lɑʔ,ŋo t͡sen tɑŋ məʔ ʔiø nɑ pen sɥ lɑʔ
-HZ,Hangzhou,31,你告诉他。,你告诉他,,ni kɔ su tˈɑ,ni53 kɔ445 su44531 tˈɑ33,ni53 kɔ445 su44531 tʰɑ33,ni kɔ su tʰɑ
-HZ,Hangzhou,32,好好地走，不要跑。,好好交价走，不要跑,,hɔ hɔ tɕiɔ kɑ tsei pəʔ ɦiɔ bɔ,hɔ53 hɔ5331 tɕiɔ33 kɑ tsei53 pəʔ5 ɦiɔ13 bɔ213,hɔ53 hɔ5331 t͡ɕiɔ33 kɑ t͡sei53 pəʔ5 ɦiɔ13 bɔ213,hɔ hɔ t͡ɕiɔ kɑ t͡sei pəʔ ɦiɔ bɔ
-HZ,Hangzhou,33,小心跌下去爬不上来。,当心跌落去爬不上来,,tɑŋ ɕin tiəʔ loʔ tɕˈi bɑ pəʔ zɑŋ lE,tɑŋ33 ɕin33 tiəʔ5 loʔ25 tɕˈi445 bɑ21321 pəʔ5 zɑŋ13 lE21353,tɑŋ33 ɕin33 tiəʔ5 loʔ25 t͡ɕʰi445 bɑ21321 pəʔ5 zɑŋ13 lɤ21353,tɑŋ ɕin tiəʔ loʔ t͡ɕʰi bɑ pəʔ zɑŋ lɤ
-HZ,Hangzhou,34,医生叫你多睡睡。,医生叫你多睏睏,,ʔi sen tɕiɔ ni to kˈun kˈun,ʔi33 sen33 tɕiɔ445 ni53 to33 kˈun445 kˈun44531,ʔi33 sen33 t͡ɕiɔ445 ni53 to33 kʰun445 kʰun44531,ʔi sen t͡ɕiɔ ni to kʰun kʰun
-HZ,Hangzhou,35,抽烟或者喝茶都不许。,吃烟或者吃茶都不可以,,tɕˈioʔ ʔiẼ ɦuoʔ tsE tɕˈioʔ dzɑ tu pəʔ kˈo ɦi,tɕˈioʔ5 ʔiẼ33 ɦuoʔ2 tsE53 tɕˈioʔ5 dzɑ213 tu33 pəʔ5 kˈo53 ɦi1331,t͡ɕʰioʔ5 ʔiɤ̃33 ɦuoʔ2 t͡sɤ53 t͡ɕʰioʔ5 dzɑ213 tu33 pəʔ5 kʰo53 ɦi1331,t͡ɕʰioʔ ʔiɤ̃ ɦuoʔ t͡sɤ t͡ɕʰioʔ dzɑ tu pəʔ kʰo ɦi
-HZ,Hangzhou,36,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不欢喜的,,ʔiẼ ɦɑ hɔ dzɑ ɦɑ hɔ ŋo tu pəʔ huõ ɕi ti,ʔiẼ33 ɦɑ13 hɔ53 dzɑ21321 ɦɑ13 hɔ53 ŋo53 tu33 pəʔ5 huõ33 ɕi5333 ti,ʔiɤ̃33 ɦɑ13 hɔ53 dzɑ21321 ɦɑ13 hɔ53 ŋo53 tu33 pəʔ5 huõ33 ɕi5333 ti,ʔiɤ̃ ɦɑ hɔ dzɑ ɦɑ hɔ ŋo tu pəʔ huõ ɕi ti
-HZ,Hangzhou,37,不管你去不去，反正我是要去的。,不管你去不去，我还是要去的,,pəʔ kuõ ni tɕˈi pəʔ tɕˈi ŋo ɦɑ zɿ ʔiɔ tɕˈi ti,pəʔ5 kuõ53 ni53 tɕˈi445 pəʔ5 tɕˈi445 ŋo53 ɦɑ21321 zɿ13 ʔiɔ445 tɕˈi445 ti,pəʔ5 kuõ53 ni53 t͡ɕʰi445 pəʔ5 t͡ɕʰi445 ŋo53 ɦɑ21321 zɹ̩13 ʔiɔ445 t͡ɕʰi445 ti,pəʔ kuõ ni t͡ɕʰi pəʔ t͡ɕʰi ŋo ɦɑ zɹ̩ ʔiɔ t͡ɕʰi ti
-HZ,Hangzhou,38,我非去不可。,我非去不可,,ŋo fi tɕˈi pəʔ kˈo,ŋo53 fi33 tɕˈi445 pəʔ5 kˈo53,ŋo53 fi33 t͡ɕʰi445 pəʔ5 kʰo53,ŋo fi t͡ɕʰi pəʔ kʰo
-HZ,Hangzhou,39,你是哪一年来的?,你是哪一年来的啊,,ni zɿ nɑ ʔiəʔ ȵiẼ lE ti ʔɑ,ni53 zɿ13 nɑ53 ʔiəʔ5 ȵiẼ21321 lE213 ti ʔɑ,ni53 zɹ̩13 nɑ53 ʔiəʔ5 ɲiɤ̃21321 lɤ213 ti ʔɑ,ni zɹ̩ nɑ ʔiəʔ ɲiɤ̃ lɤ ti ʔɑ
-HZ,Hangzhou,40,我是前年到的北京。,我是前年子到北京的,,ŋo zɿ dʑiẼ ȵiẼ tsɿ tɔ poʔ tɕin ti,ŋo53 zɿ13 dʑiẼ21321 ȵiẼ21313 tsɿ53 tɔ445 poʔ5 tɕin3331 ti,ŋo53 zɹ̩13 dʑiɤ̃21321 ɲiɤ̃21313 t͡sɹ̩53 tɔ445 poʔ5 t͡ɕin3331 ti,ŋo zɹ̩ dʑiɤ̃ ɲiɤ̃ t͡sɹ̩ tɔ poʔ t͡ɕin ti
-HZ,Hangzhou,41,今天开会谁的主席?,根朝开会哪个做主席,,ken tsɔ kˈE ɦui nɑ koʔ tso tsɥ tʑiəʔ,ken33 tsɔ33 kˈE33 ɦui13 nɑ53 koʔ5 tso445 tsɥ53 tʑiəʔ2,ken33 t͡sɔ33 kʰɤ33 ɦui13 nɑ53 koʔ5 t͡so445 t͡sɥ53 tʑiəʔ2,ken t͡sɔ kʰɤ ɦui nɑ koʔ t͡so t͡sɥ tʑiəʔ
-HZ,Hangzhou,42,你得请我的客。,你要请我的客,,ni ʔiɔ tɕˈin ŋo tiəʔ kˈɑʔ,ni53 ʔiɔ445 tɕˈin53 ŋo53 tiəʔ kˈɑʔ5,ni53 ʔiɔ445 t͡ɕʰin53 ŋo53 tiəʔ kʰɑʔ5,ni ʔiɔ t͡ɕʰin ŋo tiəʔ kʰɑʔ
-HZ,Hangzhou,43,一边走，一边讲。,一面走，一面说,,ʔiəʔ miẼ tsei ʔiəʔ miẼ sɥəʔ,ʔiəʔ5 miẼ13 tsei53 ʔiəʔ5 miẼ13 sɥəʔ5,ʔiəʔ5 miɤ̃13 t͡sei53 ʔiəʔ5 miɤ̃13 sɥəʔ5,ʔiəʔ miɤ̃ t͡sei ʔiəʔ miɤ̃ sɥəʔ
-HZ,Hangzhou,44,越走越远，越说越多。,越走越远，越说越多,,ɦyəʔ tsei ɦyəʔ ʔyõ ɦyəʔ sɥəʔ ɦyəʔ to,ɦyəʔ2 tsei53 ɦyəʔ2 ʔyõ53 ɦyəʔ2 sɥəʔ5 ɦyəʔ2 to33,ɦyəʔ2 t͡sei53 ɦyəʔ2 ʔyõ53 ɦyəʔ2 sɥəʔ5 ɦyəʔ2 to33,ɦyəʔ t͡sei ɦyəʔ ʔyõ ɦyəʔ sɥəʔ ɦyəʔ to
-HZ,Hangzhou,45,把那个东西拿给我。,拨那个东西驮拨我,,pəʔ nɑ koʔ toŋ ɕi do pəʔ ŋo,pəʔ5 nɑ13 koʔ5 toŋ33 ɕi33 do21321 pəʔ5 ŋo53,pəʔ5 nɑ13 koʔ5 toŋ33 ɕi33 do21321 pəʔ5 ŋo53,pəʔ nɑ koʔ toŋ ɕi do pəʔ ŋo
-HZ,Hangzhou,46,有些地方把太阳叫日头。,有的地方拨太阳叫日头,,ʔiø tiəʔ di fɑŋ pəʔ tˈE ɦiɑŋ tɕiɔ zəʔ dei,ʔiø53 tiəʔ5 di13 fɑŋ33 pəʔ5 tˈE445 ɦiɑŋ21331 tɕiɔ445 zəʔ2 dei21313,ʔiø53 tiəʔ5 di13 fɑŋ33 pəʔ5 tʰɤ445 ɦiɑŋ21331 t͡ɕiɔ445 zəʔ2 dei21313,ʔiø tiəʔ di fɑŋ pəʔ tʰɤ ɦiɑŋ t͡ɕiɔ zəʔ dei
-HZ,Hangzhou,47,您贵姓?我姓王。,你贵姓?我姓王,,ni kui ɕin ŋo ɕin ɦuɑŋ,ni53 kui445 ɕin445 ŋo53 ɕin445 ɦuɑŋ213,ni53 kui445 ɕin445 ŋo53 ɕin445 ɦuɑŋ213,ni kui ɕin ŋo ɕin ɦuɑŋ
-HZ,Hangzhou,48,你姓王我也姓王，咱们两个人都姓王。,你姓王，我也姓王，我们大家都姓王,,ni ɕin ɦuɑŋ ŋo ɦɑ ɕin ɦuɑŋ ŋo men dɑ tɕiɑ tu ɕin ɦuɑŋ,ni53 ɕin445 ɦuɑŋ213 ŋo53 ɦɑ13 ɕin445 ɦuɑŋ213 ŋo53 men21331 dɑ13 tɕiɑ3353 tu33 ɕin445 ɦuɑŋ213,ni53 ɕin445 ɦuɑŋ213 ŋo53 ɦɑ13 ɕin445 ɦuɑŋ213 ŋo53 men21331 dɑ13 t͡ɕiɑ3353 tu33 ɕin445 ɦuɑŋ213,ni ɕin ɦuɑŋ ŋo ɦɑ ɕin ɦuɑŋ ŋo men dɑ t͡ɕiɑ tu ɕin ɦuɑŋ
-HZ,Hangzhou,49,你先去吧，我们等一会儿再去。,你先去，我们等一歇儿再去,,ni ɕiẼ tɕˈi ŋo men ten ʔiəʔ ɕiəʔ əl tsE tɕˈi,ni53 ɕiẼ33 tɕˈi445 ŋo53 men21331 ten53 ʔiəʔ5 ɕiəʔ5 əl21331 tsE445 tɕˈi44531,ni53 ɕiɤ̃33 t͡ɕʰi445 ŋo53 men21331 ten53 ʔiəʔ5 ɕiəʔ5 əl21331 t͡sɤ445 t͡ɕʰi44531,ni ɕiɤ̃ t͡ɕʰi ŋo men ten ʔiəʔ ɕiəʔ əl t͡sɤ t͡ɕʰi
-HZ,Hangzhou,50,你抽烟不抽?/你抽不抽烟?,你香烟吃不吃,,ni ɕiɑŋ ʔiẼ tɕˈioʔ pəʔ tɕˈioʔ,ni53 ɕiɑŋ33 ʔiẼ33 tɕˈioʔ5 pəʔ5 tɕˈioʔ5,ni53 ɕiɑŋ33 ʔiɤ̃33 t͡ɕʰioʔ5 pəʔ5 t͡ɕʰioʔ5,ni ɕiɑŋ ʔiɤ̃ t͡ɕʰioʔ pəʔ t͡ɕʰioʔ
-HZ,Hangzhou,51,你认得那个人不认得?,那个老倌你认不认识,,nɑ koʔ lɔ kuõ ni zen pəʔ zen səʔ,nɑ13 koʔ5 lɔ53 kuõ3331 ni53 zen13 pəʔ5 zen13 səʔ5,nɑ13 koʔ5 lɔ53 kuõ3331 ni53 zen13 pəʔ5 zen13 səʔ5,nɑ koʔ lɔ kuõ ni zen pəʔ zen səʔ
-HZ,Hangzhou,,,,,,,,
-HZ,Hangzhou,,,,,,,,
-HZ,Hangzhou,,,,,,,,
-HZ,Hangzhou,,,,,,,,
-HZ,Hangzhou,,,,,,,,
+HZ,Hangzhou,1,谁啊?我是老三。,哪个?我是老三,,nɑ koʔ ŋo zɿ lɔ sẼ,nɑ53 koʔ5 ŋo53 zɿ13 lɔ13 sẼ33,nɑ53koʔ5ŋo53zɹ̩13lɔ13sɤ̃33,nɑkoʔŋozɹ̩lɔsɤ̃
+HZ,Hangzhou,2,老四呢?她正跟一个朋友说着话呢。,老四呢?她齐巧同一个朋友勒哈说话语,,lɔ sɿ nə tˈɑ dʑi tɕˈiɔ doŋ ʔiəʔ koʔ boŋ ʔiø lɑʔ hɑ sɥəʔ ɦuɑ ʔɥ,lɔ53 sɿ445 nə tˈɑ33 dʑi21321 tɕˈiɔ53 doŋ21321 ʔiəʔ5 koʔ5 boŋ21321 ʔiø53 lɑʔ2 hɑ33 sɥəʔ5 ɦuɑ13 ʔɥ53,lɔ53sɹ̩445nətʰɑ33dʑi21321t͡ɕʰiɔ53doŋ21321ʔiəʔ5koʔ5boŋ21321ʔiø53lɑʔ2hɑ33sɥəʔ5ɦuɑ13ʔɥ53,lɔsɹ̩nətʰɑdʑit͡ɕʰiɔdoŋʔiəʔkoʔboŋʔiølɑʔhɑsɥəʔɦuɑʔɥ
+HZ,Hangzhou,3,她还没说完吗?,她还没有说好啊,,tˈɑ ɦɑ mi ʔi sɥəʔ hɔ ʔɑ,tˈɑ33 ɦɑ213 mi13 ʔi53 sɥəʔ5 hɔ53 ʔɑ,tʰɑ33ɦɑ213mi13ʔi53sɥəʔ5hɔ53ʔɑ,tʰɑɦɑmiʔisɥəʔhɔʔɑ
+HZ,Hangzhou,4,还没有。大概再有一会儿就说完了。,还□崃，大概再过一歇儿就说完得,,ɦɑ mi lE dɑ kE tsE ku ʔiəʔ ɕiəʔ əl dʑiø sɥəʔ ɦuõ tə,ɦɑ21321 mi13 lE dɑ13 kE53 tsE445 ku445 ʔiəʔ5 ɕiəʔ5 əl31 dʑiø13 sɥəʔ5 ɦuõ213 tə,ɦɑ21321mi13lɤdɑ13kɤ53t͡sɤ445ku445ʔiəʔ5ɕiəʔ5əl31dʑiø13sɥəʔ5ɦuõ213tə,ɦɑmilɤdɑkɤt͡sɤkuʔiəʔɕiəʔəldʑiøsɥəʔɦuõtə
+HZ,Hangzhou,5,他说马上就走，怎么这半天了还在家里?,他说当忙就走，接葛格时光还勒哈屋里,,tˈɑ sɥəʔ tɑŋ mɑŋ dʑiø tsø tɕiəʔ kəʔ kəʔ zɿ kuɑŋ ɦɑ lɑʔ hɑ ʔoʔ li,tˈɑ33 sɥəʔ5 tɑŋ33 mɑŋ33 dʑiø13 tsø53 tɕiəʔ5 kəʔ5 kəʔ5 zɿ21312 kuɑŋ33 ɦɑ21321 lɑʔ2 hɑ33 ʔoʔ5 li,tʰɑ33sɥəʔ5tɑŋ33mɑŋ33dʑiø13t͡sø53t͡ɕiəʔ5kəʔ5kəʔ5zɹ̩21312kuɑŋ33ɦɑ21321lɑʔ2hɑ33ʔoʔ5li,tʰɑsɥəʔtɑŋmɑŋdʑiøt͡søt͡ɕiəʔkəʔkəʔzɹ̩kuɑŋɦɑlɑʔhɑʔoʔli
+HZ,Hangzhou,6,你到哪儿去?我到城里去。,你到哪里去?我到城里去,,ni tɔ nɑ li tɕˈi ŋo tɔ dzen li tɕˈi,ni53 tɔ445 nɑ53 li5331 tɕˈi445 ŋo53 tɔ445 dzen21321 li53 tɕˈi44531,ni53tɔ445nɑ53li5331t͡ɕʰi445ŋo53tɔ445dzen21321li53t͡ɕʰi44531,nitɔnɑlit͡ɕʰiŋotɔdzenlit͡ɕʰi
+HZ,Hangzhou,7,在那儿，不在这儿。,勒哈那头，不勒哈格里,,lɑʔ hɑ nɑ dei pəʔ lɑʔ hɑ kəʔ li,lɑʔ2 hɑ33 nɑ13 dei pəʔ5 lɑʔ2 hɑ33 kəʔ5 li,lɑʔ2hɑ33nɑ13deipəʔ5lɑʔ2hɑ33kəʔ5li,lɑʔhɑnɑdeipəʔlɑʔhɑkəʔli
+HZ,Hangzhou,8,不是那么做，要这么做。,不是实价套做，要价做,,pəʔ zɿ zəʔ kɑ tˈoɸ tso ʔiɔ kɑ tso,pəʔ5 zɿ13 zəʔ2 kɑ445 tˈoɸ5331 tso445 ʔiɔ445 kɑ445 tso445,pəʔ5zɹ̩13zəʔ2kɑ445tʰoɸ5331t͡so445ʔiɔ445kɑ445t͡so445,pəʔzɹ̩zəʔkɑtʰoɸt͡soʔiɔkɑt͡so
+HZ,Hangzhou,9,太多了，用不着那么多，只要这么多就够了。,忒价多得，用不着价许多，只要实价多就够得,,tˈəʔ kɑ to tə ɦioŋ pəʔ dzɑʔ kɑ sɥ to tsəʔ ɦiɔ zəʔ kɑ to dʑiø kø tə,tˈəʔ5 kɑ445 to33 tə ɦioŋ13 pəʔ5 dzɑʔ2 kɑ445 sɥ53 to33 tsəʔ5 ɦiɔ13 zəʔ2 kɑ445 to33 dʑiø13 kø445 tə,tʰəʔ5kɑ445to33təɦioŋ13pəʔ5dzɑʔ2kɑ445sɥ53to33t͡səʔ5ɦiɔ13zəʔ2kɑ445to33dʑiø13kø445tə,tʰəʔkɑtotəɦioŋpəʔdzɑʔkɑsɥtot͡səʔɦiɔzəʔkɑtodʑiøkøtə
+HZ,Hangzhou,10,这个大，那个小，这两个哪一个好一点呢?,接个大，那个小，格两个哪个好一点儿,,tɕiəʔ koʔ do nɑ koʔ ɕiɔ kəʔ liɑŋ koʔ nɑ koʔ hɔ ʔiəʔ tiẼ əl,tɕiəʔ5 koʔ5 do13 nɑ13 koʔ5 ɕiɔ53 kəʔ5 liɑŋ53 koʔ5 nɑ53 koʔ5 hɔ53 ʔiəʔ5 tiẼ53 əl21331,t͡ɕiəʔ5koʔ5do13nɑ13koʔ5ɕiɔ53kəʔ5liɑŋ53koʔ5nɑ53koʔ5hɔ53ʔiəʔ5tiɤ̃53əl21331,t͡ɕiəʔkoʔdonɑkoʔɕiɔkəʔliɑŋkoʔnɑkoʔhɔʔiəʔtiɤ̃əl
+HZ,Hangzhou,11,这个比那个好。,格个比那个好,,kəʔ koʔ pi nɑ koʔ hɔ,kəʔ5 koʔ5 pi53 nɑ13 koʔ5 hɔ53,kəʔ5koʔ5pi53nɑ13koʔ5hɔ53,kəʔkoʔpinɑkoʔhɔ
+HZ,Hangzhou,12,这些房子不如那些房子好。,格些房子还是那些房子好,,kəʔ ɕi vɑŋ tsɿ ɦɑ zɿ nɑ ɕi vɑŋ tsɿ hɔ,kəʔ5 ɕi33 vɑŋ21321 tsɿ ɦɑ21321 zɿ13 nɑ13 ɕi3353 vɑŋ21321 tsɿ hɔ53,kəʔ5ɕi33vɑŋ21321t͡sɹ̩ɦɑ21321zɹ̩13nɑ13ɕi3353vɑŋ21321t͡sɹ̩hɔ53,kəʔɕivɑŋt͡sɹ̩ɦɑzɹ̩nɑɕivɑŋt͡sɹ̩hɔ
+HZ,Hangzhou,13,他今年多大岁数了?,他根年几岁得,,tˈɑ ken ȵiẼ tɕi sɥei tə,tˈɑ33 ken33 ȵiẼ21333 tɕi53 sɥei44531 tə,tʰɑ33ken33ɲiɤ̃21333t͡ɕi53sɥei44531tə,tʰɑkenɲiɤ̃t͡ɕisɥeitə
+HZ,Hangzhou,14,大概三十来岁吧。,毛三十岁光张,,mɔ sẼ zəʔ sɥei kuɑŋ tsɑŋ,mɔ21321 sẼ33 zəʔ25 sɥei445 kuɑŋ33 tsɑŋ33,mɔ21321sɤ̃33zəʔ25sɥei445kuɑŋ33t͡sɑŋ33,mɔsɤ̃zəʔsɥeikuɑŋt͡sɑŋ
+HZ,Hangzhou,15,这个东西有多重呢?,接个东西多少重啊,,tɕiəʔ koʔ toŋ ɕi to sɔ dzoŋ ʔɑ,tɕiəʔ5 koʔ5 toŋ33 ɕi33 to33 sɔ53 dzoŋ13 ʔɑ,t͡ɕiəʔ5koʔ5toŋ33ɕi33to33sɔ53dzoŋ13ʔɑ,t͡ɕiəʔkoʔtoŋɕitosɔdzoŋʔɑ
+HZ,Hangzhou,16,有五十斤重呢。,有五十斤重崃,,ʔiø ʔu zəʔ tɕin dzoŋ lE,ʔiø53 ʔu53 zəʔ2 tɕin33 dzoŋ13 lE,ʔiø53ʔu53zəʔ2t͡ɕin33dzoŋ13lɤ,ʔiøʔuzəʔt͡ɕindzoŋlɤ
+HZ,Hangzhou,17,拿得动吗?,驮得动哇,,do təʔ doŋ ʔuɑ,do21321 təʔ5 doŋ13 ʔuɑ,do21321təʔ5doŋ13ʔuɑ,dotəʔdoŋʔuɑ
+HZ,Hangzhou,18,我拿得动，他拿不动。,我驮得动，他驮不动,,ŋo do təʔ doŋ tˈɑ do pəʔ doŋ,ŋo53 do21321 təʔ5 doŋ13 tˈɑ do21321 pəʔ5 doŋ13,ŋo53do21321təʔ5doŋ13tʰɑdo21321pəʔ5doŋ13,ŋodotəʔdoŋtʰɑdopəʔdoŋ
+HZ,Hangzhou,19,真不轻，重得连我也拿不动。,真当不轻，重得连我都驮不动,,tsen tɑŋ pəʔ tɕˈin dzoŋ təʔ liẼ ŋo tu do pəʔ doŋ,tsen33 tɑŋ33 pəʔ5 tɕˈin3331 dzoŋ13 təʔ5 liẼ21321 ŋo53 tu33 do21321 pəʔ5 doŋ13,t͡sen33tɑŋ33pəʔ5t͡ɕʰin3331dzoŋ13təʔ5liɤ̃21321ŋo53tu33do21321pəʔ5doŋ13,t͡sentɑŋpəʔt͡ɕʰindzoŋtəʔliɤ̃ŋotudopəʔdoŋ
+HZ,Hangzhou,20,你说得很好，你还会说点什么呢?,你说得蛮好，你还会说点儿啥个东西,,ni sɥəʔ təʔ mẼ hɔ ni ɦɑ ɦio sɥəʔ tiẼ əl sɑ kəʔ toŋ ɕi,ni53 sɥəʔ5 təʔ5 mẼ33 hɔ53 ni53 ɦɑ21321 ɦio13 sɥəʔ5 tiẼ53 əl21331 sɑ53 kəʔ5 toŋ33 ɕi,ni53sɥəʔ5təʔ5mɤ̃33hɔ53ni53ɦɑ21321ɦio13sɥəʔ5tiɤ̃53əl21331sɑ53kəʔ5toŋ33ɕi,nisɥəʔtəʔmɤ̃hɔniɦɑɦiosɥəʔtiɤ̃əlsɑkəʔtoŋɕi
+HZ,Hangzhou,21,我嘴笨，我说不过他。,我嘴巴笨，我说他不过,,ŋo tsɥei pɑ ben ŋo sɥəʔ tˈɑ pəʔ ku,ŋo53 tsɥei53 pɑ3331 ben13 ŋo53 sɥəʔ5 tˈɑ33 pəʔ5 ku445,ŋo53t͡sɥei53pɑ3331ben13ŋo53sɥəʔ5tʰɑ33pəʔ5ku445,ŋot͡sɥeipɑbenŋosɥəʔtʰɑpəʔku
+HZ,Hangzhou,22,说了一遍，又说一遍。,说了一遍，又说了一遍,,sɥəʔ lə ʔiəʔ piẼ ɦi sɥəʔ lə ʔiəʔ piẼ,sɥəʔ5 lə ʔiəʔ5 piẼ445 ɦi13 sɥəʔ5 lə ʔiəʔ5 piẼ445,sɥəʔ5ləʔiəʔ5piɤ̃445ɦi13sɥəʔ5ləʔiəʔ5piɤ̃445,sɥəʔləʔiəʔpiɤ̃ɦisɥəʔləʔiəʔpiɤ̃
+HZ,Hangzhou,23,请你再说一遍。,请你再说一遍,,tɕˈin ni tsE sɥəʔ ʔiəʔ piẼ,tɕˈin53 ni53 tsE445 sɥəʔ5 ʔiəʔ5 piẼ445,t͡ɕʰin53ni53t͡sɤ445sɥəʔ5ʔiəʔ5piɤ̃445,t͡ɕʰinnit͡sɤsɥəʔʔiəʔpiɤ̃
+HZ,Hangzhou,24,不早了，快去吧。,不早得，豪㥪去呀,,pəʔ tsɔ tə ɦɔ sɔ tɕˈi ʔiɑ,pəʔ5 tsɔ53 tə ɦɔ21321 sɔ33 tɕˈi445 ʔiɑ,pəʔ5t͡sɔ53təɦɔ21321sɔ33t͡ɕʰi445ʔiɑ,pəʔt͡sɔtəɦɔsɔt͡ɕʰiʔiɑ
+HZ,Hangzhou,25,现在还早着呢，等一会儿再去吧。,格毛还早崃，等一歇儿再去好得,,kəʔ mɔ ɦɑ tsɔ lE ten ʔiəʔ ɕiəʔ əl tsE tɕˈi hɔ təʔ,kəʔ5 mɔ33 ɦɑ21321 tsɔ53 lE ten53 ʔiəʔ5 ɕiəʔ5 əl21331 tsE445 tɕˈi445 hɔ53 təʔ,kəʔ5mɔ33ɦɑ21321t͡sɔ53lɤten53ʔiəʔ5ɕiəʔ5əl21331t͡sɤ445t͡ɕʰi445hɔ53təʔ,kəʔmɔɦɑt͡sɔlɤtenʔiəʔɕiəʔəlt͡sɤt͡ɕʰihɔtəʔ
+HZ,Hangzhou,26,吃了饭再去好吗?,饭吃了再去好不好,,vẼ tɕˈioʔ lə tsE tɕˈi hɔ pəʔ hɔ,vẼ13 tɕˈioʔ5 lə tsE445 tɕˈi445 hɔ53 pəʔ5 hɔ53,vɤ̃13t͡ɕʰioʔ5lət͡sɤ445t͡ɕʰi445hɔ53pəʔ5hɔ53,vɤ̃t͡ɕʰioʔlət͡sɤt͡ɕʰihɔpəʔhɔ
+HZ,Hangzhou,27,慢慢儿吃啊，不要着急。,慢慢交吃啊，不要急煞活煞,,mẼ mẼ tɕiɔ tɕˈioʔ ʔɑ pəʔ ʔiɔ tɕiəʔ sɑʔ ɦuoʔ sɑʔ,mẼ13 mẼ1353 tɕiɔ3331 tɕˈioʔ5 ʔɑ pəʔ5 ʔiɔ445 tɕiəʔ5 sɑʔ5 ɦuoʔ2 sɑʔ5,mɤ̃13mɤ̃1353t͡ɕiɔ3331t͡ɕʰioʔ5ʔɑpəʔ5ʔiɔ445t͡ɕiəʔ5sɑʔ5ɦuoʔ2sɑʔ5,mɤ̃mɤ̃t͡ɕiɔt͡ɕʰioʔʔɑpəʔʔiɔt͡ɕiəʔsɑʔɦuoʔsɑʔ
+HZ,Hangzhou,28,坐着吃比站着吃好些。,坐勒吃比立勒吃要好,,dzo lɑʔ tɕˈioʔ pi liəʔ lɑʔ tɕˈioʔ ʔiɔ hɔ,dzo13 lɑʔ2 tɕˈioʔ5 pi53 liəʔ2 lɑʔ2 tɕˈioʔ5 ʔiɔ445 hɔ53,dzo13lɑʔ2t͡ɕʰioʔ5pi53liəʔ2lɑʔ2t͡ɕʰioʔ5ʔiɔ445hɔ53,dzolɑʔt͡ɕʰioʔpiliəʔlɑʔt͡ɕʰioʔʔiɔhɔ
+HZ,Hangzhou,29,他吃了饭了，你吃了饭没有呢?,他饭吃过得，你饭有不有吃过,,tˈɑ vẼ tɕˈioʔ ku tə ni vẼ ʔiø pəʔ ʔiø tɕˈioʔ ku,tˈɑ33 vẼ13 tɕˈioʔ5 ku445 tə ni53 vẼ13 ʔiø53 pəʔ5 ʔiø53 tɕˈioʔ5 ku445,tʰɑ33vɤ̃13t͡ɕʰioʔ5ku445təni53vɤ̃13ʔiø53pəʔ5ʔiø53t͡ɕʰioʔ5ku445,tʰɑvɤ̃t͡ɕʰioʔkutənivɤ̃ʔiøpəʔʔiøt͡ɕʰioʔku
+HZ,Hangzhou,30,他去过上海，我没有去过。,他上海去过得，我还没有去过,,tˈɑ zɑŋ hE tɕˈi ku tə ŋo ɦɑ məʔ ʔiø tɕˈi ku,tˈɑ33 zɑŋ13 hE53 tɕˈi445 ku44531 tə ŋo53 ɦɑ21321 məʔ2 ʔiø53 tɕˈi445 ku44531,tʰɑ33zɑŋ13hɤ53t͡ɕʰi445ku44531təŋo53ɦɑ21321məʔ2ʔiø53t͡ɕʰi445ku44531,tʰɑzɑŋhɤt͡ɕʰikutəŋoɦɑməʔʔiøt͡ɕʰiku
+HZ,Hangzhou,31,来闻闻这朵花香不香。,来闻闻看，格朵花儿香不香,,lE ven ven kˈE kəʔ to huɑ əl ɕiɑŋ pəʔ ɕiɑŋ,lE21321 ven21321 ven21313 kˈE kəʔ5 to53 huɑ əl21333 ɕiɑŋ33 pəʔ5 ɕiɑŋ33,lɤ21321ven21321ven21313kʰɤkəʔ5to53huɑəl21333ɕiɑŋ33pəʔ5ɕiɑŋ33,lɤvenvenkʰɤkəʔtohuɑəlɕiɑŋpəʔɕiɑŋ
+HZ,Hangzhou,32,给我一本书。,拨我一本书,,pəʔ ŋo ʔiəʔ pen sɥ,pəʔ5 ŋo53 ʔiəʔ5 pen53 sɥ33,pəʔ5ŋo53ʔiəʔ5pen53sɥ33,pəʔŋoʔiəʔpensɥ
+HZ,Hangzhou,33,我真的没有那本书呀。,我真当没有那本书辣,,ŋo tsen tɑŋ məʔ ʔiø nɑ pen sɥ lɑʔ,ŋo53 tsen33 tɑŋ33 məʔ2 ʔiø53 nɑ445 pen53 sɥ33 lɑʔ,ŋo53t͡sen33tɑŋ33məʔ2ʔiø53nɑ445pen53sɥ33lɑʔ,ŋot͡sentɑŋməʔʔiønɑpensɥlɑʔ
+HZ,Hangzhou,34,你告诉他。,你告诉他,,ni kɔ su tˈɑ,ni53 kɔ445 su44531 tˈɑ33,ni53kɔ445su44531tʰɑ33,nikɔsutʰɑ
+HZ,Hangzhou,35,好好地走，不要跑。,好好交价走，不要跑,,hɔ hɔ tɕiɔ kɑ tsei pəʔ ɦiɔ bɔ,hɔ53 hɔ5331 tɕiɔ33 kɑ tsei53 pəʔ5 ɦiɔ13 bɔ213,hɔ53hɔ5331t͡ɕiɔ33kɑt͡sei53pəʔ5ɦiɔ13bɔ213,hɔhɔt͡ɕiɔkɑt͡seipəʔɦiɔbɔ
+HZ,Hangzhou,36,小心跌下去爬不上来。,当心跌落去爬不上来,,tɑŋ ɕin tiəʔ loʔ tɕˈi bɑ pəʔ zɑŋ lE,tɑŋ33 ɕin33 tiəʔ5 loʔ25 tɕˈi445 bɑ21321 pəʔ5 zɑŋ13 lE21353,tɑŋ33ɕin33tiəʔ5loʔ25t͡ɕʰi445bɑ21321pəʔ5zɑŋ13lɤ21353,tɑŋɕintiəʔloʔt͡ɕʰibɑpəʔzɑŋlɤ
+HZ,Hangzhou,37,医生叫你多睡睡。,医生叫你多睏睏,,ʔi sen tɕiɔ ni to kˈun kˈun,ʔi33 sen33 tɕiɔ445 ni53 to33 kˈun445 kˈun44531,ʔi33sen33t͡ɕiɔ445ni53to33kʰun445kʰun44531,ʔisent͡ɕiɔnitokʰunkʰun
+HZ,Hangzhou,38,抽烟或者喝茶都不许。,吃烟或者吃茶都不可以,,tɕˈioʔ ʔiẼ ɦuoʔ tsE tɕˈioʔ dzɑ tu pəʔ kˈo ɦi,tɕˈioʔ5 ʔiẼ33 ɦuoʔ2 tsE53 tɕˈioʔ5 dzɑ213 tu33 pəʔ5 kˈo53 ɦi1331,t͡ɕʰioʔ5ʔiɤ̃33ɦuoʔ2t͡sɤ53t͡ɕʰioʔ5dzɑ213tu33pəʔ5kʰo53ɦi1331,t͡ɕʰioʔʔiɤ̃ɦuoʔt͡sɤt͡ɕʰioʔdzɑtupəʔkʰoɦi
+HZ,Hangzhou,39,烟也好，茶也好，我都不喜欢。,烟也好，茶也好，我都不欢喜的,,ʔiẼ ɦɑ hɔ dzɑ ɦɑ hɔ ŋo tu pəʔ huõ ɕi ti,ʔiẼ33 ɦɑ13 hɔ53 dzɑ21321 ɦɑ13 hɔ53 ŋo53 tu33 pəʔ5 huõ33 ɕi5333 ti,ʔiɤ̃33ɦɑ13hɔ53dzɑ21321ɦɑ13hɔ53ŋo53tu33pəʔ5huõ33ɕi5333ti,ʔiɤ̃ɦɑhɔdzɑɦɑhɔŋotupəʔhuõɕiti
+HZ,Hangzhou,40,不管你去不去，反正我是要去的。,不管你去不去，我还是要去的,,pəʔ kuõ ni tɕˈi pəʔ tɕˈi ŋo ɦɑ zɿ ʔiɔ tɕˈi ti,pəʔ5 kuõ53 ni53 tɕˈi445 pəʔ5 tɕˈi445 ŋo53 ɦɑ21321 zɿ13 ʔiɔ445 tɕˈi445 ti,pəʔ5kuõ53ni53t͡ɕʰi445pəʔ5t͡ɕʰi445ŋo53ɦɑ21321zɹ̩13ʔiɔ445t͡ɕʰi445ti,pəʔkuõnit͡ɕʰipəʔt͡ɕʰiŋoɦɑzɹ̩ʔiɔt͡ɕʰiti
+HZ,Hangzhou,41,我非去不可。,我非去不可,,ŋo fi tɕˈi pəʔ kˈo,ŋo53 fi33 tɕˈi445 pəʔ5 kˈo53,ŋo53fi33t͡ɕʰi445pəʔ5kʰo53,ŋofit͡ɕʰipəʔkʰo
+HZ,Hangzhou,42,你是哪一年来的?,你是哪一年来的啊,,ni zɿ nɑ ʔiəʔ ȵiẼ lE ti ʔɑ,ni53 zɿ13 nɑ53 ʔiəʔ5 ȵiẼ21321 lE213 ti ʔɑ,ni53zɹ̩13nɑ53ʔiəʔ5ɲiɤ̃21321lɤ213tiʔɑ,nizɹ̩nɑʔiəʔɲiɤ̃lɤtiʔɑ
+HZ,Hangzhou,43,我是前年到的北京。,我是前年子到北京的,,ŋo zɿ dʑiẼ ȵiẼ tsɿ tɔ poʔ tɕin ti,ŋo53 zɿ13 dʑiẼ21321 ȵiẼ21313 tsɿ53 tɔ445 poʔ5 tɕin3331 ti,ŋo53zɹ̩13dʑiɤ̃21321ɲiɤ̃21313t͡sɹ̩53tɔ445poʔ5t͡ɕin3331ti,ŋozɹ̩dʑiɤ̃ɲiɤ̃t͡sɹ̩tɔpoʔt͡ɕinti
+HZ,Hangzhou,44,今天开会谁的主席?,根朝开会哪个做主席,,ken tsɔ kˈE ɦui nɑ koʔ tso tsɥ tʑiəʔ,ken33 tsɔ33 kˈE33 ɦui13 nɑ53 koʔ5 tso445 tsɥ53 tʑiəʔ2,ken33t͡sɔ33kʰɤ33ɦui13nɑ53koʔ5t͡so445t͡sɥ53tʑiəʔ2,kent͡sɔkʰɤɦuinɑkoʔt͡sot͡sɥtʑiəʔ
+HZ,Hangzhou,45,你得请我的客。,你要请我的客,,ni ʔiɔ tɕˈin ŋo tiəʔ kˈɑʔ,ni53 ʔiɔ445 tɕˈin53 ŋo53 tiəʔ kˈɑʔ5,ni53ʔiɔ445t͡ɕʰin53ŋo53tiəʔkʰɑʔ5,niʔiɔt͡ɕʰinŋotiəʔkʰɑʔ
+HZ,Hangzhou,46,一边走，一边讲。,一面走，一面说,,ʔiəʔ miẼ tsei ʔiəʔ miẼ sɥəʔ,ʔiəʔ5 miẼ13 tsei53 ʔiəʔ5 miẼ13 sɥəʔ5,ʔiəʔ5miɤ̃13t͡sei53ʔiəʔ5miɤ̃13sɥəʔ5,ʔiəʔmiɤ̃t͡seiʔiəʔmiɤ̃sɥəʔ
+HZ,Hangzhou,47,越走越远，越说越多。,越走越远，越说越多,,ɦyəʔ tsei ɦyəʔ ʔyõ ɦyəʔ sɥəʔ ɦyəʔ to,ɦyəʔ2 tsei53 ɦyəʔ2 ʔyõ53 ɦyəʔ2 sɥəʔ5 ɦyəʔ2 to33,ɦyəʔ2t͡sei53ɦyəʔ2ʔyõ53ɦyəʔ2sɥəʔ5ɦyəʔ2to33,ɦyəʔt͡seiɦyəʔʔyõɦyəʔsɥəʔɦyəʔto
+HZ,Hangzhou,48,把那个东西拿给我。,拨那个东西驮拨我,,pəʔ nɑ koʔ toŋ ɕi do pəʔ ŋo,pəʔ5 nɑ13 koʔ5 toŋ33 ɕi33 do21321 pəʔ5 ŋo53,pəʔ5nɑ13koʔ5toŋ33ɕi33do21321pəʔ5ŋo53,pəʔnɑkoʔtoŋɕidopəʔŋo
+HZ,Hangzhou,49,有些地方把太阳叫日头。,有的地方拨太阳叫日头,,ʔiø tiəʔ di fɑŋ pəʔ tˈE ɦiɑŋ tɕiɔ zəʔ dei,ʔiø53 tiəʔ5 di13 fɑŋ33 pəʔ5 tˈE445 ɦiɑŋ21331 tɕiɔ445 zəʔ2 dei21313,ʔiø53tiəʔ5di13fɑŋ33pəʔ5tʰɤ445ɦiɑŋ21331t͡ɕiɔ445zəʔ2dei21313,ʔiøtiəʔdifɑŋpəʔtʰɤɦiɑŋt͡ɕiɔzəʔdei
+HZ,Hangzhou,50,您贵姓?我姓王。,你贵姓?我姓王,,ni kui ɕin ŋo ɕin ɦuɑŋ,ni53 kui445 ɕin445 ŋo53 ɕin445 ɦuɑŋ213,ni53kui445ɕin445ŋo53ɕin445ɦuɑŋ213,nikuiɕinŋoɕinɦuɑŋ
+HZ,Hangzhou,51,你姓王我也姓王，咱们两个人都姓王。,你姓王，我也姓王，我们大家都姓王,,ni ɕin ɦuɑŋ ŋo ɦɑ ɕin ɦuɑŋ ŋo men dɑ tɕiɑ tu ɕin ɦuɑŋ,ni53 ɕin445 ɦuɑŋ213 ŋo53 ɦɑ13 ɕin445 ɦuɑŋ213 ŋo53 men21331 dɑ13 tɕiɑ3353 tu33 ɕin445 ɦuɑŋ213,ni53ɕin445ɦuɑŋ213ŋo53ɦɑ13ɕin445ɦuɑŋ213ŋo53men21331dɑ13t͡ɕiɑ3353tu33ɕin445ɦuɑŋ213,niɕinɦuɑŋŋoɦɑɕinɦuɑŋŋomendɑt͡ɕiɑtuɕinɦuɑŋ
+HZ,Hangzhou,52,你先去吧，我们等一会儿再去。,你先去，我们等一歇儿再去,,ni ɕiẼ tɕˈi ŋo men ten ʔiəʔ ɕiəʔ əl tsE tɕˈi,ni53 ɕiẼ33 tɕˈi445 ŋo53 men21331 ten53 ʔiəʔ5 ɕiəʔ5 əl21331 tsE445 tɕˈi44531,ni53ɕiɤ̃33t͡ɕʰi445ŋo53men21331ten53ʔiəʔ5ɕiəʔ5əl21331t͡sɤ445t͡ɕʰi44531,niɕiɤ̃t͡ɕʰiŋomentenʔiəʔɕiəʔəlt͡sɤt͡ɕʰi
+HZ,Hangzhou,53,你抽烟不抽?/你抽不抽烟?,你香烟吃不吃,,ni ɕiɑŋ ʔiẼ tɕˈioʔ pəʔ tɕˈioʔ,ni53 ɕiɑŋ33 ʔiẼ33 tɕˈioʔ5 pəʔ5 tɕˈioʔ5,ni53ɕiɑŋ33ʔiɤ̃33t͡ɕʰioʔ5pəʔ5t͡ɕʰioʔ5,niɕiɑŋʔiɤ̃t͡ɕʰioʔpəʔt͡ɕʰioʔ
+HZ,Hangzhou,54,你认得那个人不认得?,那个老倌你认不认识,,nɑ koʔ lɔ kuõ ni zen pəʔ zen səʔ,nɑ13 koʔ5 lɔ53 kuõ3331 ni53 zen13 pəʔ5 zen13 səʔ5,nɑ13koʔ5lɔ53kuõ3331ni53zen13pəʔ5zen13səʔ5,nɑkoʔlɔkuõnizenpəʔzensəʔ
+HZ,Hangzhou,55,,,,,,,
+HZ,Hangzhou,56,,,,,,,
+HZ,Hangzhou,57,,,,,,,
+HZ,Hangzhou,58,,,,,,,
+HZ,Hangzhou,59,,,,,,,

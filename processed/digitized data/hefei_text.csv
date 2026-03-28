@@ -1,20 +1,20 @@
 dialect_id,dialect_name,sentence_id,meaning,othography,english,ipa_no_tone,ipa_with_tone,ipa_converted_with_tone,ipa_converted_no_tone
-HF,Hefei,1.0,有一回,有回子,,iɯ xue tsə,iɯ24 xue55 tsə,iɯ24 xue55 t͡sə,iɯ xue t͡sə
-HF,Hefei,2.0,北风跟太阳在那儿争论谁的本事大,北风跟日头在那奥子争论哈个本事大,,pɐʔ fəŋ kən ʐəʔ tˈɯ tsE la ɔ tsə tsən lən xa kə pən sɿ ta,pɐʔ5 fəŋ21 kən21 ʐəʔ5 tˈɯ tsE53 la53 ɔ tsə tsən2124 lən53 xa24 kə pən24 sɿ ta53,pɐʔ5 fəŋ21 kən21 ʐəʔ5 tʰɯ t͡sɤ53 la53 ɔ t͡sə t͡sən2124 lən53 xa24 kə pən24 sɹ̩ ta53,pɐʔ fəŋ kən ʐəʔ tʰɯ t͡sɤ la ɔ t͡sə t͡sən lən xa kə pən sɹ̩ ta
-HF,Hefei,,争来争去就是分不出高低来,争来争去就是不分高低,,tsən lE tsən tsˈɥ tɕiɯ ʂʅ pəʔ fən kɔ tsɿ,tsən21 lE55 tsən2124 tsˈɥ53 tɕiɯ53 ʂʅ53 pəʔ5 fən21 kɔ2124 tsɿ21,t͡sən21 lɤ55 t͡sən2124 t͡sʰɥ53 t͡ɕiɯ53 ʂɻ̩53 pəʔ5 fən21 kɔ2124 t͡sɹ̩21,t͡sən lɤ t͡sən t͡sʰɥ t͡ɕiɯ ʂɻ̩ pəʔ fən kɔ t͡sɹ̩
-HF,Hefei,,这时候路上来了个走道儿的,第个时候来之一个走路的,,ti kə ʂʅ xɯ lE tʂə iəʔ kə tsɯ lu tiəʔ,ti53 kə ʂʅ55 xɯ53 lE55 tʂə iəʔ kə tsɯ24 lu53 tiəʔ,ti53 kə ʂɻ̩55 xɯ53 lɤ55 tʂə iəʔ kə t͡sɯ24 lu53 tiəʔ,ti kə ʂɻ̩ xɯ lɤ tʂə iəʔ kə t͡sɯ lu tiəʔ
-HF,Hefei,,他身上穿着件厚大衣,他身上穿着一件厚大氅,,tˈa ʂən ʂɑ̃ tʂˈʊ̃ tɕiɪ̃ xɯ ta tʂˈɑ̃,tˈa2124 ʂən21 ʂɑ̃ tʂˈʊ̃2124 tɕiɪ̃21 xɯ53 ta53 tʂˈɑ̃24,tʰa2124 ʂən21 ʂɑ̃ tʂʰʊ̃2124 t͡ɕiɪ̃21 xɯ53 ta53 tʂʰɑ̃24,tʰa ʂən ʂɑ̃ tʂʰʊ̃ t͡ɕiɪ̃ xɯ ta tʂʰɑ̃
-HF,Hefei,,他们俩就说好了,他们就讲好之,,tˈa mən tɕiɯ tɕiɑ̃ xɔ tʂə,tˈa21 mən tɕiɯ53 tɕiɑ̃24 xɔ24 tʂə,tʰa21 mən t͡ɕiɯ53 t͡ɕiɑ̃24 xɔ24 tʂə,tʰa mən t͡ɕiɯ t͡ɕiɑ̃ xɔ tʂə
-HF,Hefei,,谁能先叫这个走道儿的脱下他的厚大衣,哈个能叫第个走路的脱掉厚大氅,,xa kə lən tɕiɔ ti kə tsɯ lu tiəʔ tˈuɐʔ tiɔ xɯ ta tʂˈɑ̃,xa24 kə lən55 tɕiɔ53 ti53 kə tsɯ24 lu53 tiəʔ tˈuɐʔ5 tiɔ53 xɯ53 ta53 tʂˈɑ̃24,xa24 kə lən55 t͡ɕiɔ53 ti53 kə t͡sɯ24 lu53 tiəʔ tʰuɐʔ5 tiɔ53 xɯ53 ta53 tʂʰɑ̃24,xa kə lən t͡ɕiɔ ti kə t͡sɯ lu tiəʔ tʰuɐʔ tiɔ xɯ ta tʂʰɑ̃
-HF,Hefei,,就算谁的本事大,就算哈个的本事大,,tɕiɯ sʊ̃ xa kə tiəʔ pən sɿ ta,tɕiɯ53 sʊ̃53 xa24 kə tiəʔ pən24 sɿ ta53,t͡ɕiɯ53 sʊ̃53 xa24 kə tiəʔ pən24 sɹ̩ ta53,t͡ɕiɯ sʊ̃ xa kə tiəʔ pən sɹ̩ ta
-HF,Hefei,,北风就使劲儿地刮起来了,北风就出劲吹将起来,,pɐʔ fəŋ tɕiɯ tʂˈuəʔ tɕin tʂˈue tɕiɑ̃ tsˈɿ lE,pɐʔ5 fəŋ21 tɕiɯ53 tʂˈuəʔ5 tɕin53 tʂˈue21 tɕiɑ̃ tsˈɿ24 lE,pɐʔ5 fəŋ21 t͡ɕiɯ53 tʂʰuəʔ5 t͡ɕin53 tʂʰue21 t͡ɕiɑ̃ t͡sʰɹ̩24 lɤ,pɐʔ fəŋ t͡ɕiɯ tʂʰuəʔ t͡ɕin tʂʰue t͡ɕiɑ̃ t͡sʰɹ̩ lɤ
-HF,Hefei,,不过他越是刮得厉害,哈晓得他吹的越凶,,xa ɕiɔ tən tˈa tʂˈue tiəʔ yɐʔ ɕiŋ,xa24 ɕiɔ24 tən tˈa2124 tʂˈue21 tiəʔ yɐʔ5 ɕiŋ21,xa24 ɕiɔ24 tən tʰa2124 tʂʰue21 tiəʔ yɐʔ5 ɕiŋ21,xa ɕiɔ tən tʰa tʂʰue tiəʔ yɐʔ ɕiŋ
-HF,Hefei,,那个走道儿的把大衣裹得越紧,那个走路的就把大氅裹的越紧,,la kə tsɯ lu tiəʔ tɕiɯ pa ta tʂˈɑ̃ kʊ tiəʔ yɐʔ tɕin,la53 kə tsɯ24 lu53 tiəʔ tɕiɯ53 pa24 ta53 tʂˈɑ̃24 kʊ24 tiəʔ yɐʔ52 tɕin24,la53 kə t͡sɯ24 lu53 tiəʔ t͡ɕiɯ53 pa24 ta53 tʂʰɑ̃24 kʊ24 tiəʔ yɐʔ52 t͡ɕin24,la kə t͡sɯ lu tiəʔ t͡ɕiɯ pa ta tʂʰɑ̃ kʊ tiəʔ yɐʔ t͡ɕin
-HF,Hefei,,后来北风没法儿了,后来北风没法子,,xɯ lE pɐʔ fəŋ me fɐʔ tsɿ,xɯ53 lE55 pɐʔ5 fəŋ21 me24 fɐʔ5 tsɿ,xɯ53 lɤ55 pɐʔ5 fəŋ21 me24 fɐʔ5 t͡sɹ̩,xɯ lɤ pɐʔ fəŋ me fɐʔ t͡sɹ̩
-HF,Hefei,,只好就算了,只好就算之,,tʂəʔ xɔ tɕiɯ sʊ̃ tʂə,tʂəʔ52 xɔ24 tɕiɯ53 sʊ̃53 tʂə,tʂəʔ52 xɔ24 t͡ɕiɯ53 sʊ̃53 tʂə,tʂəʔ xɔ t͡ɕiɯ sʊ̃ tʂə
-HF,Hefei,,过了一会儿,过一霎,,kʊ iəʔ ʂɐʔ,kʊ53 iəʔ52 ʂɐʔ5,kʊ53 iəʔ52 ʂɐʔ5,kʊ iəʔ ʂɐʔ
-HF,Hefei,,太阳出来了,日头出来之,,ʐəʔ tˈɯ tʂˈuəʔ lE tʂə,ʐəʔ5 tˈɯ tʂˈuəʔ52 lE55 tʂə,ʐəʔ5 tʰɯ tʂʰuəʔ52 lɤ55 tʂə,ʐəʔ tʰɯ tʂʰuəʔ lɤ tʂə
-HF,Hefei,,他火辣辣地一晒,他热乎乎一晒,,tˈa ʐɐʔ xu xu iəʔ ʂE,tˈa21 ʐɐʔ5 xu2124 xu21 iəʔ5 ʂE53,tʰa21 ʐɐʔ5 xu2124 xu21 iəʔ5 ʂɤ53,tʰa ʐɐʔ xu xu iəʔ ʂɤ
-HF,Hefei,,那个走道儿的马上就把那件厚大衣脱下来了,那个走路的跟着就把厚大氅脱得之,,la kə tsɯ lu tiəʔ kən tʂə tɕiɯ pa xɯ ta tʂˈɑ̃ tˈuəʔ təʔ tʂə,la53 kə tsɯ24 lu53 tiəʔ kən21 tʂə tɕiɯ53 pa24 xɯ53 ta53 tʂˈɑ̃24 tˈuəʔ təʔ tʂə,la53 kə t͡sɯ24 lu53 tiəʔ kən21 tʂə t͡ɕiɯ53 pa24 xɯ53 ta53 tʂʰɑ̃24 tʰuəʔ təʔ tʂə,la kə t͡sɯ lu tiəʔ kən tʂə t͡ɕiɯ pa xɯ ta tʂʰɑ̃ tʰuəʔ təʔ tʂə
-HF,Hefei,,这下北风只好承认,第会子北风只好承认,,ti xue tsə pɐʔ fəŋ tʂəʔ xɔ tʂˈən ʐən,ti53 xue53 tsə pɐʔ5 fəŋ21 tʂəʔ52 xɔ24 tʂˈən55 ʐən53,ti53 xue53 t͡sə pɐʔ5 fəŋ21 tʂəʔ52 xɔ24 tʂʰən55 ʐən53,ti xue t͡sə pɐʔ fəŋ tʂəʔ xɔ tʂʰən ʐən
-HF,Hefei,,他们俩当中还是太阳的本事大,他两个当中还是日头本事大,,tˈa liɑ̃ kə tɑ̃ tʂəŋ xE ʂʅ ʐəʔ tˈɯ pən sɿ ta,tˈa21 liɑ̃24 kə tɑ̃2124 tʂəŋ21 xE55 ʂʅ53 ʐəʔ5 tˈɯ pən24 sɿ ta53,tʰa21 liɑ̃24 kə tɑ̃2124 tʂəŋ21 xɤ55 ʂɻ̩53 ʐəʔ5 tʰɯ pən24 sɹ̩ ta53,tʰa liɑ̃ kə tɑ̃ tʂəŋ xɤ ʂɻ̩ ʐəʔ tʰɯ pən sɹ̩ ta
+HF,Hefei,1.0,有一回,有回子,,iɯ xue tsə,iɯ24 xue55 tsə,iɯ24xue55t͡sə,iɯxuet͡sə
+HF,Hefei,2.0,北风跟太阳在那儿争论谁的本事大,北风跟日头在那奥子争论哈个本事大,,pɐʔ fəŋ kən ʐəʔ tˈɯ tsE la ɔ tsə tsən lən xa kə pən sɿ ta,pɐʔ5 fəŋ21 kən21 ʐəʔ5 tˈɯ tsE53 la53 ɔ tsə tsən2124 lən53 xa24 kə pən24 sɿ ta53,pɐʔ5fəŋ21kən21ʐəʔ5tʰɯt͡sɤ53la53ɔt͡sət͡sən2124lən53xa24kəpən24sɹ̩ta53,pɐʔfəŋkənʐəʔtʰɯt͡sɤlaɔt͡sət͡sənlənxakəpənsɹ̩ta
+HF,Hefei,,争来争去就是分不出高低来,争来争去就是不分高低,,tsən lE tsən tsˈɥ tɕiɯ ʂʅ pəʔ fən kɔ tsɿ,tsən21 lE55 tsən2124 tsˈɥ53 tɕiɯ53 ʂʅ53 pəʔ5 fən21 kɔ2124 tsɿ21,t͡sən21lɤ55t͡sən2124t͡sʰɥ53t͡ɕiɯ53ʂɻ̩53pəʔ5fən21kɔ2124t͡sɹ̩21,t͡sənlɤt͡sənt͡sʰɥt͡ɕiɯʂɻ̩pəʔfənkɔt͡sɹ̩
+HF,Hefei,,这时候路上来了个走道儿的,第个时候来之一个走路的,,ti kə ʂʅ xɯ lE tʂə iəʔ kə tsɯ lu tiəʔ,ti53 kə ʂʅ55 xɯ53 lE55 tʂə iəʔ kə tsɯ24 lu53 tiəʔ,ti53kəʂɻ̩55xɯ53lɤ55tʂəiəʔkət͡sɯ24lu53tiəʔ,tikəʂɻ̩xɯlɤtʂəiəʔkət͡sɯlutiəʔ
+HF,Hefei,,他身上穿着件厚大衣,他身上穿着一件厚大氅,,tˈa ʂən ʂɑ̃ tʂˈʊ̃ tɕiɪ̃ xɯ ta tʂˈɑ̃,tˈa2124 ʂən21 ʂɑ̃ tʂˈʊ̃2124 tɕiɪ̃21 xɯ53 ta53 tʂˈɑ̃24,tʰa2124ʂən21ʂɑ̃tʂʰʊ̃2124t͡ɕiɪ̃21xɯ53ta53tʂʰɑ̃24,tʰaʂənʂɑ̃tʂʰʊ̃t͡ɕiɪ̃xɯtatʂʰɑ̃
+HF,Hefei,,他们俩就说好了,他们就讲好之,,tˈa mən tɕiɯ tɕiɑ̃ xɔ tʂə,tˈa21 mən tɕiɯ53 tɕiɑ̃24 xɔ24 tʂə,tʰa21mənt͡ɕiɯ53t͡ɕiɑ̃24xɔ24tʂə,tʰamənt͡ɕiɯt͡ɕiɑ̃xɔtʂə
+HF,Hefei,,谁能先叫这个走道儿的脱下他的厚大衣,哈个能叫第个走路的脱掉厚大氅,,xa kə lən tɕiɔ ti kə tsɯ lu tiəʔ tˈuɐʔ tiɔ xɯ ta tʂˈɑ̃,xa24 kə lən55 tɕiɔ53 ti53 kə tsɯ24 lu53 tiəʔ tˈuɐʔ5 tiɔ53 xɯ53 ta53 tʂˈɑ̃24,xa24kələn55t͡ɕiɔ53ti53kət͡sɯ24lu53tiəʔtʰuɐʔ5tiɔ53xɯ53ta53tʂʰɑ̃24,xakələnt͡ɕiɔtikət͡sɯlutiəʔtʰuɐʔtiɔxɯtatʂʰɑ̃
+HF,Hefei,,就算谁的本事大,就算哈个的本事大,,tɕiɯ sʊ̃ xa kə tiəʔ pən sɿ ta,tɕiɯ53 sʊ̃53 xa24 kə tiəʔ pən24 sɿ ta53,t͡ɕiɯ53sʊ̃53xa24kətiəʔpən24sɹ̩ta53,t͡ɕiɯsʊ̃xakətiəʔpənsɹ̩ta
+HF,Hefei,,北风就使劲儿地刮起来了,北风就出劲吹将起来,,pɐʔ fəŋ tɕiɯ tʂˈuəʔ tɕin tʂˈue tɕiɑ̃ tsˈɿ lE,pɐʔ5 fəŋ21 tɕiɯ53 tʂˈuəʔ5 tɕin53 tʂˈue21 tɕiɑ̃ tsˈɿ24 lE,pɐʔ5fəŋ21t͡ɕiɯ53tʂʰuəʔ5t͡ɕin53tʂʰue21t͡ɕiɑ̃t͡sʰɹ̩24lɤ,pɐʔfəŋt͡ɕiɯtʂʰuəʔt͡ɕintʂʰuet͡ɕiɑ̃t͡sʰɹ̩lɤ
+HF,Hefei,,不过他越是刮得厉害,哈晓得他吹的越凶,,xa ɕiɔ tən tˈa tʂˈue tiəʔ yɐʔ ɕiŋ,xa24 ɕiɔ24 tən tˈa2124 tʂˈue21 tiəʔ yɐʔ5 ɕiŋ21,xa24ɕiɔ24təntʰa2124tʂʰue21tiəʔyɐʔ5ɕiŋ21,xaɕiɔtəntʰatʂʰuetiəʔyɐʔɕiŋ
+HF,Hefei,,那个走道儿的把大衣裹得越紧,那个走路的就把大氅裹的越紧,,la kə tsɯ lu tiəʔ tɕiɯ pa ta tʂˈɑ̃ kʊ tiəʔ yɐʔ tɕin,la53 kə tsɯ24 lu53 tiəʔ tɕiɯ53 pa24 ta53 tʂˈɑ̃24 kʊ24 tiəʔ yɐʔ52 tɕin24,la53kət͡sɯ24lu53tiəʔt͡ɕiɯ53pa24ta53tʂʰɑ̃24kʊ24tiəʔyɐʔ52t͡ɕin24,lakət͡sɯlutiəʔt͡ɕiɯpatatʂʰɑ̃kʊtiəʔyɐʔt͡ɕin
+HF,Hefei,,后来北风没法儿了,后来北风没法子,,xɯ lE pɐʔ fəŋ me fɐʔ tsɿ,xɯ53 lE55 pɐʔ5 fəŋ21 me24 fɐʔ5 tsɿ,xɯ53lɤ55pɐʔ5fəŋ21me24fɐʔ5t͡sɹ̩,xɯlɤpɐʔfəŋmefɐʔt͡sɹ̩
+HF,Hefei,,只好就算了,只好就算之,,tʂəʔ xɔ tɕiɯ sʊ̃ tʂə,tʂəʔ52 xɔ24 tɕiɯ53 sʊ̃53 tʂə,tʂəʔ52xɔ24t͡ɕiɯ53sʊ̃53tʂə,tʂəʔxɔt͡ɕiɯsʊ̃tʂə
+HF,Hefei,,过了一会儿,过一霎,,kʊ iəʔ ʂɐʔ,kʊ53 iəʔ52 ʂɐʔ5,kʊ53iəʔ52ʂɐʔ5,kʊiəʔʂɐʔ
+HF,Hefei,,太阳出来了,日头出来之,,ʐəʔ tˈɯ tʂˈuəʔ lE tʂə,ʐəʔ5 tˈɯ tʂˈuəʔ52 lE55 tʂə,ʐəʔ5tʰɯtʂʰuəʔ52lɤ55tʂə,ʐəʔtʰɯtʂʰuəʔlɤtʂə
+HF,Hefei,,他火辣辣地一晒,他热乎乎一晒,,tˈa ʐɐʔ xu xu iəʔ ʂE,tˈa21 ʐɐʔ5 xu2124 xu21 iəʔ5 ʂE53,tʰa21ʐɐʔ5xu2124xu21iəʔ5ʂɤ53,tʰaʐɐʔxuxuiəʔʂɤ
+HF,Hefei,,那个走道儿的马上就把那件厚大衣脱下来了,那个走路的跟着就把厚大氅脱得之,,la kə tsɯ lu tiəʔ kən tʂə tɕiɯ pa xɯ ta tʂˈɑ̃ tˈuəʔ təʔ tʂə,la53 kə tsɯ24 lu53 tiəʔ kən21 tʂə tɕiɯ53 pa24 xɯ53 ta53 tʂˈɑ̃24 tˈuəʔ təʔ tʂə,la53kət͡sɯ24lu53tiəʔkən21tʂət͡ɕiɯ53pa24xɯ53ta53tʂʰɑ̃24tʰuəʔtəʔtʂə,lakət͡sɯlutiəʔkəntʂət͡ɕiɯpaxɯtatʂʰɑ̃tʰuəʔtəʔtʂə
+HF,Hefei,,这下北风只好承认,第会子北风只好承认,,ti xue tsə pɐʔ fəŋ tʂəʔ xɔ tʂˈən ʐən,ti53 xue53 tsə pɐʔ5 fəŋ21 tʂəʔ52 xɔ24 tʂˈən55 ʐən53,ti53xue53t͡səpɐʔ5fəŋ21tʂəʔ52xɔ24tʂʰən55ʐən53,tixuet͡səpɐʔfəŋtʂəʔxɔtʂʰənʐən
+HF,Hefei,,他们俩当中还是太阳的本事大,他两个当中还是日头本事大,,tˈa liɑ̃ kə tɑ̃ tʂəŋ xE ʂʅ ʐəʔ tˈɯ pən sɿ ta,tˈa21 liɑ̃24 kə tɑ̃2124 tʂəŋ21 xE55 ʂʅ53 ʐəʔ5 tˈɯ pən24 sɿ ta53,tʰa21liɑ̃24kətɑ̃2124tʂəŋ21xɤ55ʂɻ̩53ʐəʔ5tʰɯpən24sɹ̩ta53,tʰaliɑ̃kətɑ̃tʂəŋxɤʂɻ̩ʐəʔtʰɯpənsɹ̩ta
